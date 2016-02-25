@@ -1,9 +1,0 @@
-<build>
-   <asset artifactId="ocpmon-ext"
-          name="ocpmon-ext.jar"
-          packaging="jar"
-          path="ocpmon-ext.jar">
-	<deploy name="ocpmon-ext" unpack="false" />
-  </asset>
-  <deployment name="ocpmon-ext" type="gns" /> 
-</build>
