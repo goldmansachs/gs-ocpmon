@@ -1,0 +1,299 @@
+[
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Log area reset/cleared", 
+        "direction": "Asserted", 
+        "id": "1", 
+        "sensor": "Event Logging Disabled #0xe6", 
+        "time": "13:26:45"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "State Asserted", 
+        "direction": "Asserted", 
+        "id": "2", 
+        "sensor": "Power Supply #0x6d", 
+        "time": "13:27:12"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Power Supply AC lost", 
+        "direction": "Asserted", 
+        "id": "3", 
+        "sensor": "Power Supply #0xe0", 
+        "time": "13:27:12"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Power off/down", 
+        "direction": "Asserted", 
+        "id": "4", 
+        "sensor": "Power Unit #0xe8", 
+        "time": "13:27:12"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "AC lost", 
+        "direction": "Asserted", 
+        "id": "5", 
+        "sensor": "Power Unit #0xe8", 
+        "time": "13:27:12"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Power off/down", 
+        "direction": "Deasserted", 
+        "id": "6", 
+        "sensor": "Power Unit #0xe8", 
+        "time": "13:27:12"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Power Button pressed", 
+        "direction": "Asserted", 
+        "id": "7", 
+        "sensor": "Button #0xf1", 
+        "time": "13:27:12"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Power off/down", 
+        "direction": "Asserted", 
+        "id": "8", 
+        "sensor": "Power Unit #0xe8", 
+        "time": "13:27:12"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Power Supply AC lost", 
+        "direction": "Asserted", 
+        "id": "9", 
+        "sensor": "Power Supply #0xe0", 
+        "time": "13:27:13"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "", 
+        "direction": "Asserted", 
+        "id": "e", 
+        "sensor": "Reserved #0x55", 
+        "time": "13:27:13"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Power Button pressed", 
+        "direction": "Asserted", 
+        "id": "f", 
+        "sensor": "Button #0xf1", 
+        "time": "13:27:13"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Power off/down", 
+        "direction": "Asserted", 
+        "id": "10", 
+        "sensor": "Power Unit #0xe8", 
+        "time": "13:27:13"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Power off/down", 
+        "direction": "Deasserted", 
+        "id": "12", 
+        "sensor": "Power Unit #0xe8", 
+        "time": "13:27:13"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Management controller off-line", 
+        "direction": "Asserted", 
+        "id": "13", 
+        "sensor": "Management Subsystem Health #0xf0", 
+        "time": "13:27:13"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Pre-boot password violation - network boot password", 
+        "direction": "Asserted", 
+        "id": "14", 
+        "sensor": "Platform Security #0x01", 
+        "time": "13:27:13"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "FRB2/Hang in POST failure", 
+        "direction": "Asserted", 
+        "id": "15", 
+        "sensor": "Processor #0x01", 
+        "time": "13:27:13"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Power Supply AC lost", 
+        "direction": "Asserted", 
+        "id": "16", 
+        "sensor": "Power Supply #0x01", 
+        "time": "13:27:13"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "", 
+        "direction": "Asserted", 
+        "id": "17", 
+        "sensor": "Reserved #0x01", 
+        "time": "13:27:13"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "", 
+        "direction": "Asserted", 
+        "id": "18", 
+        "sensor": "Reserved #0x55", 
+        "time": "13:27:13"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "", 
+        "direction": "Asserted", 
+        "id": "19", 
+        "sensor": "Reserved #0x55", 
+        "time": "13:27:13"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "", 
+        "direction": "Asserted", 
+        "id": "1a", 
+        "sensor": "Reserved", 
+        "time": "13:27:13"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Management controller unavailable", 
+        "direction": "Asserted", 
+        "id": "1b", 
+        "sensor": "Management Subsystem Health #0xf0", 
+        "time": "13:27:13"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Management controller unavailable", 
+        "direction": "Asserted", 
+        "id": "1c", 
+        "sensor": "Management Subsystem Health #0xf0", 
+        "time": "13:27:13"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Management controller off-line", 
+        "direction": "Asserted", 
+        "id": "1d", 
+        "sensor": "Management Subsystem Health #0xf0", 
+        "time": "13:34:51"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Management controller unavailable", 
+        "direction": "Asserted", 
+        "id": "1e", 
+        "sensor": "Management Subsystem Health #0xf0", 
+        "time": "13:35:46"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Management controller off-line", 
+        "direction": "Asserted", 
+        "id": "1f", 
+        "sensor": "Management Subsystem Health #0xf0", 
+        "time": "13:39:43"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Management controller unavailable", 
+        "direction": "Asserted", 
+        "id": "20", 
+        "sensor": "Management Subsystem Health #0xf0", 
+        "time": "13:40:40"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "", 
+        "direction": "Asserted", 
+        "id": "21", 
+        "sensor": "Reserved #0x55", 
+        "time": "13:49:25"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Management controller off-line", 
+        "direction": "Asserted", 
+        "id": "22", 
+        "sensor": "Management Subsystem Health #0xf0", 
+        "time": "13:52:12"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Management controller unavailable", 
+        "direction": "Asserted", 
+        "id": "23", 
+        "sensor": "Management Subsystem Health #0xf0", 
+        "time": "13:53:09"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Management controller off-line", 
+        "direction": "Asserted", 
+        "id": "24", 
+        "sensor": "Management Subsystem Health #0xf0", 
+        "time": "13:59:46"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "Management controller unavailable", 
+        "direction": "Asserted", 
+        "id": "25", 
+        "sensor": "Management Subsystem Health #0xf0", 
+        "time": "14:00:42"
+    }, 
+    {
+        "data": null, 
+        "date": "06/24/2015", 
+        "description": "", 
+        "direction": "Asserted", 
+        "id": "26", 
+        "sensor": "Reserved #0x55", 
+        "time": "14:03:53"
+    }
+]

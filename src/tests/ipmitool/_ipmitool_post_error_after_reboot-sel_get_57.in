@@ -1,0 +1,17 @@
+SEL Record ID          : 0039
+ Record Type           : 02
+ Timestamp             : 10/12/2014 06:15:00
+ Generator ID          : 0001
+ EvM Revision          : 04
+ Sensor Type           : System Firmware Error
+ Sensor Number         : 06
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data (RAW)      : a02a85
+ Event Interpretation  : Missing
+ Description           : Unknown Error
+
+Sensor ID              : POST Err Sensor (0x6)
+Entity ID              : 34.1 (BIOS)
+Sensor Type            : System Firmwares (0x0f)
+

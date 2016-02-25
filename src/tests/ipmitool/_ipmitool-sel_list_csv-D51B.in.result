@@ -1,0 +1,41 @@
+gs-heat-ocpmon::ipmi::unknownSensor Event Logging Disabled #0xe6 Log area reset/cleared Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Watchdog 2 #0xe7 Hard reset Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x6d State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0xe8 Power off/down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0xe8 AC lost Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0xe8 Power off/down Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0x45 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0xe8 Power off/down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Button #0xf1 Power Button pressed Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0xe8 Power off/down Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0x46 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0xe8 Power off/down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0x45 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0x46 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x6d State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0xe8 Power off/down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0xe8 AC lost Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0xe8 Power off/down Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0x45 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0x46 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Management Subsystem Health #0xf0 Management controller off-line Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Management Subsystem Health #0xf0 Management controller unavailable Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0x45 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0x46 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Management Subsystem Health #0xf0 Management controller off-line Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Management Subsystem Health #0xf0 Management controller unavailable Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0x45 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0x46 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0xe8 Power off/down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Button #0xf1 Power Button pressed Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0xe8 Power off/down Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0x45 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0x46 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0xe8 Power off/down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0x45 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0x46 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Button #0xf1 Power Button pressed Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Button #0xf1 Power Button pressed Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Button #0xf1 Power Button pressed Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0xe8 Power off/down Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0xac Upper Non-critical going high Asserted

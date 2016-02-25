@@ -1,0 +1,58 @@
+1,07/01/2014,13:49:59,Event Logging Disabled #0x07,Log area reset/cleared,Asserted
+2,07/01/2014,14:14:15,System Event #0x83,Timestamp Clock Sync,Asserted
+3,07/01/2014,14:14:15,System Event #0x83,Timestamp Clock Sync,Asserted
+4,08/26/2014,21:35:20,Power Unit #0x01,Power off/down,Asserted
+5,10/08/2014,00:38:24,Power Unit #0x01,Power off/down,Asserted
+6,10/08/2014,05:58:52,Power Unit #0x01,Power off/down,Deasserted
+7,10/08/2014,05:58:52,Button #0x09,Power Button pressed,Asserted
+8,10/08/2014,05:59:42,System Event #0x83,Timestamp Clock Sync,Asserted
+9,10/08/2014,05:59:42,System Event #0x83,Timestamp Clock Sync,Asserted
+a,10/08/2014,06:00:32,System Firmware Error #0x06,Unknown Error,Asserted
+b,10/08/2014,06:00:32,System Firmware Error #0x06,Unknown Error,Asserted
+c,10/08/2014,06:00:32,System Firmware Error #0x06,Unknown Error,Asserted
+d,10/08/2014,06:00:32,System Firmware Error #0x06,Unknown Error,Asserted
+e,10/08/2014,06:00:35,System Event #0x83,OEM System boot event,Asserted
+f,10/10/2014,05:40:07,Power Unit #0x01,Power off/down,Asserted
+10,10/10/2014,05:40:07,Power Unit #0x01,Failure detected,Asserted
+11,10/10/2014,05:40:12,Power Unit #0x01,Power off/down,Deasserted
+12,10/10/2014,05:45:21,Power Unit #0x01,AC lost,Asserted
+13,10/10/2014,05:45:22,Power Unit #0x01,AC lost,Deasserted
+14,10/10/2014,05:46:10,System Event #0x83,Timestamp Clock Sync,Asserted
+15,10/10/2014,05:46:10,System Event #0x83,Timestamp Clock Sync,Asserted
+16,10/10/2014,05:47:03,System Firmware Error #0x06,Unknown Error,Asserted
+17,10/10/2014,05:47:03,System Firmware Error #0x06,Unknown Error,Asserted
+18,10/10/2014,05:47:03,System Firmware Error #0x06,Unknown Error,Asserted
+19,10/10/2014,05:47:03,System Firmware Error #0x06,Unknown Error,Asserted
+1a,10/10/2014,05:47:07,System Event #0x83,OEM System boot event,Asserted
+1b,10/12/2014,05:20:39,System Event #0x83,Timestamp Clock Sync,Asserted
+1c,10/12/2014,05:20:39,System Event #0x83,Timestamp Clock Sync,Asserted
+1d,10/12/2014,05:21:36,System Firmware Error #0x06,Unknown Error,Asserted
+1e,10/12/2014,05:21:36,System Firmware Error #0x06,Unknown Error,Asserted
+1f,10/12/2014,05:21:36,System Firmware Error #0x06,Unknown Error,Asserted
+20,10/12/2014,05:21:36,System Firmware Error #0x06,Unknown Error,Asserted
+21,10/12/2014,05:21:40,System Event #0x83,OEM System boot event,Asserted
+22,10/12/2014,05:31:20,Version Change #0x12,,Asserted
+23,10/12/2014,05:40:23,Version Change #0x12,,Asserted
+24,10/12/2014,05:41:44,Version Change #0x12,,Asserted
+25,10/12/2014,05:42:42,Version Change #0x12,,Asserted
+26,10/12/2014,05:42:44,Version Change #0x12,,Asserted
+27,10/12/2014,05:42:47,Unknown #0x17,,Asserted
+28,10/12/2014,05:42:47,Unknown #0x17,,Asserted
+29,10/12/2014,05:42:48,Unknown #0x17,,Asserted
+2a,10/12/2014,05:43:10,Version Change #0x12,,Asserted
+2b,10/12/2014,05:54:27,Power Unit #0x01,Power off/down,Asserted
+2c,10/12/2014,05:54:32,Power Unit #0x01,Power off/down,Deasserted
+2d,10/12/2014,05:55:24,System Event #0x83,Timestamp Clock Sync,Asserted
+2e,10/12/2014,05:55:24,System Event #0x83,Timestamp Clock Sync,Asserted
+2f,10/12/2014,05:56:28,System Firmware Error #0x06,Unknown Error,Asserted
+30,10/12/2014,05:56:28,System Firmware Error #0x06,Unknown Error,Asserted
+31,10/12/2014,05:56:28,System Firmware Error #0x06,Unknown Error,Asserted
+32,10/12/2014,05:56:28,System Firmware Error #0x06,Unknown Error,Asserted
+33,10/12/2014,05:56:32,System Event #0x83,OEM System boot event,Asserted
+34,10/12/2014,06:14:01,System Event #0x83,Timestamp Clock Sync,Asserted
+35,10/12/2014,06:14:01,System Event #0x83,Timestamp Clock Sync,Asserted
+36,10/12/2014,06:15:00,System Firmware Error #0x06,Unknown Error,Asserted
+37,10/12/2014,06:15:00,System Firmware Error #0x06,Unknown Error,Asserted
+38,10/12/2014,06:15:00,System Firmware Error #0x06,Unknown Error,Asserted
+39,10/12/2014,06:15:00,System Firmware Error #0x06,Unknown Error,Asserted
+3a,10/12/2014,06:15:04,System Event #0x83,OEM System boot event,Asserted

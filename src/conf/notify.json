@@ -1,0 +1,31 @@
+{
+  "notification_endpoints" : {
+    "HTTPPost": {
+      "__doc": "Currently POST is the only method supported, no auth supported",
+      "proto": "http",
+      "httpMethod" : "POST",
+      "url": "http://yourcompany.com/ocpmon-status-alert",
+      "security":"NONE"
+    },
+
+    "SnmpTrap": {
+      "__doc": "Currently V1 is  the only version supported, All of be below fields are mandatory",
+      "proto": "snmptrap",
+      "version": 1,
+      "traphost" : "trapsink.yourcompany.com",
+      "community": "public",
+      "enterpriseOid" : "1.3.6.1.4.1.990.1.0.0",
+      "genericTrap" : "6",
+      "specificTrap" : "0",
+      "security":"NONE"
+    },
+    "ExecHandler" :{
+      "__doc": "unless specified will use LD_LIBRARY_PATH and PATH available to the tool. \n Following values are passed as cmdline arguments ${host} $HumanReadableMessage $MachineParsableMessage \n E.g \"TestHost.acme.com\" \"gs-ocpmon::${src}::processorCorrectableMachineCheckError QPI Error Correctable machine check error Asserted [ac3100]\" \"3006,processorCorrectableMachineCheckError,Processor,QPI Error\"",
+
+      "execFile": "/bin/echo",
+      "path":"",
+      "ldLibraryPath":""
+    }
+  },
+  "notify": ["SnmpTrap","HTTPPost","ExecHandler"]
+}

@@ -1,0 +1,5 @@
+
+# ipmitool corpus fuzz test
+Replay every unique SEL entry seen in the wild for a given model
+
+

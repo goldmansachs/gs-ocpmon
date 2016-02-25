@@ -1,0 +1,802 @@
+{
+	"0012": {
+		"message":"System RTC date/time not set",
+		"response":"Major"
+	}, 
+	"0048": {
+		"message":"Password check failed",
+		"response":"Major"
+	}, 
+	"0140": {
+		"message":"PCI component encountered a PERR error",
+		"response":"Major"
+	}, 
+	"0141": {
+		"message":"PCI resource conflict",
+		"response":"Major"
+	}, 
+	"0146": {
+		"message":"PCI out of resources error",
+		"response":"Major"
+	}, 
+	"0191": {
+		"message":"Processor core/thread count mismatch detected",
+		"response":"Fatal"
+	}, 
+	"0192": {
+		"message":"Processor cache size mismatch detected",
+		"response":"Fatal"
+	}, 
+	"0194": {
+		"message":"Processor family mismatch detected",
+		"response":"Fatal"
+	}, 
+	"0195": {
+		"message":"Processor Intel® QPI link frequencies unable to synchronize",
+		"response":"Fatal"
+	}, 
+	"0196": {
+		"message":"Processor model mismatch detected",
+		"response":"Fatal"
+	}, 
+	"0197": {
+		"message":"Processor frequencies unable to synchronize",
+		"response":"Fatal"
+	}, 
+	"5220": {
+		"message":"BIOS Settings reset to default settings",
+		"response":"Major"
+	}, 
+	"5221": {
+		"message":"Passwords cleared by jumper",
+		"response":"Major"
+	}, 
+	"5224": {
+		"message":"Password clear jumper is Set",
+		"response":"Major"
+	}, 
+	"8130": {
+		"message":"Processor 01 disabled",
+		"response":"Major"
+	}, 
+	"8131": {
+		"message":"Processor 02 disabled",
+		"response":"Major"
+	}, 
+	"8132": {
+		"message":"Processor 03 disabled",
+		"response":"Major"
+	}, 
+	"8133": {
+		"message":"Processor 04 disabled",
+		"response":"Major"
+	}, 
+	"8160": {
+		"message":"Processor 01 unable to apply microcode update",
+		"response":"Major"
+	}, 
+	"8161": {
+		"message":"Processor 02 unable to apply microcode update",
+		"response":"Major"
+	}, 
+	"8162": {
+		"message":"Processor 03 unable to apply microcode update",
+		"response":"Major"
+	}, 
+	"8163": {
+		"message":"Processor 04 unable to apply microcode update",
+		"response":"Major"
+	}, 
+	"8170": {
+		"message":"Processor 01 failed Self Test (BIST)",
+		"response":"Major"
+	}, 
+	"8171": {
+		"message":"Processor 02 failed Self Test (BIST)",
+		"response":"Major"
+	}, 
+	"8172": {
+		"message":"Processor 03 failed Self Test (BIST)",
+		"response":"Major"
+	}, 
+	"8173": {
+		"message":"Processor 04 failed Self Test (BIST)",
+		"response":"Major"
+	}, 
+	"8180": {
+		"message":"Processor 01 microcode update not found",
+		"response":"Minor"
+	}, 
+	"8181": {
+		"message":"Processor 02 microcode update not found",
+		"response":"Minor"
+	}, 
+	"8182": {
+		"message":"Processor 03 microcode update not found",
+		"response":"Minor"
+	}, 
+	"8183": {
+		"message":"Processor 04 microcode update not found",
+		"response":"Minor"
+	}, 
+	"8190": {
+		"message":"Watchdog timer failed on last boot",
+		"response":"Major"
+	}, 
+	"8198": {
+		"message":"OS boot watchdog timer failure",
+		"response":"Major"
+	}, 
+	"8300": {
+		"message":"Baseboard management controller failed self-test",
+		"response":"Major"
+	}, 
+	"8305": {
+		"message":"Hot Swap Controller failure",
+		"response":"Major"
+	}, 
+	"83A0": {
+		"message":"Management Engine (ME) failed Selftest",
+		"response":"Major"
+	}, 
+	"83A1": {
+		"message":"Management Engine (ME) Failed to respond.",
+		"response":"Major"
+	}, 
+	"84F2": {
+		"message":"Baseboard management controller failed to respond",
+		"response":"Major"
+	}, 
+	"84F3": {
+		"message":"Baseboard management controller in update mode",
+		"response":"Major"
+	}, 
+	"84F4": {
+		"message":"Sensor data record empty",
+		"response":"Major"
+	}, 
+	"84FF": {
+		"message":"System event log full",
+		"response":"Minor"
+	}, 
+	"8500": {
+		"message":"Memory component could not be configured in the selected RAS mode",
+		"response":"Major"
+	}, 
+	"8501": {
+		"message":"DIMM Population Error",
+		"response":"Major"
+	}, 
+	"8520": {
+		"message":"DIMM_A1 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8521": {
+		"message":"DIMM_A2 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8522": {
+		"message":"DIMM_A3 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8523": {
+		"message":"DIMM_B1 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8524": {
+		"message":"DIMM_B2 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8525": {
+		"message":"DIMM_B3 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8526": {
+		"message":"DIMM_C1 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8527": {
+		"message":"DIMM_C2 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8528": {
+		"message":"DIMM_C3 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8529": {
+		"message":"DIMM_D1 failed test/initialization",
+		"response":"Major"
+	}, 
+	"852A": {
+		"message":"DIMM_D2 failed test/initialization",
+		"response":"Major"
+	}, 
+	"852B": {
+		"message":"DIMM_D3 failed test/initialization",
+		"response":"Major"
+	}, 
+	"852C": {
+		"message":"DIMM_E1 failed test/initialization",
+		"response":"Major"
+	}, 
+	"852D": {
+		"message":"DIMM_E2 failed test/initialization",
+		"response":"Major"
+	}, 
+	"852E": {
+		"message":"DIMM_E3 failed test/initialization",
+		"response":"Major"
+	}, 
+	"852F": {
+		"message":"DIMM_F1 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8530": {
+		"message":"DIMM_F2 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8531": {
+		"message":"DIMM_F3 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8532": {
+		"message":"DIMM_G1 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8533": {
+		"message":"DIMM_G2 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8534": {
+		"message":"DIMM_G3 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8535": {
+		"message":"DIMM_H1 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8536": {
+		"message":"DIMM_H2 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8537": {
+		"message":"DIMM_H3 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8538": {
+		"message":"DIMM_I1 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8539": {
+		"message":"DIMM_I2 failed test/initialization",
+		"response":"Major"
+	}, 
+	"853A": {
+		"message":"DIMM_I3 failed test/initialization",
+		"response":"Major"
+	}, 
+	"853B": {
+		"message":"DIMM_J1 failed test/initialization",
+		"response":"Major"
+	}, 
+	"853C": {
+		"message":"DIMM_J2 failed test/initialization",
+		"response":"Major"
+	}, 
+	"853D": {
+		"message":"DIMM_J3 failed test/initialization",
+		"response":"Major"
+	}, 
+	"853E": {
+		"message":"DIMM_K1 failed test/initialization",
+		"response":"Major"
+	}, 
+	"853F": {
+		"message":"DIMM_K2 failed test/initialization",
+		"response":"Major"
+	}, 
+	"8540": {
+		"message":"DIMM_A1 disabled",
+		"response":"Major"
+	}, 
+	"8541": {
+		"message":"DIMM_A2 disabled",
+		"response":"Major"
+	}, 
+	"8542": {
+		"message":"DIMM_A3 disabled",
+		"response":"Major"
+	}, 
+	"8543": {
+		"message":"DIMM_B1 disabled",
+		"response":"Major"
+	}, 
+	"8544": {
+		"message":"DIMM_B2 disabled",
+		"response":"Major"
+	}, 
+	"8545": {
+		"message":"DIMM_B3 disabled",
+		"response":"Major"
+	}, 
+	"8546": {
+		"message":"DIMM_C1 disabled",
+		"response":"Major"
+	}, 
+	"8547": {
+		"message":"DIMM_C2 disabled",
+		"response":"Major"
+	}, 
+	"8548": {
+		"message":"DIMM_C3 disabled",
+		"response":"Major"
+	}, 
+	"8549": {
+		"message":"DIMM_D1 disabled",
+		"response":"Major"
+	}, 
+	"854A": {
+		"message":"DIMM_D2 disabled",
+		"response":"Major"
+	}, 
+	"854B": {
+		"message":"DIMM_D3 disabled",
+		"response":"Major"
+	}, 
+	"854C": {
+		"message":"DIMM_E1 disabled",
+		"response":"Major"
+	}, 
+	"854D": {
+		"message":"DIMM_E2 disabled",
+		"response":"Major"
+	}, 
+	"854E": {
+		"message":"DIMM_E3 disabled",
+		"response":"Major"
+	}, 
+	"854F": {
+		"message":"DIMM_F1 disabled",
+		"response":"Major"
+	}, 
+	"8550": {
+		"message":"DIMM_F2 disabled",
+		"response":"Major"
+	}, 
+	"8551": {
+		"message":"DIMM_F3 disabled",
+		"response":"Major"
+	}, 
+	"8552": {
+		"message":"DIMM_G1 disabled",
+		"response":"Major"
+	}, 
+	"8553": {
+		"message":"DIMM_G2 disabled",
+		"response":"Major"
+	}, 
+	"8554": {
+		"message":"DIMM_G3 disabled",
+		"response":"Major"
+	}, 
+	"8555": {
+		"message":"DIMM_H1 disabled",
+		"response":"Major"
+	}, 
+	"8556": {
+		"message":"DIMM_H2 disabled",
+		"response":"Major"
+	}, 
+	"8557": {
+		"message":"DIMM_H3 disabled",
+		"response":"Major"
+	}, 
+	"8558": {
+		"message":"DIMM_I1 disabled",
+		"response":"Major"
+	}, 
+	"8559": {
+		"message":"DIMM_I2 disabled",
+		"response":"Major"
+	}, 
+	"855A": {
+		"message":"DIMM_I3 disabled",
+		"response":"Major"
+	}, 
+	"855B": {
+		"message":"DIMM_J1 disabled",
+		"response":"Major"
+	}, 
+	"855C": {
+		"message":"DIMM_J2 disabled",
+		"response":"Major"
+	}, 
+	"855D": {
+		"message":"DIMM_J3 disabled",
+		"response":"Major"
+	}, 
+	"855E": {
+		"message":"DIMM_K1 disabled",
+		"response":"Major"
+	}, 
+	"855F": {
+		"message":"DIMM_K2 disabled",
+		"response":"Major"
+	}, 
+	"8560": {
+		"message":"DIMM_A1 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8561": {
+		"message":"DIMM_A2 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8562": {
+		"message":"DIMM_A3 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8563": {
+		"message":"DIMM_B1 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8564": {
+		"message":"DIMM_B2 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8565": {
+		"message":"DIMM_B3 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8566": {
+		"message":"DIMM_C1 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8567": {
+		"message":"DIMM_C2 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8568": {
+		"message":"DIMM_C3 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8569": {
+		"message":"DIMM_D1 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"856A": {
+		"message":"DIMM_D2 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"856B": {
+		"message":"DIMM_D3 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"856C": {
+		"message":"DIMM_E1 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"856D": {
+		"message":"DIMM_E2 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"856E": {
+		"message":"DIMM_E3 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"856F": {
+		"message":"DIMM_F1 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8570": {
+		"message":"DIMM_F2 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8571": {
+		"message":"DIMM_F3 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8572": {
+		"message":"DIMM_G1 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8573": {
+		"message":"DIMM_G2 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8574": {
+		"message":"DIMM_G3 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8575": {
+		"message":"DIMM_H1 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8576": {
+		"message":"DIMM_H2 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8577": {
+		"message":"DIMM_H3 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8578": {
+		"message":"DIMM_I1 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8579": {
+		"message":"DIMM_I2 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"857A": {
+		"message":"DIMM_I3 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"857B": {
+		"message":"DIMM_J1 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"857C": {
+		"message":"DIMM_J2 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"857D": {
+		"message":"DIMM_J3 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"857E": {
+		"message":"DIMM_K1 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"857F": {
+		"message":"DIMM_K2 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"85C0": {
+		"message":"DIMM_K3 failed test/initialization",
+		"response":"Major"
+	}, 
+	"85C1": {
+		"message":"DIMM_L1 failed test/initialization",
+		"response":"Major"
+	}, 
+	"85C2": {
+		"message":"DIMM_L2 failed test/initialization",
+		"response":"Major"
+	}, 
+	"85C3": {
+		"message":"DIMM_L3 failed test/initialization",
+		"response":"Major"
+	}, 
+	"85C4": {
+		"message":"DIMM_M1 failed test/initialization",
+		"response":"Major"
+	}, 
+	"85C5": {
+		"message":"DIMM_M2 failed test/initialization",
+		"response":"Major"
+	}, 
+	"85C6": {
+		"message":"DIMM_M3 failed test/initialization",
+		"response":"Major"
+	}, 
+	"85C7": {
+		"message":"DIMM_N1 failed test/initialization",
+		"response":"Major"
+	}, 
+	"85C8": {
+		"message":"DIMM_N2 failed test/initialization",
+		"response":"Major"
+	}, 
+	"85C9": {
+		"message":"DIMM_N3 failed test/initialization",
+		"response":"Major"
+	}, 
+	"85CA": {
+		"message":"DIMM_O1 failed test/initialization",
+		"response":"Major"
+	}, 
+	"85CB": {
+		"message":"DIMM_O2 failed test/initialization",
+		"response":"Major"
+	}, 
+	"85CC": {
+		"message":"DIMM_O3 failed test/initialization",
+		"response":"Major"
+	}, 
+	"85CD": {
+		"message":"DIMM_P1 failed test/initialization",
+		"response":"Major"
+	}, 
+	"85CE": {
+		"message":"DIMM_P2 failed test/initialization",
+		"response":"Major"
+	}, 
+	"85CF": {
+		"message":"DIMM_P3 failed test/initialization",
+		"response":"Major"
+	}, 
+	"85D0": {
+		"message":"DIMM_K3 disabled",
+		"response":"Major"
+	}, 
+	"85D1": {
+		"message":"DIMM_L1 disabled",
+		"response":"Major"
+	}, 
+	"85D2": {
+		"message":"DIMM_L2 disabled",
+		"response":"Major"
+	}, 
+	"85D3": {
+		"message":"DIMM_L3 disabled",
+		"response":"Major"
+	}, 
+	"85D4": {
+		"message":"DIMM_M1 disabled",
+		"response":"Major"
+	}, 
+	"85D5": {
+		"message":"DIMM_M2 disabled",
+		"response":"Major"
+	}, 
+	"85D6": {
+		"message":"DIMM_M3 disabled",
+		"response":"Major"
+	}, 
+	"85D7": {
+		"message":"DIMM_N1 disabled",
+		"response":"Major"
+	}, 
+	"85D8": {
+		"message":"DIMM_N2 disabled",
+		"response":"Major"
+	}, 
+	"85D9": {
+		"message":"DIMM_N3 disabled",
+		"response":"Major"
+	}, 
+	"85DA": {
+		"message":"DIMM_O1 disabled",
+		"response":"Major"
+	}, 
+	"85DB": {
+		"message":"DIMM_O2 disabled",
+		"response":"Major"
+	}, 
+	"85DC": {
+		"message":"DIMM_O3 disabled",
+		"response":"Major"
+	}, 
+	"85DD": {
+		"message":"DIMM_P1 disabled",
+		"response":"Major"
+	}, 
+	"85DE": {
+		"message":"DIMM_P2 disabled",
+		"response":"Major"
+	}, 
+	"85DF": {
+		"message":"DIMM_P3 disabled",
+		"response":"Major"
+	}, 
+	"85E0": {
+		"message":"DIMM_K3 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"85E1": {
+		"message":"DIMM_L1 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"85E2": {
+		"message":"DIMM_L2 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"85E3": {
+		"message":"DIMM_L3 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"85E4": {
+		"message":"DIMM_M1 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"85E5": {
+		"message":"DIMM_M2 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"85E6": {
+		"message":"DIMM_M3 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"85E7": {
+		"message":"DIMM_N1 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"85E8": {
+		"message":"DIMM_N2 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"85E9": {
+		"message":"DIMM_N3 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"85EA": {
+		"message":"DIMM_O1 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"85EB": {
+		"message":"DIMM_O2 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"85EC": {
+		"message":"DIMM_O3 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"85ED": {
+		"message":"DIMM_P1 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"85EE": {
+		"message":"DIMM_P2 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"85EF": {
+		"message":"DIMM_P3 encountered a Serial Presence Detection (SPD) failure",
+		"response":"Major"
+	}, 
+	"8604": {
+		"message":"POST Reclaim of non-critical NVRAM variables",
+		"response":"Minor"
+	}, 
+	"8605": {
+		"message":"BIOS Settings are corrupted",
+		"response":"Major"
+	}, 
+	"8606": {
+		"message":"NVRAM variable space was corrupted and has been reinitialized",
+		"response":"Major"
+	}, 
+	"92A3": {
+		"message":"Serial port component was not detected",
+		"response":"Major"
+	}, 
+	"92A9": {
+		"message":"Serial port component encountered a resource conflict error",
+		"response":"Major"
+	}, 
+	"A000": {
+		"message":"TPM device not detected.",
+		"response":"Minor"
+	}, 
+	"A001": {
+		"message":"TPM device missing or not responding.",
+		"response":"Minor"
+	}, 
+	"A002": {
+		"message":"TPM device failure.",
+		"response":"Minor"
+	}, 
+	"A003": {
+		"message":"TPM device failed self test.",
+		"response":"Minor"
+	}, 
+	"A100": {
+		"message":"BIOS ACM Error",
+		"response":"Major"
+	}, 
+	"A421": {
+		"message":"PCI component encountered a SERR error",
+		"response":"Fatal"
+	}, 
+	"A5A0": {
+		"message":"PCI Express component encountered a PERR error",
+		"response":"Minor"
+	}, 
+	"A5A1": {
+		"message":"PCI Express component encountered an SERR error",
+		"response":"Fatal"
+	}, 
+	"A6A0": {
+		"message":"DXE Boot Service driver: Not enough memory available to shadow a Legacy Option ROM",
+		"response":"Minor"
+	}
+}

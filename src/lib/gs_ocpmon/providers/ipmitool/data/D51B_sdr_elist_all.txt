@@ -1,0 +1,91 @@
+AST2400,00h,ok,0.1
+Airflow,12,CFM,ok
+BMC FW HEALTH,F0h,ns,144.2,Event-Only
+BMC FW info,E5h,ns,144.1,Event-Only
+Button,F1h,ok,209.1,
+CATERR,EBh,ok,7.1,
+CPU0 Thermal Sta,1Ch,ns,3.3,Event-Only
+CPU1 Thermal Sta,1Dh,ns,3.4,Event-Only
+CPU_0,A8h,ok,3.1,Presence detected
+CPU_1,A9h,ok,3.2,Presence detected
+CPU_DIMM_VRHOT,B7h,ok,7.1,
+Critical IRQ,90h,ok,7.1,
+DCMI Therm Limit,A2h,ns,7.1,Event-Only
+DIMM_HOT,B8h,ok,7.1,
+Event Log,E6h,ok,6.1,
+FP_FRU,00h,ns,7.2
+Fan_SYS0_1,3500,% RPM,ok
+Fan_SYS0_2,2900,% RPM,ok
+Fan_SYS1_1,3400,% RPM,ok
+Fan_SYS1_2,3000,% RPM,ok
+Fan_SYS2_1,3400,% RPM,ok
+Fan_SYS2_2,2900,% RPM,ok
+Fan_SYS3_1,3500,% RPM,ok
+Fan_SYS3_2,2900,% RPM,ok
+Fan_SYS4_1,3600,% RPM,ok
+Fan_SYS4_2,2900,% RPM,ok
+Fan_SYS5_1,3500,% RPM,ok
+Fan_SYS5_2,2900,% RPM,ok
+HDD0,45h,ok,26.0,
+HDD1,46h,ok,26.1,
+HDD2,47h,ok,26.2,
+HDD3,49h,ok,26.3,
+MB FRU,00h,ns,7.1
+MB Thermal Trip,B9h,ok,7.1,
+ME,00h,ok,46.1
+Memory Error,87h,ns,43.1,Event-Only
+Memory Event,A6h,ns,43.5,Event-Only
+NM Capabilities,1Ah,ns,46.1,Event-Only
+NM Exception,18h,ns,46.1,Event-Only
+NM Health,19h,ns,46.1,Event-Only
+NM Threshold,1Bh,ns,46.1,Event-Only
+Other IIO Error,A7h,ns,44.1,Event-Only
+PCH Thermal Trip,BFh,ok,7.1,
+PCIE Error,A1h,ns,43.4,Event-Only
+POST Error,9Eh,ns,43.3,Event-Only
+PSU Alert,6Dh,ns,208.1,Event-Only
+PSU Redundancy,E4h,ns,21.1,No Reading
+PSU1 Input,84,% Watts,ok
+PSU1 Status,E0h,ok,10.1,Presence detected
+PSU2 Input,,,ns
+PSU2 Status,E1h,ns,10.2,No Reading
+Power Unit,E8h,ok,19.1,
+QPI Error,9Dh,ns,43.2,Event-Only
+SPS FW Health,17h,ns,46.1,Event-Only
+SYS_NIC1_LinkUp,D8h,ok,6.4,State Asserted
+SYS_NIC2_LinkUp,D9h,ok,6.5,
+System Event,E9h,ok,6.3,
+Temp_Ambient_FP,16,% degrees C,ok
+Temp_CPU0,32,% degrees C,ok
+Temp_CPU1,33,% degrees C,ok
+Temp_DIMM_AB,23,% degrees C,ok
+Temp_DIMM_CD,23,% degrees C,ok
+Temp_DIMM_EF,23,% degrees C,ok
+Temp_DIMM_GH,22,% degrees C,ok
+Temp_OCP,,,ns
+Temp_Outlet,28,% degrees C,ok
+Temp_PCH,35,% degrees C,ok
+Temp_PCI_Area,29,% degrees C,ok
+Temp_PCI_Inlet1,28,% degrees C,ok
+Temp_PCI_Inlet2,24,% degrees C,ok
+Temp_VR_CPU0,29,% degrees C,ok
+Temp_VR_CPU1,28,% degrees C,ok
+Temp_VR_DIMM_AB,24,% degrees C,ok
+Temp_VR_DIMM_CD,23,% degrees C,ok
+Temp_VR_DIMM_EF,24,% degrees C,ok
+Temp_VR_DIMM_GH,23,% degrees C,ok
+Volt_P12V,12.360,% Volts,ok
+Volt_P1V05,1.058,% Volts,ok
+Volt_P1V8_AUX,1.833,% Volts,ok
+Volt_P3V3,3.371,% Volts,ok
+Volt_P3V3_AUX,3.355,% Volts,ok
+Volt_P3V_BAT,3.132,% Volts,ok
+Volt_P5V,5.009,% Volts,ok
+Volt_P5V_AUX,4.961,% Volts,ok
+Volt_VR_CPU0,1.810,% Volts,ok
+Volt_VR_CPU1,1.820,% Volts,ok
+Volt_VR_DIMM_AB,1.210,% Volts,ok
+Volt_VR_DIMM_CD,1.210,% Volts,ok
+Volt_VR_DIMM_EF,1.210,% Volts,ok
+Volt_VR_DIMM_GH,1.210,% Volts,ok
+Watchdog,E7h,ok,6.2,

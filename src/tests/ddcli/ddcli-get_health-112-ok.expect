@@ -1,0 +1,11 @@
+{
+  "backup_rail_monitor": "GOOD", 
+  "lifeleft": [
+    "100", 
+    "100", 
+    "100", 
+    "100"
+  ], 
+  "overall_health": "GOOD", 
+  "warranty_remaining": "100"
+}

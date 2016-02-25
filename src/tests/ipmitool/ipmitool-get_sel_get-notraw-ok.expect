@@ -1,0 +1,16 @@
+{
+    "description": "Unknown Error",
+    "entity_id": "34.1 (BIOS)",
+    "event_data": "a02d85",
+    "event_direction": "Assertion Event",
+    "event_type": "Sensor-specific Discrete",
+    "evm_revision": "04",
+    "generator_id": "0001",
+    "record_type": "02",
+    "sel_record_id": "07b4",
+    "sensor_id": "POST Err Sensor (0x6)",
+    "sensor_number": "06",
+    "sensor_type": "System Firmware Error",
+    "sensor_type_1": "System Firmwares",
+    "timestamp": "07/08/2014 19:38:32"
+}

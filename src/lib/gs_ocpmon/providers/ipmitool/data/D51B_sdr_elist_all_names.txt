@@ -1,0 +1,91 @@
+AST2400
+Airflow
+BMC FW HEALTH
+BMC FW info
+Button
+CATERR
+CPU0 Thermal Sta
+CPU1 Thermal Sta
+CPU_0
+CPU_1
+CPU_DIMM_VRHOT
+Critical IRQ
+DCMI Therm Limit
+DIMM_HOT
+Event Log
+FP_FRU
+Fan_SYS0_1
+Fan_SYS0_2
+Fan_SYS1_1
+Fan_SYS1_2
+Fan_SYS2_1
+Fan_SYS2_2
+Fan_SYS3_1
+Fan_SYS3_2
+Fan_SYS4_1
+Fan_SYS4_2
+Fan_SYS5_1
+Fan_SYS5_2
+HDD0
+HDD1
+HDD2
+HDD3
+MB FRU
+MB Thermal Trip
+ME
+Memory Error
+Memory Event
+NM Capabilities
+NM Exception
+NM Health
+NM Threshold
+Other IIO Error
+PCH Thermal Trip
+PCIE Error
+POST Error
+PSU Alert
+PSU Redundancy
+PSU1 Input
+PSU1 Status
+PSU2 Input
+PSU2 Status
+Power Unit
+QPI Error
+SPS FW Health
+SYS_NIC1_LinkUp
+SYS_NIC2_LinkUp
+System Event
+Temp_Ambient_FP
+Temp_CPU0
+Temp_CPU1
+Temp_DIMM_AB
+Temp_DIMM_CD
+Temp_DIMM_EF
+Temp_DIMM_GH
+Temp_OCP
+Temp_Outlet
+Temp_PCH
+Temp_PCI_Area
+Temp_PCI_Inlet1
+Temp_PCI_Inlet2
+Temp_VR_CPU0
+Temp_VR_CPU1
+Temp_VR_DIMM_AB
+Temp_VR_DIMM_CD
+Temp_VR_DIMM_EF
+Temp_VR_DIMM_GH
+Volt_P12V
+Volt_P1V05
+Volt_P1V8_AUX
+Volt_P3V3
+Volt_P3V3_AUX
+Volt_P3V_BAT
+Volt_P5V
+Volt_P5V_AUX
+Volt_VR_CPU0
+Volt_VR_CPU1
+Volt_VR_DIMM_AB
+Volt_VR_DIMM_CD
+Volt_VR_DIMM_EF
+Volt_VR_DIMM_GH
+Watchdog

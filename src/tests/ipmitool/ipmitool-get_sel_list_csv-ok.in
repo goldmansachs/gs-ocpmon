@@ -1,0 +1,1029 @@
+1,06/20/2012,23:04:06,Event Logging Disabled #0x07,Log area reset/cleared,Asserted
+2,06/20/2012,23:04:31,System Event #0x83,Timestamp Clock Sync,Asserted
+3,06/20/2012,23:04:31,System Event #0x83,Timestamp Clock Sync,Asserted
+4,06/20/2012,11:04:59,Power Unit #0x01,Power off/down,Asserted
+5,06/20/2012,11:04:59,Button #0x09,Power Button pressed,Asserted
+6,01/01/2005,00:00:07,Power Unit #0x01,AC lost,Asserted
+7,01/01/2005,00:00:07,Processor #0x70,Presence detected,Asserted
+8,01/01/2005,00:00:08,Power Unit #0x01,AC lost,Deasserted
+9,01/01/2005,00:00:12,Voltage #0xde,Lower Non-critical going low ,Asserted
+a,01/01/2005,00:00:12,Voltage #0xde,Lower Critical going low ,Asserted
+b,01/01/2005,00:00:24,System Event #0x83,Timestamp Clock Sync,Asserted
+c,01/01/2005,00:00:24,System Event #0x83,Timestamp Clock Sync,Asserted
+d,01/01/2005,00:00:28,Power Unit #0x01,Power off/down,Asserted
+e,01/01/2005,00:00:33,Power Unit #0x01,Power off/down,Deasserted
+f,01/01/2005,00:00:37,Voltage #0xde,Lower Non-critical going low ,Deasserted
+10,01/01/2005,00:00:37,Voltage #0xde,Lower Critical going low ,Deasserted
+11,01/01/2005,00:00:40,Voltage #0xde,Lower Non-critical going low ,Asserted
+12,01/01/2005,00:00:40,Voltage #0xde,Lower Critical going low ,Asserted
+13,01/01/2005,00:00:51,System Event #0x83,Timestamp Clock Sync,Asserted
+14,01/01/2005,00:00:52,System Event #0x83,Timestamp Clock Sync,Asserted
+15,01/01/2005,00:01:05,System Event #0x83,OEM System boot event,Asserted
+16,01/01/2005,00:01:09,Voltage #0xe5,Upper Non-critical going high,Asserted
+17,01/01/2005,00:01:09,Voltage #0xe5,Upper Critical going high,Asserted
+18,01/01/2005,00:01:10,System Event #0x83,OEM System boot event,Asserted
+19,01/01/2005,00:01:14,Temperature #0x78,Upper Non-critical going high,Asserted
+1a,01/01/2005,00:01:14,Temperature #0x78,Upper Critical going high,Asserted
+1b,01/01/2005,00:06:31,Voltage #0xe5,Upper Non-critical going high,Asserted
+1c,01/01/2005,00:06:31,Voltage #0xe5,Upper Critical going high,Asserted
+1d,01/01/2005,00:06:39,Voltage #0xde,Lower Non-critical going low ,Asserted
+1e,01/01/2005,00:06:39,Voltage #0xde,Lower Critical going low ,Asserted
+1f,01/01/2005,00:06:45,Temperature #0x78,Upper Non-critical going high,Asserted
+20,01/01/2005,00:06:45,Temperature #0x78,Upper Critical going high,Asserted
+21,01/01/2005,00:08:41,Version Change #0x12,,Asserted
+22,01/01/2005,00:08:48,Unknown #0x17,,Asserted
+23,01/01/2005,00:08:48,Unknown #0x17,,Asserted
+24,01/01/2005,00:08:50,Unknown #0x17,,Asserted
+25,01/01/2005,00:09:14,Version Change #0x12,,Asserted
+26,01/01/2005,00:11:45,Temperature #0x78,Upper Non-critical going high,Deasserted
+27,01/01/2005,00:11:45,Temperature #0x78,Upper Critical going high,Deasserted
+28,01/01/2005,00:11:45,Voltage #0xde,Lower Non-critical going low ,Deasserted
+29,01/01/2005,00:11:45,Voltage #0xde,Lower Critical going low ,Deasserted
+2a,01/01/2005,00:11:45,Voltage #0xe5,Upper Non-critical going high,Deasserted
+2b,01/01/2005,00:11:45,Voltage #0xe5,Upper Critical going high,Deasserted
+2c,01/01/2005,00:11:46,Voltage #0xde,Lower Non-critical going low ,Asserted
+2d,01/01/2005,00:11:46,Voltage #0xde,Lower Critical going low ,Asserted
+2e,01/01/2005,00:11:46,Temperature #0x78,Upper Non-critical going high,Asserted
+2f,01/01/2005,00:11:46,Temperature #0x78,Upper Critical going high,Asserted
+30,01/01/2005,00:12:12,Power Unit #0x01,Failure detected,Asserted
+31,01/01/2005,00:12:12,Power Unit #0x01,Power off/down,Asserted
+32,08/24/2018,00:13:33,Power Unit #0x01,AC lost,Asserted
+33,08/24/2018,00:13:34,Power Unit #0x01,AC lost,Deasserted
+34,08/24/2018,00:13:35,System Event #0x83,Timestamp Clock Sync,Asserted
+35,08/24/2018,00:13:35,System Event #0x83,Timestamp Clock Sync,Asserted
+36,01/01/2005,00:00:14,Voltage #0xde,Lower Non-critical going low ,Asserted
+37,01/01/2005,00:00:14,Voltage #0xde,Lower Critical going low ,Asserted
+38,01/01/2005,00:00:21,System Firmware Error #0x06,Unknown Error,Asserted
+39,01/01/2005,00:00:21,System Firmware Error #0x06,Unknown Error,Asserted
+3a,01/01/2005,00:00:34,Power Unit #0x01,Failure detected,Asserted
+3b,01/01/2005,00:00:35,Power Unit #0x01,Power off/down,Asserted
+3c,01/01/2005,00:00:07,Power Unit #0x01,AC lost,Asserted
+3d,01/01/2005,00:00:07,Power Unit #0x01,AC lost,Deasserted
+3e,01/01/2005,00:00:12,Voltage #0xde,Lower Non-critical going low ,Asserted
+3f,01/01/2005,00:00:12,Voltage #0xde,Lower Critical going low ,Asserted
+40,01/01/2005,00:00:25,System Event #0x83,Timestamp Clock Sync,Asserted
+41,01/01/2005,00:00:26,System Event #0x83,Timestamp Clock Sync,Asserted
+42,01/01/2005,00:00:45,System Firmware Error #0x06,Unknown Error,Asserted
+43,01/01/2005,00:00:45,System Firmware Error #0x06,Unknown Error,Asserted
+44,01/01/2005,00:00:48,System Event #0x83,OEM System boot event,Asserted
+45,01/01/2005,00:01:44,Voltage #0xde,Lower Non-critical going low ,Deasserted
+46,01/01/2005,00:01:44,Voltage #0xde,Lower Critical going low ,Deasserted
+47,01/01/2005,00:01:45,Voltage #0xde,Lower Non-critical going low ,Asserted
+48,01/01/2005,00:01:45,Voltage #0xde,Lower Critical going low ,Asserted
+49,01/01/2005,00:02:02,System Event #0x83,Timestamp Clock Sync,Asserted
+4a,01/01/2005,00:02:02,System Event #0x83,Timestamp Clock Sync,Asserted
+4b,01/01/2005,00:02:23,System Event #0x83,OEM System boot event,Asserted
+4c,01/01/2005,00:04:54,Physical Security #0x04,System unplugged from LAN,Asserted
+4d,01/01/2005,00:06:55,Physical Security #0x04,System unplugged from LAN,Deasserted
+4e,01/01/2005,00:06:55,Voltage #0xde,Lower Non-critical going low ,Deasserted
+4f,01/01/2005,00:06:55,Voltage #0xde,Lower Critical going low ,Deasserted
+50,01/01/2005,00:06:55,Physical Security #0x04,System unplugged from LAN,Asserted
+51,01/01/2005,00:06:55,Voltage #0xde,Lower Non-critical going low ,Asserted
+52,01/01/2005,00:06:55,Voltage #0xde,Lower Critical going low ,Asserted
+53,01/01/2005,00:07:11,System Event #0x83,Timestamp Clock Sync,Asserted
+54,01/01/2005,00:07:12,System Event #0x83,Timestamp Clock Sync,Asserted
+55,01/01/2005,00:08:32,Drive Slot #0xf4,Drive Present,Asserted
+56,01/01/2005,00:12:54,System Event #0x83,OEM System boot event,Asserted
+57,01/01/2005,00:17:56,Drive Slot #0xf4,Drive Present,Deasserted
+58,01/01/2005,00:17:59,Drive Slot #0xf4,Drive Present,Asserted
+59,01/01/2005,00:18:41,Drive Slot #0xf5,Drive Present,Asserted
+5a,01/01/2005,00:19:55,Drive Slot #0xf2,Drive Present,Asserted
+5b,01/01/2005,00:21:25,Physical Security #0x04,System unplugged from LAN,Deasserted
+5c,01/01/2005,00:21:25,Voltage #0xde,Lower Non-critical going low ,Deasserted
+5d,01/01/2005,00:21:25,Voltage #0xde,Lower Critical going low ,Deasserted
+5e,01/01/2005,00:21:25,Physical Security #0x04,System unplugged from LAN,Asserted
+5f,01/01/2005,00:21:26,Voltage #0xde,Lower Non-critical going low ,Asserted
+60,01/01/2005,00:21:26,Voltage #0xde,Lower Critical going low ,Asserted
+61,01/01/2005,00:21:43,System Event #0x83,Timestamp Clock Sync,Asserted
+62,01/01/2005,00:21:43,System Event #0x83,Timestamp Clock Sync,Asserted
+63,01/01/2005,00:22:44,Drive Slot #0xf3,Drive Present,Asserted
+64,01/01/2005,00:23:14,Physical Security #0x04,System unplugged from LAN,Deasserted
+65,01/01/2005,00:23:14,Voltage #0xde,Lower Non-critical going low ,Deasserted
+66,01/01/2005,00:23:14,Voltage #0xde,Lower Critical going low ,Deasserted
+67,01/01/2005,00:23:15,Physical Security #0x04,System unplugged from LAN,Asserted
+68,01/01/2005,00:23:15,Voltage #0xde,Lower Non-critical going low ,Asserted
+69,01/01/2005,00:23:15,Voltage #0xde,Lower Critical going low ,Asserted
+6a,01/01/2005,00:23:31,System Event #0x83,Timestamp Clock Sync,Asserted
+6b,01/01/2005,00:23:32,System Event #0x83,Timestamp Clock Sync,Asserted
+6c,01/01/2005,00:24:04,System Event #0x83,OEM System boot event,Asserted
+6d,01/01/2005,00:26:13,Drive Slot #0xf0,Drive Present,Asserted
+6e,01/01/2005,00:27:42,Drive Slot #0xf1,Drive Present,Asserted
+6f,01/01/2005,00:32:08,Power Unit #0x01,Failure detected,Asserted
+70,01/01/2005,00:32:09,Power Unit #0x01,Power off/down,Asserted
+71,01/01/2005,00:32:09,Power Supply #0x50,Power Supply AC lost,Asserted
+72,01/01/2005,00:00:05,Power Unit #0x01,AC lost,Asserted
+73,01/01/2005,00:00:06,Power Unit #0x01,AC lost,Deasserted
+74,01/01/2005,00:00:10,Voltage #0xde,Lower Non-critical going low ,Asserted
+75,01/01/2005,00:00:10,Voltage #0xde,Lower Critical going low ,Asserted
+76,01/01/2005,00:00:17,Drive Slot #0xf0,Drive Present,Asserted
+77,01/01/2005,00:00:17,Drive Slot #0xf1,Drive Present,Asserted
+78,01/01/2005,00:00:17,Drive Slot #0xf2,Drive Present,Asserted
+79,01/01/2005,00:00:17,Drive Slot #0xf3,Drive Present,Asserted
+7a,01/01/2005,00:00:17,Drive Slot #0xf4,Drive Present,Asserted
+7b,01/01/2005,00:00:17,Drive Slot #0xf5,Drive Present,Asserted
+7c,01/01/2005,00:00:25,System Event #0x83,Timestamp Clock Sync,Asserted
+7d,01/01/2005,00:00:26,System Event #0x83,Timestamp Clock Sync,Asserted
+7e,01/01/2005,00:01:03,System Firmware Error #0x06,Unknown Error,Asserted
+7f,01/01/2005,00:01:03,System Firmware Error #0x06,Unknown Error,Asserted
+80,01/01/2005,00:01:20,System Event #0x83,OEM System boot event,Asserted
+81,01/01/2005,00:03:28,Physical Security #0x04,System unplugged from LAN,Asserted
+82,01/01/2005,00:03:57,Physical Security #0x04,System unplugged from LAN,Deasserted
+83,01/01/2005,01:27:03,Voltage #0xde,Lower Non-critical going low ,Deasserted
+84,01/01/2005,01:27:03,Voltage #0xde,Lower Critical going low ,Deasserted
+85,01/01/2005,01:27:04,Voltage #0xde,Lower Non-critical going low ,Asserted
+86,01/01/2005,01:27:04,Voltage #0xde,Lower Critical going low ,Asserted
+87,01/01/2005,01:27:21,System Event #0x83,Timestamp Clock Sync,Asserted
+88,01/01/2005,01:27:21,System Event #0x83,Timestamp Clock Sync,Asserted
+89,01/01/2005,01:28:11,System Event #0x83,OEM System boot event,Asserted
+8a,01/01/2005,01:36:28,Voltage #0xde,Lower Non-critical going low ,Deasserted
+8b,01/01/2005,01:36:28,Voltage #0xde,Lower Critical going low ,Deasserted
+8c,01/01/2005,01:36:29,Voltage #0xde,Lower Non-critical going low ,Asserted
+8d,01/01/2005,01:36:29,Voltage #0xde,Lower Critical going low ,Asserted
+8e,01/01/2005,01:36:46,System Event #0x83,Timestamp Clock Sync,Asserted
+8f,01/01/2005,01:36:46,System Event #0x83,Timestamp Clock Sync,Asserted
+90,01/01/2005,01:37:40,System Event #0x83,OEM System boot event,Asserted
+91,01/01/2005,01:49:13,Voltage #0xde,Lower Non-critical going low ,Deasserted
+92,01/01/2005,01:49:13,Voltage #0xde,Lower Critical going low ,Deasserted
+93,01/01/2005,01:49:14,Voltage #0xde,Lower Non-critical going low ,Asserted
+94,01/01/2005,01:49:14,Voltage #0xde,Lower Critical going low ,Asserted
+95,01/01/2005,01:49:30,System Event #0x83,Timestamp Clock Sync,Asserted
+96,01/01/2005,01:49:30,System Event #0x83,Timestamp Clock Sync,Asserted
+97,01/01/2005,01:50:21,System Event #0x83,OEM System boot event,Asserted
+98,01/01/2005,01:57:24,Voltage #0xde,Lower Non-critical going low ,Deasserted
+99,01/01/2005,01:57:24,Voltage #0xde,Lower Critical going low ,Deasserted
+9a,01/01/2005,01:57:25,Voltage #0xde,Lower Non-critical going low ,Asserted
+9b,01/01/2005,01:57:25,Voltage #0xde,Lower Critical going low ,Asserted
+9c,01/01/2005,01:57:41,System Event #0x83,Timestamp Clock Sync,Asserted
+9d,01/01/2005,01:57:41,System Event #0x83,Timestamp Clock Sync,Asserted
+9e,01/01/2005,01:59:12,System Event #0x83,OEM System boot event,Asserted
+9f,01/01/2005,02:04:32,Physical Security #0x04,System unplugged from LAN,Asserted
+a0,01/01/2005,02:04:44,Physical Security #0x04,System unplugged from LAN,Deasserted
+a1,01/01/2005,02:16:05,Voltage #0xde,Lower Non-critical going low ,Deasserted
+a2,01/01/2005,02:16:05,Voltage #0xde,Lower Critical going low ,Deasserted
+a3,01/01/2005,02:16:06,Voltage #0xde,Lower Non-critical going low ,Asserted
+a4,01/01/2005,02:16:06,Voltage #0xde,Lower Critical going low ,Asserted
+a5,01/01/2005,02:16:25,System Event #0x83,Timestamp Clock Sync,Asserted
+a6,01/01/2005,02:16:25,System Event #0x83,Timestamp Clock Sync,Asserted
+a7,01/01/2005,02:17:10,Voltage #0xde,Lower Non-critical going low ,Deasserted
+a8,01/01/2005,02:17:10,Voltage #0xde,Lower Critical going low ,Deasserted
+a9,01/01/2005,02:17:11,Voltage #0xde,Lower Non-critical going low ,Asserted
+aa,01/01/2005,02:17:11,Voltage #0xde,Lower Critical going low ,Asserted
+ab,01/01/2005,02:17:28,System Event #0x83,Timestamp Clock Sync,Asserted
+ac,01/01/2005,02:17:28,System Event #0x83,Timestamp Clock Sync,Asserted
+ad,01/01/2005,02:18:16,System Event #0x83,OEM System boot event,Asserted
+ae,01/01/2005,02:23:15,Voltage #0xde,Lower Non-critical going low ,Deasserted
+af,01/01/2005,02:23:15,Voltage #0xde,Lower Critical going low ,Deasserted
+b0,01/01/2005,02:23:16,Voltage #0xde,Lower Non-critical going low ,Asserted
+b1,01/01/2005,02:23:16,Voltage #0xde,Lower Critical going low ,Asserted
+b2,01/01/2005,02:23:32,System Event #0x83,Timestamp Clock Sync,Asserted
+b3,01/01/2005,02:23:32,System Event #0x83,Timestamp Clock Sync,Asserted
+b4,01/01/2005,02:24:24,System Event #0x83,OEM System boot event,Asserted
+b5,01/01/2005,03:07:46,Voltage #0xde,Lower Non-critical going low ,Deasserted
+b6,01/01/2005,03:07:46,Voltage #0xde,Lower Critical going low ,Deasserted
+b7,01/01/2005,03:07:48,Voltage #0xde,Lower Non-critical going low ,Asserted
+b8,01/01/2005,03:07:48,Voltage #0xde,Lower Critical going low ,Asserted
+b9,01/01/2005,03:08:04,System Event #0x83,Timestamp Clock Sync,Asserted
+ba,01/01/2005,03:08:04,System Event #0x83,Timestamp Clock Sync,Asserted
+bb,01/01/2005,03:08:54,System Event #0x83,OEM System boot event,Asserted
+bc,01/01/2005,04:00:52,Power Unit #0x01,Failure detected,Asserted
+bd,01/01/2005,04:00:52,Power Unit #0x01,Power off/down,Asserted
+be,01/01/2005,04:00:52,Power Supply #0x50,Power Supply AC lost,Asserted
+bf,01/01/2005,00:00:07,Power Unit #0x01,AC lost,Asserted
+c0,01/01/2005,00:00:08,Power Unit #0x01,AC lost,Deasserted
+c1,01/01/2005,00:00:12,Voltage #0xde,Lower Non-critical going low ,Asserted
+c2,01/01/2005,00:00:25,System Event #0x83,Timestamp Clock Sync,Asserted
+c3,01/01/2005,00:00:25,System Event #0x83,Timestamp Clock Sync,Asserted
+c4,01/01/2005,00:00:32,Power Unit #0x01,Failure detected,Asserted
+c5,01/01/2005,00:00:33,Power Unit #0x01,Power off/down,Asserted
+c6,01/01/2005,00:00:33,Power Supply #0x50,Power Supply AC lost,Asserted
+c7,01/01/2005,00:00:06,Power Unit #0x01,AC lost,Asserted
+c8,01/01/2005,00:00:07,Power Unit #0x01,AC lost,Deasserted
+c9,01/01/2005,00:00:12,Voltage #0xde,Lower Non-critical going low ,Asserted
+ca,01/01/2005,00:00:12,Voltage #0xde,Lower Critical going low ,Asserted
+cb,01/01/2005,00:00:26,System Event #0x83,Timestamp Clock Sync,Asserted
+cc,01/01/2005,00:00:26,System Event #0x83,Timestamp Clock Sync,Asserted
+cd,01/01/2005,00:01:02,Voltage #0xde,Lower Non-critical going low ,Deasserted
+ce,01/01/2005,00:01:02,Voltage #0xde,Lower Critical going low ,Deasserted
+cf,01/01/2005,00:01:02,Voltage #0xde,Lower Non-critical going low ,Asserted
+d0,01/01/2005,00:01:02,Voltage #0xde,Lower Critical going low ,Asserted
+d1,01/01/2005,00:01:19,System Event #0x83,Timestamp Clock Sync,Asserted
+d2,01/01/2005,00:01:19,System Event #0x83,Timestamp Clock Sync,Asserted
+d3,01/01/2005,00:47:26,Voltage #0xde,Lower Non-critical going low ,Deasserted
+d4,01/01/2005,00:47:26,Voltage #0xde,Lower Critical going low ,Deasserted
+d5,01/01/2005,00:47:27,Voltage #0xde,Lower Non-critical going low ,Asserted
+d6,01/01/2005,00:47:27,Voltage #0xde,Lower Critical going low ,Asserted
+d7,01/01/2005,00:47:44,System Event #0x83,Timestamp Clock Sync,Asserted
+d8,01/01/2005,00:47:44,System Event #0x83,Timestamp Clock Sync,Asserted
+d9,01/01/2005,00:48:31,Voltage #0xde,Lower Non-critical going low ,Deasserted
+da,01/01/2005,00:48:31,Voltage #0xde,Lower Critical going low ,Deasserted
+db,01/01/2005,00:48:31,Voltage #0xde,Lower Non-critical going low ,Asserted
+dc,01/01/2005,00:48:31,Voltage #0xde,Lower Critical going low ,Asserted
+dd,01/01/2005,00:48:50,System Event #0x83,Timestamp Clock Sync,Asserted
+de,01/01/2005,00:48:50,System Event #0x83,Timestamp Clock Sync,Asserted
+df,01/01/2005,00:49:53,System Event #0x83,OEM System boot event,Asserted
+e0,01/01/2005,00:56:51,Voltage #0xde,Lower Non-critical going low ,Deasserted
+e1,01/01/2005,00:56:51,Voltage #0xde,Lower Critical going low ,Deasserted
+e2,01/01/2005,00:56:52,Voltage #0xde,Lower Non-critical going low ,Asserted
+e3,01/01/2005,00:56:52,Voltage #0xde,Lower Critical going low ,Asserted
+e4,01/01/2005,00:57:08,System Event #0x83,Timestamp Clock Sync,Asserted
+e5,01/01/2005,00:57:09,System Event #0x83,Timestamp Clock Sync,Asserted
+e6,01/01/2005,01:08:15,System Event #0x83,OEM System boot event,Asserted
+e7,01/01/2005,01:25:58,Voltage #0xde,Lower Non-critical going low ,Deasserted
+e8,01/01/2005,01:25:58,Voltage #0xde,Lower Critical going low ,Deasserted
+e9,01/01/2005,01:25:59,Voltage #0xde,Lower Non-critical going low ,Asserted
+ea,01/01/2005,01:25:59,Voltage #0xde,Lower Critical going low ,Asserted
+eb,01/01/2005,01:26:16,System Event #0x83,Timestamp Clock Sync,Asserted
+ec,01/01/2005,01:26:17,System Event #0x83,Timestamp Clock Sync,Asserted
+ed,01/01/2005,01:27:12,System Event #0x83,OEM System boot event,Asserted
+ee,01/01/2005,01:50:46,Voltage #0xde,Lower Non-critical going low ,Deasserted
+ef,01/01/2005,01:50:46,Voltage #0xde,Lower Critical going low ,Deasserted
+f0,01/01/2005,01:50:46,Voltage #0xde,Lower Non-critical going low ,Asserted
+f1,01/01/2005,01:50:46,Voltage #0xde,Lower Critical going low ,Asserted
+f2,01/01/2005,01:51:03,System Event #0x83,Timestamp Clock Sync,Asserted
+f3,01/01/2005,01:51:03,System Event #0x83,Timestamp Clock Sync,Asserted
+f4,01/01/2005,01:51:56,System Event #0x83,OEM System boot event,Asserted
+f5,01/01/2005,01:57:49,Voltage #0xde,Lower Non-critical going low ,Deasserted
+f6,01/01/2005,01:57:49,Voltage #0xde,Lower Critical going low ,Deasserted
+f7,01/01/2005,01:57:50,Voltage #0xde,Lower Non-critical going low ,Asserted
+f8,01/01/2005,01:57:50,Voltage #0xde,Lower Critical going low ,Asserted
+f9,01/01/2005,01:58:07,System Event #0x83,Timestamp Clock Sync,Asserted
+fa,01/01/2005,01:58:07,System Event #0x83,Timestamp Clock Sync,Asserted
+fb,01/01/2005,01:59:05,System Event #0x83,OEM System boot event,Asserted
+fc,01/01/2005,01:59:24,Voltage #0xde,Lower Non-critical going low ,Deasserted
+fd,01/01/2005,01:59:24,Voltage #0xde,Lower Critical going low ,Deasserted
+fe,01/01/2005,01:59:24,Voltage #0xde,Lower Non-critical going low ,Asserted
+ff,01/01/2005,01:59:25,Voltage #0xde,Lower Critical going low ,Asserted
+100,01/01/2005,01:59:41,System Event #0x83,Timestamp Clock Sync,Asserted
+101,01/01/2005,01:59:42,System Event #0x83,Timestamp Clock Sync,Asserted
+102,01/01/2005,02:02:22,Voltage #0xde,Lower Non-critical going low ,Deasserted
+103,01/01/2005,02:02:22,Voltage #0xde,Lower Critical going low ,Deasserted
+104,01/01/2005,02:02:22,Voltage #0xde,Lower Non-critical going low ,Asserted
+105,01/01/2005,02:02:22,Voltage #0xde,Lower Critical going low ,Asserted
+106,01/01/2005,02:02:39,System Event #0x83,Timestamp Clock Sync,Asserted
+107,01/01/2005,02:02:39,System Event #0x83,Timestamp Clock Sync,Asserted
+108,01/01/2005,02:03:37,Voltage #0xde,Lower Non-critical going low ,Deasserted
+109,01/01/2005,02:03:37,Voltage #0xde,Lower Critical going low ,Deasserted
+10a,01/01/2005,02:03:38,Voltage #0xde,Lower Non-critical going low ,Asserted
+10b,01/01/2005,02:03:38,Voltage #0xde,Lower Critical going low ,Asserted
+10c,01/01/2005,02:03:55,System Event #0x83,Timestamp Clock Sync,Asserted
+10d,01/01/2005,02:03:55,System Event #0x83,Timestamp Clock Sync,Asserted
+10e,01/01/2005,02:04:54,System Event #0x83,OEM System boot event,Asserted
+10f,01/01/2005,02:29:11,Voltage #0xde,Lower Non-critical going low ,Deasserted
+110,01/01/2005,02:29:11,Voltage #0xde,Lower Critical going low ,Deasserted
+111,01/01/2005,02:29:11,Voltage #0xde,Lower Non-critical going low ,Asserted
+112,01/01/2005,02:29:11,Voltage #0xde,Lower Critical going low ,Asserted
+113,01/01/2005,02:29:30,System Event #0x83,Timestamp Clock Sync,Asserted
+114,01/01/2005,02:29:31,System Event #0x83,Timestamp Clock Sync,Asserted
+115,01/01/2005,02:30:24,System Event #0x83,OEM System boot event,Asserted
+116,01/01/2005,02:34:43,Power Unit #0x01,Failure detected,Asserted
+117,01/01/2005,02:34:44,Power Unit #0x01,Power off/down,Asserted
+118,01/01/2005,02:34:44,Power Supply #0x50,Power Supply AC lost,Asserted
+119,01/01/2005,02:43:49,Power Unit #0x01,Power off/down,Asserted
+11a,01/01/2005,02:43:49,Power Unit #0x01,AC lost,Asserted
+11b,01/01/2005,02:43:50,Power Unit #0x01,AC lost,Deasserted
+11c,01/01/2005,02:44:05,Power Unit #0x01,Power off/down,Deasserted
+11d,01/01/2005,02:44:05,Button #0x09,Power Button pressed,Asserted
+11e,01/01/2005,02:44:13,Voltage #0xde,Lower Non-critical going low ,Asserted
+11f,01/01/2005,02:44:13,Voltage #0xde,Lower Critical going low ,Asserted
+120,01/01/2005,02:44:19,Drive Slot #0xf0,Drive Present,Asserted
+121,01/01/2005,02:44:19,Drive Slot #0xf1,Drive Present,Asserted
+122,01/01/2005,02:44:19,Drive Slot #0xf2,Drive Present,Asserted
+123,01/01/2005,02:44:19,Drive Slot #0xf3,Drive Present,Asserted
+124,01/01/2005,02:44:19,Drive Slot #0xf4,Drive Present,Asserted
+125,01/01/2005,02:44:19,Drive Slot #0xf5,Drive Present,Asserted
+126,01/01/2005,02:44:27,System Event #0x83,Timestamp Clock Sync,Asserted
+127,01/01/2005,02:44:27,System Event #0x83,Timestamp Clock Sync,Asserted
+128,01/01/2005,02:45:58,Drive Slot #0xf7,Drive Present,Asserted
+129,01/01/2005,02:45:59,System Event #0x83,OEM System boot event,Asserted
+12a,01/01/2005,02:46:01,Drive Slot #0xf6,Drive Present,Asserted
+12b,01/01/2005,02:46:47,Voltage #0xde,Lower Non-critical going low ,Deasserted
+12c,01/01/2005,02:46:47,Voltage #0xde,Lower Critical going low ,Deasserted
+12d,01/01/2005,02:46:48,Voltage #0xde,Lower Non-critical going low ,Asserted
+12e,01/01/2005,02:46:48,Voltage #0xde,Lower Critical going low ,Asserted
+12f,01/01/2005,02:47:05,System Event #0x83,Timestamp Clock Sync,Asserted
+130,01/01/2005,02:47:06,System Event #0x83,Timestamp Clock Sync,Asserted
+131,01/01/2005,02:48:09,System Event #0x83,OEM System boot event,Asserted
+132,01/01/2005,02:56:11,Voltage #0xde,Lower Non-critical going low ,Deasserted
+133,01/01/2005,02:56:11,Voltage #0xde,Lower Critical going low ,Deasserted
+134,01/01/2005,02:56:12,Voltage #0xde,Lower Non-critical going low ,Asserted
+135,01/01/2005,02:56:12,Voltage #0xde,Lower Critical going low ,Asserted
+136,01/01/2005,02:56:29,System Event #0x83,Timestamp Clock Sync,Asserted
+137,01/01/2005,02:56:30,System Event #0x83,Timestamp Clock Sync,Asserted
+138,01/01/2005,02:57:25,System Event #0x83,OEM System boot event,Asserted
+139,01/01/2005,02:59:14,Voltage #0xde,Lower Non-critical going low ,Deasserted
+13a,01/01/2005,02:59:14,Voltage #0xde,Lower Critical going low ,Deasserted
+13b,01/01/2005,02:59:15,Voltage #0xde,Lower Non-critical going low ,Asserted
+13c,01/01/2005,02:59:15,Voltage #0xde,Lower Critical going low ,Asserted
+13d,01/01/2005,02:59:32,System Event #0x83,Timestamp Clock Sync,Asserted
+13e,01/01/2005,02:59:32,System Event #0x83,Timestamp Clock Sync,Asserted
+13f,01/01/2005,03:00:36,System Event #0x83,OEM System boot event,Asserted
+140,01/01/2005,03:00:55,Voltage #0xde,Lower Non-critical going low ,Deasserted
+141,01/01/2005,03:00:55,Voltage #0xde,Lower Critical going low ,Deasserted
+142,01/01/2005,03:00:56,Voltage #0xde,Lower Non-critical going low ,Asserted
+143,01/01/2005,03:00:56,Voltage #0xde,Lower Critical going low ,Asserted
+144,01/01/2005,03:01:13,System Event #0x83,Timestamp Clock Sync,Asserted
+145,01/01/2005,03:01:13,System Event #0x83,Timestamp Clock Sync,Asserted
+146,01/01/2005,03:02:17,System Event #0x83,OEM System boot event,Asserted
+147,01/01/2005,03:02:28,Voltage #0xde,Lower Non-critical going low ,Deasserted
+148,01/01/2005,03:02:28,Voltage #0xde,Lower Critical going low ,Deasserted
+149,01/01/2005,03:02:29,Voltage #0xde,Lower Non-critical going low ,Asserted
+14a,01/01/2005,03:02:29,Voltage #0xde,Lower Critical going low ,Asserted
+14b,01/01/2005,03:02:46,System Event #0x83,Timestamp Clock Sync,Asserted
+14c,01/01/2005,03:02:46,System Event #0x83,Timestamp Clock Sync,Asserted
+14d,01/01/2005,03:03:48,System Event #0x83,OEM System boot event,Asserted
+14e,01/01/2005,03:24:33,Voltage #0xde,Lower Non-critical going low ,Deasserted
+14f,01/01/2005,03:24:33,Voltage #0xde,Lower Critical going low ,Deasserted
+150,01/01/2005,03:24:33,Voltage #0xde,Lower Non-critical going low ,Asserted
+151,01/01/2005,03:24:33,Voltage #0xde,Lower Critical going low ,Asserted
+152,01/01/2005,03:24:50,System Event #0x83,Timestamp Clock Sync,Asserted
+153,01/01/2005,03:24:51,System Event #0x83,Timestamp Clock Sync,Asserted
+154,01/01/2005,03:25:54,System Event #0x83,OEM System boot event,Asserted
+155,01/01/2005,03:26:17,Voltage #0xde,Lower Non-critical going low ,Deasserted
+156,01/01/2005,03:26:17,Voltage #0xde,Lower Critical going low ,Deasserted
+157,01/01/2005,03:26:17,Voltage #0xde,Lower Non-critical going low ,Asserted
+158,01/01/2005,03:26:17,Voltage #0xde,Lower Critical going low ,Asserted
+159,01/01/2005,03:26:35,System Event #0x83,Timestamp Clock Sync,Asserted
+15a,01/01/2005,03:26:35,System Event #0x83,Timestamp Clock Sync,Asserted
+15b,01/01/2005,03:29:01,System Event #0x83,OEM System boot event,Asserted
+15c,01/01/2005,06:13:16,Voltage #0xde,Lower Non-critical going low ,Deasserted
+15d,01/01/2005,06:13:16,Voltage #0xde,Lower Critical going low ,Deasserted
+15e,01/01/2005,06:13:17,Voltage #0xde,Lower Non-critical going low ,Asserted
+15f,01/01/2005,06:13:17,Voltage #0xde,Lower Critical going low ,Asserted
+160,01/01/2005,06:13:21,Button #0x09,Power Button pressed,Asserted
+161,01/01/2005,06:13:31,Button #0x09,Power Button pressed,Asserted
+162,01/01/2005,06:13:34,System Event #0x83,Timestamp Clock Sync,Asserted
+163,01/01/2005,06:13:34,System Event #0x83,Timestamp Clock Sync,Asserted
+164,01/01/2005,06:13:35,Power Unit #0x01,Power off/down,Asserted
+165,01/01/2005,00:00:13,Voltage #0xde,Lower Non-critical going low ,Asserted
+166,01/01/2005,00:00:13,Voltage #0xde,Lower Critical going low ,Asserted
+167,01/01/2005,00:00:17,Drive Slot #0xf0,Drive Present,Asserted
+168,01/01/2005,00:00:17,Drive Slot #0xf1,Drive Present,Asserted
+169,01/01/2005,00:00:17,Drive Slot #0xf2,Drive Present,Asserted
+16a,01/01/2005,00:00:17,Drive Slot #0xf3,Drive Present,Asserted
+16b,01/01/2005,00:00:17,Drive Slot #0xf4,Drive Present,Asserted
+16c,01/01/2005,00:00:17,Drive Slot #0xf5,Drive Present,Asserted
+16d,01/01/2005,00:00:17,Drive Slot #0xf6,Drive Present,Asserted
+16e,01/01/2005,00:00:17,Drive Slot #0xf7,Drive Present,Asserted
+16f,01/01/2005,00:00:25,System Event #0x83,Timestamp Clock Sync,Asserted
+170,01/01/2005,00:00:26,System Event #0x83,Timestamp Clock Sync,Asserted
+171,01/01/2005,00:01:25,System Firmware Error #0x06,Unknown Error,Asserted
+172,01/01/2005,00:01:25,System Firmware Error #0x06,Unknown Error,Asserted
+173,01/01/2005,00:05:09,Voltage #0xde,Lower Non-critical going low ,Deasserted
+174,01/01/2005,00:05:09,Voltage #0xde,Lower Critical going low ,Deasserted
+175,01/01/2005,00:05:10,Voltage #0xde,Lower Non-critical going low ,Asserted
+176,01/01/2005,00:05:10,Voltage #0xde,Lower Critical going low ,Asserted
+177,01/01/2005,00:05:26,System Event #0x83,Timestamp Clock Sync,Asserted
+178,01/01/2005,00:05:27,System Event #0x83,Timestamp Clock Sync,Asserted
+179,01/01/2005,00:10:49,Voltage #0xde,Lower Non-critical going low ,Deasserted
+17a,01/01/2005,00:10:49,Voltage #0xde,Lower Critical going low ,Deasserted
+17b,01/01/2005,00:10:51,Voltage #0xde,Lower Non-critical going low ,Asserted
+17c,01/01/2005,00:10:51,Voltage #0xde,Lower Critical going low ,Asserted
+17d,01/01/2005,00:11:07,System Event #0x83,Timestamp Clock Sync,Asserted
+17e,01/01/2005,00:11:08,System Event #0x83,Timestamp Clock Sync,Asserted
+17f,01/01/2005,00:20:51,Voltage #0xde,Lower Non-critical going low ,Deasserted
+180,01/01/2005,00:20:51,Voltage #0xde,Lower Critical going low ,Deasserted
+181,01/01/2005,00:20:52,Voltage #0xde,Lower Non-critical going low ,Asserted
+182,01/01/2005,00:20:52,Voltage #0xde,Lower Critical going low ,Asserted
+183,01/01/2005,00:21:09,System Event #0x83,Timestamp Clock Sync,Asserted
+184,01/01/2005,00:21:09,System Event #0x83,Timestamp Clock Sync,Asserted
+185,01/01/2005,00:22:17,System Event #0x83,OEM System boot event,Asserted
+186,01/01/2005,00:23:03,Voltage #0xde,Lower Non-critical going low ,Deasserted
+187,01/01/2005,00:23:03,Voltage #0xde,Lower Critical going low ,Deasserted
+188,01/01/2005,00:23:03,Voltage #0xde,Lower Non-critical going low ,Asserted
+189,01/01/2005,00:23:03,Voltage #0xde,Lower Critical going low ,Asserted
+18a,01/01/2005,00:23:21,System Event #0x83,Timestamp Clock Sync,Asserted
+18b,01/01/2005,00:23:21,System Event #0x83,Timestamp Clock Sync,Asserted
+18c,01/01/2005,00:24:33,Voltage #0xde,Lower Non-critical going low ,Deasserted
+18d,01/01/2005,00:24:33,Voltage #0xde,Lower Critical going low ,Deasserted
+18e,01/01/2005,00:24:34,Voltage #0xde,Lower Non-critical going low ,Asserted
+18f,01/01/2005,00:24:34,Voltage #0xde,Lower Critical going low ,Asserted
+190,01/01/2005,00:24:51,System Event #0x83,Timestamp Clock Sync,Asserted
+191,01/01/2005,00:24:52,System Event #0x83,Timestamp Clock Sync,Asserted
+192,01/01/2005,00:33:11,Physical Security #0x04,System unplugged from LAN,Asserted
+193,01/01/2005,00:38:44,Power Unit #0x01,Failure detected,Asserted
+194,01/01/2005,00:38:44,Power Unit #0x01,Power off/down,Asserted
+195,01/01/2005,00:38:44,Power Supply #0x50,Power Supply AC lost,Asserted
+196,01/01/2005,00:00:05,Power Unit #0x01,AC lost,Asserted
+197,01/01/2005,00:00:05,Power Unit #0x01,AC lost,Deasserted
+198,01/01/2005,00:00:11,Voltage #0xde,Lower Non-critical going low ,Asserted
+199,01/01/2005,00:00:11,Voltage #0xde,Lower Critical going low ,Asserted
+19a,01/01/2005,00:00:16,Drive Slot #0xf0,Drive Present,Asserted
+19b,01/01/2005,00:00:16,Drive Slot #0xf1,Drive Present,Asserted
+19c,01/01/2005,00:00:16,Drive Slot #0xf2,Drive Present,Asserted
+19d,01/01/2005,00:00:16,Drive Slot #0xf3,Drive Present,Asserted
+19e,01/01/2005,00:00:16,Drive Slot #0xf4,Drive Present,Asserted
+19f,01/01/2005,00:00:16,Drive Slot #0xf5,Drive Present,Asserted
+1a0,01/01/2005,00:00:16,Drive Slot #0xf6,Drive Present,Asserted
+1a1,01/01/2005,00:00:16,Drive Slot #0xf7,Drive Present,Asserted
+1a2,01/01/2005,00:00:25,System Event #0x83,Timestamp Clock Sync,Asserted
+1a3,01/01/2005,00:00:25,System Event #0x83,Timestamp Clock Sync,Asserted
+1a4,01/01/2005,00:01:42,System Firmware Error #0x06,Unknown Error,Asserted
+1a5,01/01/2005,00:01:42,System Firmware Error #0x06,Unknown Error,Asserted
+1a6,01/01/2005,00:04:49,Voltage #0xde,Lower Non-critical going low ,Deasserted
+1a7,01/01/2005,00:04:49,Voltage #0xde,Lower Critical going low ,Deasserted
+1a8,01/01/2005,00:04:50,Voltage #0xde,Lower Non-critical going low ,Asserted
+1a9,01/01/2005,00:04:50,Voltage #0xde,Lower Critical going low ,Asserted
+1aa,01/01/2005,00:05:07,System Event #0x83,Timestamp Clock Sync,Asserted
+1ab,01/01/2005,00:05:07,System Event #0x83,Timestamp Clock Sync,Asserted
+1ac,01/01/2005,01:11:21,Voltage #0xde,Lower Non-critical going low ,Deasserted
+1ad,01/01/2005,01:11:21,Voltage #0xde,Lower Critical going low ,Deasserted
+1ae,01/01/2005,01:11:22,Voltage #0xde,Lower Non-critical going low ,Asserted
+1af,01/01/2005,01:11:22,Voltage #0xde,Lower Critical going low ,Asserted
+1b0,01/01/2005,01:11:39,System Event #0x83,Timestamp Clock Sync,Asserted
+1b1,01/01/2005,01:11:39,System Event #0x83,Timestamp Clock Sync,Asserted
+1b2,01/01/2005,01:12:34,Voltage #0xde,Lower Non-critical going low ,Deasserted
+1b3,01/01/2005,01:12:34,Voltage #0xde,Lower Critical going low ,Deasserted
+1b4,01/01/2005,01:12:35,Voltage #0xde,Lower Non-critical going low ,Asserted
+1b5,01/01/2005,01:12:35,Voltage #0xde,Lower Critical going low ,Asserted
+1b6,01/01/2005,01:12:52,System Event #0x83,Timestamp Clock Sync,Asserted
+1b7,01/01/2005,01:12:53,System Event #0x83,Timestamp Clock Sync,Asserted
+1b8,01/01/2005,01:32:13,Voltage #0xde,Lower Non-critical going low ,Deasserted
+1b9,01/01/2005,01:32:13,Voltage #0xde,Lower Critical going low ,Deasserted
+1ba,01/01/2005,01:32:14,Voltage #0xde,Lower Non-critical going low ,Asserted
+1bb,01/01/2005,01:32:14,Voltage #0xde,Lower Critical going low ,Asserted
+1bc,01/01/2005,01:32:31,System Event #0x83,Timestamp Clock Sync,Asserted
+1bd,01/01/2005,01:32:32,System Event #0x83,Timestamp Clock Sync,Asserted
+1be,01/01/2005,01:33:22,System Event #0x83,OEM System boot event,Asserted
+1bf,01/01/2005,01:34:30,Voltage #0xde,Lower Non-critical going low ,Deasserted
+1c0,01/01/2005,01:34:30,Voltage #0xde,Lower Critical going low ,Deasserted
+1c1,01/01/2005,01:34:31,Voltage #0xde,Lower Non-critical going low ,Asserted
+1c2,01/01/2005,01:34:31,Voltage #0xde,Lower Critical going low ,Asserted
+1c3,01/01/2005,01:34:48,System Event #0x83,Timestamp Clock Sync,Asserted
+1c4,01/01/2005,01:34:48,System Event #0x83,Timestamp Clock Sync,Asserted
+1c5,01/01/2005,03:12:27,Voltage #0xde,Lower Non-critical going low ,Deasserted
+1c6,01/01/2005,03:12:27,Voltage #0xde,Lower Critical going low ,Deasserted
+1c7,01/01/2005,03:12:28,Voltage #0xde,Lower Non-critical going low ,Asserted
+1c8,01/01/2005,03:12:28,Voltage #0xde,Lower Critical going low ,Asserted
+1c9,01/01/2005,03:12:45,System Event #0x83,Timestamp Clock Sync,Asserted
+1ca,01/01/2005,03:12:46,System Event #0x83,Timestamp Clock Sync,Asserted
+1cb,01/01/2005,03:13:24,Physical Security #0x04,System unplugged from LAN,Asserted
+1cc,01/01/2005,03:13:34,System Event #0x83,OEM System boot event,Asserted
+1cd,01/01/2005,03:37:20,Physical Security #0x04,System unplugged from LAN,Deasserted
+1ce,01/01/2005,03:37:20,Voltage #0xde,Lower Non-critical going low ,Deasserted
+1cf,01/01/2005,03:37:20,Voltage #0xde,Lower Critical going low ,Deasserted
+1d0,01/01/2005,03:37:21,Physical Security #0x04,System unplugged from LAN,Asserted
+1d1,01/01/2005,03:37:21,Voltage #0xde,Lower Non-critical going low ,Asserted
+1d2,01/01/2005,03:37:21,Voltage #0xde,Lower Critical going low ,Asserted
+1d3,01/01/2005,03:37:38,System Event #0x83,Timestamp Clock Sync,Asserted
+1d4,01/01/2005,03:37:38,System Event #0x83,Timestamp Clock Sync,Asserted
+1d5,01/01/2005,03:38:29,System Event #0x83,OEM System boot event,Asserted
+1d6,01/01/2005,03:48:02,Button #0x09,Power Button pressed,Asserted
+1d7,01/01/2005,03:48:29,System Event #0x83,Timestamp Clock Sync,Asserted
+1d8,01/01/2005,03:48:29,System Event #0x83,Timestamp Clock Sync,Asserted
+1d9,01/01/2005,03:48:30,Power Unit #0x01,Power off/down,Asserted
+1da,01/01/2005,00:00:09,Power Supply #0x50,Power Supply AC lost,Asserted
+1db,01/01/2005,00:00:10,Voltage #0xde,Lower Non-critical going low ,Asserted
+1dc,01/01/2005,00:00:10,Voltage #0xde,Lower Critical going low ,Asserted
+1dd,01/01/2005,00:00:16,Drive Slot #0xf0,Drive Present,Asserted
+1de,01/01/2005,00:00:16,Drive Slot #0xf1,Drive Present,Asserted
+1df,01/01/2005,00:00:16,Drive Slot #0xf2,Drive Present,Asserted
+1e0,01/01/2005,00:00:16,Drive Slot #0xf3,Drive Present,Asserted
+1e1,01/01/2005,00:00:16,Drive Slot #0xf4,Drive Present,Asserted
+1e2,01/01/2005,00:00:16,Drive Slot #0xf5,Drive Present,Asserted
+1e3,01/01/2005,00:00:16,Drive Slot #0xf6,Drive Present,Asserted
+1e4,01/01/2005,00:00:16,Drive Slot #0xf7,Drive Present,Asserted
+1e5,01/01/2005,00:00:25,System Event #0x83,Timestamp Clock Sync,Asserted
+1e6,01/01/2005,00:00:25,System Event #0x83,Timestamp Clock Sync,Asserted
+1e7,01/01/2005,00:00:35,Power Supply #0x50,Power Supply AC lost,Deasserted
+1e8,01/01/2005,00:01:28,System Firmware Error #0x06,Unknown Error,Asserted
+1e9,01/01/2005,00:01:28,System Firmware Error #0x06,Unknown Error,Asserted
+1ea,01/01/2005,00:01:32,System Event #0x83,OEM System boot event,Asserted
+1eb,01/01/2005,01:54:07,Voltage #0xde,Lower Non-critical going low ,Deasserted
+1ec,01/01/2005,01:54:07,Voltage #0xde,Lower Critical going low ,Deasserted
+1ed,01/01/2005,01:54:08,Voltage #0xde,Lower Non-critical going low ,Asserted
+1ee,01/01/2005,01:54:08,Voltage #0xde,Lower Critical going low ,Asserted
+1ef,01/01/2005,01:54:25,System Event #0x83,Timestamp Clock Sync,Asserted
+1f0,01/01/2005,01:54:25,System Event #0x83,Timestamp Clock Sync,Asserted
+1f1,01/01/2005,02:03:53,Voltage #0xde,Lower Non-critical going low ,Deasserted
+1f2,01/01/2005,02:03:53,Voltage #0xde,Lower Critical going low ,Deasserted
+1f3,01/01/2005,02:03:54,Voltage #0xde,Lower Non-critical going low ,Asserted
+1f4,01/01/2005,02:03:54,Voltage #0xde,Lower Critical going low ,Asserted
+1f5,01/01/2005,02:04:10,System Event #0x83,Timestamp Clock Sync,Asserted
+1f6,01/01/2005,02:04:10,System Event #0x83,Timestamp Clock Sync,Asserted
+1f7,01/01/2005,02:05:24,System Event #0x83,OEM System boot event,Asserted
+1f8,01/01/2005,02:05:56,Voltage #0xde,Lower Non-critical going low ,Deasserted
+1f9,01/01/2005,02:05:56,Voltage #0xde,Lower Critical going low ,Deasserted
+1fa,01/01/2005,02:05:57,Voltage #0xde,Lower Non-critical going low ,Asserted
+1fb,01/01/2005,02:05:57,Voltage #0xde,Lower Critical going low ,Asserted
+1fc,01/01/2005,02:06:13,System Event #0x83,Timestamp Clock Sync,Asserted
+1fd,01/01/2005,02:06:13,System Event #0x83,Timestamp Clock Sync,Asserted
+1fe,01/01/2005,02:08:23,System Event #0x83,OEM System boot event,Asserted
+1ff,01/01/2005,02:08:50,Voltage #0xde,Lower Non-critical going low ,Deasserted
+200,01/01/2005,02:08:50,Voltage #0xde,Lower Critical going low ,Deasserted
+201,01/01/2005,02:08:51,Voltage #0xde,Lower Non-critical going low ,Asserted
+202,01/01/2005,02:08:51,Voltage #0xde,Lower Critical going low ,Asserted
+203,01/01/2005,02:09:08,System Event #0x83,Timestamp Clock Sync,Asserted
+204,01/01/2005,02:09:08,System Event #0x83,Timestamp Clock Sync,Asserted
+205,01/01/2005,02:10:22,System Event #0x83,OEM System boot event,Asserted
+206,01/01/2005,02:10:49,Voltage #0xde,Lower Non-critical going low ,Deasserted
+207,01/01/2005,02:10:49,Voltage #0xde,Lower Critical going low ,Deasserted
+208,01/01/2005,02:10:49,Voltage #0xde,Lower Non-critical going low ,Asserted
+209,01/01/2005,02:10:49,Voltage #0xde,Lower Critical going low ,Asserted
+20a,01/01/2005,02:11:06,System Event #0x83,Timestamp Clock Sync,Asserted
+20b,01/01/2005,02:11:06,System Event #0x83,Timestamp Clock Sync,Asserted
+20c,01/01/2005,02:15:30,Voltage #0xde,Lower Non-critical going low ,Deasserted
+20d,01/01/2005,02:15:30,Voltage #0xde,Lower Critical going low ,Deasserted
+20e,01/01/2005,02:15:31,Voltage #0xde,Lower Non-critical going low ,Asserted
+20f,01/01/2005,02:15:31,Voltage #0xde,Lower Critical going low ,Asserted
+210,01/01/2005,02:15:47,System Event #0x83,Timestamp Clock Sync,Asserted
+211,01/01/2005,02:15:48,System Event #0x83,Timestamp Clock Sync,Asserted
+212,01/01/2005,02:17:02,System Event #0x83,OEM System boot event,Asserted
+213,01/01/2005,02:17:50,Voltage #0xde,Lower Non-critical going low ,Deasserted
+214,01/01/2005,02:17:50,Voltage #0xde,Lower Critical going low ,Deasserted
+215,01/01/2005,02:17:51,Voltage #0xde,Lower Non-critical going low ,Asserted
+216,01/01/2005,02:17:51,Voltage #0xde,Lower Critical going low ,Asserted
+217,01/01/2005,02:18:08,System Event #0x83,Timestamp Clock Sync,Asserted
+218,01/01/2005,02:18:08,System Event #0x83,Timestamp Clock Sync,Asserted
+219,01/01/2005,02:20:36,Voltage #0xde,Lower Non-critical going low ,Deasserted
+21a,01/01/2005,02:20:36,Voltage #0xde,Lower Critical going low ,Deasserted
+21b,01/01/2005,02:20:36,Voltage #0xde,Lower Non-critical going low ,Asserted
+21c,01/01/2005,02:20:36,Voltage #0xde,Lower Critical going low ,Asserted
+21d,01/01/2005,02:20:54,System Event #0x83,Timestamp Clock Sync,Asserted
+21e,01/01/2005,02:20:54,System Event #0x83,Timestamp Clock Sync,Asserted
+21f,01/01/2005,02:22:08,System Event #0x83,OEM System boot event,Asserted
+220,01/01/2005,02:22:33,Voltage #0xde,Lower Non-critical going low ,Deasserted
+221,01/01/2005,02:22:33,Voltage #0xde,Lower Critical going low ,Deasserted
+222,01/01/2005,02:22:34,Voltage #0xde,Lower Non-critical going low ,Asserted
+223,01/01/2005,02:22:34,Voltage #0xde,Lower Critical going low ,Asserted
+224,01/01/2005,02:22:51,System Event #0x83,Timestamp Clock Sync,Asserted
+225,01/01/2005,02:22:51,System Event #0x83,Timestamp Clock Sync,Asserted
+226,01/01/2005,02:24:37,Voltage #0xde,Lower Non-critical going low ,Deasserted
+227,01/01/2005,02:24:37,Voltage #0xde,Lower Critical going low ,Deasserted
+228,01/01/2005,02:24:38,Voltage #0xde,Lower Non-critical going low ,Asserted
+229,01/01/2005,02:24:38,Voltage #0xde,Lower Critical going low ,Asserted
+22a,01/01/2005,02:24:55,System Event #0x83,Timestamp Clock Sync,Asserted
+22b,01/01/2005,02:24:55,System Event #0x83,Timestamp Clock Sync,Asserted
+22c,01/01/2005,02:26:10,System Event #0x83,OEM System boot event,Asserted
+22d,01/03/2005,10:48:30,Voltage #0xde,Lower Non-critical going low ,Deasserted
+22e,01/03/2005,10:48:30,Voltage #0xde,Lower Critical going low ,Deasserted
+22f,01/03/2005,10:48:31,Voltage #0xde,Lower Non-critical going low ,Asserted
+230,01/03/2005,10:48:31,Voltage #0xde,Lower Critical going low ,Asserted
+231,01/03/2005,10:48:48,System Event #0x83,Timestamp Clock Sync,Asserted
+232,01/03/2005,10:48:43,System Event #0x83,Timestamp Clock Sync,Asserted
+233,01/03/2005,10:49:53,System Event #0x83,OEM System boot event,Asserted
+234,01/03/2005,10:56:29,Voltage #0xde,Lower Non-critical going low ,Deasserted
+235,01/03/2005,10:56:29,Voltage #0xde,Lower Critical going low ,Deasserted
+236,01/03/2005,10:56:29,Voltage #0xde,Lower Non-critical going low ,Asserted
+237,01/03/2005,10:56:29,Voltage #0xde,Lower Critical going low ,Asserted
+238,01/03/2005,10:56:47,System Event #0x83,Timestamp Clock Sync,Asserted
+239,01/03/2005,10:56:46,System Event #0x83,Timestamp Clock Sync,Asserted
+23a,01/03/2005,11:00:25,System Event #0x83,OEM System boot event,Asserted
+23b,01/03/2005,12:16:22,Voltage #0xde,Lower Non-critical going low ,Deasserted
+23c,01/03/2005,12:16:22,Voltage #0xde,Lower Critical going low ,Deasserted
+23d,01/03/2005,12:16:23,Voltage #0xde,Lower Non-critical going low ,Asserted
+23e,01/03/2005,12:16:23,Voltage #0xde,Lower Critical going low ,Asserted
+23f,01/03/2005,12:16:40,System Event #0x83,Timestamp Clock Sync,Asserted
+240,01/03/2005,12:16:41,System Event #0x83,Timestamp Clock Sync,Asserted
+241,01/03/2005,12:17:51,System Event #0x83,OEM System boot event,Asserted
+242,01/03/2005,12:57:07,Voltage #0xde,Lower Non-critical going low ,Deasserted
+243,01/03/2005,12:57:07,Voltage #0xde,Lower Critical going low ,Deasserted
+244,01/03/2005,12:57:08,Voltage #0xde,Lower Non-critical going low ,Asserted
+245,01/03/2005,12:57:08,Voltage #0xde,Lower Critical going low ,Asserted
+246,01/03/2005,12:57:25,System Event #0x83,Timestamp Clock Sync,Asserted
+247,01/03/2005,12:57:24,System Event #0x83,Timestamp Clock Sync,Asserted
+248,01/03/2005,12:58:34,System Event #0x83,OEM System boot event,Asserted
+249,01/03/2005,14:03:14,Voltage #0xde,Lower Non-critical going low ,Deasserted
+24a,01/03/2005,14:03:14,Voltage #0xde,Lower Critical going low ,Deasserted
+24b,01/03/2005,14:03:15,Voltage #0xde,Lower Non-critical going low ,Asserted
+24c,01/03/2005,14:03:15,Voltage #0xde,Lower Critical going low ,Asserted
+24d,01/03/2005,14:03:32,System Event #0x83,Timestamp Clock Sync,Asserted
+24e,01/03/2005,14:03:33,System Event #0x83,Timestamp Clock Sync,Asserted
+24f,01/03/2005,14:10:56,Voltage #0xde,Lower Non-critical going low ,Deasserted
+250,01/03/2005,14:10:56,Voltage #0xde,Lower Critical going low ,Deasserted
+251,01/03/2005,14:10:57,Voltage #0xde,Lower Non-critical going low ,Asserted
+252,01/03/2005,14:10:57,Voltage #0xde,Lower Critical going low ,Asserted
+253,01/03/2005,14:11:14,System Event #0x83,Timestamp Clock Sync,Asserted
+254,01/03/2005,14:11:14,System Event #0x83,Timestamp Clock Sync,Asserted
+255,01/03/2005,14:14:16,Voltage #0xde,Lower Non-critical going low ,Deasserted
+256,01/03/2005,14:14:16,Voltage #0xde,Lower Critical going low ,Deasserted
+257,01/03/2005,14:14:17,Voltage #0xde,Lower Non-critical going low ,Asserted
+258,01/03/2005,14:14:17,Voltage #0xde,Lower Critical going low ,Asserted
+259,01/03/2005,14:14:34,System Event #0x83,Timestamp Clock Sync,Asserted
+25a,01/03/2005,14:14:35,System Event #0x83,Timestamp Clock Sync,Asserted
+25b,01/03/2005,14:15:45,System Event #0x83,OEM System boot event,Asserted
+25c,01/03/2005,14:34:47,Voltage #0xde,Lower Non-critical going low ,Deasserted
+25d,01/03/2005,14:34:47,Voltage #0xde,Lower Critical going low ,Deasserted
+25e,01/03/2005,14:34:48,Voltage #0xde,Lower Non-critical going low ,Asserted
+25f,01/03/2005,14:34:48,Voltage #0xde,Lower Critical going low ,Asserted
+260,01/03/2005,14:35:05,System Event #0x83,Timestamp Clock Sync,Asserted
+261,01/03/2005,14:35:05,System Event #0x83,Timestamp Clock Sync,Asserted
+262,01/03/2005,14:36:15,System Event #0x83,OEM System boot event,Asserted
+263,01/03/2005,14:38:36,Voltage #0xde,Lower Non-critical going low ,Deasserted
+264,01/03/2005,14:38:36,Voltage #0xde,Lower Critical going low ,Deasserted
+265,01/03/2005,14:38:36,Voltage #0xde,Lower Non-critical going low ,Asserted
+266,01/03/2005,14:38:36,Voltage #0xde,Lower Critical going low ,Asserted
+267,01/03/2005,14:38:54,System Event #0x83,Timestamp Clock Sync,Asserted
+268,01/03/2005,14:38:54,System Event #0x83,Timestamp Clock Sync,Asserted
+269,01/03/2005,14:40:04,System Event #0x83,OEM System boot event,Asserted
+26a,01/03/2005,14:41:59,Voltage #0xde,Lower Non-critical going low ,Deasserted
+26b,01/03/2005,14:41:59,Voltage #0xde,Lower Critical going low ,Deasserted
+26c,01/03/2005,14:41:59,Voltage #0xde,Lower Non-critical going low ,Asserted
+26d,01/03/2005,14:41:59,Voltage #0xde,Lower Critical going low ,Asserted
+26e,01/03/2005,14:42:16,System Event #0x83,Timestamp Clock Sync,Asserted
+26f,01/03/2005,14:42:17,System Event #0x83,Timestamp Clock Sync,Asserted
+270,01/03/2005,14:46:23,System Event #0x83,OEM System boot event,Asserted
+271,01/03/2005,14:46:33,Voltage #0xde,Lower Non-critical going low ,Deasserted
+272,01/03/2005,14:46:33,Voltage #0xde,Lower Critical going low ,Deasserted
+273,01/03/2005,14:46:34,Voltage #0xde,Lower Non-critical going low ,Asserted
+274,01/03/2005,14:46:34,Voltage #0xde,Lower Critical going low ,Asserted
+275,01/03/2005,14:46:51,System Event #0x83,Timestamp Clock Sync,Asserted
+276,01/03/2005,14:46:51,System Event #0x83,Timestamp Clock Sync,Asserted
+277,01/03/2005,14:48:55,Power Unit #0x01,Power off/down,Asserted
+278,01/03/2005,14:49:00,Power Unit #0x01,Power off/down,Deasserted
+279,01/03/2005,14:49:03,Voltage #0xde,Lower Non-critical going low ,Deasserted
+27a,01/03/2005,14:49:03,Voltage #0xde,Lower Critical going low ,Deasserted
+27b,01/03/2005,14:49:06,Voltage #0xde,Lower Non-critical going low ,Asserted
+27c,01/03/2005,14:49:06,Voltage #0xde,Lower Critical going low ,Asserted
+27d,01/03/2005,14:49:19,System Event #0x83,Timestamp Clock Sync,Asserted
+27e,01/03/2005,14:49:19,System Event #0x83,Timestamp Clock Sync,Asserted
+27f,01/03/2005,14:51:09,System Event #0x83,OEM System boot event,Asserted
+280,01/03/2005,15:13:10,Memory #0x53,Correctable ECC,Asserted
+281,01/03/2005,15:18:57,Voltage #0xde,Lower Non-critical going low ,Deasserted
+282,01/03/2005,15:18:57,Voltage #0xde,Lower Critical going low ,Deasserted
+283,01/03/2005,15:18:58,Voltage #0xde,Lower Non-critical going low ,Asserted
+284,01/03/2005,15:18:58,Voltage #0xde,Lower Critical going low ,Asserted
+285,01/03/2005,15:19:14,System Event #0x83,Timestamp Clock Sync,Asserted
+286,01/03/2005,15:19:14,System Event #0x83,Timestamp Clock Sync,Asserted
+287,01/03/2005,19:29:20,System Event #0x83,OEM System boot event,Asserted
+288,01/03/2005,21:02:55,Drive Slot #0xf1,Drive Present,Deasserted
+289,01/03/2005,21:02:59,Drive Slot #0xf2,Drive Fault,Asserted
+28a,01/04/2005,00:33:01,Power Supply #0x50,Power Supply AC lost,Asserted
+28b,01/04/2005,00:33:20,Power Supply #0x50,Power Supply AC lost,Deasserted
+28c,01/04/2005,09:33:23,Voltage #0xde,Lower Non-critical going low ,Deasserted
+28d,01/04/2005,09:33:23,Voltage #0xde,Lower Critical going low ,Deasserted
+28e,01/04/2005,09:33:23,Voltage #0xde,Lower Non-critical going low ,Asserted
+28f,01/04/2005,09:33:23,Voltage #0xde,Lower Critical going low ,Asserted
+290,01/04/2005,09:33:24,Drive Slot #0xf2,Drive Fault,Deasserted
+291,01/04/2005,09:33:40,System Event #0x83,Timestamp Clock Sync,Asserted
+292,01/04/2005,09:33:40,System Event #0x83,Timestamp Clock Sync,Asserted
+293,01/04/2005,09:34:22,Drive Slot #0xf2,Drive Fault,Asserted
+294,01/04/2005,09:34:57,System Event #0x83,OEM System boot event,Asserted
+295,01/04/2005,10:50:07,Voltage #0xde,Lower Non-critical going low ,Deasserted
+296,01/04/2005,10:50:07,Voltage #0xde,Lower Critical going low ,Deasserted
+297,01/04/2005,10:50:08,Voltage #0xde,Lower Non-critical going low ,Asserted
+298,01/04/2005,10:50:08,Voltage #0xde,Lower Critical going low ,Asserted
+299,01/04/2005,10:50:09,Drive Slot #0xf2,Drive Fault,Deasserted
+29a,01/04/2005,10:50:25,System Event #0x83,Timestamp Clock Sync,Asserted
+29b,12/17/2013,01:19:36,System Event #0x83,Timestamp Clock Sync,Asserted
+29c,12/17/2013,01:20:20,Drive Slot #0xf2,Drive Fault,Asserted
+29d,12/17/2013,01:21:20,System Event #0x83,OEM System boot event,Asserted
+29e,12/17/2013,01:23:06,Voltage #0xde,Lower Non-critical going low ,Deasserted
+29f,12/17/2013,01:23:06,Voltage #0xde,Lower Critical going low ,Deasserted
+2a0,12/17/2013,01:23:07,Voltage #0xde,Lower Non-critical going low ,Asserted
+2a1,12/17/2013,01:23:07,Voltage #0xde,Lower Critical going low ,Asserted
+2a2,12/17/2013,01:23:09,Drive Slot #0xf2,Drive Fault,Deasserted
+2a3,12/17/2013,01:23:24,System Event #0x83,Timestamp Clock Sync,Asserted
+2a4,12/17/2013,01:23:24,System Event #0x83,Timestamp Clock Sync,Asserted
+2a5,12/17/2013,01:24:39,Drive Slot #0xf2,Drive Fault,Asserted
+2a6,12/17/2013,01:25:13,System Event #0x83,OEM System boot event,Asserted
+2a7,12/17/2013,02:10:00,Voltage #0xde,Lower Non-critical going low ,Deasserted
+2a8,12/17/2013,02:10:01,Voltage #0xde,Lower Critical going low ,Deasserted
+2a9,12/17/2013,02:10:01,Voltage #0xde,Lower Non-critical going low ,Asserted
+2aa,12/17/2013,02:10:01,Voltage #0xde,Lower Critical going low ,Asserted
+2ab,12/17/2013,02:10:03,Drive Slot #0xf2,Drive Fault,Deasserted
+2ac,12/17/2013,02:10:18,System Event #0x83,Timestamp Clock Sync,Asserted
+2ad,12/17/2013,02:10:19,System Event #0x83,Timestamp Clock Sync,Asserted
+2ae,12/17/2013,02:10:58,Drive Slot #0xf2,Drive Fault,Asserted
+2af,12/17/2013,02:11:31,System Event #0x83,OEM System boot event,Asserted
+2b0,12/17/2013,02:18:36,Voltage #0xde,Lower Non-critical going low ,Deasserted
+2b1,12/17/2013,02:18:36,Voltage #0xde,Lower Critical going low ,Deasserted
+2b2,12/17/2013,02:18:37,Voltage #0xde,Lower Non-critical going low ,Asserted
+2b3,12/17/2013,02:18:37,Voltage #0xde,Lower Critical going low ,Asserted
+2b4,12/17/2013,02:18:38,Drive Slot #0xf2,Drive Fault,Deasserted
+2b5,12/17/2013,02:18:54,System Event #0x83,Timestamp Clock Sync,Asserted
+2b6,12/17/2013,02:18:54,System Event #0x83,Timestamp Clock Sync,Asserted
+2b7,12/17/2013,02:19:38,Drive Slot #0xf2,Drive Fault,Asserted
+2b8,12/17/2013,02:19:41,System Event #0x83,OEM System boot event,Asserted
+2b9,12/17/2013,02:20:10,System Event #0x83,OEM System boot event,Asserted
+2ba,12/17/2013,02:20:13,System Event #0x83,OEM System boot event,Asserted
+2bb,12/17/2013,02:37:13,Voltage #0xde,Lower Non-critical going low ,Deasserted
+2bc,12/17/2013,02:37:13,Voltage #0xde,Lower Critical going low ,Deasserted
+2bd,12/17/2013,02:37:14,Voltage #0xde,Lower Non-critical going low ,Asserted
+2be,12/17/2013,02:37:14,Voltage #0xde,Lower Critical going low ,Asserted
+2bf,12/17/2013,02:37:15,Drive Slot #0xf2,Drive Fault,Deasserted
+2c0,12/17/2013,02:37:31,System Event #0x83,Timestamp Clock Sync,Asserted
+2c1,12/17/2013,02:37:30,System Event #0x83,Timestamp Clock Sync,Asserted
+2c2,12/17/2013,02:38:03,Drive Slot #0xf2,Drive Fault,Asserted
+2c3,12/17/2013,02:39:33,Voltage #0xde,Lower Non-critical going low ,Deasserted
+2c4,12/17/2013,02:39:33,Voltage #0xde,Lower Critical going low ,Deasserted
+2c5,12/17/2013,02:39:34,Voltage #0xde,Lower Non-critical going low ,Asserted
+2c6,12/17/2013,02:39:34,Voltage #0xde,Lower Critical going low ,Asserted
+2c7,12/17/2013,02:39:35,Drive Slot #0xf2,Drive Fault,Deasserted
+2c8,12/17/2013,02:39:51,System Event #0x83,Timestamp Clock Sync,Asserted
+2c9,12/17/2013,02:39:51,System Event #0x83,Timestamp Clock Sync,Asserted
+2ca,12/17/2013,02:40:41,Drive Slot #0xf2,Drive Fault,Asserted
+2cb,12/17/2013,02:41:05,System Event #0x83,OEM System boot event,Asserted
+2cc,12/17/2013,03:05:03,Voltage #0xde,Lower Non-critical going low ,Deasserted
+2cd,12/17/2013,03:05:03,Voltage #0xde,Lower Critical going low ,Deasserted
+2ce,12/17/2013,03:05:03,Voltage #0xde,Lower Non-critical going low ,Asserted
+2cf,12/17/2013,03:05:03,Voltage #0xde,Lower Critical going low ,Asserted
+2d0,12/17/2013,03:05:05,Drive Slot #0xf2,Drive Fault,Deasserted
+2d1,12/17/2013,03:05:20,System Event #0x83,Timestamp Clock Sync,Asserted
+2d2,12/17/2013,03:05:20,System Event #0x83,Timestamp Clock Sync,Asserted
+2d3,12/17/2013,03:06:01,Drive Slot #0xf2,Drive Fault,Asserted
+2d4,12/17/2013,03:06:30,System Event #0x83,OEM System boot event,Asserted
+2d5,12/17/2013,03:09:27,Voltage #0xde,Lower Non-critical going low ,Deasserted
+2d6,12/17/2013,03:09:27,Voltage #0xde,Lower Critical going low ,Deasserted
+2d7,12/17/2013,03:09:27,Voltage #0xde,Lower Non-critical going low ,Asserted
+2d8,12/17/2013,03:09:27,Voltage #0xde,Lower Critical going low ,Asserted
+2d9,12/17/2013,03:09:28,Drive Slot #0xf2,Drive Fault,Deasserted
+2da,12/17/2013,03:09:44,System Event #0x83,Timestamp Clock Sync,Asserted
+2db,12/17/2013,03:09:44,System Event #0x83,Timestamp Clock Sync,Asserted
+2dc,12/17/2013,03:10:29,Drive Slot #0xf2,Drive Fault,Asserted
+2dd,12/17/2013,03:11:13,System Event #0x83,OEM System boot event,Asserted
+2de,12/17/2013,03:13:51,Voltage #0xde,Lower Non-critical going low ,Deasserted
+2df,12/17/2013,03:13:51,Voltage #0xde,Lower Critical going low ,Deasserted
+2e0,12/17/2013,03:13:52,Voltage #0xde,Lower Non-critical going low ,Asserted
+2e1,12/17/2013,03:13:52,Voltage #0xde,Lower Critical going low ,Asserted
+2e2,12/17/2013,03:13:52,Drive Slot #0xf2,Drive Fault,Deasserted
+2e3,12/17/2013,03:14:09,System Event #0x83,Timestamp Clock Sync,Asserted
+2e4,12/17/2013,03:14:09,System Event #0x83,Timestamp Clock Sync,Asserted
+2e5,12/17/2013,03:14:56,Drive Slot #0xf2,Drive Fault,Asserted
+2e6,12/17/2013,03:16:32,Voltage #0xde,Lower Non-critical going low ,Deasserted
+2e7,12/17/2013,03:16:32,Voltage #0xde,Lower Critical going low ,Deasserted
+2e8,12/17/2013,03:16:33,Voltage #0xde,Lower Non-critical going low ,Asserted
+2e9,12/17/2013,03:16:33,Voltage #0xde,Lower Critical going low ,Asserted
+2ea,12/17/2013,03:16:35,Drive Slot #0xf2,Drive Fault,Deasserted
+2eb,12/17/2013,03:16:50,System Event #0x83,Timestamp Clock Sync,Asserted
+2ec,12/17/2013,03:16:50,System Event #0x83,Timestamp Clock Sync,Asserted
+2ed,12/17/2013,03:17:37,System Event #0x83,OEM System boot event,Asserted
+2ee,12/17/2013,03:17:39,Drive Slot #0xf2,Drive Fault,Asserted
+2ef,12/17/2013,03:30:12,System Event #0x83,OEM System boot event,Asserted
+2f0,12/19/2013,01:07:24,Voltage #0xde,Lower Non-critical going low ,Deasserted
+2f1,12/19/2013,01:07:24,Voltage #0xde,Lower Critical going low ,Deasserted
+2f2,12/19/2013,01:07:25,Voltage #0xde,Lower Non-critical going low ,Asserted
+2f3,12/19/2013,01:07:25,Voltage #0xde,Lower Critical going low ,Asserted
+2f4,12/19/2013,01:07:26,Drive Slot #0xf2,Drive Fault,Deasserted
+2f5,12/19/2013,01:07:42,System Event #0x83,Timestamp Clock Sync,Asserted
+2f6,12/19/2013,01:07:38,System Event #0x83,Timestamp Clock Sync,Asserted
+2f7,12/19/2013,01:08:12,System Event #0x83,OEM System boot event,Asserted
+2f8,12/19/2013,01:08:14,Drive Slot #0xf2,Drive Fault,Asserted
+2f9,12/19/2013,01:10:53,Voltage #0xde,Lower Non-critical going low ,Deasserted
+2fa,12/19/2013,01:10:53,Voltage #0xde,Lower Critical going low ,Deasserted
+2fb,12/19/2013,01:10:53,Voltage #0xde,Lower Non-critical going low ,Asserted
+2fc,12/19/2013,01:10:53,Voltage #0xde,Lower Critical going low ,Asserted
+2fd,12/19/2013,01:10:55,Drive Slot #0xf2,Drive Fault,Deasserted
+2fe,12/19/2013,01:11:11,System Event #0x83,Timestamp Clock Sync,Asserted
+2ff,12/19/2013,01:11:11,System Event #0x83,Timestamp Clock Sync,Asserted
+300,12/19/2013,01:11:43,Drive Slot #0xf2,Drive Fault,Asserted
+301,12/19/2013,01:11:46,System Event #0x83,OEM System boot event,Asserted
+302,12/19/2013,01:12:10,Voltage #0xde,Lower Non-critical going low ,Deasserted
+303,12/19/2013,01:12:10,Voltage #0xde,Lower Critical going low ,Deasserted
+304,12/19/2013,01:12:11,Voltage #0xde,Lower Non-critical going low ,Asserted
+305,12/19/2013,01:12:11,Voltage #0xde,Lower Critical going low ,Asserted
+306,12/19/2013,01:12:12,Drive Slot #0xf2,Drive Fault,Deasserted
+307,12/19/2013,01:12:27,System Event #0x83,Timestamp Clock Sync,Asserted
+308,12/19/2013,01:12:27,System Event #0x83,Timestamp Clock Sync,Asserted
+309,12/19/2013,01:12:58,Drive Slot #0xf2,Drive Fault,Asserted
+30a,12/19/2013,01:13:33,Voltage #0xde,Lower Non-critical going low ,Deasserted
+30b,12/19/2013,01:13:33,Voltage #0xde,Lower Critical going low ,Deasserted
+30c,12/19/2013,01:13:34,Voltage #0xde,Lower Non-critical going low ,Asserted
+30d,12/19/2013,01:13:34,Voltage #0xde,Lower Critical going low ,Asserted
+30e,12/19/2013,01:13:36,Drive Slot #0xf2,Drive Fault,Deasserted
+30f,12/19/2013,01:13:50,System Event #0x83,Timestamp Clock Sync,Asserted
+310,12/19/2013,01:13:50,System Event #0x83,Timestamp Clock Sync,Asserted
+311,12/19/2013,01:14:34,Drive Slot #0xf2,Drive Fault,Asserted
+312,12/19/2013,01:15:31,Voltage #0xde,Lower Non-critical going low ,Deasserted
+313,12/19/2013,01:15:31,Voltage #0xde,Lower Critical going low ,Deasserted
+314,12/19/2013,01:15:32,Voltage #0xde,Lower Non-critical going low ,Asserted
+315,12/19/2013,01:15:32,Voltage #0xde,Lower Critical going low ,Asserted
+316,12/19/2013,01:15:33,Drive Slot #0xf2,Drive Fault,Deasserted
+317,12/19/2013,01:15:48,System Event #0x83,Timestamp Clock Sync,Asserted
+318,12/19/2013,01:15:49,System Event #0x83,Timestamp Clock Sync,Asserted
+319,12/19/2013,01:16:31,Drive Slot #0xf2,Drive Fault,Asserted
+31a,12/19/2013,01:16:59,System Event #0x83,OEM System boot event,Asserted
+31b,12/19/2013,01:34:13,Voltage #0xde,Lower Non-critical going low ,Deasserted
+31c,12/19/2013,01:34:13,Voltage #0xde,Lower Critical going low ,Deasserted
+31d,12/19/2013,01:34:14,Voltage #0xde,Lower Non-critical going low ,Asserted
+31e,12/19/2013,01:34:14,Voltage #0xde,Lower Critical going low ,Asserted
+31f,12/19/2013,01:34:15,Drive Slot #0xf2,Drive Fault,Deasserted
+320,12/19/2013,01:34:31,System Event #0x83,Timestamp Clock Sync,Asserted
+321,12/19/2013,01:34:33,System Event #0x83,Timestamp Clock Sync,Asserted
+322,12/19/2013,01:35:14,Drive Slot #0xf2,Drive Fault,Asserted
+323,12/19/2013,01:35:43,System Event #0x83,OEM System boot event,Asserted
+324,12/19/2013,01:44:09,Voltage #0xde,Lower Non-critical going low ,Deasserted
+325,12/19/2013,01:44:09,Voltage #0xde,Lower Critical going low ,Deasserted
+326,12/19/2013,01:44:10,Voltage #0xde,Lower Non-critical going low ,Asserted
+327,12/19/2013,01:44:10,Voltage #0xde,Lower Critical going low ,Asserted
+328,12/19/2013,01:44:11,Drive Slot #0xf2,Drive Fault,Deasserted
+329,12/19/2013,01:44:27,System Event #0x83,Timestamp Clock Sync,Asserted
+32a,12/19/2013,01:44:27,System Event #0x83,Timestamp Clock Sync,Asserted
+32b,12/19/2013,01:45:08,Drive Slot #0xf2,Drive Fault,Asserted
+32c,12/19/2013,01:45:37,System Event #0x83,OEM System boot event,Asserted
+32d,12/19/2013,01:47:05,Voltage #0xde,Lower Non-critical going low ,Deasserted
+32e,12/19/2013,01:47:05,Voltage #0xde,Lower Critical going low ,Deasserted
+32f,12/19/2013,01:47:06,Voltage #0xde,Lower Non-critical going low ,Asserted
+330,12/19/2013,01:47:06,Voltage #0xde,Lower Critical going low ,Asserted
+331,12/19/2013,01:47:08,Drive Slot #0xf2,Drive Fault,Deasserted
+332,12/19/2013,01:47:22,System Event #0x83,Timestamp Clock Sync,Asserted
+333,12/19/2013,01:47:23,System Event #0x83,Timestamp Clock Sync,Asserted
+334,12/19/2013,01:48:06,Drive Slot #0xf2,Drive Fault,Asserted
+335,12/19/2013,01:48:33,System Event #0x83,OEM System boot event,Asserted
+336,12/19/2013,01:57:24,Voltage #0xde,Lower Non-critical going low ,Deasserted
+337,12/19/2013,01:57:24,Voltage #0xde,Lower Critical going low ,Deasserted
+338,12/19/2013,01:57:25,Voltage #0xde,Lower Non-critical going low ,Asserted
+339,12/19/2013,01:57:25,Voltage #0xde,Lower Critical going low ,Asserted
+33a,12/19/2013,01:57:25,Drive Slot #0xf2,Drive Fault,Deasserted
+33b,12/19/2013,01:57:41,System Event #0x83,Timestamp Clock Sync,Asserted
+33c,12/19/2013,01:57:42,System Event #0x83,Timestamp Clock Sync,Asserted
+33d,12/19/2013,01:58:25,Drive Slot #0xf2,Drive Fault,Asserted
+33e,12/19/2013,01:58:52,System Event #0x83,OEM System boot event,Asserted
+33f,12/19/2013,02:00:13,Voltage #0xde,Lower Non-critical going low ,Deasserted
+340,12/19/2013,02:00:13,Voltage #0xde,Lower Critical going low ,Deasserted
+341,12/19/2013,02:00:14,Voltage #0xde,Lower Non-critical going low ,Asserted
+342,12/19/2013,02:00:14,Voltage #0xde,Lower Critical going low ,Asserted
+343,12/19/2013,02:00:15,Drive Slot #0xf2,Drive Fault,Deasserted
+344,12/19/2013,02:00:30,System Event #0x83,Timestamp Clock Sync,Asserted
+345,12/19/2013,02:00:31,System Event #0x83,Timestamp Clock Sync,Asserted
+346,12/19/2013,02:01:14,Drive Slot #0xf2,Drive Fault,Asserted
+347,12/19/2013,02:03:21,Voltage #0xde,Lower Non-critical going low ,Deasserted
+348,12/19/2013,02:03:21,Voltage #0xde,Lower Critical going low ,Deasserted
+349,12/19/2013,02:03:22,Voltage #0xde,Lower Non-critical going low ,Asserted
+34a,12/19/2013,02:03:22,Voltage #0xde,Lower Critical going low ,Asserted
+34b,12/19/2013,02:03:23,Drive Slot #0xf2,Drive Fault,Deasserted
+34c,12/19/2013,02:03:39,System Event #0x83,Timestamp Clock Sync,Asserted
+34d,12/19/2013,02:03:39,System Event #0x83,Timestamp Clock Sync,Asserted
+34e,12/19/2013,02:04:23,Drive Slot #0xf2,Drive Fault,Asserted
+34f,12/19/2013,02:04:49,System Event #0x83,OEM System boot event,Asserted
+350,12/19/2013,02:08:36,Voltage #0xde,Lower Non-critical going low ,Deasserted
+351,12/19/2013,02:08:36,Voltage #0xde,Lower Critical going low ,Deasserted
+352,12/19/2013,02:08:37,Voltage #0xde,Lower Non-critical going low ,Asserted
+353,12/19/2013,02:08:37,Voltage #0xde,Lower Critical going low ,Asserted
+354,12/19/2013,02:08:38,Drive Slot #0xf2,Drive Fault,Deasserted
+355,12/19/2013,02:08:53,System Event #0x83,Timestamp Clock Sync,Asserted
+356,12/19/2013,02:08:54,System Event #0x83,Timestamp Clock Sync,Asserted
+357,12/19/2013,02:09:35,Drive Slot #0xf2,Drive Fault,Asserted
+358,12/19/2013,02:10:02,System Event #0x83,OEM System boot event,Asserted
+359,12/19/2013,02:29:23,Voltage #0xde,Lower Non-critical going low ,Deasserted
+35a,12/19/2013,02:29:23,Voltage #0xde,Lower Critical going low ,Deasserted
+35b,12/19/2013,02:29:24,Voltage #0xde,Lower Non-critical going low ,Asserted
+35c,12/19/2013,02:29:24,Voltage #0xde,Lower Critical going low ,Asserted
+35d,12/19/2013,02:29:26,Drive Slot #0xf2,Drive Fault,Deasserted
+35e,12/19/2013,02:29:41,System Event #0x83,Timestamp Clock Sync,Asserted
+35f,12/19/2013,02:29:42,System Event #0x83,Timestamp Clock Sync,Asserted
+360,12/19/2013,02:30:23,Drive Slot #0xf2,Drive Fault,Asserted
+361,12/19/2013,02:30:52,System Event #0x83,OEM System boot event,Asserted
+362,12/19/2013,02:32:00,Voltage #0xde,Lower Non-critical going low ,Deasserted
+363,12/19/2013,02:32:00,Voltage #0xde,Lower Critical going low ,Deasserted
+364,12/19/2013,02:32:01,Voltage #0xde,Lower Non-critical going low ,Asserted
+365,12/19/2013,02:32:01,Voltage #0xde,Lower Critical going low ,Asserted
+366,12/19/2013,02:32:02,Drive Slot #0xf2,Drive Fault,Deasserted
+367,12/19/2013,02:32:17,System Event #0x83,Timestamp Clock Sync,Asserted
+368,12/19/2013,02:32:18,System Event #0x83,Timestamp Clock Sync,Asserted
+369,12/19/2013,02:32:59,Drive Slot #0xf2,Drive Fault,Asserted
+36a,12/19/2013,02:33:26,System Event #0x83,OEM System boot event,Asserted
+36b,12/19/2013,02:55:28,Voltage #0xde,Lower Non-critical going low ,Deasserted
+36c,12/19/2013,02:55:28,Voltage #0xde,Lower Critical going low ,Deasserted
+36d,12/19/2013,02:55:29,Voltage #0xde,Lower Non-critical going low ,Asserted
+36e,12/19/2013,02:55:29,Voltage #0xde,Lower Critical going low ,Asserted
+36f,12/19/2013,02:55:30,Drive Slot #0xf2,Drive Fault,Deasserted
+370,12/19/2013,02:55:46,System Event #0x83,Timestamp Clock Sync,Asserted
+371,12/19/2013,02:55:46,System Event #0x83,Timestamp Clock Sync,Asserted
+372,12/19/2013,02:56:28,Drive Slot #0xf2,Drive Fault,Asserted
+373,12/19/2013,02:56:56,System Event #0x83,OEM System boot event,Asserted
+374,12/19/2013,02:58:54,Voltage #0xde,Lower Non-critical going low ,Deasserted
+375,12/19/2013,02:58:54,Voltage #0xde,Lower Critical going low ,Deasserted
+376,12/19/2013,02:58:55,Voltage #0xde,Lower Non-critical going low ,Asserted
+377,12/19/2013,02:58:55,Voltage #0xde,Lower Critical going low ,Asserted
+378,12/19/2013,02:58:56,Drive Slot #0xf2,Drive Fault,Deasserted
+379,12/19/2013,02:59:12,System Event #0x83,Timestamp Clock Sync,Asserted
+37a,12/19/2013,02:59:12,System Event #0x83,Timestamp Clock Sync,Asserted
+37b,12/19/2013,02:59:56,Drive Slot #0xf2,Drive Fault,Asserted
+37c,12/19/2013,03:00:22,System Event #0x83,OEM System boot event,Asserted
+37d,12/20/2013,04:35:11,Voltage #0xde,Lower Non-critical going low ,Deasserted
+37e,12/20/2013,04:35:11,Voltage #0xde,Lower Critical going low ,Deasserted
+37f,12/20/2013,04:35:11,Voltage #0xde,Lower Non-critical going low ,Asserted
+380,12/20/2013,04:35:12,Voltage #0xde,Lower Critical going low ,Asserted
+381,12/20/2013,04:35:12,Drive Slot #0xf2,Drive Fault,Deasserted
+382,12/20/2013,04:35:28,System Event #0x83,Timestamp Clock Sync,Asserted
+383,12/20/2013,09:35:44,System Event #0x83,Timestamp Clock Sync,Asserted
+384,12/20/2013,09:36:30,Drive Slot #0xf2,Drive Fault,Asserted
+385,12/20/2013,09:36:54,System Event #0x83,OEM System boot event,Asserted
+386,12/20/2013,09:37:12,Voltage #0xde,Lower Non-critical going low ,Deasserted
+387,12/20/2013,09:37:12,Voltage #0xde,Lower Critical going low ,Deasserted
+388,12/20/2013,09:37:13,Voltage #0xde,Lower Non-critical going low ,Asserted
+389,12/20/2013,09:37:13,Voltage #0xde,Lower Critical going low ,Asserted
+38a,12/20/2013,09:37:15,Drive Slot #0xf2,Drive Fault,Deasserted
+38b,12/20/2013,09:37:30,System Event #0x83,Timestamp Clock Sync,Asserted
+38c,12/20/2013,09:37:30,System Event #0x83,Timestamp Clock Sync,Asserted
+38d,12/20/2013,09:38:17,Drive Slot #0xf2,Drive Fault,Asserted
+38e,12/20/2013,09:38:39,System Event #0x83,OEM System boot event,Asserted
+38f,12/20/2013,09:54:58,Voltage #0xde,Lower Non-critical going low ,Deasserted
+390,12/20/2013,09:54:58,Voltage #0xde,Lower Critical going low ,Deasserted
+391,12/20/2013,09:54:59,Voltage #0xde,Lower Non-critical going low ,Asserted
+392,12/20/2013,09:54:59,Voltage #0xde,Lower Critical going low ,Asserted
+393,12/20/2013,09:55:01,Drive Slot #0xf2,Drive Fault,Deasserted
+394,12/20/2013,09:55:12,Power Unit #0x01,Power off/down,Asserted
+395,12/20/2013,09:55:17,Power Unit #0x01,Power off/down,Deasserted
+396,12/20/2013,09:55:20,Voltage #0xde,Lower Non-critical going low ,Deasserted
+397,12/20/2013,09:55:20,Voltage #0xde,Lower Critical going low ,Deasserted
+398,12/20/2013,09:55:24,Voltage #0xde,Lower Non-critical going low ,Asserted
+399,12/20/2013,09:55:24,Voltage #0xde,Lower Critical going low ,Asserted
+39a,12/20/2013,09:55:36,System Event #0x83,Timestamp Clock Sync,Asserted
+39b,12/20/2013,09:55:36,System Event #0x83,Timestamp Clock Sync,Asserted
+39c,12/20/2013,09:56:40,Drive Slot #0xf2,Drive Fault,Asserted
+39d,12/20/2013,09:57:31,System Event #0x83,OEM System boot event,Asserted
+39e,12/27/2013,20:34:05,Power Supply #0x50,Power Supply AC lost,Asserted
+39f,12/30/2013,07:14:44,Power Supply #0x50,Power Supply AC lost,Deasserted
+3a0,12/30/2013,07:14:44,Voltage #0xde,Lower Non-critical going low ,Deasserted
+3a1,12/30/2013,07:14:44,Voltage #0xde,Lower Critical going low ,Deasserted
+3a2,12/30/2013,07:14:44,Power Supply #0x50,Power Supply AC lost,Asserted
+3a3,12/30/2013,07:14:45,Voltage #0xde,Lower Non-critical going low ,Asserted
+3a4,12/30/2013,07:14:45,Voltage #0xde,Lower Critical going low ,Asserted
+3a5,12/30/2013,07:14:46,Drive Slot #0xf2,Drive Fault,Deasserted
+3a6,12/30/2013,07:15:01,System Event #0x83,Timestamp Clock Sync,Asserted
+3a7,12/30/2013,07:15:30,System Event #0x83,Timestamp Clock Sync,Asserted
+3a8,12/30/2013,07:16:12,Drive Slot #0xf2,Drive Fault,Asserted
+3a9,12/30/2013,08:11:11,System Event #0x83,OEM System boot event,Asserted
+3aa,01/17/2014,06:29:58,Power Supply #0x50,Power Supply AC lost,Deasserted
+3ab,01/17/2014,06:29:58,Voltage #0xde,Lower Non-critical going low ,Deasserted
+3ac,01/17/2014,06:29:58,Voltage #0xde,Lower Critical going low ,Deasserted
+3ad,01/17/2014,06:29:59,Power Supply #0x50,Power Supply AC lost,Asserted
+3ae,01/17/2014,06:29:59,Voltage #0xde,Lower Non-critical going low ,Asserted
+3af,01/17/2014,06:29:59,Voltage #0xde,Lower Critical going low ,Asserted
+3b0,01/17/2014,06:30:01,Drive Slot #0xf2,Drive Fault,Deasserted
+3b1,01/17/2014,06:30:16,System Event #0x83,Timestamp Clock Sync,Asserted
+3b2,01/17/2014,06:31:20,System Event #0x83,Timestamp Clock Sync,Asserted
+3b3,01/17/2014,06:32:04,Drive Slot #0xf2,Drive Fault,Asserted
+3b4,01/17/2014,06:32:30,System Event #0x83,OEM System boot event,Asserted
+3b5,01/17/2014,06:33:06,Power Supply #0x50,Power Supply AC lost,Deasserted
+3b6,01/17/2014,06:33:06,Voltage #0xde,Lower Non-critical going low ,Deasserted
+3b7,01/17/2014,06:33:06,Voltage #0xde,Lower Critical going low ,Deasserted
+3b8,01/17/2014,06:33:07,Power Supply #0x50,Power Supply AC lost,Asserted
+3b9,01/17/2014,06:33:07,Voltage #0xde,Lower Non-critical going low ,Asserted
+3ba,01/17/2014,06:33:07,Voltage #0xde,Lower Critical going low ,Asserted
+3bb,01/17/2014,06:33:08,Drive Slot #0xf2,Drive Fault,Deasserted
+3bc,01/17/2014,06:33:23,System Event #0x83,Timestamp Clock Sync,Asserted
+3bd,01/17/2014,06:33:23,System Event #0x83,Timestamp Clock Sync,Asserted
+3be,01/17/2014,06:34:06,Drive Slot #0xf2,Drive Fault,Asserted
+3bf,01/17/2014,06:34:32,System Event #0x83,OEM System boot event,Asserted
+3c0,01/17/2014,07:01:42,Power Supply #0x50,Power Supply AC lost,Deasserted
+3c1,01/17/2014,07:01:42,Voltage #0xde,Lower Non-critical going low ,Deasserted
+3c2,01/17/2014,07:01:42,Voltage #0xde,Lower Critical going low ,Deasserted
+3c3,01/17/2014,07:01:42,Power Supply #0x50,Power Supply AC lost,Asserted
+3c4,01/17/2014,07:01:43,Voltage #0xde,Lower Non-critical going low ,Asserted
+3c5,01/17/2014,07:01:43,Voltage #0xde,Lower Critical going low ,Asserted
+3c6,01/17/2014,07:01:45,Drive Slot #0xf2,Drive Fault,Deasserted
+3c7,01/17/2014,07:01:59,System Event #0x83,Timestamp Clock Sync,Asserted
+3c8,01/17/2014,07:02:00,System Event #0x83,Timestamp Clock Sync,Asserted
+3c9,01/17/2014,07:02:42,Drive Slot #0xf2,Drive Fault,Asserted
+3ca,01/17/2014,07:03:11,System Event #0x83,OEM System boot event,Asserted
+3cb,01/17/2014,07:29:18,Power Supply #0x50,Power Supply AC lost,Deasserted
+3cc,01/17/2014,07:29:18,Voltage #0xde,Lower Non-critical going low ,Deasserted
+3cd,01/17/2014,07:29:18,Voltage #0xde,Lower Critical going low ,Deasserted
+3ce,01/17/2014,07:29:18,Power Supply #0x50,Power Supply AC lost,Asserted
+3cf,01/17/2014,07:29:19,Voltage #0xde,Lower Non-critical going low ,Asserted
+3d0,01/17/2014,07:29:19,Voltage #0xde,Lower Critical going low ,Asserted
+3d1,01/17/2014,07:29:20,Drive Slot #0xf2,Drive Fault,Deasserted
+3d2,01/17/2014,07:29:35,System Event #0x83,Timestamp Clock Sync,Asserted
+3d3,01/17/2014,07:29:35,System Event #0x83,Timestamp Clock Sync,Asserted
+3d4,01/17/2014,07:30:18,Drive Slot #0xf2,Drive Fault,Asserted
+3d5,01/17/2014,07:30:45,System Event #0x83,OEM System boot event,Asserted
+3d6,01/17/2014,14:24:06,Drive Slot #0xf1,Drive Present,Asserted
+3d7,01/17/2014,14:24:09,Drive Slot #0xf1,Drive Present,Deasserted
+3d8,01/17/2014,14:24:32,Drive Slot #0xf1,Drive Present,Asserted
+3d9,02/06/2014,05:57:51,Drive Slot #0xf2,Drive Fault,Deasserted
+3da,02/06/2014,05:58:09,Drive Slot #0xf2,Drive Fault,Asserted
+3db,02/06/2014,05:58:37,Drive Slot #0xf2,Drive Fault,Deasserted
+3dc,02/06/2014,06:12:55,Drive Slot #0xf2,Drive Fault,Asserted
+3dd,02/06/2014,06:14:13,Drive Slot #0xf2,Drive Fault,Deasserted
+3de,02/06/2014,06:14:13,Drive Slot #0xf2,Rebuild In Progress,Asserted
+3df,02/06/2014,07:38:48,Drive Slot #0xf2,Rebuild In Progress,Deasserted
+3e0,02/06/2014,08:22:26,Drive Slot #0xf2,Drive Fault,Asserted
+3e1,02/06/2014,08:23:13,Drive Slot #0xf2,Drive Fault,Deasserted
+3e2,02/06/2014,08:33:10,Drive Slot #0xf2,Drive Fault,Asserted
+3e3,02/06/2014,08:48:33,Drive Slot #0xf2,Drive Fault,Deasserted
+3e4,02/06/2014,08:51:46,Drive Slot #0xf2,Drive Fault,Asserted
+3e5,02/06/2014,08:53:42,Drive Slot #0xf2,Drive Fault,Deasserted
+3e6,02/06/2014,09:59:45,Drive Slot #0xf2,Drive Fault,Asserted
+3e7,02/06/2014,10:01:28,Drive Slot #0xf2,Drive Fault,Deasserted
+3e8,02/06/2014,10:13:04,Drive Slot #0xf2,Drive Fault,Asserted
+3e9,02/06/2014,10:13:11,Drive Slot #0xf2,Drive Fault,Deasserted
+3ea,02/06/2014,10:13:11,Drive Slot #0xf2,Rebuild In Progress,Asserted
+3eb,02/06/2014,11:39:10,Drive Slot #0xf2,Rebuild In Progress,Deasserted
+3ec,02/12/2014,06:09:08,Drive Slot #0xf2,Drive Fault,Asserted
+3ed,02/12/2014,06:13:49,Drive Slot #0xf2,Drive Fault,Deasserted
+3ee,02/12/2014,06:41:36,Temperature #0x30,Upper Critical going high,Asserted
+3ef,02/12/2014,06:41:36,System Event #0x08,PEF Action,Asserted
+3f0,02/12/2014,06:49:43,Voltage #0x60,Lower Critical going low ,Asserted
+3f1,02/12/2014,06:49:43,System Event #0x08,PEF Action,Asserted
+3f2,02/12/2014,06:55:32,Memory #0x53,Correctable ECC,Asserted
+3f3,02/12/2014,06:55:54,Temperature #0x30,Upper Critical going high,Asserted
+3f4,02/12/2014,06:55:55,System Event #0x08,PEF Action,Asserted
+3f5,02/12/2014,06:59:48,Voltage #0x60,Lower Critical going low ,Asserted
+3f6,02/12/2014,06:59:48,System Event #0x08,PEF Action,Asserted
+3f7,02/12/2014,07:02:28,Drive Slot #0xf2,Drive Fault,Asserted
+3f8,02/12/2014,07:02:28,System Event #0x08,PEF Action,Asserted
+3f9,02/12/2014,08:33:33,Temperature #0x30,Upper Critical going high,Asserted
+3fa,02/12/2014,08:33:33,System Event #0x08,PEF Action,Asserted
+3fb,02/12/2014,09:47:22,Temperature #0x30,Upper Critical going high,Asserted
+3fc,02/12/2014,09:47:22,System Event #0x08,PEF Action,Asserted
+3fd,02/12/2014,10:02:35,Processor #0x80,State Asserted,Asserted
+3fe,02/12/2014,10:04:40,Processor #0x80,State Deasserted,Asserted
+3ff,02/12/2014,10:05:20,Processor #0x82,State Asserted,Asserted
+400,02/12/2014,10:06:36,Processor #0x82,State Deasserted,Asserted
+401,02/12/2014,10:07:13,Physical Security #0x04,Drive Bay intrusion,Asserted
+402,02/12/2014,10:07:40,Temperature #0x30,Upper Critical going high,Asserted
+403,02/12/2014,10:07:40,System Event #0x08,PEF Action,Asserted
+404,02/12/2014,10:10:08,Physical Security #0x04,Drive Bay intrusion,Asserted
+405,02/14/2014,12:22:42,Voltage #0xde,Lower Critical going low ,Deasserted

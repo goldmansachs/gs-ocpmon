@@ -1,0 +1,72 @@
+{
+    "cmd_alias":"ddcli",
+    "path":"libexec",
+    "ld_library_path":"",
+    "cmdline":"ddoemcli",
+    "commands":{
+        "health":{
+            "args":"-c 1 -health",
+            "label":"Print health status",
+            "type":"exitcode",
+            "monitors":{
+                "backup_rail_monitor":{
+                    "label":"Backup Rail Monitor Status",
+                    "type":"status"
+                },
+                "lifeleft":{
+                    "label":"SSD Life Left",
+                    "type":"threshold"
+                },
+                "warranty_remaining":{
+                    "label":"Warranty Remaining",
+                    "type":"threshold"
+                },
+                "overall_health":{
+                    "label":"Overall Health Status",
+                    "type":"status"
+                }
+            },
+            "default_stash":{
+                "backup_rail_monitor": "GOOD",
+                "lifeleft": [ "100", "100", "100", "100" ],
+                "overall_health": "GOOD",
+                "warranty_remaining": "100"
+            }
+        },
+        "listall":{
+            "args":"-listall",
+            "label":"Print FW Version",
+            "type":"exitcode"
+        },
+        "list":{
+            "args":"-c 1 -list",
+            "label":"Print Serial Number",
+            "type":"exitcode"
+        },
+        "showvpd":{
+            "args":"-c 1 -showvpd",
+            "label":"Show VPD",
+            "type":"exitcode"
+        },
+        "getsmartlog":{
+            "args":"-c 1 -getsmartlog",
+            "label":"Get SMART log",
+            "type":"exitcode"
+        },
+        "paniclog":{
+            "args":"-c 1 -paniclog -f extract",
+            "label":"Get SMART log",
+            "type":"exitcode"
+        }
+    },
+    "status_value_map":{
+        "GOOD":"Informational",
+        "WARNING":"Warning",
+        "ERROR":"Critical"
+    },
+    "thresholds":{
+        "Informational": [90, 80, 70, 60],
+        "Warning": [50, 40, 30, 25],
+        "Critical": [20, 15, 10, 8, 6, 5, 4, 3, 2, 1, 0]
+    }
+}

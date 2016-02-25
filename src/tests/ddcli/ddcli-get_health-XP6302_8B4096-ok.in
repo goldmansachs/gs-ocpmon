@@ -1,0 +1,139 @@
+
+****************************************************************************
+   LSI Corporation WarpDrive Management Utility
+   Version 112.00.01.00 (2014.03.04) 
+   Copyright (c) 2014 LSI Corporation. All Rights Reserved.
+****************************************************************************
+--------------------------------
+Nytro XP6302 XP6302-8B4096 Health
+--------------------------------
+
+
+
+
+
+SSD Drive SMART Data Slot #: 0: Drive Serial Number SW50300224-0        
+
+-------------- Current (since last Power Cycle)  ----------------------
+Current Temperature                   38         (degree C)
+
+-------------- Cumulative  --------------------------------------------
+Retired Block Count                   0         
+Power-On Hours                        920.3     
+Uncorrectable RAISE Errors            0         
+Maximum Lifetime Temperature          56         (degree C)
+SSD Life Left (PE Cycles)             100        (%)
+Total Writes From Host                2350      
+Total Reads To Host                   1625      
+
+
+SSD Drive SMART Data Slot #: 1: Drive Serial Number SW50300224-1        
+
+-------------- Current (since last Power Cycle)  ----------------------
+Current Temperature                   39         (degree C)
+
+-------------- Cumulative  --------------------------------------------
+Retired Block Count                   0         
+Power-On Hours                        920.3     
+Uncorrectable RAISE Errors            0         
+Maximum Lifetime Temperature          56         (degree C)
+SSD Life Left (PE Cycles)             100        (%)
+Total Writes From Host                2350      
+Total Reads To Host                   1626      
+
+
+SSD Drive SMART Data Slot #: 2: Drive Serial Number SW50300224-2        
+
+-------------- Current (since last Power Cycle)  ----------------------
+Current Temperature                   38         (degree C)
+
+-------------- Cumulative  --------------------------------------------
+Retired Block Count                   0         
+Power-On Hours                        920.3     
+Uncorrectable RAISE Errors            0         
+Maximum Lifetime Temperature          56         (degree C)
+SSD Life Left (PE Cycles)             100        (%)
+Total Writes From Host                2350      
+Total Reads To Host                   1626      
+
+
+SSD Drive SMART Data Slot #: 3: Drive Serial Number SW50300224-3        
+
+-------------- Current (since last Power Cycle)  ----------------------
+Current Temperature                   39         (degree C)
+
+-------------- Cumulative  --------------------------------------------
+Retired Block Count                   0         
+Power-On Hours                        920.3     
+Uncorrectable RAISE Errors            0         
+Maximum Lifetime Temperature          56         (degree C)
+SSD Life Left (PE Cycles)             100        (%)
+Total Writes From Host                2350      
+Total Reads To Host                   1626      
+
+
+SSD Drive SMART Data Slot #: 4: Drive Serial Number SW50300389-0        
+
+-------------- Current (since last Power Cycle)  ----------------------
+Current Temperature                   49         (degree C)
+
+-------------- Cumulative  --------------------------------------------
+Retired Block Count                   0         
+Power-On Hours                        920.3     
+Uncorrectable RAISE Errors            0         
+Maximum Lifetime Temperature          55         (degree C)
+SSD Life Left (PE Cycles)             100        (%)
+Total Writes From Host                2350      
+Total Reads To Host                   1626      
+
+
+SSD Drive SMART Data Slot #: 5: Drive Serial Number SW50300389-1        
+
+-------------- Current (since last Power Cycle)  ----------------------
+Current Temperature                   49         (degree C)
+
+-------------- Cumulative  --------------------------------------------
+Retired Block Count                   0         
+Power-On Hours                        920.3     
+Uncorrectable RAISE Errors            0         
+Maximum Lifetime Temperature          55         (degree C)
+SSD Life Left (PE Cycles)             100        (%)
+Total Writes From Host                2349      
+Total Reads To Host                   1627      
+
+
+SSD Drive SMART Data Slot #: 6: Drive Serial Number SW50300389-2        
+
+-------------- Current (since last Power Cycle)  ----------------------
+Current Temperature                   48         (degree C)
+
+-------------- Cumulative  --------------------------------------------
+Retired Block Count                   0         
+Power-On Hours                        920.3     
+Uncorrectable RAISE Errors            0         
+Maximum Lifetime Temperature          54         (degree C)
+SSD Life Left (PE Cycles)             100        (%)
+Total Writes From Host                2351      
+Total Reads To Host                   1626      
+
+
+SSD Drive SMART Data Slot #: 7: Drive Serial Number SW50300389-3        
+
+-------------- Current (since last Power Cycle)  ----------------------
+Current Temperature                   49         (degree C)
+
+-------------- Cumulative  --------------------------------------------
+Retired Block Count                   0         
+Power-On Hours                        920.3     
+Uncorrectable RAISE Errors            0         
+Maximum Lifetime Temperature          55         (degree C)
+SSD Life Left (PE Cycles)             100        (%)
+Total Writes From Host                2351      
+Total Reads To Host                   1627      
+
+Warranty Remaining       : 100 %
+Temperature              : 49 degree C
+
+Overall Health           : GOOD
+
+LSI WarpDrive Management Utility: Execution completed successfully.

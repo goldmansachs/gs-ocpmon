@@ -1,0 +1,137 @@
+Agg Therm Mgn 1
+Basbrd Mgmt Ctlr
+Baseboard
+BB +1.05Vccp P1
+BB +1.05Vccp P2
+BB +1.1V STBY
+BB +12.0V
+BB +1.35 P1LV AB
+BB +1.35 P1LV CD
+BB +1.35 P2LV AB
+BB +1.35 P2LV CD
+BB +1.5 P1MEM AB
+BB +1.5 P1MEM CD
+BB +1.5 P2MEM AB
+BB +1.5 P2MEM CD
+BB +1.8V AUX
+BB +3.3 RSR1 PGD
+BB +3.3V
+BB +3.3V AUX
+BB +3.3V Vbat
+BB +5.0V
+BB +5.0V STBY
+BB P1 VR Temp
+BB P2 VR Temp
+BB Vtt 1 Temp
+BB Vtt 2 Temp
+BIOS Evt Sensor
+BMC FW Health
+BMC Watchdog
+Button
+CATERR
+Chipset Sensor
+CPU Missing
+DIMM Thrm Mrgn 1
+DIMM Thrm Mrgn 2
+DIMM Thrm Mrgn 3
+DIMM Thrm Mrgn 4
+Exit Air Temp
+Fan Redundancy
+FP NMI Diag Int
+Front Panel
+Front Panel Temp
+FW Update Status
+HDD 0 Status
+HDD 1 Status
+HDD 2 Status
+HDD 3 Status
+HDD 4 Status
+HDD 5 Status
+HDD 6 Status
+HDD 7 Status
+HS Backplane 1
+HSBP 1 Temp
+IO Mod Presence
+IPMI Watchdog
+LAN NIC Temp
+Mem Conf Sensor
+Mem err Sensor
+Mem P1 Thrm Trip
+Mem P2 Thrm Trip
+Mem Rdnc Sensor
+Mgmt Engine
+MIC 1 Margin
+MIC 1 Status
+MIC 2 Margin
+MIC 2 Status
+Mmry ECC Sensor
+Mmry Parity Err
+MTT CPU1
+MTT CPU2
+NM Capabilities
+NM Exception
+NM Health
+NM Threshold
+P1 DTS Therm Mgn
+P1 ERR2
+P1 Mem01 VRD Hot
+P1 Mem23 VRD Hot
+P1 MSID Mismatch
+P1 Status
+P1 Therm Ctrl %
+P1 Therm Margin
+P1 VRD Hot
+P2 DTS Therm Mgn
+P2 ERR2
+P2 Mem01 VRD Hot
+P2 Mem23 VRD Hot
+P2 MSID Mismatch
+P2 Status
+P2 Therm Ctrl %
+P2 Therm Margin
+P2 VRD Hot
+PCIe Cor Sensor
+PCIe Fat Sensor
+PCI Lgcy Sensor
+Physical Scrty
+POST Err Sensor
+PS1 Curr Out %
+PS1 Fan Fail
+PS1 Input Power
+PS1 Status
+PS1 Temperature
+PS2 Curr Out %
+PS2 Fan Fail
+PS2 Input Power
+PS2 Status
+PS2 Temperature
+Pwr Supply 1 FRU
+Pwr Supply 2 FRU
+Pwr Unit Redund
+Pwr Unit Status
+QPI Corr Sensor
+QPI Fatl Sensor
+QPI Link Width
+Rdnc Mod Sensor
+SAS Mod Presence
+SMI Timeout
+Sparing Rdnc
+SPS FW Health
+SSB Temp
+SSB Therm Trip
+System Airflow
+System Event
+System Event Log
+System Fan 1A
+System Fan 1B
+System Fan 2A
+System Fan 2B
+System Fan 3A
+System Fan 3B
+System Fan 4A
+System Fan 4B
+System Fan 5A
+System Fan 5B
+System Fan 6A
+System Fan 6B
+VR Watchdog

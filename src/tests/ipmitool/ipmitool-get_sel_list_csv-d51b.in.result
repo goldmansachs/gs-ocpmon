@@ -1,0 +1,28 @@
+gs-heat-ocpmon::ipmi::eventLoggingDisabledLogAreaResetCleared Event Log Log area reset/cleared Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Power Supply #0x6d State Asserted Asserted
+gs-heat-ocpmon::ipmi::powerSupplyPowerSupplyAcLost PSU1 Status Power Supply AC lost Asserted
+gs-heat-ocpmon::ipmi::powerUnitPowerOffDown Power Unit Power off/down Asserted
+gs-heat-ocpmon::ipmi::powerUnitAcLost Power Unit AC lost Asserted
+gs-heat-ocpmon::ipmi::powerUnitPowerOffDown Power Unit Power off/down Deasserted
+gs-heat-ocpmon::ipmi::buttonPowerButtonPressed Button Power Button pressed Asserted
+gs-heat-ocpmon::ipmi::powerUnitPowerOffDown Power Unit Power off/down Asserted
+gs-heat-ocpmon::ipmi::powerSupplyPowerSupplyAcLost PSU1 Status Power Supply AC lost Asserted
+gs-heat-ocpmon::ipmi::buttonPowerButtonPressed Button Power Button pressed Asserted
+gs-heat-ocpmon::ipmi::powerUnitPowerOffDown Power Unit Power off/down Asserted
+gs-heat-ocpmon::ipmi::powerUnitPowerOffDown Power Unit Power off/down Deasserted
+gs-heat-ocpmon::ipmi::unknownEvent Management Subsystem Health #0xf0 Management controller off-line Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Platform Security #0x01 Pre-boot password violation - network boot password Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x01 FRB2/Hang in POST failure Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x01 Power Supply AC lost Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Reserved #0x01 No description Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Reserved No description Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Management Subsystem Health #0xf0 Management controller unavailable Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Management Subsystem Health #0xf0 Management controller unavailable Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Management Subsystem Health #0xf0 Management controller off-line Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Management Subsystem Health #0xf0 Management controller unavailable Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Management Subsystem Health #0xf0 Management controller off-line Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Management Subsystem Health #0xf0 Management controller unavailable Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Management Subsystem Health #0xf0 Management controller off-line Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Management Subsystem Health #0xf0 Management controller unavailable Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Management Subsystem Health #0xf0 Management controller off-line Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Management Subsystem Health #0xf0 Management controller unavailable Asserted

@@ -1,0 +1,148 @@
+
+****************************************************************************
+   LSI Corporation WarpDrive Management Utility
+   Version 112.00.01.00 (2014.03.04)
+   Copyright (c) 2014 LSI Corporation. All Rights Reserved.
+****************************************************************************
+--------------------------------
+Nytro WarpDrive NWD-6210-4A2048 Health
+--------------------------------
+
+Backup Rail Monitor          : GOOD
+
+
+
+
+SSD Drive SMART Data Slot #: 4: Drive Serial Number 1
+
+-------------- Current (since last Power Cycle)  ----------------------
+Bytes Read                            11634480128
+Soft Read Error Rate                  3.015584e-02
+Wear Range Delta                      0          (%)
+Uncorrectable RAISE Errors            0
+Current Temperature                   30         (degree C)
+Uncorrectable ECC Errors              0
+SATA R-Errors (CRC) Error Count       0
+
+-------------- Cumulative  --------------------------------------------
+Retired Block Count                   0
+Power-On Hours                        3736.4
+Device Power Cycle Count              53
+Gigabytes Erased                      12971      (Gigabytes)
+Reserved (over-provisioned) Blocks    16000
+Program Fail Count                    0
+Erase Fail Count 1                    0
+Unexpected Power Loss Count           65
+I/O Error Detection Code Rate         0
+Uncorrectable RAISE Errors            0
+Maximum Lifetime Temperature          43         (degree C)
+Cached SMART Data Age                 00:01:40   (Hours:Minutes:Seconds)
+SSD Life Left (PE Cycles)             100        (%)
+Total Writes From Host                10702
+Total Reads To Host                   1570
+Write Amplification                   1.09
+Reserved Blocks Remaining             100        (%)
+Trim Count                            1835418600
+
+
+SSD Drive SMART Data Slot #: 5: Drive Serial Number 2
+
+-------------- Current (since last Power Cycle)  ----------------------
+Bytes Read                            10950896128
+Soft Read Error Rate                  3.659257e-02
+Wear Range Delta                      0          (%)
+Uncorrectable RAISE Errors            0
+Current Temperature                   31         (degree C)
+Uncorrectable ECC Errors              0
+SATA R-Errors (CRC) Error Count       0
+
+-------------- Cumulative  --------------------------------------------
+Retired Block Count                   0
+Power-On Hours                        3736.4
+Device Power Cycle Count              53
+Gigabytes Erased                      12990      (Gigabytes)
+Reserved (over-provisioned) Blocks    16000
+Program Fail Count                    0
+Erase Fail Count 1                    0
+Unexpected Power Loss Count           65
+I/O Error Detection Code Rate         0
+Uncorrectable RAISE Errors            0
+Maximum Lifetime Temperature          44         (degree C)
+Cached SMART Data Age                 00:01:40   (Hours:Minutes:Seconds)
+SSD Life Left (PE Cycles)             100        (%)
+Total Writes From Host                10700
+Total Reads To Host                   1567
+Write Amplification                   1.09
+Reserved Blocks Remaining             100        (%)
+Trim Count                            1835418624
+
+
+SSD Drive SMART Data Slot #: 6: Drive Serial Number 3
+
+-------------- Current (since last Power Cycle)  ----------------------
+Bytes Read                            5157775360
+Soft Read Error Rate                  6.559276e-02
+Wear Range Delta                      0          (%)
+Uncorrectable RAISE Errors            0
+Current Temperature                   31         (degree C)
+Uncorrectable ECC Errors              0
+SATA R-Errors (CRC) Error Count       0
+
+-------------- Cumulative  --------------------------------------------
+Retired Block Count                   0
+Power-On Hours                        3736.4
+Device Power Cycle Count              53
+Gigabytes Erased                      12976      (Gigabytes)
+Reserved (over-provisioned) Blocks    16000
+Program Fail Count                    0
+Erase Fail Count 1                    0
+Unexpected Power Loss Count           65
+I/O Error Detection Code Rate         0
+Uncorrectable RAISE Errors            0
+Maximum Lifetime Temperature          45         (degree C)
+Cached SMART Data Age                 00:01:40   (Hours:Minutes:Seconds)
+SSD Life Left (PE Cycles)             100        (%)
+Total Writes From Host                10704
+Total Reads To Host                   1564
+Write Amplification                   1.09
+Reserved Blocks Remaining             100        (%)
+Trim Count                            1835418624
+
+
+SSD Drive SMART Data Slot #: 7: Drive Serial Number 4
+
+-------------- Current (since last Power Cycle)  ----------------------
+Bytes Read                            10082070016
+Soft Read Error Rate                  3.764494e-02
+Wear Range Delta                      0          (%)
+Uncorrectable RAISE Errors            0
+Current Temperature                   31         (degree C)
+Uncorrectable ECC Errors              0
+SATA R-Errors (CRC) Error Count       0
+
+-------------- Cumulative  --------------------------------------------
+Retired Block Count                   0
+Power-On Hours                        3736.5
+Device Power Cycle Count              53
+Gigabytes Erased                      12973      (Gigabytes)
+Reserved (over-provisioned) Blocks    16000
+Program Fail Count                    0
+Erase Fail Count 1                    0
+Unexpected Power Loss Count           65
+I/O Error Detection Code Rate         0
+Uncorrectable RAISE Errors            0
+Maximum Lifetime Temperature          45         (degree C)
+Cached SMART Data Age                 00:01:40   (Hours:Minutes:Seconds)
+SSD Life Left (PE Cycles)             100        (%)
+Total Writes From Host                10705
+Total Reads To Host                   1571
+Write Amplification                   1.09
+Reserved Blocks Remaining             100        (%)
+Trim Count                            1835418600
+
+Warranty Remaining       : 100 %
+Temperature              : 31 degree C
+
+Overall Health           : GOOD
+
+LSI WarpDrive Management Utility: Execution completed successfully.

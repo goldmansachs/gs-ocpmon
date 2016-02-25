@@ -1,0 +1,33 @@
+1,06/24/2015,13:26:45,Event Logging Disabled #0xe6,Log area reset/cleared,Asserted
+2,06/24/2015,13:27:12,Power Supply #0x6d,State Asserted,Asserted
+3,06/24/2015,13:27:12,Power Supply #0xe0,Power Supply AC lost,Asserted
+4,06/24/2015,13:27:12,Power Unit #0xe8,Power off/down,Asserted
+5,06/24/2015,13:27:12,Power Unit #0xe8,AC lost,Asserted
+6,06/24/2015,13:27:12,Power Unit #0xe8,Power off/down,Deasserted
+7,06/24/2015,13:27:12,Button #0xf1,Power Button pressed,Asserted
+8,06/24/2015,13:27:12,Power Unit #0xe8,Power off/down,Asserted
+9,06/24/2015,13:27:13,Power Supply #0xe0,Power Supply AC lost,Asserted
+e,06/24/2015,13:27:13,Reserved #0x55,,Asserted
+f,06/24/2015,13:27:13,Button #0xf1,Power Button pressed,Asserted
+10,06/24/2015,13:27:13,Power Unit #0xe8,Power off/down,Asserted
+12,06/24/2015,13:27:13,Power Unit #0xe8,Power off/down,Deasserted
+13,06/24/2015,13:27:13,Management Subsystem Health #0xf0,Management controller off-line,Asserted
+14,06/24/2015,13:27:13,Platform Security #0x01,Pre-boot password violation - network boot password,Asserted
+15,06/24/2015,13:27:13,Processor #0x01,FRB2/Hang in POST failure,Asserted
+16,06/24/2015,13:27:13,Power Supply #0x01,Power Supply AC lost,Asserted
+17,06/24/2015,13:27:13,Reserved #0x01,,Asserted
+18,06/24/2015,13:27:13,Reserved #0x55,,Asserted
+19,06/24/2015,13:27:13,Reserved #0x55,,Asserted
+1a,06/24/2015,13:27:13,Reserved,,Asserted
+1b,06/24/2015,13:27:13,Management Subsystem Health #0xf0,Management controller unavailable,Asserted
+1c,06/24/2015,13:27:13,Management Subsystem Health #0xf0,Management controller unavailable,Asserted
+1d,06/24/2015,13:34:51,Management Subsystem Health #0xf0,Management controller off-line,Asserted
+1e,06/24/2015,13:35:46,Management Subsystem Health #0xf0,Management controller unavailable,Asserted
+1f,06/24/2015,13:39:43,Management Subsystem Health #0xf0,Management controller off-line,Asserted
+20,06/24/2015,13:40:40,Management Subsystem Health #0xf0,Management controller unavailable,Asserted
+21,06/24/2015,13:49:25,Reserved #0x55,,Asserted
+22,06/24/2015,13:52:12,Management Subsystem Health #0xf0,Management controller off-line,Asserted
+23,06/24/2015,13:53:09,Management Subsystem Health #0xf0,Management controller unavailable,Asserted
+24,06/24/2015,13:59:46,Management Subsystem Health #0xf0,Management controller off-line,Asserted
+25,06/24/2015,14:00:42,Management Subsystem Health #0xf0,Management controller unavailable,Asserted
+26,06/24/2015,14:03:53,Reserved #0x55,,Asserted

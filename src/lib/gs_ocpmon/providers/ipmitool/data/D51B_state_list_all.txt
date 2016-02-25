@@ -1,0 +1,633 @@
+Finding sensor AST2400... ok
+Finding sensor Airflow... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor BMC FW HEALTH... ok
+Finding sensor BMC FW info... ok
+Finding sensor Button... ok
+Sensor States: 
+  Power Button pressed
+  Sleep Button pressed
+  Reset Button pressed
+  FRU Latch
+  FRU Service
+Finding sensor CATERR... ok
+Sensor States: 
+  State Deasserted
+  State Asserted
+Sensor State Shortcuts:
+  present    absent   
+  assert     deassert 
+  limit      nolimit  
+  fail       nofail   
+  yes        no       
+  on         off      
+  up         down     
+Finding sensor CPU0 Thermal Sta... ok
+Finding sensor CPU1 Thermal Sta... ok
+Finding sensor CPU_0... ok
+Sensor States: 
+  IERR
+  Thermal Trip
+  FRB1/BIST failure
+  FRB2/Hang in POST failure
+  FRB3/Processor startup/init failure
+  Configuration Error
+  SM BIOS Uncorrectable CPU-complex Error
+  Presence detected
+  Disabled
+  Terminator presence detected
+  Throttled
+  Uncorrectable machine check exception
+  Correctable machine check error
+Finding sensor CPU_1... ok
+Sensor States: 
+  IERR
+  Thermal Trip
+  FRB1/BIST failure
+  FRB2/Hang in POST failure
+  FRB3/Processor startup/init failure
+  Configuration Error
+  SM BIOS Uncorrectable CPU-complex Error
+  Presence detected
+  Disabled
+  Terminator presence detected
+  Throttled
+  Uncorrectable machine check exception
+  Correctable machine check error
+Finding sensor CPU_DIMM_VRHOT... ok
+Sensor States: 
+  
+Finding sensor Critical IRQ... ok
+Sensor States: 
+  NMI/Diag Interrupt
+  Bus Timeout
+  I/O Channel check NMI
+  Software NMI
+  PCI PERR
+  PCI SERR
+  EISA failsafe timeout
+  Bus Correctable error
+  Bus Uncorrectable error
+  Fatal NMI
+  Bus Fatal Error
+  Bus Degraded
+Finding sensor DCMI Therm Limit... ok
+Finding sensor DIMM_HOT... ok
+Sensor States: 
+  
+Finding sensor Event Log... ok
+Sensor States: 
+  Correctable memory error logging disabled
+  Event logging disabled
+  Log area reset/cleared
+  All event logging disabled
+  Log full
+  Log almost full
+Finding sensor FP_FRU... ok
+Finding sensor Fan_SYS0_1... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Fan_SYS0_2... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Fan_SYS1_1... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Fan_SYS1_2... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Fan_SYS2_1... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Fan_SYS2_2... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Fan_SYS3_1... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Fan_SYS3_2... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Fan_SYS4_1... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Fan_SYS4_2... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Fan_SYS5_1... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Fan_SYS5_2... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor HDD0... ok
+Sensor States: 
+  Drive Present
+  Drive Fault
+  Predictive Failure
+  Hot Spare
+  Parity Check In Progress
+  In Critical Array
+  In Failed Array
+  Rebuild In Progress
+  Rebuild Aborted
+Finding sensor HDD1... ok
+Sensor States: 
+  Drive Present
+  Drive Fault
+  Predictive Failure
+  Hot Spare
+  Parity Check In Progress
+  In Critical Array
+  In Failed Array
+  Rebuild In Progress
+  Rebuild Aborted
+Finding sensor HDD2... ok
+Sensor States: 
+  Drive Present
+  Drive Fault
+  Predictive Failure
+  Hot Spare
+  Parity Check In Progress
+  In Critical Array
+  In Failed Array
+  Rebuild In Progress
+  Rebuild Aborted
+Finding sensor HDD3... ok
+Sensor States: 
+  Drive Present
+  Drive Fault
+  Predictive Failure
+  Hot Spare
+  Parity Check In Progress
+  In Critical Array
+  In Failed Array
+  Rebuild In Progress
+  Rebuild Aborted
+Finding sensor MB FRU... ok
+Finding sensor MB Thermal Trip... ok
+Sensor States: 
+  State Deasserted
+  State Asserted
+Sensor State Shortcuts:
+  present    absent   
+  assert     deassert 
+  limit      nolimit  
+  fail       nofail   
+  yes        no       
+  on         off      
+  up         down     
+Finding sensor ME... ok
+Finding sensor Memory Error... ok
+Finding sensor Memory Event... ok
+Finding sensor NM Capabilities... ok
+Finding sensor NM Exception... ok
+Finding sensor NM Health... ok
+Finding sensor NM Threshold... ok
+Finding sensor Other IIO Error... ok
+Finding sensor PCH Thermal Trip... ok
+Sensor States: 
+  State Deasserted
+  State Asserted
+Sensor State Shortcuts:
+  present    absent   
+  assert     deassert 
+  limit      nolimit  
+  fail       nofail   
+  yes        no       
+  on         off      
+  up         down     
+Finding sensor PCIE Error... ok
+Finding sensor POST Error... ok
+Finding sensor PSU Alert... ok
+Finding sensor PSU Redundancy... ok
+Sensor States: 
+  Fully Redundant
+  Redundancy Lost
+  Redundancy Degraded
+  Non-Redundant: Sufficient from Redundant
+  Non-Redundant: Sufficient from Insufficient
+  Non-Redundant: Insufficient Resources
+  Redundancy Degraded from Fully Redundant
+  Redundancy Degraded from Non-Redundant
+Finding sensor PSU1 Input... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor PSU1 Status... ok
+Sensor States: 
+  Presence detected
+  Failure detected
+  Predictive failure
+  Power Supply AC lost
+  AC lost or out-of-range
+  AC out-of-range, but present
+  Config Error
+  Power Supply Inactive
+Finding sensor PSU2 Input... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor PSU2 Status... ok
+Sensor States: 
+  Presence detected
+  Failure detected
+  Predictive failure
+  Power Supply AC lost
+  AC lost or out-of-range
+  AC out-of-range, but present
+  Config Error
+  Power Supply Inactive
+Finding sensor Power Unit... ok
+Sensor States: 
+  Power off/down
+  Power cycle
+  240VA power down
+  Interlock power down
+  AC lost
+  Soft-power control failure
+  Failure detected
+  Predictive failure
+Finding sensor QPI Error... ok
+Finding sensor SPS FW Health... ok
+Finding sensor SYS_NIC1_LinkUp... ok
+Sensor States: 
+  State Deasserted
+  State Asserted
+Sensor State Shortcuts:
+  present    absent   
+  assert     deassert 
+  limit      nolimit  
+  fail       nofail   
+  yes        no       
+  on         off      
+  up         down     
+Finding sensor SYS_NIC2_LinkUp... ok
+Sensor States: 
+  State Deasserted
+  State Asserted
+Sensor State Shortcuts:
+  present    absent   
+  assert     deassert 
+  limit      nolimit  
+  fail       nofail   
+  yes        no       
+  on         off      
+  up         down     
+Finding sensor System Event... ok
+Sensor States: 
+  System Reconfigured
+  OEM System boot event
+  Undetermined system hardware failure
+  Entry added to auxiliary log
+  PEF Action
+  Timestamp Clock Sync
+Finding sensor Temp_Ambient_FP... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Temp_CPU0... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Temp_CPU1... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Temp_DIMM_AB... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Temp_DIMM_CD... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Temp_DIMM_EF... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Temp_DIMM_GH... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Temp_OCP... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Temp_Outlet... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Temp_PCH... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Temp_PCI_Area... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Temp_PCI_Inlet1... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Temp_PCI_Inlet2... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Temp_VR_CPU0... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Temp_VR_CPU1... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Temp_VR_DIMM_AB... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Temp_VR_DIMM_CD... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Temp_VR_DIMM_EF... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Temp_VR_DIMM_GH... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Volt_P12V... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Volt_P1V05... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Volt_P1V8_AUX... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Volt_P3V3... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Volt_P3V3_AUX... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Volt_P3V_BAT... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Volt_P5V... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Volt_P5V_AUX... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Volt_VR_CPU0... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Volt_VR_CPU1... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Volt_VR_DIMM_AB... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Volt_VR_DIMM_CD... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Volt_VR_DIMM_EF... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Volt_VR_DIMM_GH... ok
+Sensor States:
+  lnr : Lower Non-Recoverable 
+  lcr : Lower Critical
+  lnc : Lower Non-Critical
+  unc : Upper Non-Critical
+  ucr : Upper Critical
+  unr : Upper Non-Recoverable
+Finding sensor Watchdog... ok
+Sensor States: 
+  Timer expired
+  Hard reset
+  Power down
+  Power cycle
+  reserved
+  reserved
+  reserved
+  reserved
+  Timer interrupt

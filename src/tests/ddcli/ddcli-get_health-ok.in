@@ -1,0 +1,80 @@
+
+****************************************************************************
+   LSI Corporation WarpDrive Management Utility
+   Version 111.00.01.00 (2013.09.27) 
+   Copyright (c) 2013 LSI Corporation. All Rights Reserved.
+****************************************************************************
+--------------------------------
+Nytro WarpDrive NWD-6210-4A2048 Health
+--------------------------------
+
+Backup Rail Monitor          : GOOD
+
+
+
+
+SSD Drive SMART Data Slot #: 4: Drive Serial Number 1
+
+-------------- Current (since last Power Cycle)  ----------------------
+Current Temperature                   32         (degree C)
+
+-------------- Cumulative  --------------------------------------------
+Retired Block Count                   0         
+Power-On Hours                        1923.2    
+Uncorrectable RAISE Errors            0         
+Maximum Lifetime Temperature          43         (degree C)
+SSD Life Left (PE Cycles)             100        (%)
+Total Writes From Host                10699     
+Total Reads To Host                   1555      
+
+
+SSD Drive SMART Data Slot #: 5: Drive Serial Number 2
+
+-------------- Current (since last Power Cycle)  ----------------------
+Current Temperature                   32         (degree C)
+
+-------------- Cumulative  --------------------------------------------
+Retired Block Count                   0         
+Power-On Hours                        1923.2    
+Uncorrectable RAISE Errors            0         
+Maximum Lifetime Temperature          44         (degree C)
+SSD Life Left (PE Cycles)             100        (%)
+Total Writes From Host                10699     
+Total Reads To Host                   1554      
+
+
+SSD Drive SMART Data Slot #: 6: Drive Serial Number 3
+
+-------------- Current (since last Power Cycle)  ----------------------
+Current Temperature                   33         (degree C)
+
+-------------- Cumulative  --------------------------------------------
+Retired Block Count                   0         
+Power-On Hours                        1923.1    
+Uncorrectable RAISE Errors            0         
+Maximum Lifetime Temperature          45         (degree C)
+SSD Life Left (PE Cycles)             100        (%)
+Total Writes From Host                10700     
+Total Reads To Host                   1554      
+
+
+SSD Drive SMART Data Slot #: 7: Drive Serial Number 4
+
+-------------- Current (since last Power Cycle)  ----------------------
+Current Temperature                   33         (degree C)
+
+-------------- Cumulative  --------------------------------------------
+Retired Block Count                   0         
+Power-On Hours                        1923.2    
+Uncorrectable RAISE Errors            0         
+Maximum Lifetime Temperature          45         (degree C)
+SSD Life Left (PE Cycles)             100        (%)
+Total Writes From Host                10701     
+Total Reads To Host                   1556      
+
+Warranty Remaining       : 100 %
+Temperature              : 33 degree C
+
+Overall Health           : GOOD
+
+LSI WarpDrive Management Utility: Execution completed successfully.

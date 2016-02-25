@@ -1,0 +1,41 @@
+1,07/01/2014,11:11:19,Event Logging Disabled #0xe6,Log area reset/cleared,Asserted
+2,07/01/2014,11:44:54,Watchdog 2 #0xe7,Hard reset,Asserted
+3,07/13/2014,20:58:34,Power Supply #0x6d,State Asserted,Asserted
+4,07/13/2014,20:58:37,Power Unit #0xe8,Power off/down,Asserted
+5,07/13/2014,20:58:38,Power Unit #0xe8,AC lost,Asserted
+6,07/13/2014,22:55:14,Power Unit #0xe8,Power off/down,Deasserted
+7,07/13/2014,22:55:31,Drive Slot #0x45,Drive Present,Asserted
+8,07/14/2014,16:44:48,Power Unit #0xe8,Power off/down,Asserted
+9,07/14/2014,16:56:01,Button #0xf1,Power Button pressed,Asserted
+a,07/14/2014,16:56:01,Power Unit #0xe8,Power off/down,Deasserted
+b,07/14/2014,16:56:20,Drive Slot #0x46,Drive Present,Asserted
+c,07/14/2014,18:27:55,Power Unit #0xe8,Power off/down,Asserted
+d,07/14/2014,18:47:19,Drive Slot #0x45,Drive Present,Asserted
+e,07/14/2014,18:47:19,Drive Slot #0x46,Drive Present,Asserted
+f,07/14/2014,18:48:43,Power Supply #0x6d,State Asserted,Asserted
+10,07/14/2014,18:48:46,Power Unit #0xe8,Power off/down,Asserted
+11,07/14/2014,18:48:47,Power Unit #0xe8,AC lost,Asserted
+12,07/14/2014,18:50:16,Power Unit #0xe8,Power off/down,Deasserted
+13,07/14/2014,18:50:33,Drive Slot #0x45,Drive Present,Asserted
+14,07/14/2014,18:50:33,Drive Slot #0x46,Drive Present,Asserted
+15,07/16/2014,10:51:12,Management Subsystem Health #0xf0,Management controller off-line,Asserted
+16,07/16/2014,10:52:17,Management Subsystem Health #0xf0,Management controller unavailable,Asserted
+17,07/16/2014,10:52:33,Drive Slot #0x45,Drive Present,Asserted
+18,07/16/2014,10:52:33,Drive Slot #0x46,Drive Present,Asserted
+19,07/16/2014,11:40:18,Management Subsystem Health #0xf0,Management controller off-line,Asserted
+1a,07/16/2014,11:41:21,Management Subsystem Health #0xf0,Management controller unavailable,Asserted
+1b,07/16/2014,11:41:37,Drive Slot #0x45,Drive Present,Asserted
+1c,07/16/2014,11:41:37,Drive Slot #0x46,Drive Present,Asserted
+1d,07/16/2014,14:23:53,Power Unit #0xe8,Power off/down,Asserted
+1e,07/16/2014,14:32:09,Button #0xf1,Power Button pressed,Asserted
+1f,07/16/2014,14:32:10,Power Unit #0xe8,Power off/down,Deasserted
+20,07/16/2014,14:32:33,Drive Slot #0x45,Drive Present,Asserted
+21,07/16/2014,14:32:33,Drive Slot #0x46,Drive Present,Asserted
+22,07/16/2014,14:48:43,Power Unit #0xe8,Power off/down,Asserted
+23,08/18/2014,10:04:36,Drive Slot #0x45,Drive Present,Asserted
+24,08/18/2014,10:04:36,Drive Slot #0x46,Drive Present,Asserted
+25,08/19/2014,06:27:35,Button #0xf1,Power Button pressed,Asserted
+26,08/19/2014,06:27:41,Button #0xf1,Power Button pressed,Asserted
+27,08/19/2014,06:27:42,Button #0xf1,Power Button pressed,Asserted
+28,08/19/2014,06:27:45,Power Unit #0xe8,Power off/down,Deasserted
+29,08/22/2014,09:31:44,Temperature #0xac,Upper Non-critical going high,Asserted

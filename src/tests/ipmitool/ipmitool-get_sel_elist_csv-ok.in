@@ -1,0 +1,1029 @@
+1,06/20/2012,23:04:06,Event Logging Disabled System Event Log,Log area reset/cleared,Asserted
+2,06/20/2012,23:04:31,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+3,06/20/2012,23:04:31,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+4,06/20/2012,11:04:59,Power Unit Pwr Unit Status,Power off/down,Asserted
+5,06/20/2012,11:04:59,Button Button,Power Button pressed,Asserted
+6,01/01/2005,00:00:07,Power Unit Pwr Unit Status,AC lost,Asserted
+7,01/01/2005,00:00:07,Processor P1 Status,Presence detected,Asserted
+8,01/01/2005,00:00:08,Power Unit Pwr Unit Status,AC lost,Deasserted
+9,01/01/2005,00:00:12,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.10 < Threshold 2.42 Volts
+a,01/01/2005,00:00:12,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.10 < Threshold 2.11 Volts
+b,01/01/2005,00:00:24,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+c,01/01/2005,00:00:24,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+d,01/01/2005,00:00:28,Power Unit Pwr Unit Status,Power off/down,Asserted
+e,01/01/2005,00:00:33,Power Unit Pwr Unit Status,Power off/down,Deasserted
+f,01/01/2005,00:00:37,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.10 < Threshold 2.42 Volts
+10,01/01/2005,00:00:37,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.10 < Threshold 2.11 Volts
+11,01/01/2005,00:00:40,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.03 < Threshold 2.42 Volts
+12,01/01/2005,00:00:40,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.03 < Threshold 2.11 Volts
+13,01/01/2005,00:00:51,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+14,01/01/2005,00:00:52,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+15,01/01/2005,00:01:05,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+16,01/01/2005,00:01:09,Voltage BB +1.35 P1LV CD,Upper Non-critical going high,Asserted,Reading 1.51 > Threshold 1.45 Volts
+17,01/01/2005,00:01:09,Voltage BB +1.35 P1LV CD,Upper Critical going high,Asserted,Reading 1.51 > Threshold 1.49 Volts
+18,01/01/2005,00:01:10,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+19,01/01/2005,00:01:14,Temperature P1 Therm Ctrl %,Upper Non-critical going high,Asserted,Reading 77 > Threshold 30 percent
+1a,01/01/2005,00:01:14,Temperature P1 Therm Ctrl %,Upper Critical going high,Asserted,Reading 77 > Threshold 50 percent
+1b,01/01/2005,00:06:31,Voltage BB +1.35 P1LV CD,Upper Non-critical going high,Asserted,Reading 1.51 > Threshold 1.45 Volts
+1c,01/01/2005,00:06:31,Voltage BB +1.35 P1LV CD,Upper Critical going high,Asserted,Reading 1.51 > Threshold 1.49 Volts
+1d,01/01/2005,00:06:39,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.69 < Threshold 2.42 Volts
+1e,01/01/2005,00:06:39,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.69 < Threshold 2.11 Volts
+1f,01/01/2005,00:06:45,Temperature P1 Therm Ctrl %,Upper Non-critical going high,Asserted,Reading 90 > Threshold 30 percent
+20,01/01/2005,00:06:45,Temperature P1 Therm Ctrl %,Upper Critical going high,Asserted,Reading 90 > Threshold 50 percent
+21,01/01/2005,00:08:41,Version Change FW Update Status,,Asserted
+22,01/01/2005,00:08:48,Unknown SPS FW Health,,Asserted
+23,01/01/2005,00:08:48,Unknown SPS FW Health,,Asserted
+24,01/01/2005,00:08:50,Unknown SPS FW Health,,Asserted
+25,01/01/2005,00:09:14,Version Change FW Update Status,,Asserted
+26,01/01/2005,00:11:45,Temperature P1 Therm Ctrl %,Upper Non-critical going high,Deasserted,Reading 90 > Threshold 30 percent
+27,01/01/2005,00:11:45,Temperature P1 Therm Ctrl %,Upper Critical going high,Deasserted,Reading 90 > Threshold 50 percent
+28,01/01/2005,00:11:45,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.69 < Threshold 2.42 Volts
+29,01/01/2005,00:11:45,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.69 < Threshold 2.11 Volts
+2a,01/01/2005,00:11:45,Voltage BB +1.35 P1LV CD,Upper Non-critical going high,Deasserted,Reading 1.51 > Threshold 1.45 Volts
+2b,01/01/2005,00:11:45,Voltage BB +1.35 P1LV CD,Upper Critical going high,Deasserted,Reading 1.51 > Threshold 1.49 Volts
+2c,01/01/2005,00:11:46,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.81 < Threshold 2.54 Volts
+2d,01/01/2005,00:11:46,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.81 < Threshold 2.21 Volts
+2e,01/01/2005,00:11:46,Temperature P1 Therm Ctrl %,Upper Non-critical going high,Asserted,Reading 100 > Threshold 30 percent
+2f,01/01/2005,00:11:46,Temperature P1 Therm Ctrl %,Upper Critical going high,Asserted,Reading 100 > Threshold 50 percent
+30,01/01/2005,00:12:12,Power Unit Pwr Unit Status,Failure detected,Asserted
+31,01/01/2005,00:12:12,Power Unit Pwr Unit Status,Power off/down,Asserted
+32,08/24/2018,00:13:33,Power Unit Pwr Unit Status,AC lost,Asserted
+33,08/24/2018,00:13:34,Power Unit Pwr Unit Status,AC lost,Deasserted
+34,08/24/2018,00:13:35,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+35,08/24/2018,00:13:35,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+36,01/01/2005,00:00:14,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.35 < Threshold 2.54 Volts
+37,01/01/2005,00:00:14,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.35 < Threshold 2.21 Volts
+38,01/01/2005,00:00:21,System Firmware Error POST Err Sensor,Unknown Error,Asserted
+39,01/01/2005,00:00:21,System Firmware Error POST Err Sensor,Unknown Error,Asserted
+3a,01/01/2005,00:00:34,Power Unit Pwr Unit Status,Failure detected,Asserted
+3b,01/01/2005,00:00:35,Power Unit Pwr Unit Status,Power off/down,Asserted
+3c,01/01/2005,00:00:07,Power Unit Pwr Unit Status,AC lost,Asserted
+3d,01/01/2005,00:00:07,Power Unit Pwr Unit Status,AC lost,Deasserted
+3e,01/01/2005,00:00:12,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.17 < Threshold 2.54 Volts
+3f,01/01/2005,00:00:12,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.17 < Threshold 2.21 Volts
+40,01/01/2005,00:00:25,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+41,01/01/2005,00:00:26,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+42,01/01/2005,00:00:45,System Firmware Error POST Err Sensor,Unknown Error,Asserted
+43,01/01/2005,00:00:45,System Firmware Error POST Err Sensor,Unknown Error,Asserted
+44,01/01/2005,00:00:48,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+45,01/01/2005,00:01:44,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.17 < Threshold 2.54 Volts
+46,01/01/2005,00:01:44,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.17 < Threshold 2.21 Volts
+47,01/01/2005,00:01:45,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.17 < Threshold 2.54 Volts
+48,01/01/2005,00:01:45,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.17 < Threshold 2.21 Volts
+49,01/01/2005,00:02:02,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+4a,01/01/2005,00:02:02,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+4b,01/01/2005,00:02:23,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+4c,01/01/2005,00:04:54,Physical Security Physical Scrty,System unplugged from LAN,Asserted
+4d,01/01/2005,00:06:55,Physical Security Physical Scrty,System unplugged from LAN,Deasserted
+4e,01/01/2005,00:06:55,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.83 < Threshold 2.54 Volts
+4f,01/01/2005,00:06:55,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.83 < Threshold 2.21 Volts
+50,01/01/2005,00:06:55,Physical Security Physical Scrty,System unplugged from LAN,Asserted
+51,01/01/2005,00:06:55,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.83 < Threshold 2.54 Volts
+52,01/01/2005,00:06:55,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.83 < Threshold 2.21 Volts
+53,01/01/2005,00:07:11,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+54,01/01/2005,00:07:12,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+55,01/01/2005,00:08:32,Drive Slot HDD 4 Status,Drive Present,Asserted
+56,01/01/2005,00:12:54,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+57,01/01/2005,00:17:56,Drive Slot HDD 4 Status,Drive Present,Deasserted
+58,01/01/2005,00:17:59,Drive Slot HDD 4 Status,Drive Present,Asserted
+59,01/01/2005,00:18:41,Drive Slot HDD 5 Status,Drive Present,Asserted
+5a,01/01/2005,00:19:55,Drive Slot HDD 2 Status,Drive Present,Asserted
+5b,01/01/2005,00:21:25,Physical Security Physical Scrty,System unplugged from LAN,Deasserted
+5c,01/01/2005,00:21:25,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.83 < Threshold 2.54 Volts
+5d,01/01/2005,00:21:25,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.83 < Threshold 2.21 Volts
+5e,01/01/2005,00:21:25,Physical Security Physical Scrty,System unplugged from LAN,Asserted
+5f,01/01/2005,00:21:26,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+60,01/01/2005,00:21:26,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+61,01/01/2005,00:21:43,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+62,01/01/2005,00:21:43,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+63,01/01/2005,00:22:44,Drive Slot HDD 3 Status,Drive Present,Asserted
+64,01/01/2005,00:23:14,Physical Security Physical Scrty,System unplugged from LAN,Deasserted
+65,01/01/2005,00:23:14,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+66,01/01/2005,00:23:14,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+67,01/01/2005,00:23:15,Physical Security Physical Scrty,System unplugged from LAN,Asserted
+68,01/01/2005,00:23:15,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+69,01/01/2005,00:23:15,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+6a,01/01/2005,00:23:31,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+6b,01/01/2005,00:23:32,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+6c,01/01/2005,00:24:04,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+6d,01/01/2005,00:26:13,Drive Slot HDD 0 Status,Drive Present,Asserted
+6e,01/01/2005,00:27:42,Drive Slot HDD 1 Status,Drive Present,Asserted
+6f,01/01/2005,00:32:08,Power Unit Pwr Unit Status,Failure detected,Asserted
+70,01/01/2005,00:32:09,Power Unit Pwr Unit Status,Power off/down,Asserted
+71,01/01/2005,00:32:09,Power Supply PS1 Status,Power Supply AC lost,Asserted
+72,01/01/2005,00:00:05,Power Unit Pwr Unit Status,AC lost,Asserted
+73,01/01/2005,00:00:06,Power Unit Pwr Unit Status,AC lost,Deasserted
+74,01/01/2005,00:00:10,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.20 < Threshold 2.54 Volts
+75,01/01/2005,00:00:10,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.20 < Threshold 2.21 Volts
+76,01/01/2005,00:00:17,Drive Slot HDD 0 Status,Drive Present,Asserted
+77,01/01/2005,00:00:17,Drive Slot HDD 1 Status,Drive Present,Asserted
+78,01/01/2005,00:00:17,Drive Slot HDD 2 Status,Drive Present,Asserted
+79,01/01/2005,00:00:17,Drive Slot HDD 3 Status,Drive Present,Asserted
+7a,01/01/2005,00:00:17,Drive Slot HDD 4 Status,Drive Present,Asserted
+7b,01/01/2005,00:00:17,Drive Slot HDD 5 Status,Drive Present,Asserted
+7c,01/01/2005,00:00:25,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+7d,01/01/2005,00:00:26,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+7e,01/01/2005,00:01:03,System Firmware Error POST Err Sensor,Unknown Error,Asserted
+7f,01/01/2005,00:01:03,System Firmware Error POST Err Sensor,Unknown Error,Asserted
+80,01/01/2005,00:01:20,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+81,01/01/2005,00:03:28,Physical Security Physical Scrty,System unplugged from LAN,Asserted
+82,01/01/2005,00:03:57,Physical Security Physical Scrty,System unplugged from LAN,Deasserted
+83,01/01/2005,01:27:03,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.20 < Threshold 2.54 Volts
+84,01/01/2005,01:27:03,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.20 < Threshold 2.21 Volts
+85,01/01/2005,01:27:04,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+86,01/01/2005,01:27:04,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+87,01/01/2005,01:27:21,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+88,01/01/2005,01:27:21,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+89,01/01/2005,01:28:11,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+8a,01/01/2005,01:36:28,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+8b,01/01/2005,01:36:28,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+8c,01/01/2005,01:36:29,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+8d,01/01/2005,01:36:29,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+8e,01/01/2005,01:36:46,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+8f,01/01/2005,01:36:46,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+90,01/01/2005,01:37:40,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+91,01/01/2005,01:49:13,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+92,01/01/2005,01:49:13,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+93,01/01/2005,01:49:14,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+94,01/01/2005,01:49:14,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+95,01/01/2005,01:49:30,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+96,01/01/2005,01:49:30,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+97,01/01/2005,01:50:21,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+98,01/01/2005,01:57:24,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+99,01/01/2005,01:57:24,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+9a,01/01/2005,01:57:25,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+9b,01/01/2005,01:57:25,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+9c,01/01/2005,01:57:41,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+9d,01/01/2005,01:57:41,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+9e,01/01/2005,01:59:12,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+9f,01/01/2005,02:04:32,Physical Security Physical Scrty,System unplugged from LAN,Asserted
+a0,01/01/2005,02:04:44,Physical Security Physical Scrty,System unplugged from LAN,Deasserted
+a1,01/01/2005,02:16:05,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+a2,01/01/2005,02:16:05,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+a3,01/01/2005,02:16:06,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+a4,01/01/2005,02:16:06,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+a5,01/01/2005,02:16:25,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+a6,01/01/2005,02:16:25,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+a7,01/01/2005,02:17:10,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+a8,01/01/2005,02:17:10,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+a9,01/01/2005,02:17:11,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+aa,01/01/2005,02:17:11,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+ab,01/01/2005,02:17:28,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+ac,01/01/2005,02:17:28,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+ad,01/01/2005,02:18:16,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+ae,01/01/2005,02:23:15,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+af,01/01/2005,02:23:15,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+b0,01/01/2005,02:23:16,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+b1,01/01/2005,02:23:16,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+b2,01/01/2005,02:23:32,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+b3,01/01/2005,02:23:32,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+b4,01/01/2005,02:24:24,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+b5,01/01/2005,03:07:46,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+b6,01/01/2005,03:07:46,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+b7,01/01/2005,03:07:48,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+b8,01/01/2005,03:07:48,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+b9,01/01/2005,03:08:04,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+ba,01/01/2005,03:08:04,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+bb,01/01/2005,03:08:54,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+bc,01/01/2005,04:00:52,Power Unit Pwr Unit Status,Failure detected,Asserted
+bd,01/01/2005,04:00:52,Power Unit Pwr Unit Status,Power off/down,Asserted
+be,01/01/2005,04:00:52,Power Supply PS1 Status,Power Supply AC lost,Asserted
+bf,01/01/2005,00:00:07,Power Unit Pwr Unit Status,AC lost,Asserted
+c0,01/01/2005,00:00:08,Power Unit Pwr Unit Status,AC lost,Deasserted
+c1,01/01/2005,00:00:12,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.28 < Threshold 2.54 Volts
+c2,01/01/2005,00:00:25,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+c3,01/01/2005,00:00:25,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+c4,01/01/2005,00:00:32,Power Unit Pwr Unit Status,Failure detected,Asserted
+c5,01/01/2005,00:00:33,Power Unit Pwr Unit Status,Power off/down,Asserted
+c6,01/01/2005,00:00:33,Power Supply PS1 Status,Power Supply AC lost,Asserted
+c7,01/01/2005,00:00:06,Power Unit Pwr Unit Status,AC lost,Asserted
+c8,01/01/2005,00:00:07,Power Unit Pwr Unit Status,AC lost,Deasserted
+c9,01/01/2005,00:00:12,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.15 < Threshold 2.54 Volts
+ca,01/01/2005,00:00:12,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.15 < Threshold 2.21 Volts
+cb,01/01/2005,00:00:26,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+cc,01/01/2005,00:00:26,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+cd,01/01/2005,00:01:02,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.15 < Threshold 2.54 Volts
+ce,01/01/2005,00:01:02,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.15 < Threshold 2.21 Volts
+cf,01/01/2005,00:01:02,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.15 < Threshold 2.54 Volts
+d0,01/01/2005,00:01:02,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.15 < Threshold 2.21 Volts
+d1,01/01/2005,00:01:19,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+d2,01/01/2005,00:01:19,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+d3,01/01/2005,00:47:26,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.98 < Threshold 2.54 Volts
+d4,01/01/2005,00:47:26,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.98 < Threshold 2.21 Volts
+d5,01/01/2005,00:47:27,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.98 < Threshold 2.54 Volts
+d6,01/01/2005,00:47:27,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.98 < Threshold 2.21 Volts
+d7,01/01/2005,00:47:44,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+d8,01/01/2005,00:47:44,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+d9,01/01/2005,00:48:31,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.98 < Threshold 2.54 Volts
+da,01/01/2005,00:48:31,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.98 < Threshold 2.21 Volts
+db,01/01/2005,00:48:31,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.98 < Threshold 2.54 Volts
+dc,01/01/2005,00:48:31,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.98 < Threshold 2.21 Volts
+dd,01/01/2005,00:48:50,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+de,01/01/2005,00:48:50,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+df,01/01/2005,00:49:53,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+e0,01/01/2005,00:56:51,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+e1,01/01/2005,00:56:51,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+e2,01/01/2005,00:56:52,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+e3,01/01/2005,00:56:52,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+e4,01/01/2005,00:57:08,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+e5,01/01/2005,00:57:09,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+e6,01/01/2005,01:08:15,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+e7,01/01/2005,01:25:58,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+e8,01/01/2005,01:25:58,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+e9,01/01/2005,01:25:59,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+ea,01/01/2005,01:25:59,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+eb,01/01/2005,01:26:16,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+ec,01/01/2005,01:26:17,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+ed,01/01/2005,01:27:12,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+ee,01/01/2005,01:50:46,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+ef,01/01/2005,01:50:46,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+f0,01/01/2005,01:50:46,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+f1,01/01/2005,01:50:46,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+f2,01/01/2005,01:51:03,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+f3,01/01/2005,01:51:03,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+f4,01/01/2005,01:51:56,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+f5,01/01/2005,01:57:49,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+f6,01/01/2005,01:57:49,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+f7,01/01/2005,01:57:50,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+f8,01/01/2005,01:57:50,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+f9,01/01/2005,01:58:07,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+fa,01/01/2005,01:58:07,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+fb,01/01/2005,01:59:05,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+fc,01/01/2005,01:59:24,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+fd,01/01/2005,01:59:24,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+fe,01/01/2005,01:59:24,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+ff,01/01/2005,01:59:25,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+100,01/01/2005,01:59:41,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+101,01/01/2005,01:59:42,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+102,01/01/2005,02:02:22,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+103,01/01/2005,02:02:22,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+104,01/01/2005,02:02:22,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+105,01/01/2005,02:02:22,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+106,01/01/2005,02:02:39,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+107,01/01/2005,02:02:39,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+108,01/01/2005,02:03:37,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+109,01/01/2005,02:03:37,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+10a,01/01/2005,02:03:38,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+10b,01/01/2005,02:03:38,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+10c,01/01/2005,02:03:55,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+10d,01/01/2005,02:03:55,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+10e,01/01/2005,02:04:54,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+10f,01/01/2005,02:29:11,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+110,01/01/2005,02:29:11,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+111,01/01/2005,02:29:11,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+112,01/01/2005,02:29:11,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+113,01/01/2005,02:29:30,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+114,01/01/2005,02:29:31,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+115,01/01/2005,02:30:24,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+116,01/01/2005,02:34:43,Power Unit Pwr Unit Status,Failure detected,Asserted
+117,01/01/2005,02:34:44,Power Unit Pwr Unit Status,Power off/down,Asserted
+118,01/01/2005,02:34:44,Power Supply PS1 Status,Power Supply AC lost,Asserted
+119,01/01/2005,02:43:49,Power Unit Pwr Unit Status,Power off/down,Asserted
+11a,01/01/2005,02:43:49,Power Unit Pwr Unit Status,AC lost,Asserted
+11b,01/01/2005,02:43:50,Power Unit Pwr Unit Status,AC lost,Deasserted
+11c,01/01/2005,02:44:05,Power Unit Pwr Unit Status,Power off/down,Deasserted
+11d,01/01/2005,02:44:05,Button Button,Power Button pressed,Asserted
+11e,01/01/2005,02:44:13,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.94 < Threshold 2.54 Volts
+11f,01/01/2005,02:44:13,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.94 < Threshold 2.21 Volts
+120,01/01/2005,02:44:19,Drive Slot HDD 0 Status,Drive Present,Asserted
+121,01/01/2005,02:44:19,Drive Slot HDD 1 Status,Drive Present,Asserted
+122,01/01/2005,02:44:19,Drive Slot HDD 2 Status,Drive Present,Asserted
+123,01/01/2005,02:44:19,Drive Slot HDD 3 Status,Drive Present,Asserted
+124,01/01/2005,02:44:19,Drive Slot HDD 4 Status,Drive Present,Asserted
+125,01/01/2005,02:44:19,Drive Slot HDD 5 Status,Drive Present,Asserted
+126,01/01/2005,02:44:27,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+127,01/01/2005,02:44:27,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+128,01/01/2005,02:45:58,Drive Slot HDD 7 Status,Drive Present,Asserted
+129,01/01/2005,02:45:59,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+12a,01/01/2005,02:46:01,Drive Slot HDD 6 Status,Drive Present,Asserted
+12b,01/01/2005,02:46:47,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.94 < Threshold 2.54 Volts
+12c,01/01/2005,02:46:47,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.94 < Threshold 2.21 Volts
+12d,01/01/2005,02:46:48,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.94 < Threshold 2.54 Volts
+12e,01/01/2005,02:46:48,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.94 < Threshold 2.21 Volts
+12f,01/01/2005,02:47:05,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+130,01/01/2005,02:47:06,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+131,01/01/2005,02:48:09,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+132,01/01/2005,02:56:11,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.94 < Threshold 2.54 Volts
+133,01/01/2005,02:56:11,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.94 < Threshold 2.21 Volts
+134,01/01/2005,02:56:12,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+135,01/01/2005,02:56:12,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+136,01/01/2005,02:56:29,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+137,01/01/2005,02:56:30,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+138,01/01/2005,02:57:25,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+139,01/01/2005,02:59:14,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+13a,01/01/2005,02:59:14,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+13b,01/01/2005,02:59:15,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+13c,01/01/2005,02:59:15,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+13d,01/01/2005,02:59:32,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+13e,01/01/2005,02:59:32,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+13f,01/01/2005,03:00:36,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+140,01/01/2005,03:00:55,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+141,01/01/2005,03:00:55,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+142,01/01/2005,03:00:56,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+143,01/01/2005,03:00:56,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+144,01/01/2005,03:01:13,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+145,01/01/2005,03:01:13,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+146,01/01/2005,03:02:17,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+147,01/01/2005,03:02:28,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+148,01/01/2005,03:02:28,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+149,01/01/2005,03:02:29,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+14a,01/01/2005,03:02:29,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+14b,01/01/2005,03:02:46,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+14c,01/01/2005,03:02:46,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+14d,01/01/2005,03:03:48,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+14e,01/01/2005,03:24:33,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+14f,01/01/2005,03:24:33,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+150,01/01/2005,03:24:33,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+151,01/01/2005,03:24:33,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+152,01/01/2005,03:24:50,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+153,01/01/2005,03:24:51,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+154,01/01/2005,03:25:54,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+155,01/01/2005,03:26:17,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+156,01/01/2005,03:26:17,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+157,01/01/2005,03:26:17,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+158,01/01/2005,03:26:17,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+159,01/01/2005,03:26:35,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+15a,01/01/2005,03:26:35,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+15b,01/01/2005,03:29:01,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+15c,01/01/2005,06:13:16,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+15d,01/01/2005,06:13:16,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+15e,01/01/2005,06:13:17,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.01 < Threshold 2.54 Volts
+15f,01/01/2005,06:13:17,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.01 < Threshold 2.21 Volts
+160,01/01/2005,06:13:21,Button Button,Power Button pressed,Asserted
+161,01/01/2005,06:13:31,Button Button,Power Button pressed,Asserted
+162,01/01/2005,06:13:34,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+163,01/01/2005,06:13:34,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+164,01/01/2005,06:13:35,Power Unit Pwr Unit Status,Power off/down,Asserted
+165,01/01/2005,00:00:13,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.16 < Threshold 2.54 Volts
+166,01/01/2005,00:00:13,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.16 < Threshold 2.21 Volts
+167,01/01/2005,00:00:17,Drive Slot HDD 0 Status,Drive Present,Asserted
+168,01/01/2005,00:00:17,Drive Slot HDD 1 Status,Drive Present,Asserted
+169,01/01/2005,00:00:17,Drive Slot HDD 2 Status,Drive Present,Asserted
+16a,01/01/2005,00:00:17,Drive Slot HDD 3 Status,Drive Present,Asserted
+16b,01/01/2005,00:00:17,Drive Slot HDD 4 Status,Drive Present,Asserted
+16c,01/01/2005,00:00:17,Drive Slot HDD 5 Status,Drive Present,Asserted
+16d,01/01/2005,00:00:17,Drive Slot HDD 6 Status,Drive Present,Asserted
+16e,01/01/2005,00:00:17,Drive Slot HDD 7 Status,Drive Present,Asserted
+16f,01/01/2005,00:00:25,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+170,01/01/2005,00:00:26,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+171,01/01/2005,00:01:25,System Firmware Error POST Err Sensor,Unknown Error,Asserted
+172,01/01/2005,00:01:25,System Firmware Error POST Err Sensor,Unknown Error,Asserted
+173,01/01/2005,00:05:09,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.16 < Threshold 2.54 Volts
+174,01/01/2005,00:05:09,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.16 < Threshold 2.21 Volts
+175,01/01/2005,00:05:10,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.16 < Threshold 2.54 Volts
+176,01/01/2005,00:05:10,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.16 < Threshold 2.21 Volts
+177,01/01/2005,00:05:26,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+178,01/01/2005,00:05:27,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+179,01/01/2005,00:10:49,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.16 < Threshold 2.54 Volts
+17a,01/01/2005,00:10:49,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.16 < Threshold 2.21 Volts
+17b,01/01/2005,00:10:51,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.97 < Threshold 2.54 Volts
+17c,01/01/2005,00:10:51,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.97 < Threshold 2.21 Volts
+17d,01/01/2005,00:11:07,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+17e,01/01/2005,00:11:08,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+17f,01/01/2005,00:20:51,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.97 < Threshold 2.54 Volts
+180,01/01/2005,00:20:51,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.97 < Threshold 2.21 Volts
+181,01/01/2005,00:20:52,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+182,01/01/2005,00:20:52,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+183,01/01/2005,00:21:09,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+184,01/01/2005,00:21:09,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+185,01/01/2005,00:22:17,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+186,01/01/2005,00:23:03,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+187,01/01/2005,00:23:03,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+188,01/01/2005,00:23:03,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+189,01/01/2005,00:23:03,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+18a,01/01/2005,00:23:21,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+18b,01/01/2005,00:23:21,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+18c,01/01/2005,00:24:33,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+18d,01/01/2005,00:24:33,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+18e,01/01/2005,00:24:34,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+18f,01/01/2005,00:24:34,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+190,01/01/2005,00:24:51,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+191,01/01/2005,00:24:52,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+192,01/01/2005,00:33:11,Physical Security Physical Scrty,System unplugged from LAN,Asserted
+193,01/01/2005,00:38:44,Power Unit Pwr Unit Status,Failure detected,Asserted
+194,01/01/2005,00:38:44,Power Unit Pwr Unit Status,Power off/down,Asserted
+195,01/01/2005,00:38:44,Power Supply PS1 Status,Power Supply AC lost,Asserted
+196,01/01/2005,00:00:05,Power Unit Pwr Unit Status,AC lost,Asserted
+197,01/01/2005,00:00:05,Power Unit Pwr Unit Status,AC lost,Deasserted
+198,01/01/2005,00:00:11,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.19 < Threshold 2.54 Volts
+199,01/01/2005,00:00:11,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.19 < Threshold 2.21 Volts
+19a,01/01/2005,00:00:16,Drive Slot HDD 0 Status,Drive Present,Asserted
+19b,01/01/2005,00:00:16,Drive Slot HDD 1 Status,Drive Present,Asserted
+19c,01/01/2005,00:00:16,Drive Slot HDD 2 Status,Drive Present,Asserted
+19d,01/01/2005,00:00:16,Drive Slot HDD 3 Status,Drive Present,Asserted
+19e,01/01/2005,00:00:16,Drive Slot HDD 4 Status,Drive Present,Asserted
+19f,01/01/2005,00:00:16,Drive Slot HDD 5 Status,Drive Present,Asserted
+1a0,01/01/2005,00:00:16,Drive Slot HDD 6 Status,Drive Present,Asserted
+1a1,01/01/2005,00:00:16,Drive Slot HDD 7 Status,Drive Present,Asserted
+1a2,01/01/2005,00:00:25,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1a3,01/01/2005,00:00:25,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1a4,01/01/2005,00:01:42,System Firmware Error POST Err Sensor,Unknown Error,Asserted
+1a5,01/01/2005,00:01:42,System Firmware Error POST Err Sensor,Unknown Error,Asserted
+1a6,01/01/2005,00:04:49,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.19 < Threshold 2.54 Volts
+1a7,01/01/2005,00:04:49,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.19 < Threshold 2.21 Volts
+1a8,01/01/2005,00:04:50,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.19 < Threshold 2.54 Volts
+1a9,01/01/2005,00:04:50,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.19 < Threshold 2.21 Volts
+1aa,01/01/2005,00:05:07,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1ab,01/01/2005,00:05:07,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1ac,01/01/2005,01:11:21,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+1ad,01/01/2005,01:11:21,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+1ae,01/01/2005,01:11:22,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+1af,01/01/2005,01:11:22,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+1b0,01/01/2005,01:11:39,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1b1,01/01/2005,01:11:39,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1b2,01/01/2005,01:12:34,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+1b3,01/01/2005,01:12:34,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+1b4,01/01/2005,01:12:35,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+1b5,01/01/2005,01:12:35,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+1b6,01/01/2005,01:12:52,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1b7,01/01/2005,01:12:53,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1b8,01/01/2005,01:32:13,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+1b9,01/01/2005,01:32:13,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+1ba,01/01/2005,01:32:14,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+1bb,01/01/2005,01:32:14,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+1bc,01/01/2005,01:32:31,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1bd,01/01/2005,01:32:32,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1be,01/01/2005,01:33:22,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+1bf,01/01/2005,01:34:30,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+1c0,01/01/2005,01:34:30,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+1c1,01/01/2005,01:34:31,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+1c2,01/01/2005,01:34:31,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+1c3,01/01/2005,01:34:48,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1c4,01/01/2005,01:34:48,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1c5,01/01/2005,03:12:27,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+1c6,01/01/2005,03:12:27,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+1c7,01/01/2005,03:12:28,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+1c8,01/01/2005,03:12:28,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+1c9,01/01/2005,03:12:45,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1ca,01/01/2005,03:12:46,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1cb,01/01/2005,03:13:24,Physical Security Physical Scrty,System unplugged from LAN,Asserted
+1cc,01/01/2005,03:13:34,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+1cd,01/01/2005,03:37:20,Physical Security Physical Scrty,System unplugged from LAN,Deasserted
+1ce,01/01/2005,03:37:20,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+1cf,01/01/2005,03:37:20,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+1d0,01/01/2005,03:37:21,Physical Security Physical Scrty,System unplugged from LAN,Asserted
+1d1,01/01/2005,03:37:21,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+1d2,01/01/2005,03:37:21,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+1d3,01/01/2005,03:37:38,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1d4,01/01/2005,03:37:38,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1d5,01/01/2005,03:38:29,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+1d6,01/01/2005,03:48:02,Button Button,Power Button pressed,Asserted
+1d7,01/01/2005,03:48:29,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1d8,01/01/2005,03:48:29,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1d9,01/01/2005,03:48:30,Power Unit Pwr Unit Status,Power off/down,Asserted
+1da,01/01/2005,00:00:09,Power Supply PS1 Status,Power Supply AC lost,Asserted
+1db,01/01/2005,00:00:10,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.20 < Threshold 2.54 Volts
+1dc,01/01/2005,00:00:10,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.20 < Threshold 2.21 Volts
+1dd,01/01/2005,00:00:16,Drive Slot HDD 0 Status,Drive Present,Asserted
+1de,01/01/2005,00:00:16,Drive Slot HDD 1 Status,Drive Present,Asserted
+1df,01/01/2005,00:00:16,Drive Slot HDD 2 Status,Drive Present,Asserted
+1e0,01/01/2005,00:00:16,Drive Slot HDD 3 Status,Drive Present,Asserted
+1e1,01/01/2005,00:00:16,Drive Slot HDD 4 Status,Drive Present,Asserted
+1e2,01/01/2005,00:00:16,Drive Slot HDD 5 Status,Drive Present,Asserted
+1e3,01/01/2005,00:00:16,Drive Slot HDD 6 Status,Drive Present,Asserted
+1e4,01/01/2005,00:00:16,Drive Slot HDD 7 Status,Drive Present,Asserted
+1e5,01/01/2005,00:00:25,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1e6,01/01/2005,00:00:25,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1e7,01/01/2005,00:00:35,Power Supply PS1 Status,Power Supply AC lost,Deasserted
+1e8,01/01/2005,00:01:28,System Firmware Error POST Err Sensor,Unknown Error,Asserted
+1e9,01/01/2005,00:01:28,System Firmware Error POST Err Sensor,Unknown Error,Asserted
+1ea,01/01/2005,00:01:32,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+1eb,01/01/2005,01:54:07,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.20 < Threshold 2.54 Volts
+1ec,01/01/2005,01:54:07,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.20 < Threshold 2.21 Volts
+1ed,01/01/2005,01:54:08,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+1ee,01/01/2005,01:54:08,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+1ef,01/01/2005,01:54:25,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1f0,01/01/2005,01:54:25,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1f1,01/01/2005,02:03:53,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+1f2,01/01/2005,02:03:53,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+1f3,01/01/2005,02:03:54,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+1f4,01/01/2005,02:03:54,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+1f5,01/01/2005,02:04:10,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1f6,01/01/2005,02:04:10,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1f7,01/01/2005,02:05:24,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+1f8,01/01/2005,02:05:56,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+1f9,01/01/2005,02:05:56,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+1fa,01/01/2005,02:05:57,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+1fb,01/01/2005,02:05:57,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+1fc,01/01/2005,02:06:13,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1fd,01/01/2005,02:06:13,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+1fe,01/01/2005,02:08:23,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+1ff,01/01/2005,02:08:50,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+200,01/01/2005,02:08:50,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+201,01/01/2005,02:08:51,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+202,01/01/2005,02:08:51,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+203,01/01/2005,02:09:08,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+204,01/01/2005,02:09:08,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+205,01/01/2005,02:10:22,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+206,01/01/2005,02:10:49,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+207,01/01/2005,02:10:49,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+208,01/01/2005,02:10:49,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+209,01/01/2005,02:10:49,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+20a,01/01/2005,02:11:06,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+20b,01/01/2005,02:11:06,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+20c,01/01/2005,02:15:30,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+20d,01/01/2005,02:15:30,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+20e,01/01/2005,02:15:31,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+20f,01/01/2005,02:15:31,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+210,01/01/2005,02:15:47,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+211,01/01/2005,02:15:48,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+212,01/01/2005,02:17:02,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+213,01/01/2005,02:17:50,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+214,01/01/2005,02:17:50,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+215,01/01/2005,02:17:51,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+216,01/01/2005,02:17:51,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+217,01/01/2005,02:18:08,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+218,01/01/2005,02:18:08,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+219,01/01/2005,02:20:36,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+21a,01/01/2005,02:20:36,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+21b,01/01/2005,02:20:36,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+21c,01/01/2005,02:20:36,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+21d,01/01/2005,02:20:54,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+21e,01/01/2005,02:20:54,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+21f,01/01/2005,02:22:08,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+220,01/01/2005,02:22:33,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+221,01/01/2005,02:22:33,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+222,01/01/2005,02:22:34,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+223,01/01/2005,02:22:34,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+224,01/01/2005,02:22:51,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+225,01/01/2005,02:22:51,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+226,01/01/2005,02:24:37,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 1.99 < Threshold 2.54 Volts
+227,01/01/2005,02:24:37,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 1.99 < Threshold 2.21 Volts
+228,01/01/2005,02:24:38,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 1.99 < Threshold 2.54 Volts
+229,01/01/2005,02:24:38,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 1.99 < Threshold 2.21 Volts
+22a,01/01/2005,02:24:55,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+22b,01/01/2005,02:24:55,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+22c,01/01/2005,02:26:10,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+22d,01/03/2005,10:48:30,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+22e,01/03/2005,10:48:30,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+22f,01/03/2005,10:48:31,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+230,01/03/2005,10:48:31,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+231,01/03/2005,10:48:48,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+232,01/03/2005,10:48:43,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+233,01/03/2005,10:49:53,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+234,01/03/2005,10:56:29,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+235,01/03/2005,10:56:29,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+236,01/03/2005,10:56:29,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+237,01/03/2005,10:56:29,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+238,01/03/2005,10:56:47,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+239,01/03/2005,10:56:46,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+23a,01/03/2005,11:00:25,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+23b,01/03/2005,12:16:22,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+23c,01/03/2005,12:16:22,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+23d,01/03/2005,12:16:23,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+23e,01/03/2005,12:16:23,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+23f,01/03/2005,12:16:40,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+240,01/03/2005,12:16:41,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+241,01/03/2005,12:17:51,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+242,01/03/2005,12:57:07,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+243,01/03/2005,12:57:07,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+244,01/03/2005,12:57:08,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+245,01/03/2005,12:57:08,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+246,01/03/2005,12:57:25,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+247,01/03/2005,12:57:24,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+248,01/03/2005,12:58:34,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+249,01/03/2005,14:03:14,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+24a,01/03/2005,14:03:14,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+24b,01/03/2005,14:03:15,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+24c,01/03/2005,14:03:15,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+24d,01/03/2005,14:03:32,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+24e,01/03/2005,14:03:33,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+24f,01/03/2005,14:10:56,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+250,01/03/2005,14:10:56,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+251,01/03/2005,14:10:57,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+252,01/03/2005,14:10:57,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+253,01/03/2005,14:11:14,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+254,01/03/2005,14:11:14,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+255,01/03/2005,14:14:16,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+256,01/03/2005,14:14:16,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+257,01/03/2005,14:14:17,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+258,01/03/2005,14:14:17,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+259,01/03/2005,14:14:34,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+25a,01/03/2005,14:14:35,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+25b,01/03/2005,14:15:45,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+25c,01/03/2005,14:34:47,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+25d,01/03/2005,14:34:47,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+25e,01/03/2005,14:34:48,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+25f,01/03/2005,14:34:48,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+260,01/03/2005,14:35:05,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+261,01/03/2005,14:35:05,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+262,01/03/2005,14:36:15,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+263,01/03/2005,14:38:36,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+264,01/03/2005,14:38:36,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+265,01/03/2005,14:38:36,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+266,01/03/2005,14:38:36,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+267,01/03/2005,14:38:54,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+268,01/03/2005,14:38:54,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+269,01/03/2005,14:40:04,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+26a,01/03/2005,14:41:59,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+26b,01/03/2005,14:41:59,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+26c,01/03/2005,14:41:59,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+26d,01/03/2005,14:41:59,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+26e,01/03/2005,14:42:16,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+26f,01/03/2005,14:42:17,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+270,01/03/2005,14:46:23,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+271,01/03/2005,14:46:33,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+272,01/03/2005,14:46:33,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+273,01/03/2005,14:46:34,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+274,01/03/2005,14:46:34,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+275,01/03/2005,14:46:51,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+276,01/03/2005,14:46:51,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+277,01/03/2005,14:48:55,Power Unit Pwr Unit Status,Power off/down,Asserted
+278,01/03/2005,14:49:00,Power Unit Pwr Unit Status,Power off/down,Deasserted
+279,01/03/2005,14:49:03,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+27a,01/03/2005,14:49:03,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+27b,01/03/2005,14:49:06,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+27c,01/03/2005,14:49:06,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+27d,01/03/2005,14:49:19,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+27e,01/03/2005,14:49:19,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+27f,01/03/2005,14:51:09,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+280,01/03/2005,15:13:10,Memory #0x53,Correctable ECC,Asserted
+281,01/03/2005,15:18:57,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+282,01/03/2005,15:18:57,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+283,01/03/2005,15:18:58,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+284,01/03/2005,15:18:58,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+285,01/03/2005,15:19:14,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+286,01/03/2005,15:19:14,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+287,01/03/2005,19:29:20,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+288,01/03/2005,21:02:55,Drive Slot HDD 1 Status,Drive Present,Deasserted
+289,01/03/2005,21:02:59,Drive Slot HDD 2 Status,Drive Fault,Asserted
+28a,01/04/2005,00:33:01,Power Supply PS1 Status,Power Supply AC lost,Asserted
+28b,01/04/2005,00:33:20,Power Supply PS1 Status,Power Supply AC lost,Deasserted
+28c,01/04/2005,09:33:23,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.07 < Threshold 2.54 Volts
+28d,01/04/2005,09:33:23,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.07 < Threshold 2.21 Volts
+28e,01/04/2005,09:33:23,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.07 < Threshold 2.54 Volts
+28f,01/04/2005,09:33:23,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.07 < Threshold 2.21 Volts
+290,01/04/2005,09:33:24,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+291,01/04/2005,09:33:40,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+292,01/04/2005,09:33:40,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+293,01/04/2005,09:34:22,Drive Slot HDD 2 Status,Drive Fault,Asserted
+294,01/04/2005,09:34:57,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+295,01/04/2005,10:50:07,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.07 < Threshold 2.54 Volts
+296,01/04/2005,10:50:07,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.07 < Threshold 2.21 Volts
+297,01/04/2005,10:50:08,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.07 < Threshold 2.54 Volts
+298,01/04/2005,10:50:08,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.07 < Threshold 2.21 Volts
+299,01/04/2005,10:50:09,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+29a,01/04/2005,10:50:25,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+29b,12/17/2013,01:19:36,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+29c,12/17/2013,01:20:20,Drive Slot HDD 2 Status,Drive Fault,Asserted
+29d,12/17/2013,01:21:20,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+29e,12/17/2013,01:23:06,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.07 < Threshold 2.54 Volts
+29f,12/17/2013,01:23:06,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.07 < Threshold 2.21 Volts
+2a0,12/17/2013,01:23:07,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.07 < Threshold 2.54 Volts
+2a1,12/17/2013,01:23:07,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.07 < Threshold 2.21 Volts
+2a2,12/17/2013,01:23:09,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+2a3,12/17/2013,01:23:24,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2a4,12/17/2013,01:23:24,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2a5,12/17/2013,01:24:39,Drive Slot HDD 2 Status,Drive Fault,Asserted
+2a6,12/17/2013,01:25:13,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+2a7,12/17/2013,02:10:00,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.07 < Threshold 2.54 Volts
+2a8,12/17/2013,02:10:01,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.07 < Threshold 2.21 Volts
+2a9,12/17/2013,02:10:01,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.07 < Threshold 2.54 Volts
+2aa,12/17/2013,02:10:01,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.07 < Threshold 2.21 Volts
+2ab,12/17/2013,02:10:03,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+2ac,12/17/2013,02:10:18,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2ad,12/17/2013,02:10:19,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2ae,12/17/2013,02:10:58,Drive Slot HDD 2 Status,Drive Fault,Asserted
+2af,12/17/2013,02:11:31,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+2b0,12/17/2013,02:18:36,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+2b1,12/17/2013,02:18:36,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+2b2,12/17/2013,02:18:37,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+2b3,12/17/2013,02:18:37,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+2b4,12/17/2013,02:18:38,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+2b5,12/17/2013,02:18:54,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2b6,12/17/2013,02:18:54,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2b7,12/17/2013,02:19:38,Drive Slot HDD 2 Status,Drive Fault,Asserted
+2b8,12/17/2013,02:19:41,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+2b9,12/17/2013,02:20:10,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+2ba,12/17/2013,02:20:13,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+2bb,12/17/2013,02:37:13,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+2bc,12/17/2013,02:37:13,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+2bd,12/17/2013,02:37:14,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+2be,12/17/2013,02:37:14,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+2bf,12/17/2013,02:37:15,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+2c0,12/17/2013,02:37:31,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2c1,12/17/2013,02:37:30,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2c2,12/17/2013,02:38:03,Drive Slot HDD 2 Status,Drive Fault,Asserted
+2c3,12/17/2013,02:39:33,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+2c4,12/17/2013,02:39:33,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+2c5,12/17/2013,02:39:34,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+2c6,12/17/2013,02:39:34,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+2c7,12/17/2013,02:39:35,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+2c8,12/17/2013,02:39:51,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2c9,12/17/2013,02:39:51,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2ca,12/17/2013,02:40:41,Drive Slot HDD 2 Status,Drive Fault,Asserted
+2cb,12/17/2013,02:41:05,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+2cc,12/17/2013,03:05:03,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+2cd,12/17/2013,03:05:03,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+2ce,12/17/2013,03:05:03,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+2cf,12/17/2013,03:05:03,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+2d0,12/17/2013,03:05:05,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+2d1,12/17/2013,03:05:20,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2d2,12/17/2013,03:05:20,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2d3,12/17/2013,03:06:01,Drive Slot HDD 2 Status,Drive Fault,Asserted
+2d4,12/17/2013,03:06:30,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+2d5,12/17/2013,03:09:27,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+2d6,12/17/2013,03:09:27,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+2d7,12/17/2013,03:09:27,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+2d8,12/17/2013,03:09:27,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+2d9,12/17/2013,03:09:28,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+2da,12/17/2013,03:09:44,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2db,12/17/2013,03:09:44,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2dc,12/17/2013,03:10:29,Drive Slot HDD 2 Status,Drive Fault,Asserted
+2dd,12/17/2013,03:11:13,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+2de,12/17/2013,03:13:51,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+2df,12/17/2013,03:13:51,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+2e0,12/17/2013,03:13:52,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+2e1,12/17/2013,03:13:52,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+2e2,12/17/2013,03:13:52,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+2e3,12/17/2013,03:14:09,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2e4,12/17/2013,03:14:09,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2e5,12/17/2013,03:14:56,Drive Slot HDD 2 Status,Drive Fault,Asserted
+2e6,12/17/2013,03:16:32,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+2e7,12/17/2013,03:16:32,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+2e8,12/17/2013,03:16:33,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.06 < Threshold 2.54 Volts
+2e9,12/17/2013,03:16:33,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.06 < Threshold 2.21 Volts
+2ea,12/17/2013,03:16:35,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+2eb,12/17/2013,03:16:50,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2ec,12/17/2013,03:16:50,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2ed,12/17/2013,03:17:37,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+2ee,12/17/2013,03:17:39,Drive Slot HDD 2 Status,Drive Fault,Asserted
+2ef,12/17/2013,03:30:12,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+2f0,12/19/2013,01:07:24,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.06 < Threshold 2.54 Volts
+2f1,12/19/2013,01:07:24,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.06 < Threshold 2.21 Volts
+2f2,12/19/2013,01:07:25,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+2f3,12/19/2013,01:07:25,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+2f4,12/19/2013,01:07:26,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+2f5,12/19/2013,01:07:42,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2f6,12/19/2013,01:07:38,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2f7,12/19/2013,01:08:12,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+2f8,12/19/2013,01:08:14,Drive Slot HDD 2 Status,Drive Fault,Asserted
+2f9,12/19/2013,01:10:53,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+2fa,12/19/2013,01:10:53,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+2fb,12/19/2013,01:10:53,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+2fc,12/19/2013,01:10:53,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+2fd,12/19/2013,01:10:55,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+2fe,12/19/2013,01:11:11,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+2ff,12/19/2013,01:11:11,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+300,12/19/2013,01:11:43,Drive Slot HDD 2 Status,Drive Fault,Asserted
+301,12/19/2013,01:11:46,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+302,12/19/2013,01:12:10,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+303,12/19/2013,01:12:10,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+304,12/19/2013,01:12:11,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+305,12/19/2013,01:12:11,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+306,12/19/2013,01:12:12,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+307,12/19/2013,01:12:27,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+308,12/19/2013,01:12:27,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+309,12/19/2013,01:12:58,Drive Slot HDD 2 Status,Drive Fault,Asserted
+30a,12/19/2013,01:13:33,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+30b,12/19/2013,01:13:33,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+30c,12/19/2013,01:13:34,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+30d,12/19/2013,01:13:34,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+30e,12/19/2013,01:13:36,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+30f,12/19/2013,01:13:50,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+310,12/19/2013,01:13:50,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+311,12/19/2013,01:14:34,Drive Slot HDD 2 Status,Drive Fault,Asserted
+312,12/19/2013,01:15:31,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+313,12/19/2013,01:15:31,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+314,12/19/2013,01:15:32,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+315,12/19/2013,01:15:32,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+316,12/19/2013,01:15:33,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+317,12/19/2013,01:15:48,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+318,12/19/2013,01:15:49,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+319,12/19/2013,01:16:31,Drive Slot HDD 2 Status,Drive Fault,Asserted
+31a,12/19/2013,01:16:59,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+31b,12/19/2013,01:34:13,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+31c,12/19/2013,01:34:13,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+31d,12/19/2013,01:34:14,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+31e,12/19/2013,01:34:14,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+31f,12/19/2013,01:34:15,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+320,12/19/2013,01:34:31,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+321,12/19/2013,01:34:33,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+322,12/19/2013,01:35:14,Drive Slot HDD 2 Status,Drive Fault,Asserted
+323,12/19/2013,01:35:43,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+324,12/19/2013,01:44:09,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+325,12/19/2013,01:44:09,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+326,12/19/2013,01:44:10,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+327,12/19/2013,01:44:10,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+328,12/19/2013,01:44:11,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+329,12/19/2013,01:44:27,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+32a,12/19/2013,01:44:27,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+32b,12/19/2013,01:45:08,Drive Slot HDD 2 Status,Drive Fault,Asserted
+32c,12/19/2013,01:45:37,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+32d,12/19/2013,01:47:05,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+32e,12/19/2013,01:47:05,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+32f,12/19/2013,01:47:06,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+330,12/19/2013,01:47:06,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+331,12/19/2013,01:47:08,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+332,12/19/2013,01:47:22,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+333,12/19/2013,01:47:23,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+334,12/19/2013,01:48:06,Drive Slot HDD 2 Status,Drive Fault,Asserted
+335,12/19/2013,01:48:33,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+336,12/19/2013,01:57:24,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+337,12/19/2013,01:57:24,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+338,12/19/2013,01:57:25,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+339,12/19/2013,01:57:25,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+33a,12/19/2013,01:57:25,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+33b,12/19/2013,01:57:41,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+33c,12/19/2013,01:57:42,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+33d,12/19/2013,01:58:25,Drive Slot HDD 2 Status,Drive Fault,Asserted
+33e,12/19/2013,01:58:52,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+33f,12/19/2013,02:00:13,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+340,12/19/2013,02:00:13,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+341,12/19/2013,02:00:14,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+342,12/19/2013,02:00:14,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+343,12/19/2013,02:00:15,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+344,12/19/2013,02:00:30,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+345,12/19/2013,02:00:31,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+346,12/19/2013,02:01:14,Drive Slot HDD 2 Status,Drive Fault,Asserted
+347,12/19/2013,02:03:21,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+348,12/19/2013,02:03:21,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+349,12/19/2013,02:03:22,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+34a,12/19/2013,02:03:22,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+34b,12/19/2013,02:03:23,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+34c,12/19/2013,02:03:39,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+34d,12/19/2013,02:03:39,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+34e,12/19/2013,02:04:23,Drive Slot HDD 2 Status,Drive Fault,Asserted
+34f,12/19/2013,02:04:49,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+350,12/19/2013,02:08:36,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+351,12/19/2013,02:08:36,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+352,12/19/2013,02:08:37,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+353,12/19/2013,02:08:37,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+354,12/19/2013,02:08:38,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+355,12/19/2013,02:08:53,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+356,12/19/2013,02:08:54,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+357,12/19/2013,02:09:35,Drive Slot HDD 2 Status,Drive Fault,Asserted
+358,12/19/2013,02:10:02,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+359,12/19/2013,02:29:23,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+35a,12/19/2013,02:29:23,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+35b,12/19/2013,02:29:24,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+35c,12/19/2013,02:29:24,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+35d,12/19/2013,02:29:26,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+35e,12/19/2013,02:29:41,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+35f,12/19/2013,02:29:42,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+360,12/19/2013,02:30:23,Drive Slot HDD 2 Status,Drive Fault,Asserted
+361,12/19/2013,02:30:52,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+362,12/19/2013,02:32:00,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+363,12/19/2013,02:32:00,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+364,12/19/2013,02:32:01,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+365,12/19/2013,02:32:01,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+366,12/19/2013,02:32:02,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+367,12/19/2013,02:32:17,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+368,12/19/2013,02:32:18,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+369,12/19/2013,02:32:59,Drive Slot HDD 2 Status,Drive Fault,Asserted
+36a,12/19/2013,02:33:26,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+36b,12/19/2013,02:55:28,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+36c,12/19/2013,02:55:28,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+36d,12/19/2013,02:55:29,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+36e,12/19/2013,02:55:29,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+36f,12/19/2013,02:55:30,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+370,12/19/2013,02:55:46,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+371,12/19/2013,02:55:46,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+372,12/19/2013,02:56:28,Drive Slot HDD 2 Status,Drive Fault,Asserted
+373,12/19/2013,02:56:56,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+374,12/19/2013,02:58:54,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+375,12/19/2013,02:58:54,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+376,12/19/2013,02:58:55,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+377,12/19/2013,02:58:55,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+378,12/19/2013,02:58:56,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+379,12/19/2013,02:59:12,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+37a,12/19/2013,02:59:12,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+37b,12/19/2013,02:59:56,Drive Slot HDD 2 Status,Drive Fault,Asserted
+37c,12/19/2013,03:00:22,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+37d,12/20/2013,04:35:11,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+37e,12/20/2013,04:35:11,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+37f,12/20/2013,04:35:11,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+380,12/20/2013,04:35:12,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+381,12/20/2013,04:35:12,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+382,12/20/2013,04:35:28,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+383,12/20/2013,09:35:44,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+384,12/20/2013,09:36:30,Drive Slot HDD 2 Status,Drive Fault,Asserted
+385,12/20/2013,09:36:54,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+386,12/20/2013,09:37:12,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+387,12/20/2013,09:37:12,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+388,12/20/2013,09:37:13,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+389,12/20/2013,09:37:13,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+38a,12/20/2013,09:37:15,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+38b,12/20/2013,09:37:30,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+38c,12/20/2013,09:37:30,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+38d,12/20/2013,09:38:17,Drive Slot HDD 2 Status,Drive Fault,Asserted
+38e,12/20/2013,09:38:39,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+38f,12/20/2013,09:54:58,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+390,12/20/2013,09:54:58,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+391,12/20/2013,09:54:59,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+392,12/20/2013,09:54:59,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+393,12/20/2013,09:55:01,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+394,12/20/2013,09:55:12,Power Unit Pwr Unit Status,Power off/down,Asserted
+395,12/20/2013,09:55:17,Power Unit Pwr Unit Status,Power off/down,Deasserted
+396,12/20/2013,09:55:20,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.08 < Threshold 2.54 Volts
+397,12/20/2013,09:55:20,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.08 < Threshold 2.21 Volts
+398,12/20/2013,09:55:24,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.08 < Threshold 2.54 Volts
+399,12/20/2013,09:55:24,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.08 < Threshold 2.21 Volts
+39a,12/20/2013,09:55:36,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+39b,12/20/2013,09:55:36,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+39c,12/20/2013,09:56:40,Drive Slot HDD 2 Status,Drive Fault,Asserted
+39d,12/20/2013,09:57:31,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+39e,12/27/2013,20:34:05,Power Supply PS1 Status,Power Supply AC lost,Asserted
+39f,12/30/2013,07:14:44,Power Supply PS1 Status,Power Supply AC lost,Deasserted
+3a0,12/30/2013,07:14:44,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.15 < Threshold 2.54 Volts
+3a1,12/30/2013,07:14:44,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.15 < Threshold 2.21 Volts
+3a2,12/30/2013,07:14:44,Power Supply PS1 Status,Power Supply AC lost,Asserted
+3a3,12/30/2013,07:14:45,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.15 < Threshold 2.54 Volts
+3a4,12/30/2013,07:14:45,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.15 < Threshold 2.21 Volts
+3a5,12/30/2013,07:14:46,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+3a6,12/30/2013,07:15:01,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+3a7,12/30/2013,07:15:30,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+3a8,12/30/2013,07:16:12,Drive Slot HDD 2 Status,Drive Fault,Asserted
+3a9,12/30/2013,08:11:11,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+3aa,01/17/2014,06:29:58,Power Supply PS1 Status,Power Supply AC lost,Deasserted
+3ab,01/17/2014,06:29:58,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.15 < Threshold 2.54 Volts
+3ac,01/17/2014,06:29:58,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.15 < Threshold 2.21 Volts
+3ad,01/17/2014,06:29:59,Power Supply PS1 Status,Power Supply AC lost,Asserted
+3ae,01/17/2014,06:29:59,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.20 < Threshold 2.54 Volts
+3af,01/17/2014,06:29:59,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.20 < Threshold 2.21 Volts
+3b0,01/17/2014,06:30:01,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+3b1,01/17/2014,06:30:16,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+3b2,01/17/2014,06:31:20,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+3b3,01/17/2014,06:32:04,Drive Slot HDD 2 Status,Drive Fault,Asserted
+3b4,01/17/2014,06:32:30,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+3b5,01/17/2014,06:33:06,Power Supply PS1 Status,Power Supply AC lost,Deasserted
+3b6,01/17/2014,06:33:06,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.20 < Threshold 2.54 Volts
+3b7,01/17/2014,06:33:06,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.20 < Threshold 2.21 Volts
+3b8,01/17/2014,06:33:07,Power Supply PS1 Status,Power Supply AC lost,Asserted
+3b9,01/17/2014,06:33:07,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.20 < Threshold 2.54 Volts
+3ba,01/17/2014,06:33:07,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.20 < Threshold 2.21 Volts
+3bb,01/17/2014,06:33:08,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+3bc,01/17/2014,06:33:23,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+3bd,01/17/2014,06:33:23,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+3be,01/17/2014,06:34:06,Drive Slot HDD 2 Status,Drive Fault,Asserted
+3bf,01/17/2014,06:34:32,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+3c0,01/17/2014,07:01:42,Power Supply PS1 Status,Power Supply AC lost,Deasserted
+3c1,01/17/2014,07:01:42,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.20 < Threshold 2.54 Volts
+3c2,01/17/2014,07:01:42,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.20 < Threshold 2.21 Volts
+3c3,01/17/2014,07:01:42,Power Supply PS1 Status,Power Supply AC lost,Asserted
+3c4,01/17/2014,07:01:43,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.20 < Threshold 2.54 Volts
+3c5,01/17/2014,07:01:43,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.20 < Threshold 2.21 Volts
+3c6,01/17/2014,07:01:45,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+3c7,01/17/2014,07:01:59,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+3c8,01/17/2014,07:02:00,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+3c9,01/17/2014,07:02:42,Drive Slot HDD 2 Status,Drive Fault,Asserted
+3ca,01/17/2014,07:03:11,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+3cb,01/17/2014,07:29:18,Power Supply PS1 Status,Power Supply AC lost,Deasserted
+3cc,01/17/2014,07:29:18,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Deasserted,Reading 2.20 < Threshold 2.54 Volts
+3cd,01/17/2014,07:29:18,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.20 < Threshold 2.21 Volts
+3ce,01/17/2014,07:29:18,Power Supply PS1 Status,Power Supply AC lost,Asserted
+3cf,01/17/2014,07:29:19,Voltage BB +3.3V Vbat,Lower Non-critical going low ,Asserted,Reading 2.20 < Threshold 2.54 Volts
+3d0,01/17/2014,07:29:19,Voltage BB +3.3V Vbat,Lower Critical going low ,Asserted,Reading 2.20 < Threshold 2.21 Volts
+3d1,01/17/2014,07:29:20,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+3d2,01/17/2014,07:29:35,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+3d3,01/17/2014,07:29:35,System Event BIOS Evt Sensor,Timestamp Clock Sync,Asserted
+3d4,01/17/2014,07:30:18,Drive Slot HDD 2 Status,Drive Fault,Asserted
+3d5,01/17/2014,07:30:45,System Event BIOS Evt Sensor,OEM System boot event,Asserted
+3d6,01/17/2014,14:24:06,Drive Slot HDD 1 Status,Drive Present,Asserted
+3d7,01/17/2014,14:24:09,Drive Slot HDD 1 Status,Drive Present,Deasserted
+3d8,01/17/2014,14:24:32,Drive Slot HDD 1 Status,Drive Present,Asserted
+3d9,02/06/2014,05:57:51,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+3da,02/06/2014,05:58:09,Drive Slot HDD 2 Status,Drive Fault,Asserted
+3db,02/06/2014,05:58:37,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+3dc,02/06/2014,06:12:55,Drive Slot HDD 2 Status,Drive Fault,Asserted
+3dd,02/06/2014,06:14:13,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+3de,02/06/2014,06:14:13,Drive Slot HDD 2 Status,Rebuild In Progress,Asserted
+3df,02/06/2014,07:38:48,Drive Slot HDD 2 Status,Rebuild In Progress,Deasserted
+3e0,02/06/2014,08:22:26,Drive Slot HDD 2 Status,Drive Fault,Asserted
+3e1,02/06/2014,08:23:13,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+3e2,02/06/2014,08:33:10,Drive Slot HDD 2 Status,Drive Fault,Asserted
+3e3,02/06/2014,08:48:33,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+3e4,02/06/2014,08:51:46,Drive Slot HDD 2 Status,Drive Fault,Asserted
+3e5,02/06/2014,08:53:42,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+3e6,02/06/2014,09:59:45,Drive Slot HDD 2 Status,Drive Fault,Asserted
+3e7,02/06/2014,10:01:28,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+3e8,02/06/2014,10:13:04,Drive Slot HDD 2 Status,Drive Fault,Asserted
+3e9,02/06/2014,10:13:11,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+3ea,02/06/2014,10:13:11,Drive Slot HDD 2 Status,Rebuild In Progress,Asserted
+3eb,02/06/2014,11:39:10,Drive Slot HDD 2 Status,Rebuild In Progress,Deasserted
+3ec,02/12/2014,06:09:08,Drive Slot HDD 2 Status,Drive Fault,Asserted
+3ed,02/12/2014,06:13:49,Drive Slot HDD 2 Status,Drive Fault,Deasserted
+3ee,02/12/2014,06:41:36,Temperature #0x30,Upper Critical going high,Asserted
+3ef,02/12/2014,06:41:36,System Event System Event,PEF Action,Asserted
+3f0,02/12/2014,06:49:43,Voltage #0x60,Lower Critical going low ,Asserted
+3f1,02/12/2014,06:49:43,System Event System Event,PEF Action,Asserted
+3f2,02/12/2014,06:55:32,Memory #0x53,Correctable ECC,Asserted
+3f3,02/12/2014,06:55:54,Temperature #0x30,Upper Critical going high,Asserted
+3f4,02/12/2014,06:55:55,System Event System Event,PEF Action,Asserted
+3f5,02/12/2014,06:59:48,Voltage #0x60,Lower Critical going low ,Asserted
+3f6,02/12/2014,06:59:48,System Event System Event,PEF Action,Asserted
+3f7,02/12/2014,07:02:28,Drive Slot HDD 2 Status,Drive Fault,Asserted
+3f8,02/12/2014,07:02:28,System Event System Event,PEF Action,Asserted
+3f9,02/12/2014,08:33:33,Temperature #0x30,Upper Critical going high,Asserted
+3fa,02/12/2014,08:33:33,System Event System Event,PEF Action,Asserted
+3fb,02/12/2014,09:47:22,Temperature #0x30,Upper Critical going high,Asserted
+3fc,02/12/2014,09:47:22,System Event System Event,PEF Action,Asserted
+3fd,02/12/2014,10:02:35,Processor #0x80,State Asserted,Asserted
+3fe,02/12/2014,10:04:40,Processor #0x80,State Deasserted,Asserted
+3ff,02/12/2014,10:05:20,Processor #0x82,State Asserted,Asserted
+400,02/12/2014,10:06:36,Processor #0x82,State Deasserted,Asserted
+401,02/12/2014,10:07:13,Physical Security #0x04,Drive Bay intrusion,Asserted
+402,02/12/2014,10:07:40,Temperature #0x30,Upper Critical going high,Asserted
+403,02/12/2014,10:07:40,System Event System Event,PEF Action,Asserted
+404,02/12/2014,10:10:08,Physical Security #0x04,Drive Bay intrusion,Asserted
+405,02/14/2014,12:22:42,Voltage BB +3.3V Vbat,Lower Critical going low ,Deasserted,Reading 2.24 < Threshold 2.21 Volts

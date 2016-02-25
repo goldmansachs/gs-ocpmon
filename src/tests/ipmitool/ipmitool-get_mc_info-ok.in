@@ -1,0 +1,23 @@
+Device ID                 : 33
+Device Revision           : 1
+Firmware Revision         : 1.20
+IPMI Version              : 2.0
+Manufacturer ID           : 343
+Manufacturer Name         : Intel Corporation
+Product ID                : 73 (0x0049)
+Product Name              : Unknown (0x49)
+Device Available          : yes
+Provides Device SDRs      : no
+Additional Device Support :
+    Sensor Device
+    SDR Repository Device
+    SEL Device
+    FRU Inventory Device
+    IPMB Event Receiver
+    IPMB Event Generator
+    Chassis Device
+Aux Firmware Rev Info     :
+    0x01
+    0x17
+    0x46
+    0x15

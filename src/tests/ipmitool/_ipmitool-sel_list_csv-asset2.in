@@ -1,0 +1,969 @@
+1,04/29/2014,15:40:36,Event Logging Disabled #0x07,Log area reset/cleared,Asserted
+2,04/29/2014,15:42:45,Power Unit #0x01,Power off/down,Asserted
+3,04/29/2014,15:42:45,Power Unit #0x01,Power off/down,Deasserted
+4,04/29/2014,15:42:45,Power Unit #0x01,240VA power down,Asserted
+5,04/29/2014,15:42:45,Power Unit #0x01,240VA power down,Deasserted
+6,04/29/2014,15:42:45,Power Unit #0x01,AC lost,Asserted
+7,04/29/2014,15:42:45,Power Unit #0x01,AC lost,Deasserted
+8,04/29/2014,15:42:45,Power Unit #0x01,Soft-power control failure,Asserted
+9,04/29/2014,15:42:45,Power Unit #0x01,Soft-power control failure,Deasserted
+a,04/29/2014,15:42:45,Power Unit #0x01,Failure detected,Asserted
+b,04/29/2014,15:42:45,Power Unit #0x01,Failure detected,Deasserted
+c,04/29/2014,15:42:45,Watchdog 2 #0x03,Timer expired,Asserted
+d,04/29/2014,15:42:45,Watchdog 2 #0x03,Timer expired,Deasserted
+e,04/29/2014,15:42:45,Watchdog 2 #0x03,Hard reset,Asserted
+f,04/29/2014,15:42:45,Watchdog 2 #0x03,Hard reset,Deasserted
+10,04/29/2014,15:42:45,Watchdog 2 #0x03,Power down,Asserted
+11,04/29/2014,15:42:45,Watchdog 2 #0x03,Power down,Deasserted
+12,04/29/2014,15:42:45,Watchdog 2 #0x03,Power cycle,Asserted
+13,04/29/2014,15:42:45,Watchdog 2 #0x03,Power cycle,Deasserted
+14,04/29/2014,15:42:45,Watchdog 2 #0x03,Timer interrupt,Asserted
+15,04/29/2014,15:42:45,Watchdog 2 #0x03,Timer interrupt,Deasserted
+16,04/29/2014,15:42:45,Physical Security #0x04,System unplugged from LAN,Asserted
+17,04/29/2014,15:42:45,Physical Security #0x04,System unplugged from LAN,Deasserted
+18,04/29/2014,15:42:45,Critical Interrupt #0x05,NMI/Diag Interrupt,Asserted
+19,04/29/2014,15:42:45,Critical Interrupt #0x05,NMI/Diag Interrupt,Deasserted
+1a,04/29/2014,15:42:45,Unknown #0x06,State Asserted
+1b,04/29/2014,15:42:45,Unknown #0x06,State Asserted
+1c,04/29/2014,15:42:45,Event Logging Disabled #0x07,Log area reset/cleared,Asserted
+1d,04/29/2014,15:42:45,Event Logging Disabled #0x07,Log area reset/cleared,Deasserted
+1e,04/29/2014,15:42:45,System Event #0x08,PEF Action,Asserted
+1f,04/29/2014,15:42:45,System Event #0x08,PEF Action,Deasserted
+20,04/29/2014,15:42:45,Button #0x09,Power Button pressed,Asserted
+21,04/29/2014,15:42:45,Button #0x09,Power Button pressed,Deasserted
+22,04/29/2014,15:42:45,Button #0x09,Reset Button pressed,Asserted
+23,04/29/2014,15:42:45,Button #0x09,Reset Button pressed,Deasserted
+24,04/29/2014,15:42:45,Voltage #0x0b,State Asserted
+25,04/29/2014,15:42:46,Voltage #0x0b,State Asserted
+26,04/29/2014,15:42:46,Fan #0x0c,Fully Redundant
+27,04/29/2014,15:42:46,Fan #0x0c,Fully Redundant
+28,04/29/2014,15:42:46,Fan #0x0c,Redundancy Lost
+29,04/29/2014,15:42:46,Fan #0x0c,Redundancy Lost
+2a,04/29/2014,15:42:46,Fan #0x0c,Redundancy Degraded
+2b,04/29/2014,15:42:46,Fan #0x0c,Redundancy Degraded
+2c,04/29/2014,15:42:46,Temperature #0x0d,State Asserted
+2d,04/29/2014,15:42:46,Temperature #0x0d,State Asserted
+2e,04/29/2014,15:42:46,Module/Board #0x0e,Device Present
+2f,04/29/2014,15:42:46,Module/Board #0x0e,Device Present
+30,04/29/2014,15:42:46,Module/Board #0x0f,Device Present
+31,04/29/2014,15:42:46,Module/Board #0x0f,Device Present
+32,04/29/2014,15:42:46,Management Subsystem Health #0x10,Sensor failure,Asserted
+33,04/29/2014,15:42:46,Management Subsystem Health #0x10,Sensor failure,Deasserted
+34,04/29/2014,15:42:46,Temperature #0x20,Lower Non-critical going low 
+35,04/29/2014,15:42:46,Temperature #0x20,Lower Non-critical going high
+36,04/29/2014,15:42:46,Temperature #0x20,Lower Critical going low 
+37,04/29/2014,15:42:46,Temperature #0x20,Lower Critical going high
+38,04/29/2014,15:42:46,Temperature #0x20,Upper Non-critical going high
+39,04/29/2014,15:42:46,Temperature #0x20,Upper Non-critical going low 
+3a,04/29/2014,15:42:46,Temperature #0x20,Upper Critical going high
+3b,04/29/2014,15:42:46,Temperature #0x20,Upper Critical going low 
+3c,04/29/2014,15:42:46,Temperature #0x21,Lower Non-critical going low 
+3d,04/29/2014,15:42:46,Temperature #0x21,Lower Non-critical going high
+3e,04/29/2014,15:42:46,Temperature #0x21,Lower Critical going low 
+3f,04/29/2014,15:42:46,Temperature #0x21,Lower Critical going high
+40,04/29/2014,15:42:46,Temperature #0x21,Upper Non-critical going high
+41,04/29/2014,15:42:46,Temperature #0x21,Upper Non-critical going low 
+42,04/29/2014,15:42:46,Temperature #0x21,Upper Critical going high
+43,04/29/2014,15:42:46,Temperature #0x21,Upper Critical going low 
+44,04/29/2014,15:42:46,Temperature #0x22,Lower Non-critical going low 
+45,04/29/2014,15:42:46,Temperature #0x22,Lower Non-critical going high
+46,04/29/2014,15:42:46,Temperature #0x22,Lower Critical going low 
+47,04/29/2014,15:42:47,Temperature #0x22,Lower Critical going high
+48,04/29/2014,15:42:47,Temperature #0x22,Upper Non-critical going high
+49,04/29/2014,15:42:47,Temperature #0x22,Upper Non-critical going low 
+4a,04/29/2014,15:42:47,Temperature #0x22,Upper Critical going high
+4b,04/29/2014,15:42:47,Temperature #0x22,Upper Critical going low 
+4c,04/29/2014,15:42:47,Temperature #0x23,Lower Non-critical going low 
+4d,04/29/2014,15:42:47,Temperature #0x23,Lower Non-critical going high
+4e,04/29/2014,15:42:47,Temperature #0x23,Lower Critical going low 
+4f,04/29/2014,15:42:47,Temperature #0x23,Lower Critical going high
+50,04/29/2014,15:42:47,Temperature #0x23,Upper Non-critical going high
+51,04/29/2014,15:42:47,Temperature #0x23,Upper Non-critical going low 
+52,04/29/2014,15:42:47,Temperature #0x23,Upper Critical going high
+53,04/29/2014,15:42:47,Temperature #0x23,Upper Critical going low 
+54,04/29/2014,15:42:47,Temperature #0x24,Lower Non-critical going low 
+55,04/29/2014,15:42:47,Temperature #0x24,Lower Non-critical going high
+56,04/29/2014,15:42:47,Temperature #0x24,Lower Critical going low 
+57,04/29/2014,15:42:47,Temperature #0x24,Lower Critical going high
+58,04/29/2014,15:42:47,Temperature #0x24,Upper Non-critical going high
+59,04/29/2014,15:42:47,Temperature #0x24,Upper Non-critical going low 
+5a,04/29/2014,15:42:47,Temperature #0x24,Upper Critical going high
+5b,04/29/2014,15:42:47,Temperature #0x24,Upper Critical going low 
+5c,04/29/2014,15:42:47,Temperature #0x25,Lower Non-critical going low 
+5d,04/29/2014,15:42:47,Temperature #0x25,Lower Non-critical going high
+5e,04/29/2014,15:42:47,Temperature #0x25,Lower Critical going low 
+5f,04/29/2014,15:42:47,Temperature #0x25,Lower Critical going high
+60,04/29/2014,15:42:47,Temperature #0x25,Upper Non-critical going high
+61,04/29/2014,15:42:47,Temperature #0x25,Upper Non-critical going low 
+62,04/29/2014,15:42:47,Temperature #0x25,Upper Critical going high
+63,04/29/2014,15:42:47,Temperature #0x25,Upper Critical going low 
+64,04/29/2014,15:42:47,Temperature #0x29,Lower Non-critical going low 
+65,04/29/2014,15:42:48,Temperature #0x29,Lower Non-critical going high
+66,04/29/2014,15:42:48,Temperature #0x29,Lower Critical going low 
+67,04/29/2014,15:42:48,Temperature #0x29,Lower Critical going high
+68,04/29/2014,15:42:48,Temperature #0x29,Upper Non-critical going high
+69,04/29/2014,15:42:48,Temperature #0x29,Upper Non-critical going low 
+6a,04/29/2014,15:42:48,Temperature #0x29,Upper Critical going high
+6b,04/29/2014,15:42:48,Temperature #0x29,Upper Critical going low 
+6c,04/29/2014,15:42:48,Temperature #0x2f,Lower Non-critical going low 
+6d,04/29/2014,15:42:48,Temperature #0x2f,Lower Non-critical going high
+6e,04/29/2014,15:42:48,Temperature #0x2f,Lower Critical going low 
+6f,04/29/2014,15:42:48,Temperature #0x2f,Lower Critical going high
+70,04/29/2014,15:42:48,Temperature #0x2f,Upper Non-critical going high
+71,04/29/2014,15:42:48,Temperature #0x2f,Upper Non-critical going low 
+72,04/29/2014,15:42:48,Temperature #0x2f,Upper Critical going high
+73,04/29/2014,15:42:48,Temperature #0x2f,Upper Critical going low 
+74,04/29/2014,15:42:48,Fan #0x30,Lower Non-critical going low 
+75,04/29/2014,15:42:48,Fan #0x30,Lower Non-critical going high
+76,04/29/2014,15:42:48,Fan #0x30,Lower Critical going low 
+77,04/29/2014,15:42:48,Fan #0x30,Lower Critical going high
+78,04/29/2014,15:42:48,Fan #0x31,Lower Non-critical going low 
+79,04/29/2014,15:42:48,Fan #0x31,Lower Non-critical going high
+7a,04/29/2014,15:42:48,Fan #0x31,Lower Critical going low 
+7b,04/29/2014,15:42:48,Fan #0x31,Lower Critical going high
+7c,04/29/2014,15:42:48,Fan #0x32,Lower Non-critical going low 
+7d,04/29/2014,15:42:48,Fan #0x32,Lower Non-critical going high
+7e,04/29/2014,15:42:48,Fan #0x32,Lower Critical going low 
+7f,04/29/2014,15:42:48,Fan #0x32,Lower Critical going high
+80,04/29/2014,15:42:48,Fan #0x33,Lower Non-critical going low 
+81,04/29/2014,15:42:48,Fan #0x33,Lower Non-critical going high
+82,04/29/2014,15:42:48,Fan #0x33,Lower Critical going low 
+83,04/29/2014,15:42:48,Fan #0x33,Lower Critical going high
+84,04/29/2014,15:42:49,Fan #0x34,Lower Non-critical going low 
+85,04/29/2014,15:42:49,Fan #0x34,Lower Non-critical going high
+86,04/29/2014,15:42:49,Fan #0x34,Lower Critical going low 
+87,04/29/2014,15:42:49,Fan #0x34,Lower Critical going high
+88,04/29/2014,15:42:49,Fan #0x35,Lower Non-critical going low 
+89,04/29/2014,15:42:49,Fan #0x35,Lower Non-critical going high
+8a,04/29/2014,15:42:49,Fan #0x35,Lower Critical going low 
+8b,04/29/2014,15:42:49,Fan #0x35,Lower Critical going high
+8c,04/29/2014,15:42:49,Fan #0x36,Lower Non-critical going low 
+8d,04/29/2014,15:42:49,Fan #0x36,Lower Non-critical going high
+8e,04/29/2014,15:42:49,Fan #0x36,Lower Critical going low 
+8f,04/29/2014,15:42:49,Fan #0x36,Lower Critical going high
+90,04/29/2014,15:42:49,Fan #0x37,Lower Non-critical going low 
+91,04/29/2014,15:42:49,Fan #0x37,Lower Non-critical going high
+92,04/29/2014,15:42:49,Fan #0x37,Lower Critical going low 
+93,04/29/2014,15:42:49,Fan #0x37,Lower Critical going high
+94,04/29/2014,15:42:49,Fan #0x38,Lower Non-critical going low 
+95,04/29/2014,15:42:49,Fan #0x38,Lower Non-critical going high
+96,04/29/2014,15:42:49,Fan #0x38,Lower Critical going low 
+97,04/29/2014,15:42:49,Fan #0x38,Lower Critical going high
+98,04/29/2014,15:42:49,Fan #0x39,Lower Non-critical going low 
+99,04/29/2014,15:42:49,Fan #0x39,Lower Non-critical going high
+9a,04/29/2014,15:42:49,Fan #0x39,Lower Critical going low 
+9b,04/29/2014,15:42:49,Fan #0x39,Lower Critical going high
+9c,04/29/2014,15:42:49,Fan #0x3a,Lower Non-critical going low 
+9d,04/29/2014,15:42:49,Fan #0x3a,Lower Non-critical going high
+9e,04/29/2014,15:42:49,Fan #0x3a,Lower Critical going low 
+9f,04/29/2014,15:42:49,Fan #0x3a,Lower Critical going high
+a0,04/29/2014,15:42:49,Fan #0x3b,Lower Non-critical going low 
+a1,04/29/2014,15:42:49,Fan #0x3b,Lower Non-critical going high
+a2,04/29/2014,15:42:50,Fan #0x3b,Lower Critical going low 
+a3,04/29/2014,15:42:50,Fan #0x3b,Lower Critical going high
+a4,04/29/2014,15:42:50,Power Supply #0x50,Presence detected,Asserted
+a5,04/29/2014,15:42:50,Power Supply #0x50,Presence detected,Deasserted
+a6,04/29/2014,15:42:50,Power Supply #0x50,Failure detected,Asserted
+a7,04/29/2014,15:42:50,Power Supply #0x50,Failure detected,Deasserted
+a8,04/29/2014,15:42:50,Power Supply #0x50,Predictive failure,Asserted
+a9,04/29/2014,15:42:50,Power Supply #0x50,Predictive failure,Deasserted
+aa,04/29/2014,15:42:50,Power Supply #0x50,Power Supply AC lost,Asserted
+ab,04/29/2014,15:42:50,Power Supply #0x50,Power Supply AC lost,Deasserted
+ac,04/29/2014,15:42:50,Power Supply #0x50,Config Error,Asserted
+ad,04/29/2014,15:42:50,Power Supply #0x50,Config Error,Deasserted
+ae,04/29/2014,15:42:50,Other Units-based Sensor #0x54,Upper Non-critical going high
+af,04/29/2014,15:42:50,Other Units-based Sensor #0x54,Upper Non-critical going low 
+b0,04/29/2014,15:42:50,Other Units-based Sensor #0x54,Upper Critical going high
+b1,04/29/2014,15:42:50,Other Units-based Sensor #0x54,Upper Critical going low 
+b2,04/29/2014,15:42:50,Current #0x58,Upper Non-critical going high
+b3,04/29/2014,15:42:50,Current #0x58,Upper Non-critical going low 
+b4,04/29/2014,15:42:50,Current #0x58,Upper Critical going high
+b5,04/29/2014,15:42:50,Current #0x58,Upper Critical going low 
+b6,04/29/2014,15:42:50,Temperature #0x5c,Upper Non-critical going high
+b7,04/29/2014,15:42:50,Temperature #0x5c,Upper Non-critical going low 
+b8,04/29/2014,15:42:50,Temperature #0x5c,Upper Critical going high
+b9,04/29/2014,15:42:50,Temperature #0x5c,Upper Critical going low 
+ba,04/29/2014,15:42:50,Processor #0x70,Thermal Trip,Asserted
+bb,04/29/2014,15:42:50,Processor #0x70,Thermal Trip,Deasserted
+bc,04/29/2014,15:42:50,Processor #0x70,Presence detected,Asserted
+bd,04/29/2014,15:42:50,Processor #0x70,Presence detected,Deasserted
+be,04/29/2014,15:42:50,Processor #0x71,Thermal Trip,Asserted
+bf,04/29/2014,15:42:50,Processor #0x71,Thermal Trip,Deasserted
+c0,04/29/2014,15:42:50,Processor #0x71,Presence detected,Asserted
+c1,04/29/2014,15:42:50,Processor #0x71,Presence detected,Deasserted
+c2,04/29/2014,15:42:50,Temperature #0x78,Upper Non-critical going high
+c3,04/29/2014,15:42:50,Temperature #0x78,Upper Non-critical going low 
+c4,04/29/2014,15:42:51,Temperature #0x78,Upper Critical going high
+c5,04/29/2014,15:42:51,Temperature #0x78,Upper Critical going low 
+c6,04/29/2014,15:42:51,Temperature #0x79,Upper Non-critical going high
+c7,04/29/2014,15:42:51,Temperature #0x79,Upper Non-critical going low 
+c8,04/29/2014,15:42:51,Temperature #0x79,Upper Critical going high
+c9,04/29/2014,15:42:51,Temperature #0x79,Upper Critical going low 
+ca,04/29/2014,15:42:51,Processor #0x7c,State Asserted
+cb,04/29/2014,15:42:51,Processor #0x7c,State Asserted
+cc,04/29/2014,15:42:51,Processor #0x7d,State Asserted
+cd,04/29/2014,15:42:51,Processor #0x7d,State Asserted
+ce,04/29/2014,15:42:51,Processor #0x80,State Asserted
+cf,04/29/2014,15:42:51,Processor #0x80,State Asserted
+d0,04/29/2014,15:42:51,Processor #0x81,State Asserted
+d1,04/29/2014,15:42:51,Processor #0x81,State Asserted
+d2,04/29/2014,15:42:51,Processor #0x82,State Asserted
+d3,04/29/2014,15:42:51,Processor #0x82,State Asserted
+d4,04/29/2014,15:42:51,Processor #0x87,State Asserted
+d5,04/29/2014,15:42:51,Processor #0x87,State Asserted
+d6,04/29/2014,15:42:51,Temperature #0x90,Limit Exceeded
+d7,04/29/2014,15:42:51,Temperature #0x90,Limit Exceeded
+d8,04/29/2014,15:42:51,Temperature #0x91,Limit Exceeded
+d9,04/29/2014,15:42:51,Temperature #0x91,Limit Exceeded
+da,04/29/2014,15:42:51,Temperature #0x94,Limit Exceeded
+db,04/29/2014,15:42:51,Temperature #0x94,Limit Exceeded
+dc,04/29/2014,15:42:51,Temperature #0x95,Limit Exceeded
+dd,04/29/2014,15:42:51,Temperature #0x95,Limit Exceeded
+de,04/29/2014,15:42:51,Temperature #0x96,Limit Exceeded
+df,04/29/2014,15:42:51,Temperature #0x96,Limit Exceeded
+e0,04/29/2014,15:42:51,Temperature #0x97,Limit Exceeded
+e1,04/29/2014,15:42:51,Temperature #0x97,Limit Exceeded
+e2,04/29/2014,15:42:51,Fan #0xa0,State Asserted
+e3,04/29/2014,15:42:51,Fan #0xa0,State Asserted
+e4,04/29/2014,15:42:51,Temperature #0xb0,Upper Non-critical going high
+e5,04/29/2014,15:42:51,Temperature #0xb0,Upper Non-critical going low 
+e6,04/29/2014,15:42:52,Temperature #0xb0,Upper Critical going high
+e7,04/29/2014,15:42:52,Temperature #0xb0,Upper Critical going low 
+e8,04/29/2014,15:42:52,Temperature #0xb1,Upper Non-critical going high
+e9,04/29/2014,15:42:52,Temperature #0xb1,Upper Non-critical going low 
+ea,04/29/2014,15:42:52,Temperature #0xb1,Upper Critical going high
+eb,04/29/2014,15:42:52,Temperature #0xb1,Upper Critical going low 
+ec,04/29/2014,15:42:52,Temperature #0xb2,Upper Non-critical going high
+ed,04/29/2014,15:42:52,Temperature #0xb2,Upper Non-critical going low 
+ee,04/29/2014,15:42:52,Temperature #0xb2,Upper Critical going high
+ef,04/29/2014,15:42:52,Temperature #0xb2,Upper Critical going low 
+f0,04/29/2014,15:42:52,Temperature #0xb3,Upper Non-critical going high
+f1,04/29/2014,15:42:52,Temperature #0xb3,Upper Non-critical going low 
+f2,04/29/2014,15:42:52,Temperature #0xb3,Upper Critical going high
+f3,04/29/2014,15:42:52,Temperature #0xb3,Upper Critical going low 
+f4,04/29/2014,15:42:52,Voltage #0xd0,Lower Non-critical going low 
+f5,04/29/2014,15:42:52,Voltage #0xd0,Lower Non-critical going high
+f6,04/29/2014,15:42:52,Voltage #0xd0,Lower Critical going low 
+f7,04/29/2014,15:42:52,Voltage #0xd0,Lower Critical going high
+f8,04/29/2014,15:42:52,Voltage #0xd0,Upper Non-critical going high
+f9,04/29/2014,15:42:52,Voltage #0xd0,Upper Non-critical going low 
+fa,04/29/2014,15:42:52,Voltage #0xd0,Upper Critical going high
+fb,04/29/2014,15:42:52,Voltage #0xd0,Upper Critical going low 
+fc,04/29/2014,15:42:52,Voltage #0xd1,Lower Non-critical going low 
+fd,04/29/2014,15:42:52,Voltage #0xd1,Lower Non-critical going high
+fe,04/29/2014,15:42:52,Voltage #0xd1,Lower Critical going low 
+ff,04/29/2014,15:42:52,Voltage #0xd1,Lower Critical going high
+100,04/29/2014,15:42:52,Voltage #0xd1,Upper Non-critical going high
+101,04/29/2014,15:42:52,Voltage #0xd1,Upper Non-critical going low 
+102,04/29/2014,15:42:52,Voltage #0xd1,Upper Critical going high
+103,04/29/2014,15:42:53,Voltage #0xd1,Upper Critical going low 
+104,04/29/2014,15:42:53,Voltage #0xd2,Lower Non-critical going low 
+105,04/29/2014,15:42:53,Voltage #0xd2,Lower Non-critical going high
+106,04/29/2014,15:42:53,Voltage #0xd2,Lower Critical going low 
+107,04/29/2014,15:42:53,Voltage #0xd2,Lower Critical going high
+108,04/29/2014,15:42:53,Voltage #0xd2,Upper Non-critical going high
+109,04/29/2014,15:42:53,Voltage #0xd2,Upper Non-critical going low 
+10a,04/29/2014,15:42:53,Voltage #0xd2,Upper Critical going high
+10b,04/29/2014,15:42:53,Voltage #0xd2,Upper Critical going low 
+10c,04/29/2014,15:42:53,Voltage #0xd3,Lower Non-critical going low 
+10d,04/29/2014,15:42:53,Voltage #0xd3,Lower Non-critical going high
+10e,04/29/2014,15:42:53,Voltage #0xd3,Lower Critical going low 
+10f,04/29/2014,15:42:53,Voltage #0xd3,Lower Critical going high
+110,04/29/2014,15:42:53,Voltage #0xd3,Upper Non-critical going high
+111,04/29/2014,15:42:53,Voltage #0xd3,Upper Non-critical going low 
+112,04/29/2014,15:42:53,Voltage #0xd3,Upper Critical going high
+113,04/29/2014,15:42:53,Voltage #0xd3,Upper Critical going low 
+114,04/29/2014,15:42:53,Voltage #0xd4,Lower Non-critical going low 
+115,04/29/2014,15:42:53,Voltage #0xd4,Lower Non-critical going high
+116,04/29/2014,15:42:53,Voltage #0xd4,Lower Critical going low 
+117,04/29/2014,15:42:53,Voltage #0xd4,Lower Critical going high
+118,04/29/2014,15:42:53,Voltage #0xd4,Upper Non-critical going high
+119,04/29/2014,15:42:53,Voltage #0xd4,Upper Non-critical going low 
+11a,04/29/2014,15:42:53,Voltage #0xd4,Upper Critical going high
+11b,04/29/2014,15:42:53,Voltage #0xd4,Upper Critical going low 
+11c,04/29/2014,15:42:53,Voltage #0xd6,Lower Non-critical going low 
+11d,04/29/2014,15:42:53,Voltage #0xd6,Lower Non-critical going high
+11e,04/29/2014,15:42:53,Voltage #0xd6,Lower Critical going low 
+11f,04/29/2014,15:42:53,Voltage #0xd6,Lower Critical going high
+120,04/29/2014,15:42:54,Voltage #0xd6,Upper Non-critical going high
+121,04/29/2014,15:42:54,Voltage #0xd6,Upper Non-critical going low 
+122,04/29/2014,15:42:54,Voltage #0xd6,Upper Critical going high
+123,04/29/2014,15:42:54,Voltage #0xd6,Upper Critical going low 
+124,04/29/2014,15:42:54,Voltage #0xd7,Lower Non-critical going low 
+125,04/29/2014,15:42:54,Voltage #0xd7,Lower Non-critical going high
+126,04/29/2014,15:42:54,Voltage #0xd7,Lower Critical going low 
+127,04/29/2014,15:42:54,Voltage #0xd7,Lower Critical going high
+128,04/29/2014,15:42:54,Voltage #0xd7,Upper Non-critical going high
+129,04/29/2014,15:42:54,Voltage #0xd7,Upper Non-critical going low 
+12a,04/29/2014,15:42:54,Voltage #0xd7,Upper Critical going high
+12b,04/29/2014,15:42:54,Voltage #0xd7,Upper Critical going low 
+12c,04/29/2014,15:42:54,Voltage #0xd8,Lower Non-critical going low 
+12d,04/29/2014,15:42:54,Voltage #0xd8,Lower Non-critical going high
+12e,04/29/2014,15:42:54,Voltage #0xd8,Lower Critical going low 
+12f,04/29/2014,15:42:54,Voltage #0xd8,Lower Critical going high
+130,04/29/2014,15:42:54,Voltage #0xd8,Upper Non-critical going high
+131,04/29/2014,15:42:54,Voltage #0xd8,Upper Non-critical going low 
+132,04/29/2014,15:42:54,Voltage #0xd8,Upper Critical going high
+133,04/29/2014,15:42:54,Voltage #0xd8,Upper Critical going low 
+134,04/29/2014,15:42:54,Voltage #0xd9,Lower Non-critical going low 
+135,04/29/2014,15:42:54,Voltage #0xd9,Lower Non-critical going high
+136,04/29/2014,15:42:54,Voltage #0xd9,Lower Critical going low 
+137,04/29/2014,15:42:54,Voltage #0xd9,Lower Critical going high
+138,04/29/2014,15:42:54,Voltage #0xd9,Upper Non-critical going high
+139,04/29/2014,15:42:54,Voltage #0xd9,Upper Non-critical going low 
+13a,04/29/2014,15:42:54,Voltage #0xd9,Upper Critical going high
+13b,04/29/2014,15:42:55,Voltage #0xd9,Upper Critical going low 
+13c,04/29/2014,15:42:55,Voltage #0xda,Lower Non-critical going low 
+13d,04/29/2014,15:42:55,Voltage #0xda,Lower Non-critical going high
+13e,04/29/2014,15:42:55,Voltage #0xda,Lower Critical going low 
+13f,04/29/2014,15:42:55,Voltage #0xda,Lower Critical going high
+140,04/29/2014,15:42:55,Voltage #0xda,Upper Non-critical going high
+141,04/29/2014,15:42:55,Voltage #0xda,Upper Non-critical going low 
+142,04/29/2014,15:42:55,Voltage #0xda,Upper Critical going high
+143,04/29/2014,15:42:55,Voltage #0xda,Upper Critical going low 
+144,04/29/2014,15:42:55,Voltage #0xdb,Lower Non-critical going low 
+145,04/29/2014,15:42:55,Voltage #0xdb,Lower Non-critical going high
+146,04/29/2014,15:42:55,Voltage #0xdb,Lower Critical going low 
+147,04/29/2014,15:42:55,Voltage #0xdb,Lower Critical going high
+148,04/29/2014,15:42:55,Voltage #0xdb,Upper Non-critical going high
+149,04/29/2014,15:42:55,Voltage #0xdb,Upper Non-critical going low 
+14a,04/29/2014,15:42:55,Voltage #0xdb,Upper Critical going high
+14b,04/29/2014,15:42:56,Voltage #0xdb,Upper Critical going low 
+14c,04/29/2014,15:42:56,Voltage #0xdc,Lower Non-critical going low 
+14d,04/29/2014,15:42:56,Voltage #0xdc,Lower Non-critical going high
+14e,04/29/2014,15:42:56,Voltage #0xdc,Lower Critical going low 
+14f,04/29/2014,15:42:56,Voltage #0xdc,Lower Critical going high
+150,04/29/2014,15:42:56,Voltage #0xdc,Upper Non-critical going high
+151,04/29/2014,15:42:56,Voltage #0xdc,Upper Non-critical going low 
+152,04/29/2014,15:42:56,Voltage #0xdc,Upper Critical going high
+153,04/29/2014,15:42:56,Voltage #0xdc,Upper Critical going low 
+154,04/29/2014,15:42:56,Voltage #0xdd,Lower Non-critical going low 
+155,04/29/2014,15:42:56,Voltage #0xdd,Lower Non-critical going high
+156,04/29/2014,15:42:56,Voltage #0xdd,Lower Critical going low 
+157,04/29/2014,15:42:56,Voltage #0xdd,Lower Critical going high
+158,04/29/2014,15:42:56,Voltage #0xdd,Upper Non-critical going high
+159,04/29/2014,15:42:56,Voltage #0xdd,Upper Non-critical going low 
+15a,04/29/2014,15:42:56,Voltage #0xdd,Upper Critical going high
+15b,04/29/2014,15:42:56,Voltage #0xdd,Upper Critical going low 
+15c,04/29/2014,15:42:56,Voltage #0xde,Lower Non-critical going low 
+15d,04/29/2014,15:42:56,Voltage #0xde,Lower Non-critical going high
+15e,04/29/2014,15:42:56,Voltage #0xde,Lower Critical going low 
+15f,04/29/2014,15:42:56,Voltage #0xde,Lower Critical going high
+160,04/29/2014,15:42:56,Voltage #0xe4,Lower Non-critical going low 
+161,04/29/2014,15:42:56,Voltage #0xe4,Lower Non-critical going high
+162,04/29/2014,15:42:56,Voltage #0xe4,Lower Critical going low 
+163,04/29/2014,15:42:56,Voltage #0xe4,Lower Critical going high
+164,04/29/2014,15:42:56,Voltage #0xe4,Upper Non-critical going high
+165,04/29/2014,15:42:56,Voltage #0xe4,Upper Non-critical going low 
+166,04/29/2014,15:42:56,Voltage #0xe4,Upper Critical going high
+167,04/29/2014,15:42:57,Voltage #0xe4,Upper Critical going low 
+168,04/29/2014,15:42:57,Voltage #0xe5,Lower Non-critical going low 
+169,04/29/2014,15:42:57,Voltage #0xe5,Lower Non-critical going high
+16a,04/29/2014,15:42:57,Voltage #0xe5,Lower Critical going low 
+16b,04/29/2014,15:42:57,Voltage #0xe5,Lower Critical going high
+16c,04/29/2014,15:42:57,Voltage #0xe5,Upper Non-critical going high
+16d,04/29/2014,15:42:57,Voltage #0xe5,Upper Non-critical going low 
+16e,04/29/2014,15:42:57,Voltage #0xe5,Upper Critical going high
+16f,04/29/2014,15:42:57,Voltage #0xe5,Upper Critical going low 
+170,04/29/2014,15:42:57,Voltage #0xe6,Lower Non-critical going low 
+171,04/29/2014,15:42:57,Voltage #0xe6,Lower Non-critical going high
+172,04/29/2014,15:42:57,Voltage #0xe6,Lower Critical going low 
+173,04/29/2014,15:42:57,Voltage #0xe6,Lower Critical going high
+174,04/29/2014,15:42:57,Voltage #0xe6,Upper Non-critical going high
+175,04/29/2014,15:42:57,Voltage #0xe6,Upper Non-critical going low 
+176,04/29/2014,15:42:57,Voltage #0xe6,Upper Critical going high
+177,04/29/2014,15:42:57,Voltage #0xe6,Upper Critical going low 
+178,04/29/2014,15:42:57,Voltage #0xe7,Lower Non-critical going low 
+179,04/29/2014,15:42:57,Voltage #0xe7,Lower Non-critical going high
+17a,04/29/2014,15:42:57,Voltage #0xe7,Lower Critical going low 
+17b,04/29/2014,15:42:57,Voltage #0xe7,Lower Critical going high
+17c,04/29/2014,15:42:57,Voltage #0xe7,Upper Non-critical going high
+17d,04/29/2014,15:42:57,Voltage #0xe7,Upper Non-critical going low 
+17e,04/29/2014,15:42:57,Voltage #0xe7,Upper Critical going high
+17f,04/29/2014,15:42:57,Voltage #0xe7,Upper Critical going low 
+180,04/29/2014,15:42:57,Voltage #0xea,Lower Critical going low 
+181,04/29/2014,15:42:57,Voltage #0xea,Lower Critical going high
+182,04/29/2014,15:42:57,Drive Slot #0xf0,Drive Present,Asserted
+183,04/29/2014,15:42:58,Drive Slot #0xf0,Drive Present,Deasserted
+184,04/29/2014,15:42:58,Drive Slot #0xf0,Drive Fault,Asserted
+185,04/29/2014,15:42:58,Drive Slot #0xf0,Drive Fault,Deasserted
+186,04/29/2014,15:42:58,Drive Slot #0xf0,Predictive Failure,Asserted
+187,04/29/2014,15:42:58,Drive Slot #0xf0,Predictive Failure,Deasserted
+188,04/29/2014,15:42:58,Drive Slot #0xf0,Hot Spare,Asserted
+189,04/29/2014,15:42:58,Drive Slot #0xf0,Hot Spare,Deasserted
+18a,04/29/2014,15:42:58,Drive Slot #0xf0,In Critical Array,Asserted
+18b,04/29/2014,15:42:58,Drive Slot #0xf0,In Critical Array,Deasserted
+18c,04/29/2014,15:42:58,Drive Slot #0xf0,Rebuild In Progress,Asserted
+18d,04/29/2014,15:42:58,Drive Slot #0xf0,Rebuild In Progress,Deasserted
+18e,04/29/2014,15:42:58,Drive Slot #0xf0,Rebuild Aborted,Asserted
+18f,04/29/2014,15:42:58,Drive Slot #0xf0,Rebuild Aborted,Deasserted
+190,04/29/2014,15:42:58,Drive Slot #0xf1,Drive Present,Asserted
+191,04/29/2014,15:42:58,Drive Slot #0xf1,Drive Present,Deasserted
+192,04/29/2014,15:42:58,Drive Slot #0xf1,Drive Fault,Asserted
+193,04/29/2014,15:42:58,Drive Slot #0xf1,Drive Fault,Deasserted
+194,04/29/2014,15:42:58,Drive Slot #0xf1,Predictive Failure,Asserted
+195,04/29/2014,15:42:58,Drive Slot #0xf1,Predictive Failure,Deasserted
+196,04/29/2014,15:42:58,Drive Slot #0xf1,Hot Spare,Asserted
+197,04/29/2014,15:42:58,Drive Slot #0xf1,Hot Spare,Deasserted
+198,04/29/2014,15:42:58,Drive Slot #0xf1,In Critical Array,Asserted
+199,04/29/2014,15:42:58,Drive Slot #0xf1,In Critical Array,Deasserted
+19a,04/29/2014,15:42:58,Drive Slot #0xf1,Rebuild In Progress,Asserted
+19b,04/29/2014,15:42:58,Drive Slot #0xf1,Rebuild In Progress,Deasserted
+19c,04/29/2014,15:42:58,Drive Slot #0xf1,Rebuild Aborted,Asserted
+19d,04/29/2014,15:42:58,Drive Slot #0xf1,Rebuild Aborted,Deasserted
+19e,04/29/2014,15:42:58,Drive Slot #0xf2,Drive Present,Asserted
+19f,04/29/2014,15:42:58,Drive Slot #0xf2,Drive Present,Deasserted
+1a0,04/29/2014,15:42:58,Drive Slot #0xf2,Drive Fault,Asserted
+1a1,04/29/2014,15:42:58,Drive Slot #0xf2,Drive Fault,Deasserted
+1a2,04/29/2014,15:42:58,Drive Slot #0xf2,Predictive Failure,Asserted
+1a3,04/29/2014,15:42:58,Drive Slot #0xf2,Predictive Failure,Deasserted
+1a4,04/29/2014,15:42:58,Drive Slot #0xf2,Hot Spare,Asserted
+1a5,04/29/2014,15:42:58,Drive Slot #0xf2,Hot Spare,Deasserted
+1a6,04/29/2014,15:42:58,Drive Slot #0xf2,In Critical Array,Asserted
+1a7,04/29/2014,15:42:58,Drive Slot #0xf2,In Critical Array,Deasserted
+1a8,04/29/2014,15:42:58,Drive Slot #0xf2,Rebuild In Progress,Asserted
+1a9,04/29/2014,15:42:59,Drive Slot #0xf2,Rebuild In Progress,Deasserted
+1aa,04/29/2014,15:42:59,Drive Slot #0xf2,Rebuild Aborted,Asserted
+1ab,04/29/2014,15:42:59,Drive Slot #0xf2,Rebuild Aborted,Deasserted
+1ac,04/29/2014,15:42:59,Drive Slot #0xf3,Drive Present,Asserted
+1ad,04/29/2014,15:42:59,Drive Slot #0xf3,Drive Present,Deasserted
+1ae,04/29/2014,15:42:59,Drive Slot #0xf3,Drive Fault,Asserted
+1af,04/29/2014,15:42:59,Drive Slot #0xf3,Drive Fault,Deasserted
+1b0,04/29/2014,15:42:59,Drive Slot #0xf3,Predictive Failure,Asserted
+1b1,04/29/2014,15:42:59,Drive Slot #0xf3,Predictive Failure,Deasserted
+1b2,04/29/2014,15:42:59,Drive Slot #0xf3,Hot Spare,Asserted
+1b3,04/29/2014,15:42:59,Drive Slot #0xf3,Hot Spare,Deasserted
+1b4,04/29/2014,15:42:59,Drive Slot #0xf3,In Critical Array,Asserted
+1b5,04/29/2014,15:42:59,Drive Slot #0xf3,In Critical Array,Deasserted
+1b6,04/29/2014,15:42:59,Drive Slot #0xf3,Rebuild In Progress,Asserted
+1b7,04/29/2014,15:42:59,Drive Slot #0xf3,Rebuild In Progress,Deasserted
+1b8,04/29/2014,15:42:59,Drive Slot #0xf3,Rebuild Aborted,Asserted
+1b9,04/29/2014,15:42:59,Drive Slot #0xf3,Rebuild Aborted,Deasserted
+1ba,04/29/2014,15:42:59,Drive Slot #0xf4,Drive Present,Asserted
+1bb,04/29/2014,15:42:59,Drive Slot #0xf4,Drive Present,Deasserted
+1bc,04/29/2014,15:42:59,Drive Slot #0xf4,Drive Fault,Asserted
+1bd,04/29/2014,15:42:59,Drive Slot #0xf4,Drive Fault,Deasserted
+1be,04/29/2014,15:42:59,Drive Slot #0xf4,Predictive Failure,Asserted
+1bf,04/29/2014,15:42:59,Drive Slot #0xf4,Predictive Failure,Deasserted
+1c0,04/29/2014,15:42:59,Drive Slot #0xf4,Hot Spare,Asserted
+1c1,04/29/2014,15:42:59,Drive Slot #0xf4,Hot Spare,Deasserted
+1c2,04/29/2014,15:42:59,Drive Slot #0xf4,In Critical Array,Asserted
+1c3,04/29/2014,15:42:59,Drive Slot #0xf4,In Critical Array,Deasserted
+1c4,04/29/2014,15:42:59,Drive Slot #0xf4,Rebuild In Progress,Asserted
+1c5,04/29/2014,15:42:59,Drive Slot #0xf4,Rebuild In Progress,Deasserted
+1c6,04/29/2014,15:42:59,Drive Slot #0xf4,Rebuild Aborted,Asserted
+1c7,04/29/2014,15:42:59,Drive Slot #0xf4,Rebuild Aborted,Deasserted
+1c8,04/29/2014,15:42:59,Drive Slot #0xf5,Drive Present,Asserted
+1c9,04/29/2014,15:42:59,Drive Slot #0xf5,Drive Present,Deasserted
+1ca,04/29/2014,15:42:59,Drive Slot #0xf5,Drive Fault,Asserted
+1cb,04/29/2014,15:42:59,Drive Slot #0xf5,Drive Fault,Deasserted
+1cc,04/29/2014,15:42:59,Drive Slot #0xf5,Predictive Failure,Asserted
+1cd,04/29/2014,15:42:59,Drive Slot #0xf5,Predictive Failure,Deasserted
+1ce,04/29/2014,15:43:00,Drive Slot #0xf5,Hot Spare,Asserted
+1cf,04/29/2014,15:43:00,Drive Slot #0xf5,Hot Spare,Deasserted
+1d0,04/29/2014,15:43:00,Drive Slot #0xf5,In Critical Array,Asserted
+1d1,04/29/2014,15:43:00,Drive Slot #0xf5,In Critical Array,Deasserted
+1d2,04/29/2014,15:43:00,Drive Slot #0xf5,Rebuild In Progress,Asserted
+1d3,04/29/2014,15:43:00,Drive Slot #0xf5,Rebuild In Progress,Deasserted
+1d4,04/29/2014,15:43:00,Drive Slot #0xf5,Rebuild Aborted,Asserted
+1d5,04/29/2014,15:43:00,Drive Slot #0xf5,Rebuild Aborted,Deasserted
+1d6,04/29/2014,15:43:00,Drive Slot #0xf6,Drive Present,Asserted
+1d7,04/29/2014,15:43:00,Drive Slot #0xf6,Drive Present,Deasserted
+1d8,04/29/2014,15:43:00,Drive Slot #0xf6,Drive Fault,Asserted
+1d9,04/29/2014,15:43:00,Drive Slot #0xf6,Drive Fault,Deasserted
+1da,04/29/2014,15:43:00,Drive Slot #0xf6,Predictive Failure,Asserted
+1db,04/29/2014,15:43:00,Drive Slot #0xf6,Predictive Failure,Deasserted
+1dc,04/29/2014,15:43:00,Drive Slot #0xf6,Hot Spare,Asserted
+1dd,04/29/2014,15:43:00,Drive Slot #0xf6,Hot Spare,Deasserted
+1de,04/29/2014,15:43:00,Drive Slot #0xf6,In Critical Array,Asserted
+1df,04/29/2014,15:43:00,Drive Slot #0xf6,In Critical Array,Deasserted
+1e0,04/29/2014,15:43:00,Drive Slot #0xf6,Rebuild In Progress,Asserted
+1e1,04/29/2014,15:43:00,Drive Slot #0xf6,Rebuild In Progress,Deasserted
+1e2,04/29/2014,15:43:00,Drive Slot #0xf6,Rebuild Aborted,Asserted
+1e3,04/29/2014,15:43:00,Drive Slot #0xf6,Rebuild Aborted,Deasserted
+1e4,04/29/2014,15:43:00,Drive Slot #0xf7,Drive Present,Asserted
+1e5,04/29/2014,15:43:00,Drive Slot #0xf7,Drive Present,Deasserted
+1e6,04/29/2014,15:43:01,Drive Slot #0xf7,Drive Fault,Asserted
+1e7,04/29/2014,15:43:01,Drive Slot #0xf7,Drive Fault,Deasserted
+1e8,04/29/2014,15:43:01,Drive Slot #0xf7,Predictive Failure,Asserted
+1e9,04/29/2014,15:43:01,Drive Slot #0xf7,Predictive Failure,Deasserted
+1ea,04/29/2014,15:43:01,Drive Slot #0xf7,Hot Spare,Asserted
+1eb,04/29/2014,15:43:01,Drive Slot #0xf7,Hot Spare,Deasserted
+1ec,04/29/2014,15:43:01,Drive Slot #0xf7,In Critical Array,Asserted
+1ed,04/29/2014,15:43:01,Drive Slot #0xf7,In Critical Array,Deasserted
+1ee,04/29/2014,15:43:01,Drive Slot #0xf7,Rebuild In Progress,Asserted
+1ef,04/29/2014,15:43:01,Drive Slot #0xf7,Rebuild In Progress,Deasserted
+1f0,04/29/2014,15:43:01,Drive Slot #0xf7,Rebuild Aborted,Asserted
+1f1,04/29/2014,15:43:01,Drive Slot #0xf7,Rebuild Aborted,Deasserted
+1f2,04/30/2014,02:42:05,Button #0x09,Power Button pressed,Asserted
+1f3,05/02/2014,22:45:21,Physical Security #0x04,System unplugged from LAN,Asserted
+1f4,05/03/2014,12:00:08,Power Supply #0x50,Power Supply AC lost,Asserted
+1f5,05/03/2014,12:00:08,Power Unit #0x01,Failure detected,Asserted
+1f6,05/03/2014,12:00:09,Power Unit #0x01,Power off/down,Asserted
+1f7,05/03/2014,18:06:54,Power Unit #0x01,Power off/down,Asserted
+1f8,05/03/2014,18:06:54,Power Unit #0x01,AC lost,Asserted
+1f9,05/03/2014,18:06:55,Power Unit #0x01,AC lost,Deasserted
+1fa,05/03/2014,21:46:40,Physical Security #0x04,System unplugged from LAN,Asserted
+1fb,05/03/2014,21:46:44,Physical Security #0x04,System unplugged from LAN,Deasserted
+1fc,05/05/2014,12:27:03,Power Unit #0x01,Power off/down,Deasserted
+1fd,05/05/2014,12:27:03,Button #0x09,Power Button pressed,Asserted
+1fe,05/05/2014,12:27:22,System Event #0x83,Timestamp Clock Sync,Asserted
+1ff,05/05/2014,12:27:29,System Event #0x83,Timestamp Clock Sync,Asserted
+200,05/05/2014,12:28:38,System Event #0x83,OEM System boot event,Asserted
+201,05/06/2014,09:35:57,System Event #0x83,Timestamp Clock Sync,Asserted
+202,05/06/2014,09:35:57,System Event #0x83,Timestamp Clock Sync,Asserted
+203,05/06/2014,09:37:06,System Event #0x83,OEM System boot event,Asserted
+204,05/06/2014,09:38:03,System Event #0x83,Timestamp Clock Sync,Asserted
+205,05/06/2014,09:38:03,System Event #0x83,Timestamp Clock Sync,Asserted
+206,05/06/2014,09:42:00,System Event #0x83,OEM System boot event,Asserted
+207,05/06/2014,09:43:09,System Event #0x83,Timestamp Clock Sync,Asserted
+208,05/06/2014,09:43:09,System Event #0x83,Timestamp Clock Sync,Asserted
+209,05/06/2014,09:45:15,System Event #0x83,Timestamp Clock Sync,Asserted
+20a,05/06/2014,09:45:16,System Event #0x83,Timestamp Clock Sync,Asserted
+20b,05/06/2014,09:46:25,System Event #0x83,OEM System boot event,Asserted
+20c,05/06/2014,09:53:56,System Event #0x83,Timestamp Clock Sync,Asserted
+20d,05/06/2014,09:53:55,System Event #0x83,Timestamp Clock Sync,Asserted
+20e,05/06/2014,09:55:01,System Event #0x83,OEM System boot event,Asserted
+20f,05/06/2014,12:15:17,System Event #0x83,Timestamp Clock Sync,Asserted
+210,05/06/2014,12:15:17,System Event #0x83,Timestamp Clock Sync,Asserted
+211,05/06/2014,12:16:25,System Event #0x83,OEM System boot event,Asserted
+212,05/06/2014,12:31:03,System Event #0x83,Timestamp Clock Sync,Asserted
+213,05/06/2014,12:31:02,System Event #0x83,Timestamp Clock Sync,Asserted
+214,05/06/2014,12:46:04,System Event #0x83,OEM System boot event,Asserted
+215,05/07/2014,06:57:01,System Event #0x83,Timestamp Clock Sync,Asserted
+216,05/07/2014,06:57:01,System Event #0x83,Timestamp Clock Sync,Asserted
+217,05/07/2014,06:58:11,System Event #0x83,OEM System boot event,Asserted
+218,05/07/2014,07:23:18,System Event #0x83,Timestamp Clock Sync,Asserted
+219,05/07/2014,07:23:18,System Event #0x83,Timestamp Clock Sync,Asserted
+21a,05/07/2014,07:24:30,System Event #0x83,OEM System boot event,Asserted
+21b,05/07/2014,07:25:17,System Event #0x83,Timestamp Clock Sync,Asserted
+21c,05/07/2014,07:25:18,System Event #0x83,Timestamp Clock Sync,Asserted
+21d,05/07/2014,07:26:27,System Event #0x83,OEM System boot event,Asserted
+21e,05/07/2014,07:29:59,System Event #0x83,Timestamp Clock Sync,Asserted
+21f,05/07/2014,07:29:59,System Event #0x83,Timestamp Clock Sync,Asserted
+220,05/07/2014,07:31:10,System Event #0x83,OEM System boot event,Asserted
+221,05/07/2014,07:42:57,System Event #0x83,Timestamp Clock Sync,Asserted
+222,05/07/2014,07:42:57,System Event #0x83,Timestamp Clock Sync,Asserted
+223,05/07/2014,07:44:08,System Event #0x83,OEM System boot event,Asserted
+224,05/07/2014,07:49:14,System Event #0x83,Timestamp Clock Sync,Asserted
+225,05/07/2014,07:49:15,System Event #0x83,Timestamp Clock Sync,Asserted
+226,05/07/2014,07:50:26,System Event #0x83,OEM System boot event,Asserted
+227,05/08/2014,15:34:53,System Event #0x83,Timestamp Clock Sync,Asserted
+228,05/08/2014,15:34:58,System Event #0x83,Timestamp Clock Sync,Asserted
+229,05/08/2014,15:36:06,System Event #0x83,OEM System boot event,Asserted
+22a,05/08/2014,15:36:52,System Event #0x83,Timestamp Clock Sync,Asserted
+22b,05/08/2014,15:36:53,System Event #0x83,Timestamp Clock Sync,Asserted
+22c,05/08/2014,15:38:01,System Event #0x83,OEM System boot event,Asserted
+22d,05/08/2014,15:38:59,System Event #0x83,Timestamp Clock Sync,Asserted
+22e,05/08/2014,15:38:59,System Event #0x83,Timestamp Clock Sync,Asserted
+22f,05/08/2014,15:41:56,System Event #0x83,OEM System boot event,Asserted
+230,05/08/2014,16:06:12,System Event #0x83,Timestamp Clock Sync,Asserted
+231,05/08/2014,16:06:12,System Event #0x83,Timestamp Clock Sync,Asserted
+232,05/08/2014,16:07:22,System Event #0x83,OEM System boot event,Asserted
+233,05/08/2014,16:37:14,System Event #0x83,Timestamp Clock Sync,Asserted
+234,05/08/2014,16:37:14,System Event #0x83,Timestamp Clock Sync,Asserted
+235,05/08/2014,16:38:24,System Event #0x83,OEM System boot event,Asserted
+236,05/08/2014,17:03:31,System Event #0x83,Timestamp Clock Sync,Asserted
+237,05/08/2014,17:03:31,System Event #0x83,Timestamp Clock Sync,Asserted
+238,05/08/2014,17:04:39,System Event #0x83,OEM System boot event,Asserted
+239,05/08/2014,17:33:27,System Event #0x83,Timestamp Clock Sync,Asserted
+23a,05/08/2014,17:33:28,System Event #0x83,Timestamp Clock Sync,Asserted
+23b,05/08/2014,17:34:36,System Event #0x83,OEM System boot event,Asserted
+23c,05/08/2014,17:53:00,System Event #0x83,Timestamp Clock Sync,Asserted
+23d,05/08/2014,17:53:00,System Event #0x83,Timestamp Clock Sync,Asserted
+23e,05/08/2014,17:54:14,System Event #0x83,OEM System boot event,Asserted
+23f,05/08/2014,18:20:51,System Event #0x83,Timestamp Clock Sync,Asserted
+240,05/08/2014,18:20:51,System Event #0x83,Timestamp Clock Sync,Asserted
+241,05/08/2014,18:22:01,System Event #0x83,OEM System boot event,Asserted
+242,05/08/2014,18:40:17,System Event #0x83,Timestamp Clock Sync,Asserted
+243,05/08/2014,18:40:18,System Event #0x83,Timestamp Clock Sync,Asserted
+244,05/08/2014,18:41:30,System Event #0x83,OEM System boot event,Asserted
+245,05/08/2014,18:59:23,System Event #0x83,Timestamp Clock Sync,Asserted
+246,05/08/2014,18:59:23,System Event #0x83,Timestamp Clock Sync,Asserted
+247,05/08/2014,19:00:36,System Event #0x83,OEM System boot event,Asserted
+248,05/08/2014,19:18:28,System Event #0x83,Timestamp Clock Sync,Asserted
+249,05/08/2014,19:18:28,System Event #0x83,Timestamp Clock Sync,Asserted
+24a,05/08/2014,19:20:02,System Event #0x83,OEM System boot event,Asserted
+24b,05/08/2014,19:34:00,System Event #0x83,Timestamp Clock Sync,Asserted
+24c,05/08/2014,19:34:00,System Event #0x83,Timestamp Clock Sync,Asserted
+24d,05/08/2014,19:35:11,System Event #0x83,OEM System boot event,Asserted
+24e,05/08/2014,19:42:14,System Event #0x83,Timestamp Clock Sync,Asserted
+24f,05/08/2014,19:42:14,System Event #0x83,Timestamp Clock Sync,Asserted
+250,05/08/2014,19:45:04,System Event #0x83,OEM System boot event,Asserted
+251,05/08/2014,19:45:55,System Event #0x83,Timestamp Clock Sync,Asserted
+252,05/08/2014,19:45:56,System Event #0x83,Timestamp Clock Sync,Asserted
+253,05/08/2014,19:48:34,System Event #0x83,OEM System boot event,Asserted
+254,05/12/2014,13:13:07,Button #0x09,Power Button pressed,Asserted
+255,05/12/2014,13:14:43,System Event #0x83,Timestamp Clock Sync,Asserted
+256,05/12/2014,13:14:54,System Event #0x83,Timestamp Clock Sync,Asserted
+257,05/12/2014,13:14:54,Power Unit #0x01,Power off/down,Asserted
+258,05/13/2014,04:12:47,Power Unit #0x01,Power off/down,Deasserted
+259,05/13/2014,04:13:05,System Event #0x83,Timestamp Clock Sync,Asserted
+25a,05/13/2014,04:13:08,System Event #0x83,Timestamp Clock Sync,Asserted
+25b,05/13/2014,04:14:16,System Event #0x83,OEM System boot event,Asserted
+25c,05/13/2014,08:52:08,Fan #0x0c,Redundancy Lost
+25d,05/13/2014,09:12:53,Fan #0x0c,Redundancy Lost
+25e,05/13/2014,09:23:14,Fan #0x0c,Redundancy Lost
+25f,05/13/2014,09:45:59,Other Units-based Sensor #0x11,Lower Non-recoverable going low 
+260,05/13/2014,09:46:01,Temperature #0x2e,Upper Non-critical going high
+261,05/13/2014,09:46:04,Temperature #0x2f,Upper Non-critical going high
+262,05/15/2014,09:48:44,System Event #0x83,Timestamp Clock Sync,Asserted
+263,05/15/2014,09:48:44,System Event #0x83,Timestamp Clock Sync,Asserted
+264,05/15/2014,09:52:53,System Event #0x83,Timestamp Clock Sync,Asserted
+265,05/15/2014,09:52:53,System Event #0x83,Timestamp Clock Sync,Asserted
+266,05/15/2014,09:54:01,System Event #0x83,OEM System boot event,Asserted
+267,05/15/2014,12:07:31,System Event #0x83,Timestamp Clock Sync,Asserted
+268,05/15/2014,12:07:31,System Event #0x83,Timestamp Clock Sync,Asserted
+269,05/15/2014,12:08:44,System Event #0x83,OEM System boot event,Asserted
+26a,05/15/2014,12:49:01,System Event #0x83,Timestamp Clock Sync,Asserted
+26b,05/15/2014,12:49:01,System Event #0x83,Timestamp Clock Sync,Asserted
+26c,05/15/2014,12:50:13,System Event #0x83,OEM System boot event,Asserted
+26d,05/15/2014,13:02:56,System Event #0x83,Timestamp Clock Sync,Asserted
+26e,05/15/2014,13:02:56,System Event #0x83,Timestamp Clock Sync,Asserted
+26f,05/15/2014,13:04:09,System Event #0x83,OEM System boot event,Asserted
+270,05/19/2014,15:30:23,Physical Security #0x04,System unplugged from LAN,Asserted
+271,05/19/2014,18:07:59,Physical Security #0x04,System unplugged from LAN,Deasserted
+272,05/19/2014,18:11:43,Physical Security #0x04,System unplugged from LAN,Asserted
+273,05/19/2014,18:13:34,Physical Security #0x04,System unplugged from LAN,Deasserted
+274,05/19/2014,18:21:53,Physical Security #0x04,System unplugged from LAN,Asserted
+275,05/19/2014,18:23:32,Physical Security #0x04,System unplugged from LAN,Deasserted
+276,05/19/2014,18:25:08,Physical Security #0x04,System unplugged from LAN,Asserted
+277,05/19/2014,18:28:21,Physical Security #0x04,System unplugged from LAN,Deasserted
+278,05/19/2014,18:44:45,Physical Security #0x04,System unplugged from LAN,Asserted
+279,05/19/2014,18:53:50,Physical Security #0x04,System unplugged from LAN,Deasserted
+27a,05/19/2014,19:07:21,Physical Security #0x04,System unplugged from LAN,Asserted
+27b,05/19/2014,19:07:23,Physical Security #0x04,System unplugged from LAN,Deasserted
+27c,05/19/2014,19:09:16,Physical Security #0x04,System unplugged from LAN,Asserted
+27d,05/19/2014,19:13:12,Physical Security #0x04,System unplugged from LAN,Deasserted
+27e,05/19/2014,19:13:16,Physical Security #0x04,System unplugged from LAN,Asserted
+27f,05/19/2014,19:14:11,Physical Security #0x04,System unplugged from LAN,Deasserted
+280,05/19/2014,19:18:43,Physical Security #0x04,System unplugged from LAN,Asserted
+281,05/19/2014,19:21:43,Physical Security #0x04,System unplugged from LAN,Deasserted
+282,05/19/2014,19:21:47,Physical Security #0x04,System unplugged from LAN,Asserted
+283,05/19/2014,19:23:41,Physical Security #0x04,System unplugged from LAN,Deasserted
+284,05/19/2014,19:31:19,Physical Security #0x04,System unplugged from LAN,Asserted
+285,05/19/2014,19:32:10,Physical Security #0x04,System unplugged from LAN,Deasserted
+286,05/19/2014,19:34:40,Physical Security #0x04,System unplugged from LAN,Asserted
+287,05/19/2014,19:35:39,Physical Security #0x04,System unplugged from LAN,Deasserted
+288,05/19/2014,19:49:41,Physical Security #0x04,System unplugged from LAN,Asserted
+289,05/19/2014,20:02:42,Physical Security #0x04,System unplugged from LAN,Deasserted
+28a,05/19/2014,20:05:16,Physical Security #0x04,System unplugged from LAN,Asserted
+28b,05/19/2014,20:06:29,Physical Security #0x04,System unplugged from LAN,Deasserted
+28c,05/19/2014,20:06:39,Physical Security #0x04,System unplugged from LAN,Asserted
+28d,05/19/2014,20:07:10,Physical Security #0x04,System unplugged from LAN,Deasserted
+28e,05/19/2014,20:08:41,Physical Security #0x04,System unplugged from LAN,Asserted
+28f,05/19/2014,20:09:07,Physical Security #0x04,System unplugged from LAN,Deasserted
+290,05/19/2014,20:09:23,Physical Security #0x04,System unplugged from LAN,Asserted
+291,05/19/2014,20:10:10,Physical Security #0x04,System unplugged from LAN,Deasserted
+292,05/19/2014,20:10:27,Physical Security #0x04,System unplugged from LAN,Asserted
+293,05/19/2014,20:10:37,Physical Security #0x04,System unplugged from LAN,Deasserted
+294,05/19/2014,20:10:51,Physical Security #0x04,System unplugged from LAN,Asserted
+295,05/19/2014,20:10:54,Physical Security #0x04,System unplugged from LAN,Deasserted
+296,05/19/2014,20:12:13,Physical Security #0x04,System unplugged from LAN,Asserted
+297,05/19/2014,20:17:08,Physical Security #0x04,System unplugged from LAN,Deasserted
+298,05/19/2014,20:17:29,Physical Security #0x04,System unplugged from LAN,Asserted
+299,05/19/2014,20:18:29,Physical Security #0x04,System unplugged from LAN,Deasserted
+29a,05/19/2014,20:18:57,Physical Security #0x04,System unplugged from LAN,Asserted
+29b,05/19/2014,20:19:03,Physical Security #0x04,System unplugged from LAN,Deasserted
+29c,05/19/2014,20:22:44,Physical Security #0x04,System unplugged from LAN,Asserted
+29d,05/19/2014,20:24:40,Physical Security #0x04,System unplugged from LAN,Deasserted
+29e,05/19/2014,20:25:17,Physical Security #0x04,System unplugged from LAN,Asserted
+29f,05/19/2014,20:26:55,Physical Security #0x04,System unplugged from LAN,Deasserted
+2a0,05/19/2014,20:27:25,Physical Security #0x04,System unplugged from LAN,Asserted
+2a1,05/19/2014,20:27:40,Physical Security #0x04,System unplugged from LAN,Deasserted
+2a2,05/19/2014,20:28:29,Physical Security #0x04,System unplugged from LAN,Asserted
+2a3,05/19/2014,20:28:42,Physical Security #0x04,System unplugged from LAN,Deasserted
+2a4,05/19/2014,20:28:58,Physical Security #0x04,System unplugged from LAN,Asserted
+2a5,05/19/2014,20:31:44,Physical Security #0x04,System unplugged from LAN,Deasserted
+2a6,05/19/2014,20:45:06,Physical Security #0x04,System unplugged from LAN,Asserted
+2a7,05/19/2014,20:45:12,Physical Security #0x04,System unplugged from LAN,Deasserted
+2a8,05/19/2014,20:45:29,Physical Security #0x04,System unplugged from LAN,Asserted
+2a9,05/19/2014,20:47:46,Physical Security #0x04,System unplugged from LAN,Deasserted
+2aa,05/21/2014,19:17:03,Physical Security #0x04,System unplugged from LAN,Asserted
+2ab,05/21/2014,19:17:06,Physical Security #0x04,System unplugged from LAN,Deasserted
+2ac,05/22/2014,05:18:15,Fan #0x0c,Redundancy Lost
+2ad,05/22/2014,14:11:06,Physical Security #0x04,System unplugged from LAN,Asserted
+2ae,05/22/2014,14:11:19,Physical Security #0x04,System unplugged from LAN,Deasserted
+2af,05/22/2014,19:35:33,System Event #0x83,Timestamp Clock Sync,Asserted
+2b0,05/22/2014,19:35:58,System Event #0x83,Timestamp Clock Sync,Asserted
+2b1,05/22/2014,19:37:14,System Event #0x83,OEM System boot event,Asserted
+2b2,05/22/2014,19:38:03,System Event #0x83,Timestamp Clock Sync,Asserted
+2b3,05/22/2014,19:38:03,System Event #0x83,Timestamp Clock Sync,Asserted
+2b4,05/22/2014,19:40:25,Power Unit #0x01,Power off/down,Asserted
+2b5,05/22/2014,19:40:30,Power Unit #0x01,Power off/down,Deasserted
+2b6,05/22/2014,19:40:54,System Event #0x83,Timestamp Clock Sync,Asserted
+2b7,05/22/2014,19:40:55,System Event #0x83,Timestamp Clock Sync,Asserted
+2b8,05/22/2014,19:46:33,Power Unit #0x01,Power off/down,Asserted
+2b9,05/22/2014,19:46:39,Power Unit #0x01,Power off/down,Deasserted
+2ba,05/22/2014,19:46:58,System Event #0x83,Timestamp Clock Sync,Asserted
+2bb,05/22/2014,19:46:59,System Event #0x83,Timestamp Clock Sync,Asserted
+2bc,05/23/2014,04:04:33,System Event #0x83,OEM System boot event,Asserted
+2bd,05/23/2014,09:48:31,Fan #0x0c,Redundancy Lost
+2be,05/23/2014,17:22:33,Physical Security #0x04,System unplugged from LAN,Asserted
+2bf,05/23/2014,17:28:49,Physical Security #0x04,System unplugged from LAN,Deasserted
+2c0,05/26/2014,06:51:48,System Event #0x83,Timestamp Clock Sync,Asserted
+2c1,05/26/2014,06:51:54,System Event #0x83,Timestamp Clock Sync,Asserted
+2c2,05/26/2014,06:53:06,System Event #0x83,OEM System boot event,Asserted
+2c3,05/26/2014,06:54:16,System Event #0x83,Timestamp Clock Sync,Asserted
+2c4,05/26/2014,06:54:16,System Event #0x83,Timestamp Clock Sync,Asserted
+2c5,05/26/2014,06:55:22,System Event #0x83,OEM System boot event,Asserted
+2c6,05/26/2014,07:12:19,System Event #0x83,Timestamp Clock Sync,Asserted
+2c7,05/26/2014,07:12:19,System Event #0x83,Timestamp Clock Sync,Asserted
+2c8,05/26/2014,07:13:32,System Event #0x83,OEM System boot event,Asserted
+2c9,05/26/2014,07:15:31,System Event #0x83,Timestamp Clock Sync,Asserted
+2ca,05/26/2014,07:15:31,System Event #0x83,Timestamp Clock Sync,Asserted
+2cb,05/26/2014,07:16:37,System Event #0x83,OEM System boot event,Asserted
+2cc,05/26/2014,07:26:08,System Event #0x83,Timestamp Clock Sync,Asserted
+2cd,05/26/2014,07:26:09,System Event #0x83,Timestamp Clock Sync,Asserted
+2ce,05/26/2014,07:27:17,System Event #0x83,OEM System boot event,Asserted
+2cf,05/26/2014,07:29:11,System Event #0x83,Timestamp Clock Sync,Asserted
+2d0,05/26/2014,07:29:11,System Event #0x83,Timestamp Clock Sync,Asserted
+2d1,05/26/2014,07:30:17,System Event #0x83,OEM System boot event,Asserted
+2d2,05/26/2014,10:07:15,System Event #0x83,Timestamp Clock Sync,Asserted
+2d3,05/26/2014,10:07:16,System Event #0x83,Timestamp Clock Sync,Asserted
+2d4,05/26/2014,10:08:28,System Event #0x83,OEM System boot event,Asserted
+2d5,05/26/2014,10:21:27,System Event #0x83,Timestamp Clock Sync,Asserted
+2d6,05/26/2014,10:21:27,System Event #0x83,Timestamp Clock Sync,Asserted
+2d7,05/26/2014,10:22:33,System Event #0x83,OEM System boot event,Asserted
+2d8,05/26/2014,10:46:31,System Event #0x83,Timestamp Clock Sync,Asserted
+2d9,05/26/2014,10:46:31,System Event #0x83,Timestamp Clock Sync,Asserted
+2da,05/26/2014,10:47:43,System Event #0x83,OEM System boot event,Asserted
+2db,05/27/2014,02:31:18,System Event #0x83,Timestamp Clock Sync,Asserted
+2dc,05/27/2014,02:31:18,System Event #0x83,Timestamp Clock Sync,Asserted
+2dd,05/27/2014,02:32:27,System Event #0x83,OEM System boot event,Asserted
+2de,05/27/2014,18:30:50,Physical Security #0x04,System unplugged from LAN,Asserted
+2df,05/27/2014,18:31:21,Physical Security #0x04,System unplugged from LAN,Deasserted
+2e0,05/27/2014,18:48:04,System Event #0x83,Timestamp Clock Sync,Asserted
+2e1,05/27/2014,18:48:03,System Event #0x83,Timestamp Clock Sync,Asserted
+2e2,05/27/2014,18:49:15,System Event #0x83,OEM System boot event,Asserted
+2e3,05/27/2014,18:50:53,System Event #0x83,Timestamp Clock Sync,Asserted
+2e4,05/27/2014,18:50:54,System Event #0x83,Timestamp Clock Sync,Asserted
+2e5,05/27/2014,18:52:02,System Event #0x83,OEM System boot event,Asserted
+2e6,05/27/2014,18:52:55,System Event #0x83,Timestamp Clock Sync,Asserted
+2e7,05/27/2014,18:52:55,System Event #0x83,Timestamp Clock Sync,Asserted
+2e8,05/27/2014,18:54:03,System Event #0x83,OEM System boot event,Asserted
+2e9,05/27/2014,18:59:52,System Event #0x83,Timestamp Clock Sync,Asserted
+2ea,05/27/2014,18:59:52,System Event #0x83,Timestamp Clock Sync,Asserted
+2eb,05/27/2014,19:01:01,System Event #0x83,OEM System boot event,Asserted
+2ec,05/27/2014,19:02:10,System Event #0x83,Timestamp Clock Sync,Asserted
+2ed,05/27/2014,19:02:10,System Event #0x83,Timestamp Clock Sync,Asserted
+2ee,05/27/2014,19:03:18,System Event #0x83,OEM System boot event,Asserted
+2ef,05/27/2014,19:04:44,System Event #0x83,Timestamp Clock Sync,Asserted
+2f0,05/27/2014,19:04:44,System Event #0x83,Timestamp Clock Sync,Asserted
+2f1,05/27/2014,19:09:20,System Event #0x83,OEM System boot event,Asserted
+2f2,05/27/2014,19:10:08,System Event #0x83,Timestamp Clock Sync,Asserted
+2f3,05/27/2014,19:10:08,System Event #0x83,Timestamp Clock Sync,Asserted
+2f4,05/27/2014,19:11:17,System Event #0x83,OEM System boot event,Asserted
+2f5,05/27/2014,19:11:54,System Event #0x83,Timestamp Clock Sync,Asserted
+2f6,05/27/2014,19:11:54,System Event #0x83,Timestamp Clock Sync,Asserted
+2f7,05/27/2014,19:13:00,System Event #0x83,OEM System boot event,Asserted
+2f8,05/27/2014,19:30:30,System Event #0x83,Timestamp Clock Sync,Asserted
+2f9,05/27/2014,19:30:30,System Event #0x83,Timestamp Clock Sync,Asserted
+2fa,05/27/2014,19:31:42,System Event #0x83,OEM System boot event,Asserted
+2fb,05/27/2014,19:39:58,System Event #0x83,Timestamp Clock Sync,Asserted
+2fc,05/27/2014,19:39:58,System Event #0x83,Timestamp Clock Sync,Asserted
+2fd,05/27/2014,19:41:06,System Event #0x83,OEM System boot event,Asserted
+2fe,05/27/2014,19:41:45,System Event #0x83,Timestamp Clock Sync,Asserted
+2ff,05/27/2014,19:41:46,System Event #0x83,Timestamp Clock Sync,Asserted
+300,05/27/2014,19:42:52,System Event #0x83,OEM System boot event,Asserted
+301,05/27/2014,19:49:17,Physical Security #0x04,System unplugged from LAN,Asserted
+302,05/27/2014,19:50:11,Physical Security #0x04,System unplugged from LAN,Deasserted
+303,05/27/2014,19:57:55,Physical Security #0x04,System unplugged from LAN,Asserted
+304,05/27/2014,19:59:46,Physical Security #0x04,System unplugged from LAN,Deasserted
+305,05/29/2014,13:30:38,System Event #0x83,Timestamp Clock Sync,Asserted
+306,05/29/2014,13:30:35,System Event #0x83,Timestamp Clock Sync,Asserted
+307,05/29/2014,13:31:46,System Event #0x83,OEM System boot event,Asserted
+308,05/29/2014,14:17:42,Physical Security #0x04,System unplugged from LAN,Asserted
+309,05/29/2014,15:05:21,Physical Security #0x04,System unplugged from LAN,Deasserted
+30a,05/29/2014,15:05:22,Physical Security #0x04,System unplugged from LAN,Asserted
+30b,05/29/2014,15:05:37,System Event #0x83,Timestamp Clock Sync,Asserted
+30c,05/29/2014,15:05:37,System Event #0x83,Timestamp Clock Sync,Asserted
+30d,05/29/2014,20:12:07,System Event #0x83,OEM System boot event,Asserted
+30e,05/29/2014,20:12:34,Physical Security #0x04,System unplugged from LAN,Deasserted
+30f,05/29/2014,20:12:35,Physical Security #0x04,System unplugged from LAN,Asserted
+310,05/29/2014,20:12:51,System Event #0x83,Timestamp Clock Sync,Asserted
+311,05/29/2014,20:12:51,System Event #0x83,Timestamp Clock Sync,Asserted
+312,05/29/2014,20:14:00,System Event #0x83,OEM System boot event,Asserted
+313,05/29/2014,20:48:28,Physical Security #0x04,System unplugged from LAN,Deasserted
+314,05/29/2014,20:48:28,Physical Security #0x04,System unplugged from LAN,Asserted
+315,05/29/2014,20:48:45,System Event #0x83,Timestamp Clock Sync,Asserted
+316,05/29/2014,20:48:46,System Event #0x83,Timestamp Clock Sync,Asserted
+317,05/29/2014,20:49:54,System Event #0x83,OEM System boot event,Asserted
+318,05/29/2014,21:23:33,Physical Security #0x04,System unplugged from LAN,Deasserted
+319,05/29/2014,21:23:34,Physical Security #0x04,System unplugged from LAN,Asserted
+31a,05/29/2014,21:23:49,System Event #0x83,Timestamp Clock Sync,Asserted
+31b,05/29/2014,21:23:49,System Event #0x83,Timestamp Clock Sync,Asserted
+31c,05/29/2014,21:24:57,System Event #0x83,OEM System boot event,Asserted
+31d,05/30/2014,18:37:22,Physical Security #0x04,System unplugged from LAN,Deasserted
+31e,05/30/2014,18:37:35,Physical Security #0x04,System unplugged from LAN,Asserted
+31f,05/30/2014,20:31:46,Physical Security #0x04,System unplugged from LAN,Deasserted
+320,05/30/2014,20:31:46,Physical Security #0x04,System unplugged from LAN,Asserted
+321,05/30/2014,20:32:04,System Event #0x83,Timestamp Clock Sync,Asserted
+322,05/30/2014,20:32:07,System Event #0x83,Timestamp Clock Sync,Asserted
+323,05/30/2014,20:33:15,System Event #0x83,OEM System boot event,Asserted
+324,05/30/2014,20:33:35,Physical Security #0x04,System unplugged from LAN,Deasserted
+325,05/30/2014,20:33:36,Physical Security #0x04,System unplugged from LAN,Asserted
+326,05/30/2014,20:33:52,System Event #0x83,Timestamp Clock Sync,Asserted
+327,05/30/2014,20:33:52,System Event #0x83,Timestamp Clock Sync,Asserted
+328,05/30/2014,20:36:01,System Event #0x83,OEM System boot event,Asserted
+329,05/30/2014,20:36:23,Physical Security #0x04,System unplugged from LAN,Deasserted
+32a,05/30/2014,20:36:24,Physical Security #0x04,System unplugged from LAN,Asserted
+32b,05/30/2014,20:36:40,System Event #0x83,Timestamp Clock Sync,Asserted
+32c,05/30/2014,20:36:40,System Event #0x83,Timestamp Clock Sync,Asserted
+32d,05/30/2014,20:37:49,System Event #0x83,OEM System boot event,Asserted
+32e,05/30/2014,20:38:06,Physical Security #0x04,System unplugged from LAN,Deasserted
+32f,05/30/2014,20:38:06,Physical Security #0x04,System unplugged from LAN,Asserted
+330,05/30/2014,20:38:23,System Event #0x83,Timestamp Clock Sync,Asserted
+331,05/30/2014,20:38:23,System Event #0x83,Timestamp Clock Sync,Asserted
+332,05/30/2014,20:40:07,Physical Security #0x04,System unplugged from LAN,Deasserted
+333,05/30/2014,20:40:07,Physical Security #0x04,System unplugged from LAN,Asserted
+334,05/30/2014,20:40:24,System Event #0x83,Timestamp Clock Sync,Asserted
+335,05/30/2014,20:40:24,System Event #0x83,Timestamp Clock Sync,Asserted
+336,05/30/2014,20:41:33,System Event #0x83,OEM System boot event,Asserted
+337,05/30/2014,20:42:07,Physical Security #0x04,System unplugged from LAN,Deasserted
+338,05/30/2014,20:42:07,Physical Security #0x04,System unplugged from LAN,Asserted
+339,05/30/2014,20:42:25,System Event #0x83,Timestamp Clock Sync,Asserted
+33a,05/30/2014,20:42:25,System Event #0x83,Timestamp Clock Sync,Asserted
+33b,05/30/2014,20:43:33,System Event #0x83,OEM System boot event,Asserted
+33c,05/30/2014,20:46:07,Physical Security #0x04,System unplugged from LAN,Deasserted
+33d,05/30/2014,20:46:08,Physical Security #0x04,System unplugged from LAN,Asserted
+33e,05/30/2014,20:46:23,System Event #0x83,Timestamp Clock Sync,Asserted
+33f,05/30/2014,20:46:23,System Event #0x83,Timestamp Clock Sync,Asserted
+340,05/30/2014,20:46:55,Physical Security #0x04,System unplugged from LAN,Deasserted
+341,05/30/2014,20:46:55,Physical Security #0x04,System unplugged from LAN,Asserted
+342,05/30/2014,20:47:11,System Event #0x83,Timestamp Clock Sync,Asserted
+343,05/30/2014,20:47:11,System Event #0x83,Timestamp Clock Sync,Asserted
+344,05/30/2014,20:48:19,System Event #0x83,OEM System boot event,Asserted
+345,05/30/2014,20:48:48,Physical Security #0x04,System unplugged from LAN,Deasserted
+346,05/30/2014,20:48:49,Physical Security #0x04,System unplugged from LAN,Asserted
+347,05/30/2014,20:49:05,System Event #0x83,Timestamp Clock Sync,Asserted
+348,05/30/2014,20:49:05,System Event #0x83,Timestamp Clock Sync,Asserted
+349,05/30/2014,20:50:13,System Event #0x83,OEM System boot event,Asserted
+34a,05/30/2014,20:53:10,Physical Security #0x04,System unplugged from LAN,Deasserted
+34b,05/30/2014,20:53:11,Physical Security #0x04,System unplugged from LAN,Asserted
+34c,05/30/2014,20:53:26,System Event #0x83,Timestamp Clock Sync,Asserted
+34d,05/30/2014,20:53:27,System Event #0x83,Timestamp Clock Sync,Asserted
+34e,05/30/2014,20:54:35,System Event #0x83,OEM System boot event,Asserted
+34f,05/30/2014,21:03:21,Physical Security #0x04,System unplugged from LAN,Deasserted
+350,05/30/2014,21:03:22,Physical Security #0x04,System unplugged from LAN,Asserted
+351,05/30/2014,21:03:38,System Event #0x83,Timestamp Clock Sync,Asserted
+352,05/30/2014,21:03:38,System Event #0x83,Timestamp Clock Sync,Asserted
+353,05/30/2014,21:04:46,System Event #0x83,OEM System boot event,Asserted
+354,05/30/2014,21:21:58,Physical Security #0x04,System unplugged from LAN,Deasserted
+355,05/30/2014,21:21:58,Physical Security #0x04,System unplugged from LAN,Asserted
+356,05/30/2014,21:22:15,System Event #0x83,Timestamp Clock Sync,Asserted
+357,05/30/2014,21:22:16,System Event #0x83,Timestamp Clock Sync,Asserted
+358,05/30/2014,21:23:24,System Event #0x83,OEM System boot event,Asserted
+359,06/02/2014,14:47:21,Physical Security #0x04,System unplugged from LAN,Deasserted
+35a,06/02/2014,14:47:22,Physical Security #0x04,System unplugged from LAN,Asserted
+35b,06/02/2014,14:47:37,System Event #0x83,Timestamp Clock Sync,Asserted
+35c,06/02/2014,14:47:37,System Event #0x83,Timestamp Clock Sync,Asserted
+35d,06/02/2014,14:48:49,System Event #0x83,OEM System boot event,Asserted
+35e,06/02/2014,14:54:48,Physical Security #0x04,System unplugged from LAN,Deasserted
+35f,06/02/2014,14:54:48,Physical Security #0x04,System unplugged from LAN,Asserted
+360,06/02/2014,14:55:06,System Event #0x83,Timestamp Clock Sync,Asserted
+361,06/02/2014,14:55:06,System Event #0x83,Timestamp Clock Sync,Asserted
+362,06/02/2014,14:56:19,System Event #0x83,OEM System boot event,Asserted
+363,06/02/2014,14:58:11,Physical Security #0x04,System unplugged from LAN,Deasserted
+364,06/02/2014,14:58:12,Physical Security #0x04,System unplugged from LAN,Asserted
+365,06/02/2014,14:58:27,System Event #0x83,Timestamp Clock Sync,Asserted
+366,06/02/2014,14:58:27,System Event #0x83,Timestamp Clock Sync,Asserted
+367,06/02/2014,14:59:35,System Event #0x83,OEM System boot event,Asserted
+368,06/02/2014,15:09:06,Physical Security #0x04,System unplugged from LAN,Deasserted
+369,06/02/2014,15:09:07,Physical Security #0x04,System unplugged from LAN,Asserted
+36a,06/02/2014,15:09:22,System Event #0x83,Timestamp Clock Sync,Asserted
+36b,06/02/2014,15:09:22,System Event #0x83,Timestamp Clock Sync,Asserted
+36c,06/02/2014,15:10:31,System Event #0x83,OEM System boot event,Asserted
+36d,06/02/2014,15:25:43,Version Change #0x12,
+36e,06/02/2014,15:34:43,Version Change #0x12,
+36f,06/02/2014,15:35:26,Version Change #0x12,
+370,06/02/2014,15:36:24,Version Change #0x12,
+371,06/02/2014,15:36:25,Version Change #0x12,
+372,06/02/2014,15:36:28,Unknown #0x17,
+373,06/02/2014,15:36:28,Unknown #0x17,
+374,06/02/2014,15:36:29,Unknown #0x17,
+375,06/02/2014,15:36:52,Version Change #0x12,
+376,06/02/2014,15:43:41,Power Unit #0x01,Power off/down,Asserted
+377,06/02/2014,15:43:46,Power Unit #0x01,Power off/down,Deasserted
+378,06/02/2014,15:44:06,System Event #0x83,Timestamp Clock Sync,Asserted
+379,06/02/2014,15:44:07,System Event #0x83,Timestamp Clock Sync,Asserted
+37a,06/02/2014,15:45:24,System Event #0x83,OEM System boot event,Asserted
+37b,06/02/2014,20:54:37,System Event #0x83,Timestamp Clock Sync,Asserted
+37c,06/02/2014,20:54:37,System Event #0x83,Timestamp Clock Sync,Asserted
+37d,06/02/2014,20:55:45,System Event #0x83,OEM System boot event,Asserted
+37e,06/02/2014,21:10:58,Version Change #0x12,
+37f,06/02/2014,21:19:55,Version Change #0x12,
+380,06/02/2014,21:20:38,Version Change #0x12,
+381,06/02/2014,21:21:37,Version Change #0x12,
+382,06/02/2014,21:21:38,Version Change #0x12,
+383,06/02/2014,21:21:40,Unknown #0x17,
+384,06/02/2014,21:21:40,Unknown #0x17,
+385,06/02/2014,21:21:41,Unknown #0x17,
+386,06/02/2014,21:22:03,Version Change #0x12,
+387,06/02/2014,21:28:53,Power Unit #0x01,Power off/down,Asserted
+388,06/02/2014,21:28:58,Power Unit #0x01,Power off/down,Deasserted
+389,06/02/2014,21:29:19,System Event #0x83,Timestamp Clock Sync,Asserted
+38a,06/02/2014,21:29:20,System Event #0x83,Timestamp Clock Sync,Asserted
+38b,06/02/2014,21:30:37,System Event #0x83,OEM System boot event,Asserted
+38c,06/02/2014,21:48:08,System Event #0x83,Timestamp Clock Sync,Asserted
+38d,06/02/2014,21:48:08,System Event #0x83,Timestamp Clock Sync,Asserted
+38e,06/02/2014,21:49:20,System Event #0x83,OEM System boot event,Asserted
+38f,06/04/2014,14:28:02,Button #0x09,Power Button pressed,Asserted
+390,06/04/2014,14:28:04,Button #0x09,Power Button pressed,Asserted
+391,06/04/2014,14:29:38,System Event #0x83,Timestamp Clock Sync,Asserted
+392,06/04/2014,14:30:02,System Event #0x83,Timestamp Clock Sync,Asserted
+393,06/04/2014,14:30:02,Power Unit #0x01,Power off/down,Asserted
+394,06/04/2014,15:10:07,Power Unit #0x01,Power off/down,Deasserted
+395,06/04/2014,15:10:07,Button #0x09,Power Button pressed,Asserted
+396,06/04/2014,15:10:11,Power Unit #0x01,Power off/down,Asserted
+397,06/04/2014,15:10:17,Button #0x09,Power Button pressed,Asserted
+398,06/04/2014,15:10:18,Power Unit #0x01,Power off/down,Deasserted
+399,06/04/2014,15:10:37,System Event #0x83,Timestamp Clock Sync,Asserted
+39a,06/04/2014,15:10:37,System Event #0x83,Timestamp Clock Sync,Asserted
+39b,06/04/2014,15:22:23,System Event #0x83,Timestamp Clock Sync,Asserted
+39c,06/04/2014,15:22:23,System Event #0x83,Timestamp Clock Sync,Asserted
+39d,06/04/2014,15:23:35,System Event #0x83,OEM System boot event,Asserted
+39e,06/04/2014,15:25:02,Button #0x09,Power Button pressed,Asserted
+39f,06/04/2014,15:25:07,Power Unit #0x01,Power off/down,Asserted
+3a0,06/04/2014,15:25:16,Power Unit #0x01,Power off/down,Deasserted
+3a1,06/04/2014,15:25:16,Button #0x09,Power Button pressed,Asserted
+3a2,06/04/2014,15:25:35,System Event #0x83,Timestamp Clock Sync,Asserted
+3a3,06/04/2014,15:25:35,System Event #0x83,Timestamp Clock Sync,Asserted
+3a4,06/04/2014,15:27:21,Physical Security #0x04,System unplugged from LAN,Asserted
+3a5,06/04/2014,15:27:49,System Event #0x83,OEM System boot event,Asserted
+3a6,06/08/2014,04:30:40,Power Unit #0x01,Power off/down,Asserted
+3a7,06/11/2014,05:00:43,Power Unit #0x01,Power off/down,Deasserted
+3a8,06/11/2014,05:00:46,Physical Security #0x04,System unplugged from LAN,Deasserted
+3a9,06/11/2014,05:00:47,Physical Security #0x04,System unplugged from LAN,Asserted
+3aa,06/11/2014,05:01:02,System Event #0x83,Timestamp Clock Sync,Asserted
+3ab,06/11/2014,05:01:24,System Event #0x83,Timestamp Clock Sync,Asserted
+3ac,06/11/2014,05:02:32,System Event #0x83,OEM System boot event,Asserted
+3ad,06/19/2014,08:33:20,Temperature #0x2e,Upper Non-critical going high
+3ae,06/19/2014,08:58:55,Other Units-based Sensor #0x11,Upper Non-critical going high
+3af,06/19/2014,09:38:16,Memory #0xc0,Parity,Asserted
+3b0,06/20/2014,09:06:35,Power Unit #0x01,Power cycle,Asserted
+3b1,06/20/2014,09:06:35,Power Unit #0x01,Failure detected,Asserted
+3b2,06/20/2014,09:06:35,Power Unit #0x01,Predictive failure,Asserted
+3b3,06/20/2014,09:06:35,Fan #0x0c,Redundancy Lost
+3b4,06/20/2014,09:06:35,Fan #0x0c,Redundancy Degraded
+3b5,06/20/2014,09:06:35,Power Supply #0x50,Failure detected,Asserted
+3b6,06/20/2014,09:06:35,Power Supply #0x50,Predictive failure,Asserted
+3b7,06/20/2014,09:06:35,Memory #0xc0,Correctable ECC logging limit reached,Asserted
+3b8,06/20/2014,09:06:35,Memory #0xc1,Correctable ECC logging limit reached,Asserted
+3b9,06/20/2014,09:14:42,Power Unit #0x01,Power cycle,Asserted
+3ba,06/20/2014,09:14:42,Power Unit #0x01,Failure detected,Asserted
+3bb,06/20/2014,09:14:42,Power Unit #0x01,Predictive failure,Asserted
+3bc,06/20/2014,09:14:42,Fan #0x0c,Redundancy Lost
+3bd,06/20/2014,09:14:42,Fan #0x0c,Redundancy Degraded
+3be,06/20/2014,09:14:42,Power Supply #0x50,Failure detected,Asserted
+3bf,06/20/2014,09:14:42,Power Supply #0x50,Predictive failure,Asserted
+3c0,06/20/2014,09:14:43,Memory #0xc0,Correctable ECC logging limit reached,Asserted
+3c1,06/20/2014,09:14:43,Memory #0xc1,Correctable ECC logging limit reached,Asserted
+3c2,06/23/2014,14:36:02,Physical Security #0x04,System unplugged from LAN,Deasserted
+3c3,06/23/2014,14:36:02,Physical Security #0x04,System unplugged from LAN,Asserted
+3c4,06/23/2014,14:36:19,System Event #0x83,Timestamp Clock Sync,Asserted
+3c5,06/23/2014,14:36:51,System Event #0x83,Timestamp Clock Sync,Asserted
+3c6,06/23/2014,14:38:03,System Event #0x83,OEM System boot event,Asserted
+3c7,06/24/2014,10:24:53,Fan #0x0c,Redundancy Lost
+3c8,06/24/2014,18:31:22,Power Supply #0x50,Power Supply AC lost,Asserted
+3c9,06/24/2014,19:31:19,Power Supply #0x50,Power Supply AC lost,Deasserted

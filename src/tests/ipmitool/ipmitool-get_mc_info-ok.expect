@@ -1,0 +1,12 @@
+{
+    "device_available": "yes",
+    "device_id": "33",
+    "device_revision": "1",
+    "firmware_revision": "1.20",
+    "ipmi_version": "2.0",
+    "manufacturer_id": "343",
+    "manufacturer_name": "Intel Corporation",
+    "product_id": "73 (0x0049)",
+    "product_name": "Unknown (0x49)",
+    "provides_device_sdrs": "no"
+}

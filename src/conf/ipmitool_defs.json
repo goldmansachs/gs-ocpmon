@@ -1,0 +1,146 @@
+{
+    "name":"ipmitool",
+    "path":"libexec",
+    "ld_library_path":"",
+    "cmdline":"ipmitool",
+    "commands":{
+        "sdr_dump":{
+            "args":"sdr dump %s",
+            "label":"Dump SDR to file",
+            "type":"exitcode"
+        },
+        "sel_elist_csv":{
+            "args":"-S %s -c sel elist ",
+            "label":"List SEL events (csv)",
+            "type":"csv",
+            "fields":["id","date","time","sensor","description","direction", "data"]
+        },
+        "sel_elist_csv_last":{
+            "args":"-S %s -c sel elist last %d",
+            "label":"List SEL events (csv)",
+            "type":"csv",
+            "fields":["id","date","time","sensor","description","direction", "data"]
+        },
+        "event_file":{
+            "args":"event file %s",
+            "label":"Add SEL events from file",
+            "type":"exitcode"
+        },
+        "sel_list_csv":{
+            "args":"-c sel list",
+            "label":"List SEL events (csv)",
+            "type":"csv",
+            "fields":["id","date","time","sensor","description","direction", "data"]
+        },
+        "sel_list_csv_last":{
+            "args":"-S %s -c sel list last %d",
+            "label":"List SEL events (csv)",
+            "type":"csv",
+            "fields":["id","date","time","sensor","description","direction", "data"]
+        },
+        "sel_info":{
+            "args":"sel info",
+            "label":"Show SEL info",
+            "type":"ini",
+            "generate":"True",
+            "fields":{
+                "SEL Information":"sel_information",
+                "Version":"version",
+                "Entries":"entries",
+                "Free Space":"free_space",
+                "Percent Used":"percent_used",
+                "Last Add Time":"last_add_time",
+                "Last Del Time":"last_del_time",
+                "Overflow":"overflow",
+                "Supported Cmds":"supported_cmds",
+                "# of Alloc Units":"num_of_alloc_units",
+                "Alloc Unit Size":"alloc_unit_size",
+                "# Free Units":"num_free_units",
+                "Largest Free Blk":"largest_free_blk",
+                "Max Record Size":"max_record_size"
+            }
+        },
+        "sel_get":{
+            "args":"-S %s sel get %s",
+            "label":"Get SEL Entry",
+            "type":"ini",
+            "generate":"False",
+            "fields":{
+                "SEL Record ID": "sel_record_id",
+                "Record Type": "record_type",
+                "Timestamp": "timestamp",
+                "Generator ID": "generator_id",
+                "EvM Revision": "evm_revision",
+                "Sensor Type": "sensor_type",
+                "Sensor Number": "sensor_number",
+                "Event Type": "event_type",
+                "Event Direction": "event_direction",
+                "Event Data (RAW)": "event_data",
+                "Event Data": "event_data",
+                "Event Interpretation Missing": "event_interpretation_missing",
+                "Description": "description",
+                "Sensor ID": "sensor_id",
+                "Entity ID": "entity_id",
+                "Sensor Type": "sensor_type"
+            }
+        },
+        "mc_selftest":{
+            "args":"mc selftest",
+            "label":"Run BMC self test",
+            "type":"ini",
+            "generate":"True",
+            "fields": {
+                "Selftest": "selftest"
+            }
+        },
+        "mc_info":{
+            "args":"mc info",
+            "label":"Get BMC info",
+            "type":"ini",
+            "generate":"True",
+            "fields": {
+                "Device ID": "device_id",
+                "Device Revision": "device_revision",
+                "Firmware Revision": "firmware_revision",
+                "IPMI Version": "ipmi_version",
+                "Manufacturer ID": "manufacturer_id",
+                "Manufacturer Name": "manufacturer_name",
+                "Product ID": "product_id",
+                "Product Name": "product_name",
+                "Device Available": "device_available",
+                "Provides Device SDRs": "provides_device_sdrs"
+            }
+        },
+        "fru_edit":{
+            "args":"fru edit %d field %s %d '%s'",
+            "label":"Edit FRU field",
+            "type":"exitcode"
+        },
+        "fru_print":{
+            "args":"fru print %d",
+            "label":"Print FRU field",
+            "type":"ini",
+            "generate":"False",
+            "fields":{
+                "Chassis Type": "chassis_type",
+                "Chassis Part Number": "chassis_part_number",
+                "Chassis Serial": "chassis_serial",
+                "Chassis Extra": "chassis_extra",
+                "Chassis Extra": "chassis_extra",
+                "Board Mfg Date": "board_mfg_date",
+                "Board Mfg": "board_mfg",
+                "Board Product": "board_product",
+                "Board Serial": "board_serial",
+                "Board Part Number": "board_part_number",
+                "Board Extra": "board_extra",
+                "Board Extra": "board_extra",
+                "Product Manufacturer": "product_manufacturer",
+                "Product Name": "product_name",
+                "Product Part Number": "product_part_number",
+                "Product Version": "product_version",
+                "Product Serial": "product_serial",
+                "Product Asset Tag": "product_asset_tag"
+            }
+        }
+    }
+}

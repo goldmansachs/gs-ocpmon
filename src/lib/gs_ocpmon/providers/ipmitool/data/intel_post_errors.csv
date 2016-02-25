@@ -1,0 +1,200 @@
+0012,System RTC date/time not set,Major 
+0048,Password check failed,Major 
+0140,PCI component encountered a PERR error,Major 
+0141,PCI resource conflict,Major 
+0146,PCI out of resources error,Major 
+0191,Processor core/thread count mismatch detected,Fatal 
+0192,Processor cache size mismatch detected,Fatal 
+0194,Processor family mismatch detected,Fatal 
+0195,Processor Intel® QPI link frequencies unable to synchronize,Fatal 
+0196,Processor model mismatch detected,Fatal 
+0197,Processor frequencies unable to synchronize,Fatal 
+5220,BIOS Settings reset to default settings,Major 
+5221,Passwords cleared by jumper,Major 
+5224,Password clear jumper is Set,Major 
+8130,Processor 01 disabled,Major 
+8131,Processor 02 disabled,Major 
+8132,Processor 03 disabled,Major 
+8133,Processor 04 disabled,Major 
+8160,Processor 01 unable to apply microcode update,Major 
+8161,Processor 02 unable to apply microcode update,Major 
+8162,Processor 03 unable to apply microcode update,Major 
+8163,Processor 04 unable to apply microcode update,Major 
+8170,Processor 01 failed Self Test (BIST),Major 
+8171,Processor 02 failed Self Test (BIST),Major 
+8172,Processor 03 failed Self Test (BIST),Major 
+8173,Processor 04 failed Self Test (BIST),Major 
+8180,Processor 01 microcode update not found,Minor 
+8181,Processor 02 microcode update not found,Minor 
+8182,Processor 03 microcode update not found,Minor 
+8183,Processor 04 microcode update not found,Minor 
+8190,Watchdog timer failed on last boot,Major 
+8198,OS boot watchdog timer failure,Major 
+8300,Baseboard management controller failed self-test,Major 
+8305,Hot Swap Controller failure,Major 
+83A0,Management Engine (ME) failed Selftest,Major 
+83A1,Management Engine (ME) Failed to respond.,Major 
+84F2,Baseboard management controller failed to respond,Major 
+84F3,Baseboard management controller in update mode,Major 
+84F4,Sensor data record empty,Major 
+84FF,System event log full,Minor 
+8500,Memory component could not be configured in the selected RAS mode,Major 
+8501,DIMM Population Error,Major 
+8520,DIMM_A1 failed test/initialization,Major 
+8521,DIMM_A2 failed test/initialization,Major 
+8522,DIMM_A3 failed test/initialization,Major 
+8523,DIMM_B1 failed test/initialization,Major 
+8524,DIMM_B2 failed test/initialization,Major 
+8525,DIMM_B3 failed test/initialization,Major 
+8526,DIMM_C1 failed test/initialization,Major 
+8527,DIMM_C2 failed test/initialization,Major 
+8528,DIMM_C3 failed test/initialization,Major 
+8529,DIMM_D1 failed test/initialization,Major 
+852A,DIMM_D2 failed test/initialization,Major 
+852B,DIMM_D3 failed test/initialization,Major 
+852C,DIMM_E1 failed test/initialization,Major 
+852D,DIMM_E2 failed test/initialization,Major 
+852E,DIMM_E3 failed test/initialization,Major 
+852F,DIMM_F1 failed test/initialization,Major 
+8530,DIMM_F2 failed test/initialization,Major 
+8531,DIMM_F3 failed test/initialization,Major 
+8532,DIMM_G1 failed test/initialization,Major 
+8533,DIMM_G2 failed test/initialization,Major 
+8534,DIMM_G3 failed test/initialization,Major 
+8535,DIMM_H1 failed test/initialization,Major 
+8536,DIMM_H2 failed test/initialization,Major 
+8537,DIMM_H3 failed test/initialization,Major 
+8538,DIMM_I1 failed test/initialization,Major 
+8539,DIMM_I2 failed test/initialization,Major 
+853A,DIMM_I3 failed test/initialization,Major 
+853B,DIMM_J1 failed test/initialization,Major 
+853C,DIMM_J2 failed test/initialization,Major 
+853D,DIMM_J3 failed test/initialization,Major 
+853E,DIMM_K1 failed test/initialization,Major 
+853F,DIMM_K2 failed test/initialization,Major 
+8540,DIMM_A1 disabled,Major 
+8541,DIMM_A2 disabled,Major 
+8542,DIMM_A3 disabled,Major 
+8543,DIMM_B1 disabled,Major 
+8544,DIMM_B2 disabled,Major 
+8545,DIMM_B3 disabled,Major 
+8546,DIMM_C1 disabled,Major 
+8547,DIMM_C2 disabled,Major 
+8548,DIMM_C3 disabled,Major 
+8549,DIMM_D1 disabled,Major 
+854A,DIMM_D2 disabled,Major 
+854B,DIMM_D3 disabled,Major 
+854C,DIMM_E1 disabled,Major 
+854D,DIMM_E2 disabled,Major 
+854E,DIMM_E3 disabled,Major 
+854F,DIMM_F1 disabled,Major 
+8550,DIMM_F2 disabled,Major 
+8551,DIMM_F3 disabled,Major 
+8552,DIMM_G1 disabled,Major 
+8553,DIMM_G2 disabled,Major 
+8554,DIMM_G3 disabled,Major 
+8555,DIMM_H1 disabled,Major 
+8556,DIMM_H2 disabled,Major 
+8557,DIMM_H3 disabled,Major 
+8558,DIMM_I1 disabled,Major 
+8559,DIMM_I2 disabled,Major 
+855A,DIMM_I3 disabled,Major 
+855B,DIMM_J1 disabled,Major 
+855C,DIMM_J2 disabled,Major 
+855D,DIMM_J3 disabled,Major 
+855E,DIMM_K1 disabled,Major 
+855F,DIMM_K2 disabled,Major 
+8560,DIMM_A1 encountered a Serial Presence Detection (SPD) failure,Major 
+8561,DIMM_A2 encountered a Serial Presence Detection (SPD) failure,Major 
+8562,DIMM_A3 encountered a Serial Presence Detection (SPD) failure,Major 
+8563,DIMM_B1 encountered a Serial Presence Detection (SPD) failure,Major 
+8564,DIMM_B2 encountered a Serial Presence Detection (SPD) failure,Major 
+8565,DIMM_B3 encountered a Serial Presence Detection (SPD) failure,Major 
+8566,DIMM_C1 encountered a Serial Presence Detection (SPD) failure,Major 
+8567,DIMM_C2 encountered a Serial Presence Detection (SPD) failure,Major 
+8568,DIMM_C3 encountered a Serial Presence Detection (SPD) failure,Major 
+8569,DIMM_D1 encountered a Serial Presence Detection (SPD) failure,Major 
+856A,DIMM_D2 encountered a Serial Presence Detection (SPD) failure,Major 
+856B,DIMM_D3 encountered a Serial Presence Detection (SPD) failure,Major 
+856C,DIMM_E1 encountered a Serial Presence Detection (SPD) failure,Major 
+856D,DIMM_E2 encountered a Serial Presence Detection (SPD) failure,Major 
+856E,DIMM_E3 encountered a Serial Presence Detection (SPD) failure,Major 
+856F,DIMM_F1 encountered a Serial Presence Detection (SPD) failure,Major 
+8570,DIMM_F2 encountered a Serial Presence Detection (SPD) failure,Major 
+8571,DIMM_F3 encountered a Serial Presence Detection (SPD) failure,Major 
+8572,DIMM_G1 encountered a Serial Presence Detection (SPD) failure,Major 
+8573,DIMM_G2 encountered a Serial Presence Detection (SPD) failure,Major 
+8574,DIMM_G3 encountered a Serial Presence Detection (SPD) failure,Major 
+8575,DIMM_H1 encountered a Serial Presence Detection (SPD) failure,Major 
+8576,DIMM_H2 encountered a Serial Presence Detection (SPD) failure,Major 
+8577,DIMM_H3 encountered a Serial Presence Detection (SPD) failure,Major 
+8578,DIMM_I1 encountered a Serial Presence Detection (SPD) failure,Major 
+8579,DIMM_I2 encountered a Serial Presence Detection (SPD) failure,Major 
+857A,DIMM_I3 encountered a Serial Presence Detection (SPD) failure,Major 
+857B,DIMM_J1 encountered a Serial Presence Detection (SPD) failure,Major 
+857C,DIMM_J2 encountered a Serial Presence Detection (SPD) failure,Major 
+857D,DIMM_J3 encountered a Serial Presence Detection (SPD) failure,Major 
+857E,DIMM_K1 encountered a Serial Presence Detection (SPD) failure,Major 
+857F,DIMM_K2 encountered a Serial Presence Detection (SPD) failure,Major 
+85C0,DIMM_K3 failed test/initialization,Major 
+85C1,DIMM_L1 failed test/initialization,Major 
+85C2,DIMM_L2 failed test/initialization,Major 
+85C3,DIMM_L3 failed test/initialization,Major 
+85C4,DIMM_M1 failed test/initialization,Major 
+85C5,DIMM_M2 failed test/initialization,Major 
+85C6,DIMM_M3 failed test/initialization,Major 
+85C7,DIMM_N1 failed test/initialization,Major 
+85C8,DIMM_N2 failed test/initialization,Major 
+85C9,DIMM_N3 failed test/initialization,Major 
+85CA,DIMM_O1 failed test/initialization,Major 
+85CB,DIMM_O2 failed test/initialization,Major 
+85CC,DIMM_O3 failed test/initialization,Major 
+85CD,DIMM_P1 failed test/initialization,Major 
+85CE,DIMM_P2 failed test/initialization,Major 
+85CF,DIMM_P3 failed test/initialization,Major 
+85D0,DIMM_K3 disabled,Major 
+85D1,DIMM_L1 disabled,Major 
+85D2,DIMM_L2 disabled,Major 
+85D3,DIMM_L3 disabled,Major 
+85D4,DIMM_M1 disabled,Major 
+85D5,DIMM_M2 disabled,Major 
+85D6,DIMM_M3 disabled,Major 
+85D7,DIMM_N1 disabled,Major 
+85D8,DIMM_N2 disabled,Major 
+85D9,DIMM_N3 disabled,Major 
+85DA,DIMM_O1 disabled,Major 
+85DB,DIMM_O2 disabled,Major 
+85DC,DIMM_O3 disabled,Major 
+85DD,DIMM_P1 disabled,Major 
+85DE,DIMM_P2 disabled,Major 
+85DF,DIMM_P3 disabled,Major 
+85E0,DIMM_K3 encountered a Serial Presence Detection (SPD) failure,Major 
+85E1,DIMM_L1 encountered a Serial Presence Detection (SPD) failure,Major 
+85E2,DIMM_L2 encountered a Serial Presence Detection (SPD) failure,Major 
+85E3,DIMM_L3 encountered a Serial Presence Detection (SPD) failure,Major 
+85E4,DIMM_M1 encountered a Serial Presence Detection (SPD) failure,Major 
+85E5,DIMM_M2 encountered a Serial Presence Detection (SPD) failure,Major 
+85E6,DIMM_M3 encountered a Serial Presence Detection (SPD) failure,Major 
+85E7,DIMM_N1 encountered a Serial Presence Detection (SPD) failure,Major 
+85E8,DIMM_N2 encountered a Serial Presence Detection (SPD) failure,Major 
+85E9,DIMM_N3 encountered a Serial Presence Detection (SPD) failure,Major 
+85EA,DIMM_O1 encountered a Serial Presence Detection (SPD) failure,Major 
+85EB,DIMM_O2 encountered a Serial Presence Detection (SPD) failure,Major 
+85EC,DIMM_O3 encountered a Serial Presence Detection (SPD) failure,Major 
+85ED,DIMM_P1 encountered a Serial Presence Detection (SPD) failure,Major 
+85EE,DIMM_P2 encountered a Serial Presence Detection (SPD) failure,Major 
+85EF,DIMM_P3 encountered a Serial Presence Detection (SPD) failure,Major 
+8604,POST Reclaim of non-critical NVRAM variables,Minor 
+8605,BIOS Settings are corrupted,Major 
+8606,NVRAM variable space was corrupted and has been reinitialized,Major 
+92A3,Serial port component was not detected,Major 
+92A9,Serial port component encountered a resource conflict error,Major 
+A000,TPM device not detected.,Minor 
+A001,TPM device missing or not responding.,Minor 
+A002,TPM device failure.,Minor 
+A003,TPM device failed self test.,Minor 
+A100,BIOS ACM Error,Major 
+A421,PCI component encountered a SERR error,Fatal 
+A5A0,PCI Express component encountered a PERR error,Minor 
+A5A1,PCI Express component encountered an SERR error,Fatal 
+A6A0,DXE Boot Service driver: Not enough memory available to shadow a Legacy Option ROM,Minor 

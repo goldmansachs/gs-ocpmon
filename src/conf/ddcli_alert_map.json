@@ -1,0 +1,98 @@
+{
+  "backupRailMonitorStatusCritical Asserted": {
+    "camel": "backupRailMonitorStatusCritical", 
+    "id": 5910
+  }, 
+  "backupRailMonitorStatusCritical Deasserted": {
+    "camel": "backupRailMonitorStatusCritical", 
+    "id": 5911
+  }, 
+  "backupRailMonitorStatusInformational Asserted": {
+    "camel": "backupRailMonitorStatusInformational", 
+    "id": 5906
+  }, 
+  "backupRailMonitorStatusInformational Deasserted": {
+    "camel": "backupRailMonitorStatusInformational", 
+    "id": 5907
+  }, 
+  "backupRailMonitorStatusWarning Asserted": {
+    "camel": "backupRailMonitorStatusWarning", 
+    "id": 5908
+  }, 
+  "backupRailMonitorStatusWarning Deasserted": {
+    "camel": "backupRailMonitorStatusWarning", 
+    "id": 5909
+  }, 
+  "overallHealthStatusCritical Asserted": {
+    "camel": "overallHealthStatusCritical", 
+    "id": 5916
+  }, 
+  "overallHealthStatusCritical Deasserted": {
+    "camel": "overallHealthStatusCritical", 
+    "id": 5917
+  }, 
+  "overallHealthStatusInformational Asserted": {
+    "camel": "overallHealthStatusInformational", 
+    "id": 5912
+  }, 
+  "overallHealthStatusInformational Deasserted": {
+    "camel": "overallHealthStatusInformational", 
+    "id": 5913
+  }, 
+  "overallHealthStatusWarning Asserted": {
+    "camel": "overallHealthStatusWarning", 
+    "id": 5914
+  }, 
+  "overallHealthStatusWarning Deasserted": {
+    "camel": "overallHealthStatusWarning", 
+    "id": 5915
+  }, 
+  "ssdLifeLeftCritical Asserted": {
+    "camel": "ssdLifeLeftCritical", 
+    "id": 5918
+  }, 
+  "ssdLifeLeftCritical Deasserted": {
+    "camel": "ssdLifeLeftCritical", 
+    "id": 5919
+  }, 
+  "ssdLifeLeftInformational Asserted": {
+    "camel": "ssdLifeLeftInformational", 
+    "id": 5922
+  }, 
+  "ssdLifeLeftInformational Deasserted": {
+    "camel": "ssdLifeLeftInformational", 
+    "id": 5923
+  }, 
+  "ssdLifeLeftWarning Asserted": {
+    "camel": "ssdLifeLeftWarning", 
+    "id": 5920
+  }, 
+  "ssdLifeLeftWarning Deasserted": {
+    "camel": "ssdLifeLeftWarning", 
+    "id": 5921
+  }, 
+  "warrantyRemainingCritical Asserted": {
+    "camel": "warrantyRemainingCritical", 
+    "id": 5900
+  }, 
+  "warrantyRemainingCritical Deasserted": {
+    "camel": "warrantyRemainingCritical", 
+    "id": 5901
+  }, 
+  "warrantyRemainingInformational Asserted": {
+    "camel": "warrantyRemainingInformational", 
+    "id": 5904
+  }, 
+  "warrantyRemainingInformational Deasserted": {
+    "camel": "warrantyRemainingInformational", 
+    "id": 5905
+  }, 
+  "warrantyRemainingWarning Asserted": {
+    "camel": "warrantyRemainingWarning", 
+    "id": 5902
+  }, 
+  "warrantyRemainingWarning Deasserted": {
+    "camel": "warrantyRemainingWarning", 
+    "id": 5903
+  }
+}

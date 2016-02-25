@@ -1,0 +1,2211 @@
+1,03/25/2014,22:05:24,Event Logging Disabled #0x07,Log area reset/cleared,Asserted
+2,03/25/2014,22:06:54,System Event #0x83,Timestamp Clock Sync,Asserted
+3,03/25/2014,22:06:54,System Event #0x83,Timestamp Clock Sync,Asserted
+4,03/25/2014,07:54:42,Power Unit #0x01,Power off/down,Asserted
+5,03/25/2014,07:54:43,Button #0x09,Power Button pressed,Asserted
+6,04/22/2014,13:02:44,Power Unit #0x01,Power off/down,Asserted
+7,04/22/2014,13:02:44,Power Unit #0x01,AC lost,Asserted
+8,04/22/2014,13:02:45,Power Unit #0x01,AC lost,Deasserted
+9,04/22/2014,13:02:53,Power Unit #0x01,Power off/down,Deasserted
+a,04/22/2014,13:02:53,Button #0x09,Power Button pressed,Asserted
+b,04/22/2014,13:03:13,System Event #0x83,Timestamp Clock Sync,Asserted
+c,04/22/2014,13:03:13,System Event #0x83,Timestamp Clock Sync,Asserted
+d,04/22/2014,13:03:21,System Firmware Error #0x06,Unknown Error,Asserted
+e,04/22/2014,13:04:00,System Event #0x83,Timestamp Clock Sync,Asserted
+f,04/22/2014,13:04:00,System Event #0x83,Timestamp Clock Sync,Asserted
+10,04/22/2014,13:04:00,Power Unit #0x01,Power off/down,Asserted
+11,04/22/2014,13:04:00,Button #0x09,Power Button pressed,Asserted
+12,04/22/2014,13:04:02,Button #0x09,Power Button pressed,Asserted
+13,04/22/2014,13:04:05,Power Unit #0x01,Power off/down,Deasserted
+14,04/22/2014,13:04:05,Button #0x09,Power Button pressed,Asserted
+15,04/22/2014,13:04:25,System Event #0x83,Timestamp Clock Sync,Asserted
+16,04/22/2014,13:04:25,System Event #0x83,Timestamp Clock Sync,Asserted
+17,04/22/2014,13:04:34,System Firmware Error #0x06,Unknown Error,Asserted
+18,04/22/2014,13:04:59,System Event #0x83,Timestamp Clock Sync,Asserted
+19,04/22/2014,13:04:59,System Event #0x83,Timestamp Clock Sync,Asserted
+1a,04/22/2014,13:05:13,Power Unit #0x01,Failure detected,Asserted
+1b,04/22/2014,13:05:14,Power Unit #0x01,Power off/down,Asserted
+1c,04/22/2014,13:05:19,Power Unit #0x01,Power off/down,Deasserted
+1d,04/22/2014,13:06:59,System Event #0x83,Timestamp Clock Sync,Asserted
+1e,04/22/2014,13:06:59,System Event #0x83,Timestamp Clock Sync,Asserted
+1f,04/22/2014,13:06:59,Power Unit #0x01,AC lost,Asserted
+20,04/22/2014,13:07:00,Power Unit #0x01,AC lost,Deasserted
+21,04/22/2014,13:07:37,System Firmware Error #0x06,Unknown Error,Asserted
+22,04/22/2014,13:07:41,System Event #0x83,OEM System boot event,Asserted
+23,04/22/2014,13:07:45,Voltage #0xe5,Upper Non-critical going high
+24,04/22/2014,13:07:45,Voltage #0xe5,Upper Critical going high
+25,04/22/2014,13:16:24,Voltage #0xe5,Upper Non-critical going high
+26,04/22/2014,13:16:24,Voltage #0xe5,Upper Critical going high
+27,04/22/2014,13:16:42,System Event #0x83,Timestamp Clock Sync,Asserted
+28,04/22/2014,13:16:42,System Event #0x83,Timestamp Clock Sync,Asserted
+29,04/22/2014,13:17:20,System Firmware Error #0x06,Unknown Error,Asserted
+2a,04/22/2014,13:17:24,System Event #0x83,OEM System boot event,Asserted
+2b,04/22/2014,13:17:28,Voltage #0xe5,Upper Non-critical going high
+2c,04/22/2014,13:17:28,Voltage #0xe5,Upper Critical going high
+2d,04/22/2014,13:17:29,System Event #0x83,OEM System boot event,Asserted
+2e,04/22/2014,13:21:50,Voltage #0xe5,Upper Non-critical going high
+2f,04/22/2014,13:21:50,Voltage #0xe5,Upper Critical going high
+30,04/22/2014,13:23:39,Version Change #0x12,
+31,04/22/2014,13:23:43,Unknown #0x17,
+32,04/22/2014,13:23:43,Unknown #0x17,
+33,04/22/2014,13:23:45,Unknown #0x17,
+34,04/22/2014,13:24:13,Version Change #0x12,
+35,04/22/2014,13:26:40,Voltage #0xe5,Upper Non-critical going high
+36,04/22/2014,13:26:40,Voltage #0xe5,Upper Critical going high
+37,04/22/2014,13:26:57,System Event #0x83,Timestamp Clock Sync,Asserted
+38,04/22/2014,13:26:57,System Event #0x83,Timestamp Clock Sync,Asserted
+39,04/22/2014,13:26:57,Button #0x09,Power Button pressed,Asserted
+3a,04/22/2014,13:26:58,Power Unit #0x01,Power off/down,Asserted
+3b,04/22/2014,13:27:08,Power Unit #0x01,Power off/down,Deasserted
+3c,04/22/2014,13:27:08,Button #0x09,Power Button pressed,Asserted
+3d,04/22/2014,13:27:09,Power Unit #0x01,Power off/down,Asserted
+3e,04/22/2014,13:27:14,Power Unit #0x01,Power off/down,Deasserted
+3f,04/22/2014,13:27:33,System Event #0x83,Timestamp Clock Sync,Asserted
+40,04/22/2014,13:27:34,System Event #0x83,Timestamp Clock Sync,Asserted
+41,04/22/2014,13:27:49,Power Unit #0x01,Failure detected,Asserted
+42,04/22/2014,13:27:49,Power Unit #0x01,Power off/down,Asserted
+43,04/22/2014,13:27:50,Power Supply #0x50,Power Supply AC lost,Asserted
+44,04/22/2014,13:29:20,Power Unit #0x01,AC lost,Asserted
+45,04/22/2014,13:29:22,Power Unit #0x01,AC lost,Deasserted
+46,04/22/2014,13:29:26,System Event #0x83,Timestamp Clock Sync,Asserted
+47,04/22/2014,13:29:27,System Event #0x83,Timestamp Clock Sync,Asserted
+48,04/22/2014,13:30:43,System Event #0x83,OEM System boot event,Asserted
+49,04/22/2014,13:36:11,System Event #0x83,Timestamp Clock Sync,Asserted
+4a,04/22/2014,13:36:11,System Event #0x83,Timestamp Clock Sync,Asserted
+4b,04/22/2014,13:36:12,Button #0x09,Power Button pressed,Asserted
+4c,04/22/2014,13:36:13,Power Unit #0x01,Power off/down,Asserted
+4d,04/22/2014,13:36:15,Button #0x09,Power Button pressed,Asserted
+4e,04/22/2014,13:36:17,Button #0x09,Power Button pressed,Asserted
+4f,04/22/2014,13:36:18,Power Unit #0x01,Power off/down,Deasserted
+50,04/22/2014,13:36:37,System Event #0x83,Timestamp Clock Sync,Asserted
+51,04/22/2014,13:36:37,System Event #0x83,Timestamp Clock Sync,Asserted
+52,04/22/2014,13:37:55,System Event #0x83,OEM System boot event,Asserted
+53,04/22/2014,13:39:06,Power Supply #0x51,Power Supply AC lost,Asserted
+54,04/22/2014,13:39:07,Power Unit #0x01,Failure detected,Asserted
+55,04/22/2014,13:39:07,Power Unit #0x01,Power off/down,Asserted
+56,04/22/2014,13:39:07,Power Unit #0x02,Fully Redundant
+57,04/22/2014,13:39:07,Power Unit #0x02,Redundancy Lost
+58,04/22/2014,13:39:07,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+59,04/22/2014,13:39:07,Power Supply #0x50,Power Supply AC lost,Asserted
+5a,04/22/2014,13:39:08,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+5b,04/22/2014,13:39:08,Power Unit #0x02,Non-Redundant: Insufficient Resources
+5c,04/22/2014,13:39:12,Power Unit #0x01,Power off/down,Deasserted
+5d,04/22/2014,13:39:15,Button #0x09,Power Button pressed,Asserted
+5e,04/24/2014,10:42:55,Power Unit #0x01,AC lost,Asserted
+5f,04/24/2014,10:42:56,Power Unit #0x01,AC lost,Deasserted
+60,04/24/2014,10:42:59,Power Supply #0x51,Power Supply AC lost,Asserted
+61,04/24/2014,10:43:00,Power Unit #0x02,Fully Redundant
+62,04/24/2014,10:43:00,Power Unit #0x02,Redundancy Lost
+63,04/24/2014,10:43:00,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+64,04/24/2014,10:43:09,System Event #0x83,Timestamp Clock Sync,Asserted
+65,04/24/2014,10:43:09,System Event #0x83,Timestamp Clock Sync,Asserted
+66,04/24/2014,10:43:52,System Event #0x83,OEM System boot event,Asserted
+67,04/24/2014,10:48:18,System Event #0x83,Timestamp Clock Sync,Asserted
+68,04/24/2014,10:48:19,System Event #0x83,Timestamp Clock Sync,Asserted
+69,04/24/2014,10:48:19,Power Unit #0x01,Power off/down,Asserted
+6a,04/24/2014,10:48:19,Button #0x09,Power Button pressed,Asserted
+6b,04/24/2014,10:48:25,Power Unit #0x01,Power off/down,Deasserted
+6c,04/24/2014,10:48:25,Button #0x09,Power Button pressed,Asserted
+6d,04/24/2014,10:48:28,Power Unit #0x02,Redundancy Lost
+6e,04/24/2014,10:48:28,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+6f,04/24/2014,10:48:28,Power Supply #0x51,Power Supply AC lost,Deasserted
+70,04/24/2014,10:48:28,Power Supply #0x51,Power Supply AC lost,Asserted
+71,04/24/2014,10:48:29,Power Unit #0x02,Redundancy Lost
+72,04/24/2014,10:48:29,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+73,04/24/2014,10:48:44,System Event #0x83,Timestamp Clock Sync,Asserted
+74,04/24/2014,10:48:44,System Event #0x83,Timestamp Clock Sync,Asserted
+75,04/24/2014,10:49:28,System Event #0x83,OEM System boot event,Asserted
+76,04/24/2014,10:52:35,Power Unit #0x02,Redundancy Lost
+77,04/24/2014,10:52:35,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+78,04/24/2014,10:52:35,Power Supply #0x51,Power Supply AC lost,Deasserted
+79,04/24/2014,10:52:35,Power Supply #0x51,Power Supply AC lost,Asserted
+7a,04/24/2014,10:52:37,Power Unit #0x02,Redundancy Lost
+7b,04/24/2014,10:52:37,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+7c,04/24/2014,10:52:52,System Event #0x83,Timestamp Clock Sync,Asserted
+7d,04/24/2014,10:52:53,System Event #0x83,Timestamp Clock Sync,Asserted
+7e,04/24/2014,10:55:40,System Event #0x83,OEM System boot event,Asserted
+7f,04/24/2014,11:01:02,Power Unit #0x02,Redundancy Lost
+80,04/24/2014,11:01:02,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+81,04/24/2014,11:01:02,Power Supply #0x51,Power Supply AC lost,Deasserted
+82,04/24/2014,11:01:03,Power Supply #0x51,Power Supply AC lost,Asserted
+83,04/24/2014,11:01:04,Power Unit #0x02,Redundancy Lost
+84,04/24/2014,11:01:04,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+85,04/24/2014,11:01:19,System Event #0x83,Timestamp Clock Sync,Asserted
+86,04/24/2014,11:01:19,System Event #0x83,Timestamp Clock Sync,Asserted
+87,04/24/2014,11:02:17,System Event #0x83,OEM System boot event,Asserted
+88,04/24/2014,11:06:25,Power Unit #0x02,Redundancy Lost
+89,04/24/2014,11:06:25,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+8a,04/24/2014,11:06:25,Power Supply #0x51,Power Supply AC lost,Deasserted
+8b,04/24/2014,11:06:26,Power Supply #0x51,Power Supply AC lost,Asserted
+8c,04/24/2014,11:06:28,Power Unit #0x02,Redundancy Lost
+8d,04/24/2014,11:06:28,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+8e,04/24/2014,11:06:43,System Event #0x83,Timestamp Clock Sync,Asserted
+8f,04/24/2014,11:06:43,System Event #0x83,Timestamp Clock Sync,Asserted
+90,04/24/2014,11:08:48,System Event #0x83,OEM System boot event,Asserted
+91,04/24/2014,11:45:21,Power Unit #0x02,Redundancy Lost
+92,04/24/2014,11:45:21,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+93,04/24/2014,11:45:21,Power Supply #0x51,Power Supply AC lost,Deasserted
+94,04/24/2014,11:45:21,Power Supply #0x51,Power Supply AC lost,Asserted
+95,04/24/2014,11:45:22,Power Unit #0x02,Redundancy Lost
+96,04/24/2014,11:45:22,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+97,04/24/2014,11:45:37,System Event #0x83,Timestamp Clock Sync,Asserted
+98,04/24/2014,11:45:38,System Event #0x83,Timestamp Clock Sync,Asserted
+99,04/24/2014,11:46:26,System Event #0x83,OEM System boot event,Asserted
+9a,04/24/2014,11:53:04,Power Unit #0x02,Redundancy Lost
+9b,04/24/2014,11:53:04,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+9c,04/24/2014,11:53:04,Power Supply #0x51,Power Supply AC lost,Deasserted
+9d,04/24/2014,11:53:04,Power Supply #0x51,Power Supply AC lost,Asserted
+9e,04/24/2014,11:53:06,Power Unit #0x02,Redundancy Lost
+9f,04/24/2014,11:53:06,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+a0,04/24/2014,11:53:20,System Event #0x83,Timestamp Clock Sync,Asserted
+a1,04/24/2014,11:53:20,System Event #0x83,Timestamp Clock Sync,Asserted
+a2,04/24/2014,06:06:28,System Event #0x83,OEM System boot event,Asserted
+a3,04/24/2014,06:50:34,Power Unit #0x02,Redundancy Lost
+a4,04/24/2014,06:50:34,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+a5,04/24/2014,06:50:34,Power Supply #0x51,Power Supply AC lost,Deasserted
+a6,04/24/2014,06:50:35,Power Supply #0x51,Power Supply AC lost,Asserted
+a7,04/24/2014,06:50:37,Power Unit #0x02,Redundancy Lost
+a8,04/24/2014,06:50:37,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+a9,04/24/2014,06:50:50,System Event #0x83,Timestamp Clock Sync,Asserted
+aa,04/24/2014,06:50:51,System Event #0x83,Timestamp Clock Sync,Asserted
+ab,04/24/2014,06:51:49,System Event #0x83,OEM System boot event,Asserted
+ac,04/24/2014,06:54:33,Version Change #0x12,
+ad,04/24/2014,06:57:33,Version Change #0x12,
+ae,04/24/2014,06:58:20,Power Supply #0x51,Power Supply AC lost,Asserted
+af,04/24/2014,06:58:20,Power Unit #0x02,Fully Redundant
+b0,04/24/2014,06:58:20,Power Unit #0x02,Redundancy Lost
+b1,04/24/2014,06:58:20,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+b2,04/24/2014,06:58:36,Version Change #0x12,
+b3,04/24/2014,06:59:57,Version Change #0x12,
+b4,04/24/2014,07:00:11,Version Change #0x12,
+b5,04/24/2014,07:00:18,Unknown #0x17,
+b6,04/24/2014,07:00:18,Unknown #0x17,
+b7,04/24/2014,07:00:21,Unknown #0x17,
+b8,04/24/2014,07:00:49,Version Change #0x12,
+b9,04/24/2014,07:11:11,Power Unit #0x02,Redundancy Lost
+ba,04/24/2014,07:11:11,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+bb,04/24/2014,07:11:11,Power Supply #0x51,Power Supply AC lost,Deasserted
+bc,04/24/2014,07:11:11,Power Unit #0x01,Power off/down,Asserted
+bd,04/24/2014,07:11:11,Watchdog 2 #0x03,Hard reset,Asserted
+be,04/24/2014,07:11:11,Power Supply #0x51,Power Supply AC lost,Asserted
+bf,04/24/2014,07:11:12,Power Unit #0x02,Redundancy Lost
+c0,04/24/2014,07:11:12,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+c1,04/24/2014,07:11:16,Power Unit #0x01,Power off/down,Deasserted
+c2,04/24/2014,07:11:20,Power Unit #0x02,Redundancy Lost
+c3,04/24/2014,07:11:20,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+c4,04/24/2014,07:11:20,Power Supply #0x51,Power Supply AC lost,Deasserted
+c5,04/24/2014,07:11:20,Power Supply #0x51,Power Supply AC lost,Asserted
+c6,04/24/2014,07:11:21,Power Unit #0x02,Redundancy Lost
+c7,04/24/2014,07:11:21,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+c8,04/24/2014,07:11:38,System Event #0x83,Timestamp Clock Sync,Asserted
+c9,04/24/2014,07:11:38,System Event #0x83,Timestamp Clock Sync,Asserted
+ca,04/24/2014,07:12:33,System Firmware Error #0x06,Unknown Error,Asserted
+cb,04/24/2014,07:30:11,Power Unit #0x02,Redundancy Lost
+cc,04/24/2014,07:30:11,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+cd,04/24/2014,07:30:11,Power Supply #0x51,Power Supply AC lost,Deasserted
+ce,04/24/2014,07:30:12,Power Supply #0x51,Power Supply AC lost,Asserted
+cf,04/24/2014,07:30:13,Power Unit #0x02,Redundancy Lost
+d0,04/24/2014,07:30:13,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+d1,04/24/2014,07:30:28,System Event #0x83,Timestamp Clock Sync,Asserted
+d2,04/24/2014,07:30:28,System Event #0x83,Timestamp Clock Sync,Asserted
+d3,04/24/2014,07:30:34,Power Unit #0x01,Failure detected,Asserted
+d4,04/24/2014,07:30:35,Power Unit #0x01,Power off/down,Asserted
+d5,04/24/2014,07:30:35,Power Supply #0x50,Power Supply AC lost,Asserted
+d6,04/24/2014,07:30:36,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+d7,04/24/2014,07:30:36,Power Unit #0x02,Non-Redundant: Insufficient Resources
+d8,04/24/2014,07:30:40,Power Unit #0x01,Power off/down,Deasserted
+d9,04/24/2014,07:32:43,Power Unit #0x01,AC lost,Asserted
+da,04/24/2014,07:32:44,Power Unit #0x01,AC lost,Deasserted
+db,04/24/2014,07:32:47,Power Supply #0x50,Power Supply AC lost,Asserted
+dc,04/24/2014,07:32:48,Power Unit #0x02,Fully Redundant
+dd,04/24/2014,07:32:48,Power Unit #0x02,Redundancy Lost
+de,04/24/2014,07:32:48,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+df,04/24/2014,07:33:00,System Event #0x83,Timestamp Clock Sync,Asserted
+e0,04/24/2014,07:33:00,System Event #0x83,Timestamp Clock Sync,Asserted
+e1,04/24/2014,07:34:39,Power Unit #0x02,Redundancy Lost
+e2,04/24/2014,07:34:39,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+e3,04/24/2014,07:34:39,Power Supply #0x50,Power Supply AC lost,Deasserted
+e4,04/24/2014,07:34:40,Power Supply #0x50,Power Supply AC lost,Asserted
+e5,04/24/2014,07:34:41,Power Unit #0x02,Redundancy Lost
+e6,04/24/2014,07:34:41,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+e7,04/24/2014,07:34:56,System Event #0x83,Timestamp Clock Sync,Asserted
+e8,04/24/2014,07:34:56,System Event #0x83,Timestamp Clock Sync,Asserted
+e9,04/24/2014,07:36:02,System Event #0x83,OEM System boot event,Asserted
+ea,04/24/2014,07:40:53,Power Unit #0x02,Redundancy Lost
+eb,04/24/2014,07:40:53,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+ec,04/24/2014,07:40:53,Power Supply #0x50,Power Supply AC lost,Deasserted
+ed,04/24/2014,07:40:53,Power Supply #0x50,Power Supply AC lost,Asserted
+ee,04/24/2014,07:40:55,Power Unit #0x02,Redundancy Lost
+ef,04/24/2014,07:40:55,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+f0,04/24/2014,07:41:09,System Event #0x83,Timestamp Clock Sync,Asserted
+f1,04/24/2014,07:41:09,System Event #0x83,Timestamp Clock Sync,Asserted
+f2,04/24/2014,07:42:05,System Event #0x83,OEM System boot event,Asserted
+f3,04/24/2014,07:50:38,Power Unit #0x02,Redundancy Lost
+f4,04/24/2014,07:50:38,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+f5,04/24/2014,07:50:38,Power Supply #0x50,Power Supply AC lost,Deasserted
+f6,04/24/2014,07:50:39,Power Supply #0x50,Power Supply AC lost,Asserted
+f7,04/24/2014,07:50:41,Power Unit #0x02,Redundancy Lost
+f8,04/24/2014,07:50:41,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+f9,04/24/2014,07:50:56,System Event #0x83,Timestamp Clock Sync,Asserted
+fa,04/24/2014,07:50:52,System Event #0x83,Timestamp Clock Sync,Asserted
+fb,04/24/2014,08:54:17,System Event #0x83,OEM System boot event,Asserted
+fc,04/24/2014,08:54:37,Power Unit #0x02,Redundancy Lost
+fd,04/24/2014,08:54:37,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+fe,04/24/2014,08:54:37,Power Supply #0x50,Power Supply AC lost,Deasserted
+ff,04/24/2014,08:54:37,Power Supply #0x50,Power Supply AC lost,Asserted
+100,04/24/2014,08:54:38,Power Unit #0x02,Redundancy Lost
+101,04/24/2014,08:54:38,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+102,04/24/2014,08:54:53,System Event #0x83,Timestamp Clock Sync,Asserted
+103,04/24/2014,08:54:54,System Event #0x83,Timestamp Clock Sync,Asserted
+104,04/24/2014,08:55:39,System Event #0x83,OEM System boot event,Asserted
+105,04/24/2014,08:58:11,Power Unit #0x02,Redundancy Lost
+106,04/24/2014,08:58:11,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+107,04/24/2014,08:58:11,Power Supply #0x50,Power Supply AC lost,Deasserted
+108,04/24/2014,08:58:12,Power Supply #0x50,Power Supply AC lost,Asserted
+109,04/24/2014,08:58:13,Power Unit #0x02,Redundancy Lost
+10a,04/24/2014,08:58:13,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+10b,04/24/2014,08:58:29,System Event #0x83,Timestamp Clock Sync,Asserted
+10c,04/24/2014,08:58:29,System Event #0x83,Timestamp Clock Sync,Asserted
+10d,04/24/2014,09:03:27,Power Unit #0x02,Redundancy Lost
+10e,04/24/2014,09:03:27,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+10f,04/24/2014,09:03:27,Power Supply #0x50,Power Supply AC lost,Deasserted
+110,04/24/2014,09:03:28,Power Supply #0x50,Power Supply AC lost,Asserted
+111,04/24/2014,09:03:30,Power Unit #0x02,Redundancy Lost
+112,04/24/2014,09:03:30,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+113,04/24/2014,09:03:43,System Event #0x83,Timestamp Clock Sync,Asserted
+114,04/24/2014,09:03:44,System Event #0x83,Timestamp Clock Sync,Asserted
+115,04/24/2014,09:09:53,System Event #0x83,OEM System boot event,Asserted
+116,04/24/2014,09:20:54,Power Unit #0x02,Redundancy Lost
+117,04/24/2014,09:20:54,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+118,04/24/2014,09:20:54,Power Supply #0x50,Power Supply AC lost,Deasserted
+119,04/24/2014,09:20:55,Power Supply #0x50,Power Supply AC lost,Asserted
+11a,04/24/2014,09:20:57,Power Unit #0x02,Redundancy Lost
+11b,04/24/2014,09:20:57,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+11c,04/24/2014,09:21:11,System Event #0x83,Timestamp Clock Sync,Asserted
+11d,04/24/2014,09:21:11,System Event #0x83,Timestamp Clock Sync,Asserted
+11e,04/24/2014,09:22:06,System Event #0x83,OEM System boot event,Asserted
+11f,04/24/2014,09:23:25,Power Unit #0x02,Redundancy Lost
+120,04/24/2014,09:23:25,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+121,04/24/2014,09:23:25,Power Supply #0x50,Power Supply AC lost,Deasserted
+122,04/24/2014,09:23:25,Power Supply #0x50,Power Supply AC lost,Asserted
+123,04/24/2014,09:23:27,Power Unit #0x02,Redundancy Lost
+124,04/24/2014,09:23:27,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+125,04/24/2014,09:23:43,System Event #0x83,Timestamp Clock Sync,Asserted
+126,04/24/2014,09:23:43,System Event #0x83,Timestamp Clock Sync,Asserted
+127,04/24/2014,09:24:52,System Event #0x83,OEM System boot event,Asserted
+128,04/24/2014,09:25:35,Power Unit #0x02,Redundancy Lost
+129,04/24/2014,09:25:35,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+12a,04/24/2014,09:25:35,Power Supply #0x50,Power Supply AC lost,Deasserted
+12b,04/24/2014,09:25:36,Power Supply #0x50,Power Supply AC lost,Asserted
+12c,04/24/2014,09:25:38,Power Unit #0x02,Redundancy Lost
+12d,04/24/2014,09:25:38,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+12e,04/24/2014,09:25:52,System Event #0x83,Timestamp Clock Sync,Asserted
+12f,04/24/2014,09:25:52,System Event #0x83,Timestamp Clock Sync,Asserted
+130,04/24/2014,09:26:34,System Event #0x83,OEM System boot event,Asserted
+131,04/24/2014,09:33:45,Power Unit #0x02,Redundancy Lost
+132,04/24/2014,09:33:45,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+133,04/24/2014,09:33:45,Power Supply #0x50,Power Supply AC lost,Deasserted
+134,04/24/2014,09:33:46,Power Supply #0x50,Power Supply AC lost,Asserted
+135,04/24/2014,09:33:47,Power Unit #0x02,Redundancy Lost
+136,04/24/2014,09:33:47,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+137,04/24/2014,09:34:01,System Event #0x83,Timestamp Clock Sync,Asserted
+138,04/24/2014,09:34:01,System Event #0x83,Timestamp Clock Sync,Asserted
+139,04/24/2014,09:35:00,System Event #0x83,OEM System boot event,Asserted
+13a,04/24/2014,09:46:37,Power Unit #0x02,Redundancy Lost
+13b,04/24/2014,09:46:37,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+13c,04/24/2014,09:46:37,Power Supply #0x50,Power Supply AC lost,Deasserted
+13d,04/24/2014,09:46:37,Power Supply #0x50,Power Supply AC lost,Asserted
+13e,04/24/2014,09:46:39,Power Unit #0x02,Redundancy Lost
+13f,04/24/2014,09:46:39,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+140,04/24/2014,09:46:55,System Event #0x83,Timestamp Clock Sync,Asserted
+141,04/24/2014,09:46:55,System Event #0x83,Timestamp Clock Sync,Asserted
+142,04/24/2014,09:47:48,System Event #0x83,OEM System boot event,Asserted
+143,04/24/2014,09:56:06,Power Unit #0x02,Redundancy Lost
+144,04/24/2014,09:56:06,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+145,04/24/2014,09:56:06,Power Supply #0x50,Power Supply AC lost,Deasserted
+146,04/24/2014,09:56:07,Power Supply #0x50,Power Supply AC lost,Asserted
+147,04/24/2014,09:56:09,Power Unit #0x02,Redundancy Lost
+148,04/24/2014,09:56:09,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+149,04/24/2014,09:56:23,System Event #0x83,Timestamp Clock Sync,Asserted
+14a,04/24/2014,09:56:23,System Event #0x83,Timestamp Clock Sync,Asserted
+14b,04/24/2014,09:57:18,System Event #0x83,OEM System boot event,Asserted
+14c,04/25/2014,03:54:31,System Event #0x83,Timestamp Clock Sync,Asserted
+14d,04/25/2014,03:54:34,System Event #0x83,Timestamp Clock Sync,Asserted
+14e,04/25/2014,03:54:34,Power Unit #0x01,Power off/down,Asserted
+14f,04/25/2014,03:54:34,Button #0x09,Power Button pressed,Asserted
+150,04/25/2014,03:58:41,Physical Security #0x04,System unplugged from LAN,Asserted
+151,04/25/2014,03:59:58,Power Supply #0x51,Power Supply AC lost,Asserted
+152,04/25/2014,03:59:59,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+153,04/25/2014,03:59:59,Power Unit #0x02,Non-Redundant: Insufficient Resources
+154,04/29/2014,09:39:38,Power Unit #0x01,Power off/down,Asserted
+155,04/29/2014,09:39:42,Power Supply #0x51,Power Supply AC lost,Asserted
+156,04/29/2014,09:39:43,Power Unit #0x02,Fully Redundant
+157,04/29/2014,09:39:43,Power Unit #0x02,Redundancy Lost
+158,04/29/2014,09:39:43,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+159,04/29/2014,09:39:44,Power Unit #0x01,Power off/down,Deasserted
+15a,04/29/2014,09:39:44,Button #0x09,Power Button pressed,Asserted
+15b,04/29/2014,09:39:47,Power Unit #0x02,Redundancy Lost
+15c,04/29/2014,09:39:47,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+15d,04/29/2014,09:39:47,Power Supply #0x51,Power Supply AC lost,Deasserted
+15e,04/29/2014,09:39:48,Power Supply #0x51,Power Supply AC lost,Asserted
+15f,04/29/2014,09:39:49,Power Unit #0x02,Redundancy Lost
+160,04/29/2014,09:39:49,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+161,04/29/2014,09:40:03,System Event #0x83,Timestamp Clock Sync,Asserted
+162,04/29/2014,09:40:04,System Event #0x83,Timestamp Clock Sync,Asserted
+163,04/29/2014,09:43:45,System Event #0x83,OEM System boot event,Asserted
+164,04/29/2014,09:51:14,Power Unit #0x02,Redundancy Lost
+165,04/29/2014,09:51:14,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+166,04/29/2014,09:51:14,Power Supply #0x51,Power Supply AC lost,Deasserted
+167,04/29/2014,09:51:14,Power Supply #0x51,Power Supply AC lost,Asserted
+168,04/29/2014,09:51:16,Power Unit #0x02,Redundancy Lost
+169,04/29/2014,09:51:16,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+16a,04/29/2014,09:51:32,System Event #0x83,Timestamp Clock Sync,Asserted
+16b,04/29/2014,09:51:32,System Event #0x83,Timestamp Clock Sync,Asserted
+16c,04/29/2014,09:52:20,System Event #0x83,OEM System boot event,Asserted
+16d,04/29/2014,10:35:24,Power Unit #0x02,Redundancy Lost
+16e,04/29/2014,10:35:24,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+16f,04/29/2014,10:35:24,Power Supply #0x51,Power Supply AC lost,Deasserted
+170,04/29/2014,10:35:24,Power Supply #0x51,Power Supply AC lost,Asserted
+171,04/29/2014,10:35:26,Power Unit #0x02,Redundancy Lost
+172,04/29/2014,10:35:26,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+173,04/29/2014,10:35:28,Button #0x09,Power Button pressed,Asserted
+174,04/29/2014,10:35:33,Power Unit #0x01,Power off/down,Asserted
+175,04/30/2014,04:23:54,Power Unit #0x01,Power off/down,Deasserted
+176,04/30/2014,04:23:54,Button #0x09,Power Button pressed,Asserted
+177,04/30/2014,04:23:58,Power Unit #0x02,Redundancy Lost
+178,04/30/2014,04:23:58,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+179,04/30/2014,04:23:58,Power Supply #0x51,Power Supply AC lost,Deasserted
+17a,04/30/2014,04:23:58,Power Supply #0x51,Power Supply AC lost,Asserted
+17b,04/30/2014,04:23:59,Power Unit #0x02,Redundancy Lost
+17c,04/30/2014,04:23:59,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+17d,04/30/2014,04:24:14,System Event #0x83,Timestamp Clock Sync,Asserted
+17e,04/30/2014,04:24:14,System Event #0x83,Timestamp Clock Sync,Asserted
+17f,04/30/2014,04:25:18,System Event #0x83,OEM System boot event,Asserted
+180,04/30/2014,05:09:55,Power Unit #0x02,Redundancy Lost
+181,04/30/2014,05:09:55,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+182,04/30/2014,05:09:55,Power Supply #0x51,Power Supply AC lost,Deasserted
+183,04/30/2014,05:09:56,Power Supply #0x51,Power Supply AC lost,Asserted
+184,04/30/2014,05:09:58,Power Unit #0x02,Redundancy Lost
+185,04/30/2014,05:09:58,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+186,04/30/2014,05:10:12,System Event #0x83,Timestamp Clock Sync,Asserted
+187,04/30/2014,05:10:12,System Event #0x83,Timestamp Clock Sync,Asserted
+188,04/30/2014,05:11:06,System Event #0x83,OEM System boot event,Asserted
+189,04/30/2014,06:35:56,Power Unit #0x02,Redundancy Lost
+18a,04/30/2014,06:35:56,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+18b,04/30/2014,06:35:56,Power Supply #0x51,Power Supply AC lost,Deasserted
+18c,04/30/2014,06:35:57,Power Supply #0x51,Power Supply AC lost,Asserted
+18d,04/30/2014,06:35:59,Power Unit #0x02,Redundancy Lost
+18e,04/30/2014,06:35:59,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+18f,04/30/2014,06:36:13,System Event #0x83,Timestamp Clock Sync,Asserted
+190,04/30/2014,06:36:13,System Event #0x83,Timestamp Clock Sync,Asserted
+191,04/30/2014,06:37:05,System Event #0x83,OEM System boot event,Asserted
+192,04/30/2014,07:07:49,Physical Security #0x04,System unplugged from LAN,Asserted
+193,04/30/2014,08:32:41,Physical Security #0x04,System unplugged from LAN,Deasserted
+194,04/30/2014,08:41:52,Power Unit #0x02,Redundancy Lost
+195,04/30/2014,08:41:52,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+196,04/30/2014,08:41:52,Power Supply #0x51,Power Supply AC lost,Deasserted
+197,04/30/2014,08:41:53,Power Supply #0x51,Power Supply AC lost,Asserted
+198,04/30/2014,08:41:55,Power Unit #0x02,Redundancy Lost
+199,04/30/2014,08:41:55,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+19a,04/30/2014,08:42:09,System Event #0x83,Timestamp Clock Sync,Asserted
+19b,04/30/2014,08:42:09,System Event #0x83,Timestamp Clock Sync,Asserted
+19c,04/30/2014,08:47:03,System Event #0x83,OEM System boot event,Asserted
+19d,04/30/2014,08:47:21,Power Unit #0x02,Redundancy Lost
+19e,04/30/2014,08:47:21,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+19f,04/30/2014,08:47:21,Power Supply #0x51,Power Supply AC lost,Deasserted
+1a0,04/30/2014,08:47:22,Power Supply #0x51,Power Supply AC lost,Asserted
+1a1,04/30/2014,08:47:24,Power Unit #0x02,Redundancy Lost
+1a2,04/30/2014,08:47:24,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1a3,04/30/2014,08:47:38,System Event #0x83,Timestamp Clock Sync,Asserted
+1a4,04/30/2014,08:47:38,System Event #0x83,Timestamp Clock Sync,Asserted
+1a5,04/30/2014,09:01:03,Power Unit #0x02,Redundancy Lost
+1a6,04/30/2014,09:01:03,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1a7,04/30/2014,09:01:03,Power Supply #0x51,Power Supply AC lost,Deasserted
+1a8,04/30/2014,09:01:03,Power Supply #0x51,Power Supply AC lost,Asserted
+1a9,04/30/2014,09:01:04,Power Unit #0x02,Redundancy Lost
+1aa,04/30/2014,09:01:04,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1ab,04/30/2014,09:01:20,System Event #0x83,Timestamp Clock Sync,Asserted
+1ac,04/30/2014,09:01:20,System Event #0x83,Timestamp Clock Sync,Asserted
+1ad,04/30/2014,09:06:32,System Event #0x83,OEM System boot event,Asserted
+1ae,04/30/2014,09:06:53,Power Unit #0x02,Redundancy Lost
+1af,04/30/2014,09:06:53,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1b0,04/30/2014,09:06:53,Power Supply #0x51,Power Supply AC lost,Deasserted
+1b1,04/30/2014,09:06:53,Power Supply #0x51,Power Supply AC lost,Asserted
+1b2,04/30/2014,09:06:55,Power Unit #0x02,Redundancy Lost
+1b3,04/30/2014,09:06:55,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1b4,04/30/2014,09:07:10,System Event #0x83,Timestamp Clock Sync,Asserted
+1b5,04/30/2014,09:07:11,System Event #0x83,Timestamp Clock Sync,Asserted
+1b6,04/30/2014,09:08:01,Power Unit #0x02,Redundancy Lost
+1b7,04/30/2014,09:08:01,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1b8,04/30/2014,09:08:01,Power Supply #0x51,Power Supply AC lost,Deasserted
+1b9,04/30/2014,09:08:02,Power Supply #0x51,Power Supply AC lost,Asserted
+1ba,04/30/2014,09:08:04,Power Unit #0x02,Redundancy Lost
+1bb,04/30/2014,09:08:04,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1bc,04/30/2014,09:08:18,System Event #0x83,Timestamp Clock Sync,Asserted
+1bd,04/30/2014,09:08:18,System Event #0x83,Timestamp Clock Sync,Asserted
+1be,04/30/2014,09:10:01,Power Unit #0x02,Redundancy Lost
+1bf,04/30/2014,09:10:01,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1c0,04/30/2014,09:10:01,Power Supply #0x51,Power Supply AC lost,Deasserted
+1c1,04/30/2014,09:10:01,Power Supply #0x51,Power Supply AC lost,Asserted
+1c2,04/30/2014,09:10:02,Power Unit #0x02,Redundancy Lost
+1c3,04/30/2014,09:10:02,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1c4,04/30/2014,09:10:19,System Event #0x83,Timestamp Clock Sync,Asserted
+1c5,04/30/2014,09:10:19,System Event #0x83,Timestamp Clock Sync,Asserted
+1c6,04/30/2014,09:11:46,Power Unit #0x02,Redundancy Lost
+1c7,04/30/2014,09:11:46,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1c8,04/30/2014,09:11:46,Power Supply #0x51,Power Supply AC lost,Deasserted
+1c9,04/30/2014,09:11:47,Power Supply #0x51,Power Supply AC lost,Asserted
+1ca,04/30/2014,09:11:49,Power Unit #0x02,Redundancy Lost
+1cb,04/30/2014,09:11:49,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1cc,04/30/2014,09:12:04,System Event #0x83,Timestamp Clock Sync,Asserted
+1cd,04/30/2014,09:12:05,System Event #0x83,Timestamp Clock Sync,Asserted
+1ce,04/30/2014,09:13:18,Power Unit #0x02,Redundancy Lost
+1cf,04/30/2014,09:13:18,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1d0,04/30/2014,09:13:18,Power Supply #0x51,Power Supply AC lost,Deasserted
+1d1,04/30/2014,09:13:18,Power Supply #0x51,Power Supply AC lost,Asserted
+1d2,04/30/2014,09:13:20,Power Unit #0x02,Redundancy Lost
+1d3,04/30/2014,09:13:20,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1d4,04/30/2014,09:13:35,System Event #0x83,Timestamp Clock Sync,Asserted
+1d5,04/30/2014,09:13:36,System Event #0x83,Timestamp Clock Sync,Asserted
+1d6,04/30/2014,09:14:35,System Event #0x83,OEM System boot event,Asserted
+1d7,04/30/2014,09:16:52,Power Unit #0x02,Redundancy Lost
+1d8,04/30/2014,09:16:52,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1d9,04/30/2014,09:16:52,Power Supply #0x51,Power Supply AC lost,Deasserted
+1da,04/30/2014,09:16:52,Power Supply #0x51,Power Supply AC lost,Asserted
+1db,04/30/2014,09:16:53,Power Unit #0x02,Redundancy Lost
+1dc,04/30/2014,09:16:53,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1dd,04/30/2014,09:17:08,System Event #0x83,Timestamp Clock Sync,Asserted
+1de,04/30/2014,09:17:08,System Event #0x83,Timestamp Clock Sync,Asserted
+1df,04/30/2014,09:18:10,System Event #0x83,OEM System boot event,Asserted
+1e0,04/30/2014,09:32:54,Power Unit #0x02,Redundancy Lost
+1e1,04/30/2014,09:32:54,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1e2,04/30/2014,09:32:54,Power Supply #0x51,Power Supply AC lost,Deasserted
+1e3,04/30/2014,09:32:54,Power Supply #0x51,Power Supply AC lost,Asserted
+1e4,04/30/2014,09:32:56,Power Unit #0x02,Redundancy Lost
+1e5,04/30/2014,09:32:56,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1e6,04/30/2014,09:33:11,System Event #0x83,Timestamp Clock Sync,Asserted
+1e7,04/30/2014,09:33:11,System Event #0x83,Timestamp Clock Sync,Asserted
+1e8,04/30/2014,09:34:14,System Event #0x83,OEM System boot event,Asserted
+1e9,04/30/2014,09:35:43,Power Unit #0x02,Redundancy Lost
+1ea,04/30/2014,09:35:43,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1eb,04/30/2014,09:35:43,Power Supply #0x51,Power Supply AC lost,Deasserted
+1ec,04/30/2014,09:35:44,Power Supply #0x51,Power Supply AC lost,Asserted
+1ed,04/30/2014,09:35:46,Power Unit #0x02,Redundancy Lost
+1ee,04/30/2014,09:35:46,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1ef,04/30/2014,09:36:00,System Event #0x83,Timestamp Clock Sync,Asserted
+1f0,04/30/2014,09:36:01,System Event #0x83,Timestamp Clock Sync,Asserted
+1f1,04/30/2014,09:37:02,System Event #0x83,OEM System boot event,Asserted
+1f2,04/30/2014,09:39:57,Power Unit #0x02,Redundancy Lost
+1f3,04/30/2014,09:39:57,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1f4,04/30/2014,09:39:57,Power Supply #0x51,Power Supply AC lost,Deasserted
+1f5,04/30/2014,09:39:58,Power Supply #0x51,Power Supply AC lost,Asserted
+1f6,04/30/2014,09:40:00,Power Unit #0x02,Redundancy Lost
+1f7,04/30/2014,09:40:00,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1f8,04/30/2014,09:40:14,System Event #0x83,Timestamp Clock Sync,Asserted
+1f9,04/30/2014,09:40:14,System Event #0x83,Timestamp Clock Sync,Asserted
+1fa,04/30/2014,09:41:13,System Event #0x83,OEM System boot event,Asserted
+1fb,05/01/2014,06:14:26,Power Unit #0x02,Redundancy Lost
+1fc,05/01/2014,06:14:26,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+1fd,05/01/2014,06:14:26,Power Supply #0x51,Power Supply AC lost,Deasserted
+1fe,05/01/2014,06:14:27,Power Supply #0x51,Power Supply AC lost,Asserted
+1ff,05/01/2014,06:14:29,Power Unit #0x02,Redundancy Lost
+200,05/01/2014,06:14:29,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+201,05/01/2014,06:14:43,System Event #0x83,Timestamp Clock Sync,Asserted
+202,05/01/2014,06:14:43,System Event #0x83,Timestamp Clock Sync,Asserted
+203,05/01/2014,06:16:32,System Event #0x83,OEM System boot event,Asserted
+204,05/01/2014,06:16:55,Power Unit #0x02,Redundancy Lost
+205,05/01/2014,06:16:55,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+206,05/01/2014,06:16:55,Power Supply #0x51,Power Supply AC lost,Deasserted
+207,05/01/2014,06:16:56,Power Supply #0x51,Power Supply AC lost,Asserted
+208,05/01/2014,06:16:58,Power Unit #0x02,Redundancy Lost
+209,05/01/2014,06:16:58,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+20a,05/01/2014,06:17:12,System Event #0x83,Timestamp Clock Sync,Asserted
+20b,05/01/2014,06:17:13,System Event #0x83,Timestamp Clock Sync,Asserted
+20c,05/01/2014,06:33:11,Power Unit #0x02,Redundancy Lost
+20d,05/01/2014,06:33:11,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+20e,05/01/2014,06:33:11,Power Supply #0x51,Power Supply AC lost,Deasserted
+20f,05/01/2014,06:33:11,Power Supply #0x51,Power Supply AC lost,Asserted
+210,05/01/2014,06:33:13,Power Unit #0x02,Redundancy Lost
+211,05/01/2014,06:33:13,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+212,05/01/2014,06:33:29,System Event #0x83,Timestamp Clock Sync,Asserted
+213,05/01/2014,06:33:29,System Event #0x83,Timestamp Clock Sync,Asserted
+214,05/01/2014,06:34:47,Power Unit #0x02,Redundancy Lost
+215,05/01/2014,06:34:47,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+216,05/01/2014,06:34:47,Power Supply #0x51,Power Supply AC lost,Deasserted
+217,05/01/2014,06:34:47,Power Supply #0x51,Power Supply AC lost,Asserted
+218,05/01/2014,06:34:49,Power Unit #0x02,Redundancy Lost
+219,05/01/2014,06:34:49,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+21a,05/01/2014,06:35:04,System Event #0x83,Timestamp Clock Sync,Asserted
+21b,05/01/2014,06:35:04,System Event #0x83,Timestamp Clock Sync,Asserted
+21c,05/01/2014,06:36:03,System Event #0x83,OEM System boot event,Asserted
+21d,05/05/2014,03:55:56,Power Unit #0x01,Failure detected,Asserted
+21e,05/05/2014,03:55:57,Power Unit #0x01,Power off/down,Asserted
+21f,05/05/2014,03:55:57,Power Supply #0x50,Power Supply AC lost,Asserted
+220,05/05/2014,03:55:58,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+221,05/05/2014,03:55:58,Power Unit #0x02,Non-Redundant: Insufficient Resources
+222,05/05/2014,03:56:01,Power Unit #0x01,Power off/down,Deasserted
+223,05/05/2014,04:16:02,Power Unit #0x01,AC lost,Asserted
+224,05/05/2014,04:16:03,Voltage #0xea,Lower Critical going low 
+225,05/05/2014,04:16:03,Power Unit #0x01,AC lost,Deasserted
+226,05/05/2014,04:16:08,Power Supply #0x51,Power Supply AC lost,Asserted
+227,05/05/2014,04:16:08,Power Unit #0x02,Fully Redundant
+228,05/05/2014,04:16:08,Power Unit #0x02,Redundancy Lost
+229,05/05/2014,04:16:08,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+22a,05/05/2014,04:16:21,System Event #0x83,Timestamp Clock Sync,Asserted
+22b,05/05/2014,04:16:21,System Event #0x83,Timestamp Clock Sync,Asserted
+22c,05/05/2014,09:05:45,Physical Security #0x04,System unplugged from LAN,Asserted
+22d,05/05/2014,09:07:52,Power Unit #0x01,Failure detected,Asserted
+22e,05/05/2014,09:07:53,Power Unit #0x01,Power off/down,Asserted
+22f,05/05/2014,09:07:53,Power Supply #0x50,Power Supply AC lost,Asserted
+230,05/05/2014,09:07:54,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+231,05/05/2014,09:07:54,Power Unit #0x02,Non-Redundant: Insufficient Resources
+232,05/05/2014,09:07:57,Power Unit #0x01,Power off/down,Deasserted
+233,05/05/2014,09:09:19,Power Unit #0x01,AC lost,Asserted
+234,05/05/2014,09:09:19,Voltage #0xea,Lower Critical going low 
+235,05/05/2014,09:09:20,Power Unit #0x01,AC lost,Deasserted
+236,05/05/2014,09:09:23,Power Supply #0x51,Power Supply AC lost,Asserted
+237,05/05/2014,09:09:24,Power Unit #0x02,Fully Redundant
+238,05/05/2014,09:09:24,Power Unit #0x02,Redundancy Lost
+239,05/05/2014,09:09:24,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+23a,05/05/2014,09:09:34,System Event #0x83,Timestamp Clock Sync,Asserted
+23b,05/05/2014,09:09:34,System Event #0x83,Timestamp Clock Sync,Asserted
+23c,05/05/2014,09:12:28,Power Unit #0x01,Failure detected,Asserted
+23d,05/05/2014,09:12:29,Power Unit #0x01,Power off/down,Asserted
+23e,05/05/2014,09:12:29,Power Supply #0x50,Power Supply AC lost,Asserted
+23f,05/05/2014,09:12:30,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+240,05/05/2014,09:12:30,Power Unit #0x02,Non-Redundant: Insufficient Resources
+241,05/05/2014,09:12:34,Power Unit #0x01,Power off/down,Deasserted
+242,05/05/2014,09:14:13,Power Unit #0x01,AC lost,Asserted
+243,05/05/2014,09:14:13,Voltage #0xea,Lower Critical going low 
+244,05/05/2014,09:14:14,Power Unit #0x01,AC lost,Deasserted
+245,05/05/2014,09:14:16,Voltage #0xea,Lower Critical going low 
+246,05/05/2014,09:14:16,Voltage #0xea,Lower Critical going low 
+247,05/05/2014,09:14:18,Power Supply #0x51,Power Supply AC lost,Asserted
+248,05/05/2014,09:14:19,Power Unit #0x02,Fully Redundant
+249,05/05/2014,09:14:19,Power Unit #0x02,Redundancy Lost
+24a,05/05/2014,09:14:19,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+24b,05/05/2014,09:14:32,System Event #0x83,Timestamp Clock Sync,Asserted
+24c,05/05/2014,09:14:32,System Event #0x83,Timestamp Clock Sync,Asserted
+24d,05/05/2014,09:15:54,Physical Security #0x04,System unplugged from LAN,Asserted
+24e,05/05/2014,09:16:05,Power Unit #0x01,Failure detected,Asserted
+24f,05/05/2014,09:16:06,Power Unit #0x01,Power off/down,Asserted
+250,05/05/2014,09:16:06,Power Supply #0x50,Power Supply AC lost,Asserted
+251,05/05/2014,09:16:07,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+252,05/05/2014,09:16:07,Power Unit #0x02,Non-Redundant: Insufficient Resources
+253,05/05/2014,09:16:11,Power Unit #0x01,Power off/down,Deasserted
+254,05/07/2014,03:33:17,Power Unit #0x01,AC lost,Asserted
+255,05/07/2014,03:33:18,Power Unit #0x01,AC lost,Deasserted
+256,05/07/2014,03:33:21,Power Supply #0x51,Power Supply AC lost,Asserted
+257,05/07/2014,03:33:22,Power Unit #0x02,Fully Redundant
+258,05/07/2014,03:33:22,Power Unit #0x02,Redundancy Lost
+259,05/07/2014,03:33:22,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+25a,05/07/2014,03:33:33,System Event #0x83,Timestamp Clock Sync,Asserted
+25b,05/07/2014,03:33:33,System Event #0x83,Timestamp Clock Sync,Asserted
+25c,05/07/2014,03:34:32,System Event #0x83,OEM System boot event,Asserted
+25d,05/07/2014,03:35:07,Power Unit #0x02,Redundancy Lost
+25e,05/07/2014,03:35:07,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+25f,05/07/2014,03:35:07,Power Supply #0x51,Power Supply AC lost,Deasserted
+260,05/07/2014,03:35:07,Button #0x09,Reset Button pressed,Asserted
+261,05/07/2014,03:35:07,Power Supply #0x51,Power Supply AC lost,Asserted
+262,05/07/2014,03:35:09,Power Unit #0x02,Redundancy Lost
+263,05/07/2014,03:35:09,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+264,05/07/2014,03:35:24,System Event #0x83,Timestamp Clock Sync,Asserted
+265,05/07/2014,03:35:24,System Event #0x83,Timestamp Clock Sync,Asserted
+266,05/07/2014,03:36:23,System Event #0x83,OEM System boot event,Asserted
+267,05/07/2014,03:44:12,Power Unit #0x02,Redundancy Lost
+268,05/07/2014,03:44:12,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+269,05/07/2014,03:44:12,Power Supply #0x51,Power Supply AC lost,Deasserted
+26a,05/07/2014,03:44:12,Button #0x09,Reset Button pressed,Asserted
+26b,05/07/2014,03:44:12,Power Supply #0x51,Power Supply AC lost,Asserted
+26c,05/07/2014,03:44:14,Power Unit #0x02,Redundancy Lost
+26d,05/07/2014,03:44:14,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+26e,05/07/2014,03:44:30,System Event #0x83,Timestamp Clock Sync,Asserted
+26f,05/07/2014,03:44:30,System Event #0x83,Timestamp Clock Sync,Asserted
+270,05/07/2014,03:45:28,System Event #0x83,OEM System boot event,Asserted
+271,05/07/2014,03:46:30,Power Unit #0x02,Redundancy Lost
+272,05/07/2014,03:46:30,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+273,05/07/2014,03:46:30,Power Supply #0x51,Power Supply AC lost,Deasserted
+274,05/07/2014,03:46:30,Power Supply #0x51,Power Supply AC lost,Asserted
+275,05/07/2014,03:46:32,Power Unit #0x02,Redundancy Lost
+276,05/07/2014,03:46:32,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+277,05/07/2014,03:46:48,System Event #0x83,Timestamp Clock Sync,Asserted
+278,05/07/2014,03:46:48,System Event #0x83,Timestamp Clock Sync,Asserted
+279,05/07/2014,03:47:46,System Event #0x83,OEM System boot event,Asserted
+27a,05/07/2014,03:48:39,Power Unit #0x02,Redundancy Lost
+27b,05/07/2014,03:48:39,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+27c,05/07/2014,03:48:39,Power Supply #0x51,Power Supply AC lost,Deasserted
+27d,05/07/2014,03:48:39,Button #0x09,Reset Button pressed,Asserted
+27e,05/07/2014,03:48:39,Power Supply #0x51,Power Supply AC lost,Asserted
+27f,05/07/2014,03:48:40,Power Supply #0x51,Power Supply AC lost,Deasserted
+280,05/07/2014,03:48:41,Button #0x09,Reset Button pressed,Asserted
+281,05/07/2014,03:48:41,Power Supply #0x51,Power Supply AC lost,Asserted
+282,05/07/2014,03:48:43,Power Unit #0x02,Redundancy Lost
+283,05/07/2014,03:48:43,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+284,05/07/2014,03:48:57,System Event #0x83,Timestamp Clock Sync,Asserted
+285,05/07/2014,03:48:57,System Event #0x83,Timestamp Clock Sync,Asserted
+286,05/07/2014,03:49:56,System Event #0x83,OEM System boot event,Asserted
+287,05/07/2014,03:50:29,Physical Security #0x04,System unplugged from LAN,Asserted
+288,05/07/2014,03:51:16,Physical Security #0x04,System unplugged from LAN,Deasserted
+289,05/07/2014,03:51:30,Power Unit #0x02,Redundancy Lost
+28a,05/07/2014,03:51:30,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+28b,05/07/2014,03:51:30,Power Supply #0x51,Power Supply AC lost,Deasserted
+28c,05/07/2014,03:51:30,Button #0x09,Reset Button pressed,Asserted
+28d,05/07/2014,03:51:31,Power Supply #0x51,Power Supply AC lost,Asserted
+28e,05/07/2014,03:51:32,Power Unit #0x02,Redundancy Lost
+28f,05/07/2014,03:51:32,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+290,05/07/2014,03:51:46,System Event #0x83,Timestamp Clock Sync,Asserted
+291,05/07/2014,03:51:46,System Event #0x83,Timestamp Clock Sync,Asserted
+292,05/07/2014,03:52:46,System Event #0x83,OEM System boot event,Asserted
+293,05/07/2014,03:54:26,Button #0x09,Reset Button pressed,Asserted
+294,05/07/2014,03:54:28,Power Unit #0x02,Redundancy Lost
+295,05/07/2014,03:54:28,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+296,05/07/2014,03:54:28,Power Supply #0x51,Power Supply AC lost,Deasserted
+297,05/07/2014,03:54:28,Power Supply #0x51,Power Supply AC lost,Asserted
+298,05/07/2014,03:54:30,Power Unit #0x02,Redundancy Lost
+299,05/07/2014,03:54:30,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+29a,05/07/2014,03:54:34,Button #0x09,Power Button pressed,Asserted
+29b,05/07/2014,03:54:42,Button #0x09,Power Button pressed,Asserted
+29c,05/07/2014,03:54:44,System Event #0x83,Timestamp Clock Sync,Asserted
+29d,05/07/2014,03:54:45,System Event #0x83,Timestamp Clock Sync,Asserted
+29e,05/07/2014,03:54:46,Power Unit #0x01,Power off/down,Asserted
+29f,05/07/2014,03:54:55,Power Supply #0x50,Power Supply AC lost,Asserted
+2a0,05/07/2014,03:54:56,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2a1,05/07/2014,03:54:56,Power Unit #0x02,Non-Redundant: Insufficient Resources
+2a2,05/07/2014,04:10:47,Power Supply #0x51,Power Supply AC lost,Asserted
+2a3,05/07/2014,04:10:48,Power Unit #0x02,Fully Redundant
+2a4,05/07/2014,04:10:48,Power Unit #0x02,Redundancy Lost
+2a5,05/07/2014,04:10:48,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2a6,05/07/2014,04:10:58,System Event #0x83,Timestamp Clock Sync,Asserted
+2a7,05/07/2014,04:10:58,System Event #0x83,Timestamp Clock Sync,Asserted
+2a8,05/07/2014,04:16:52,Power Unit #0x01,Power off/down,Asserted
+2a9,05/07/2014,04:16:58,Power Unit #0x01,Power off/down,Deasserted
+2aa,05/07/2014,04:17:01,Power Unit #0x02,Redundancy Lost
+2ab,05/07/2014,04:17:01,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2ac,05/07/2014,04:17:01,Power Supply #0x51,Power Supply AC lost,Deasserted
+2ad,05/07/2014,04:17:02,Button #0x09,Power Button pressed,Asserted
+2ae,05/07/2014,04:17:02,Power Supply #0x51,Power Supply AC lost,Asserted
+2af,05/07/2014,04:17:03,Power Unit #0x02,Redundancy Lost
+2b0,05/07/2014,04:17:03,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2b1,05/07/2014,04:17:07,Power Unit #0x01,Power off/down,Asserted
+2b2,05/07/2014,04:17:28,Power Unit #0x01,Power off/down,Deasserted
+2b3,05/07/2014,04:17:28,Button #0x09,Power Button pressed,Asserted
+2b4,05/07/2014,04:17:31,Power Unit #0x02,Redundancy Lost
+2b5,05/07/2014,04:17:31,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2b6,05/07/2014,04:17:31,Power Supply #0x51,Power Supply AC lost,Deasserted
+2b7,05/07/2014,04:17:32,Button #0x09,Power Button pressed,Asserted
+2b8,05/07/2014,04:17:32,Power Supply #0x51,Power Supply AC lost,Asserted
+2b9,05/07/2014,04:17:33,Power Unit #0x02,Redundancy Lost
+2ba,05/07/2014,04:17:33,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2bb,05/07/2014,04:17:47,System Event #0x83,Timestamp Clock Sync,Asserted
+2bc,05/07/2014,04:17:47,System Event #0x83,Timestamp Clock Sync,Asserted
+2bd,05/07/2014,04:21:12,Power Unit #0x01,Power off/down,Asserted
+2be,05/07/2014,04:21:18,Power Unit #0x01,Power off/down,Deasserted
+2bf,05/07/2014,04:21:21,Power Unit #0x02,Redundancy Lost
+2c0,05/07/2014,04:21:21,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2c1,05/07/2014,04:21:21,Power Supply #0x51,Power Supply AC lost,Deasserted
+2c2,05/07/2014,04:21:21,Power Supply #0x51,Power Supply AC lost,Asserted
+2c3,05/07/2014,04:21:22,Power Unit #0x02,Redundancy Lost
+2c4,05/07/2014,04:21:22,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2c5,05/07/2014,04:21:37,System Event #0x83,Timestamp Clock Sync,Asserted
+2c6,05/07/2014,04:21:38,System Event #0x83,Timestamp Clock Sync,Asserted
+2c7,05/07/2014,04:23:30,Power Unit #0x02,Redundancy Lost
+2c8,05/07/2014,04:23:30,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2c9,05/07/2014,04:23:30,Power Supply #0x51,Power Supply AC lost,Deasserted
+2ca,05/07/2014,04:23:30,Power Supply #0x51,Power Supply AC lost,Asserted
+2cb,05/07/2014,04:23:31,Power Unit #0x02,Redundancy Lost
+2cc,05/07/2014,04:23:31,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2cd,05/07/2014,04:23:47,System Event #0x83,Timestamp Clock Sync,Asserted
+2ce,05/07/2014,04:23:47,System Event #0x83,Timestamp Clock Sync,Asserted
+2cf,05/07/2014,04:23:49,Button #0x09,Power Button pressed,Asserted
+2d0,05/07/2014,04:23:50,System Event #0x83,Timestamp Clock Sync,Asserted
+2d1,05/07/2014,04:23:51,System Event #0x83,Timestamp Clock Sync,Asserted
+2d2,05/07/2014,04:23:51,Power Unit #0x01,Power off/down,Asserted
+2d3,05/07/2014,04:26:50,Power Supply #0x50,Power Supply AC lost,Asserted
+2d4,05/07/2014,04:26:51,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2d5,05/07/2014,04:26:51,Power Unit #0x02,Non-Redundant: Insufficient Resources
+2d6,05/07/2014,04:30:56,Power Unit #0x01,Power off/down,Asserted
+2d7,05/07/2014,04:31:00,Power Supply #0x51,Power Supply AC lost,Asserted
+2d8,05/07/2014,04:31:01,Power Unit #0x02,Fully Redundant
+2d9,05/07/2014,04:31:01,Power Unit #0x02,Redundancy Lost
+2da,05/07/2014,04:31:01,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2db,05/07/2014,10:30:29,Power Unit #0x01,Power off/down,Deasserted
+2dc,05/07/2014,10:30:29,Button #0x09,Power Button pressed,Asserted
+2dd,05/07/2014,10:30:32,Power Unit #0x02,Redundancy Lost
+2de,05/07/2014,10:30:32,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2df,05/07/2014,10:30:32,Power Supply #0x51,Power Supply AC lost,Deasserted
+2e0,05/07/2014,10:30:33,Power Supply #0x51,Power Supply AC lost,Asserted
+2e1,05/07/2014,10:30:34,Power Unit #0x02,Redundancy Lost
+2e2,05/07/2014,10:30:34,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2e3,05/07/2014,10:30:48,System Event #0x83,Timestamp Clock Sync,Asserted
+2e4,05/07/2014,10:30:48,System Event #0x83,Timestamp Clock Sync,Asserted
+2e5,05/08/2014,03:47:17,Power Unit #0x01,Power off/down,Asserted
+2e6,05/08/2014,03:47:22,Power Unit #0x01,Power off/down,Deasserted
+2e7,05/08/2014,03:47:26,Power Unit #0x02,Redundancy Lost
+2e8,05/08/2014,03:47:26,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2e9,05/08/2014,03:47:26,Power Supply #0x51,Power Supply AC lost,Deasserted
+2ea,05/08/2014,03:47:27,Power Supply #0x51,Power Supply AC lost,Asserted
+2eb,05/08/2014,03:47:28,Power Unit #0x02,Redundancy Lost
+2ec,05/08/2014,03:47:28,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2ed,05/08/2014,03:47:41,System Event #0x83,Timestamp Clock Sync,Asserted
+2ee,05/08/2014,03:47:43,System Event #0x83,Timestamp Clock Sync,Asserted
+2ef,05/08/2014,03:49:07,Power Unit #0x02,Redundancy Lost
+2f0,05/08/2014,03:49:07,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2f1,05/08/2014,03:49:07,Power Supply #0x51,Power Supply AC lost,Deasserted
+2f2,05/08/2014,03:49:08,Power Supply #0x51,Power Supply AC lost,Asserted
+2f3,05/08/2014,03:49:10,Power Unit #0x02,Redundancy Lost
+2f4,05/08/2014,03:49:10,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2f5,05/08/2014,03:49:24,System Event #0x83,Timestamp Clock Sync,Asserted
+2f6,05/08/2014,03:49:25,System Event #0x83,Timestamp Clock Sync,Asserted
+2f7,05/08/2014,03:54:53,System Event #0x83,OEM System boot event,Asserted
+2f8,05/08/2014,03:55:16,Power Unit #0x02,Redundancy Lost
+2f9,05/08/2014,03:55:16,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2fa,05/08/2014,03:55:16,Power Supply #0x51,Power Supply AC lost,Deasserted
+2fb,05/08/2014,03:55:17,Power Supply #0x51,Power Supply AC lost,Asserted
+2fc,05/08/2014,03:55:19,Power Unit #0x02,Redundancy Lost
+2fd,05/08/2014,03:55:19,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+2fe,05/08/2014,03:55:32,System Event #0x83,Timestamp Clock Sync,Asserted
+2ff,05/08/2014,03:55:32,System Event #0x83,Timestamp Clock Sync,Asserted
+300,05/08/2014,08:50:39,System Event #0x83,Timestamp Clock Sync,Asserted
+301,05/08/2014,08:50:39,System Event #0x83,Timestamp Clock Sync,Asserted
+302,05/08/2014,08:50:41,Power Unit #0x01,Power off/down,Asserted
+303,05/08/2014,08:50:41,Button #0x09,Power Button pressed,Asserted
+304,05/13/2014,06:28:20,Power Supply #0x50,Power Supply AC lost,Asserted
+305,05/13/2014,06:28:21,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+306,05/13/2014,06:28:21,Power Unit #0x02,Non-Redundant: Insufficient Resources
+307,05/15/2014,04:58:30,Power Unit #0x01,Power off/down,Asserted
+308,05/15/2014,04:58:34,Power Supply #0x51,Power Supply AC lost,Asserted
+309,05/15/2014,04:58:35,Power Unit #0x02,Fully Redundant
+30a,05/15/2014,04:58:35,Power Unit #0x02,Redundancy Lost
+30b,05/15/2014,04:58:35,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+30c,05/15/2014,04:58:35,Power Supply #0x51,Power Supply AC lost,Deasserted
+30d,05/15/2014,04:58:36,Power Unit #0x02,Redundancy Lost
+30e,05/15/2014,04:58:36,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+30f,05/15/2014,04:58:37,Power Unit #0x02,Fully Redundant
+310,05/15/2014,04:59:08,Power Unit #0x01,Power off/down,Deasserted
+311,05/15/2014,04:59:08,Button #0x09,Power Button pressed,Asserted
+312,05/15/2014,04:59:26,System Event #0x83,Timestamp Clock Sync,Asserted
+313,05/15/2014,04:59:26,System Event #0x83,Timestamp Clock Sync,Asserted
+314,05/15/2014,05:00:53,System Event #0x83,OEM System boot event,Asserted
+315,05/15/2014,05:02:00,Version Change #0x12,
+316,05/15/2014,05:04:59,Version Change #0x12,
+317,05/15/2014,05:05:59,Version Change #0x12,
+318,05/15/2014,05:07:20,Version Change #0x12,
+319,05/15/2014,05:07:31,Version Change #0x12,
+31a,05/15/2014,05:07:39,Unknown #0x17,
+31b,05/15/2014,05:07:39,Unknown #0x17,
+31c,05/15/2014,05:07:41,Unknown #0x17,
+31d,05/15/2014,05:08:09,Version Change #0x12,
+31e,05/15/2014,05:58:54,Power Unit #0x01,Power off/down,Asserted
+31f,05/15/2014,05:58:59,Power Unit #0x01,Power off/down,Deasserted
+320,05/15/2014,05:59:05,Power Unit #0x01,Failure detected,Asserted
+321,05/15/2014,05:59:05,Power Unit #0x01,Failure detected,Deasserted
+322,05/15/2014,05:59:05,Power Unit #0x01,Power off/down,Asserted
+323,05/15/2014,05:59:05,Power Unit #0x01,Failure detected,Asserted
+324,05/15/2014,05:59:05,Power Supply #0x50,Power Supply AC lost,Asserted
+325,05/15/2014,05:59:05,Power Supply #0x51,Power Supply AC lost,Asserted
+326,05/15/2014,05:59:06,Power Unit #0x01,Power off/down,Deasserted
+327,05/15/2014,05:59:06,Power Unit #0x02,Redundancy Lost
+328,05/15/2014,05:59:06,Power Unit #0x02,Non-Redundant: Insufficient Resources
+329,05/15/2014,05:59:44,Power Unit #0x01,AC lost,Asserted
+32a,05/15/2014,05:59:45,Power Unit #0x01,AC lost,Deasserted
+32b,05/15/2014,06:00:02,System Event #0x83,Timestamp Clock Sync,Asserted
+32c,05/15/2014,06:00:03,System Event #0x83,Timestamp Clock Sync,Asserted
+32d,05/15/2014,06:02:51,System Event #0x83,Timestamp Clock Sync,Asserted
+32e,05/15/2014,06:02:51,System Event #0x83,Timestamp Clock Sync,Asserted
+32f,05/15/2014,06:04:12,System Event #0x83,Timestamp Clock Sync,Asserted
+330,05/15/2014,06:04:13,System Event #0x83,Timestamp Clock Sync,Asserted
+331,05/15/2014,06:05:20,System Event #0x83,OEM System boot event,Asserted
+332,05/15/2014,06:19:34,System Event #0x83,Timestamp Clock Sync,Asserted
+333,05/15/2014,06:19:34,System Event #0x83,Timestamp Clock Sync,Asserted
+334,05/15/2014,06:21:33,System Event #0x83,OEM System boot event,Asserted
+335,05/15/2014,09:04:38,System Event #0x83,Timestamp Clock Sync,Asserted
+336,05/15/2014,09:04:39,System Event #0x83,Timestamp Clock Sync,Asserted
+337,05/15/2014,09:05:46,System Event #0x83,OEM System boot event,Asserted
+338,05/15/2014,09:15:20,Power Supply #0x50,Power Supply AC lost,Asserted
+339,05/15/2014,09:15:21,Power Unit #0x01,Failure detected,Asserted
+33a,05/15/2014,09:15:21,Power Unit #0x01,Power off/down,Asserted
+33b,05/15/2014,09:15:21,Power Unit #0x02,Fully Redundant
+33c,05/15/2014,09:15:21,Power Unit #0x02,Redundancy Lost
+33d,05/15/2014,09:15:21,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+33e,05/15/2014,09:15:21,Power Supply #0x51,Power Supply AC lost,Asserted
+33f,05/15/2014,09:15:22,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+340,05/15/2014,09:15:22,Power Unit #0x02,Non-Redundant: Insufficient Resources
+341,05/15/2014,09:15:26,Power Unit #0x01,Power off/down,Deasserted
+342,05/15/2014,09:18:44,Power Unit #0x01,AC lost,Asserted
+343,05/15/2014,09:18:45,Power Unit #0x01,AC lost,Deasserted
+344,05/15/2014,09:18:50,Power Supply #0x51,Power Supply AC lost,Asserted
+345,05/15/2014,09:18:50,Power Unit #0x02,Fully Redundant
+346,05/15/2014,09:18:50,Power Unit #0x02,Redundancy Lost
+347,05/15/2014,09:18:50,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+348,05/15/2014,09:18:58,System Event #0x83,Timestamp Clock Sync,Asserted
+349,05/15/2014,09:18:58,System Event #0x83,Timestamp Clock Sync,Asserted
+34a,05/15/2014,09:20:14,System Event #0x83,OEM System boot event,Asserted
+34b,05/15/2014,09:22:06,Power Unit #0x02,Redundancy Lost
+34c,05/15/2014,09:22:06,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+34d,05/15/2014,09:22:06,Power Supply #0x51,Power Supply AC lost,Deasserted
+34e,05/15/2014,09:22:07,Power Supply #0x51,Power Supply AC lost,Asserted
+34f,05/15/2014,09:22:08,Power Unit #0x02,Redundancy Lost
+350,05/15/2014,09:22:08,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+351,05/15/2014,09:22:21,System Event #0x83,Timestamp Clock Sync,Asserted
+352,05/15/2014,09:22:21,System Event #0x83,Timestamp Clock Sync,Asserted
+353,05/15/2014,09:23:39,Power Unit #0x02,Redundancy Lost
+354,05/15/2014,09:23:39,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+355,05/15/2014,09:23:39,Power Supply #0x51,Power Supply AC lost,Deasserted
+356,05/15/2014,09:23:40,Power Supply #0x51,Power Supply AC lost,Asserted
+357,05/15/2014,09:23:42,Power Unit #0x02,Redundancy Lost
+358,05/15/2014,09:23:42,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+359,05/15/2014,09:23:54,System Event #0x83,Timestamp Clock Sync,Asserted
+35a,05/15/2014,09:23:55,System Event #0x83,Timestamp Clock Sync,Asserted
+35b,05/15/2014,10:24:44,Power Unit #0x02,Redundancy Lost
+35c,05/15/2014,10:24:44,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+35d,05/15/2014,10:24:44,Power Supply #0x51,Power Supply AC lost,Deasserted
+35e,05/15/2014,10:24:45,Power Supply #0x51,Power Supply AC lost,Asserted
+35f,05/15/2014,10:24:45,Power Unit #0x02,Redundancy Lost
+360,05/15/2014,10:24:45,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+361,05/15/2014,10:25:00,System Event #0x83,Timestamp Clock Sync,Asserted
+362,05/15/2014,10:25:00,System Event #0x83,Timestamp Clock Sync,Asserted
+363,05/15/2014,10:26:24,System Event #0x83,OEM System boot event,Asserted
+364,05/15/2014,10:26:28,Physical Security #0x04,System unplugged from LAN,Asserted
+365,05/16/2014,05:01:52,Button #0x09,Power Button pressed,Asserted
+366,05/16/2014,05:03:02,Power Unit #0x02,Redundancy Lost
+367,05/16/2014,05:03:02,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+368,05/16/2014,05:03:02,Physical Security #0x04,System unplugged from LAN,Deasserted
+369,05/16/2014,05:03:02,Power Supply #0x51,Power Supply AC lost,Deasserted
+36a,05/16/2014,05:03:03,Physical Security #0x04,System unplugged from LAN,Asserted
+36b,05/16/2014,05:03:03,Power Supply #0x51,Power Supply AC lost,Asserted
+36c,05/16/2014,05:03:05,Power Unit #0x02,Redundancy Lost
+36d,05/16/2014,05:03:05,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+36e,05/16/2014,05:03:19,System Event #0x83,Timestamp Clock Sync,Asserted
+36f,05/16/2014,05:03:19,System Event #0x83,Timestamp Clock Sync,Asserted
+370,05/16/2014,05:04:33,System Event #0x83,OEM System boot event,Asserted
+371,05/16/2014,05:06:51,Power Unit #0x02,Redundancy Lost
+372,05/16/2014,05:06:51,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+373,05/16/2014,05:06:51,Physical Security #0x04,System unplugged from LAN,Deasserted
+374,05/16/2014,05:06:51,Power Supply #0x51,Power Supply AC lost,Deasserted
+375,05/16/2014,05:06:51,Physical Security #0x04,System unplugged from LAN,Asserted
+376,05/16/2014,05:06:51,Power Supply #0x51,Power Supply AC lost,Asserted
+377,05/16/2014,05:06:53,Power Unit #0x02,Redundancy Lost
+378,05/16/2014,05:06:53,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+379,05/16/2014,05:07:07,System Event #0x83,Timestamp Clock Sync,Asserted
+37a,05/16/2014,05:07:07,System Event #0x83,Timestamp Clock Sync,Asserted
+37b,05/16/2014,05:10:10,Power Unit #0x01,Failure detected,Asserted
+37c,05/16/2014,05:10:12,Power Unit #0x01,Power off/down,Asserted
+37d,05/16/2014,05:10:12,Power Supply #0x50,Power Supply AC lost,Asserted
+37e,05/16/2014,05:10:13,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+37f,05/16/2014,05:10:13,Power Unit #0x02,Non-Redundant: Insufficient Resources
+380,05/16/2014,05:10:54,Power Unit #0x01,AC lost,Asserted
+381,05/16/2014,05:10:55,Power Unit #0x01,AC lost,Deasserted
+382,05/16/2014,05:11:00,Power Supply #0x51,Power Supply AC lost,Asserted
+383,05/16/2014,05:11:00,Power Unit #0x02,Fully Redundant
+384,05/16/2014,05:11:00,Power Unit #0x02,Redundancy Lost
+385,05/16/2014,05:11:00,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+386,05/16/2014,05:11:11,System Event #0x83,Timestamp Clock Sync,Asserted
+387,05/16/2014,05:11:12,System Event #0x83,Timestamp Clock Sync,Asserted
+388,05/16/2014,05:12:24,System Event #0x83,OEM System boot event,Asserted
+389,05/16/2014,06:10:36,Power Unit #0x02,Redundancy Lost
+38a,05/16/2014,06:10:36,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+38b,05/16/2014,06:10:36,Power Supply #0x51,Power Supply AC lost,Deasserted
+38c,05/16/2014,06:10:36,Power Supply #0x51,Power Supply AC lost,Asserted
+38d,05/16/2014,06:10:38,Power Unit #0x02,Redundancy Lost
+38e,05/16/2014,06:10:38,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+38f,05/16/2014,06:10:52,System Event #0x83,Timestamp Clock Sync,Asserted
+390,05/16/2014,06:10:53,System Event #0x83,Timestamp Clock Sync,Asserted
+391,05/16/2014,07:04:37,System Event #0x83,Timestamp Clock Sync,Asserted
+392,05/16/2014,07:04:37,System Event #0x83,Timestamp Clock Sync,Asserted
+393,05/16/2014,07:04:38,Power Unit #0x01,Power off/down,Asserted
+394,05/16/2014,07:04:38,Button #0x09,Power Button pressed,Asserted
+395,05/16/2014,07:04:50,Power Unit #0x01,Power off/down,Deasserted
+396,05/16/2014,07:04:50,Button #0x09,Power Button pressed,Asserted
+397,05/16/2014,07:04:53,Power Unit #0x02,Redundancy Lost
+398,05/16/2014,07:04:53,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+399,05/16/2014,07:04:53,Power Supply #0x51,Power Supply AC lost,Deasserted
+39a,05/16/2014,07:04:54,Power Supply #0x51,Power Supply AC lost,Asserted
+39b,05/16/2014,07:04:55,Power Unit #0x02,Redundancy Lost
+39c,05/16/2014,07:04:55,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+39d,05/16/2014,07:05:08,System Event #0x83,Timestamp Clock Sync,Asserted
+39e,05/16/2014,07:05:09,System Event #0x83,Timestamp Clock Sync,Asserted
+39f,05/16/2014,07:06:25,System Event #0x83,OEM System boot event,Asserted
+3a0,05/16/2014,07:09:41,Power Unit #0x02,Redundancy Lost
+3a1,05/16/2014,07:09:41,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+3a2,05/16/2014,07:09:41,Power Supply #0x51,Power Supply AC lost,Deasserted
+3a3,05/16/2014,07:09:41,Power Supply #0x51,Power Supply AC lost,Asserted
+3a4,05/16/2014,07:09:43,Power Unit #0x02,Redundancy Lost
+3a5,05/16/2014,07:09:43,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+3a6,05/16/2014,07:09:57,System Event #0x83,Timestamp Clock Sync,Asserted
+3a7,05/16/2014,07:09:58,System Event #0x83,Timestamp Clock Sync,Asserted
+3a8,05/16/2014,07:11:16,System Event #0x83,OEM System boot event,Asserted
+3a9,05/16/2014,07:30:07,Power Unit #0x02,Redundancy Lost
+3aa,05/16/2014,07:30:07,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+3ab,05/16/2014,07:30:07,Power Supply #0x51,Power Supply AC lost,Deasserted
+3ac,05/16/2014,07:30:07,Power Supply #0x51,Power Supply AC lost,Asserted
+3ad,05/16/2014,07:30:09,Power Unit #0x02,Redundancy Lost
+3ae,05/16/2014,07:30:09,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+3af,05/16/2014,07:30:23,System Event #0x83,Timestamp Clock Sync,Asserted
+3b0,05/16/2014,07:30:23,System Event #0x83,Timestamp Clock Sync,Asserted
+3b1,05/16/2014,07:32:17,System Event #0x83,Timestamp Clock Sync,Asserted
+3b2,05/16/2014,07:32:18,System Event #0x83,Timestamp Clock Sync,Asserted
+3b3,05/16/2014,07:32:18,Power Unit #0x01,Power off/down,Asserted
+3b4,05/16/2014,07:32:18,Button #0x09,Power Button pressed,Asserted
+3b5,05/16/2014,07:32:22,Button #0x09,Power Button pressed,Asserted
+3b6,05/16/2014,07:32:23,Power Unit #0x01,Power off/down,Deasserted
+3b7,05/16/2014,07:32:27,Power Unit #0x02,Redundancy Lost
+3b8,05/16/2014,07:32:27,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+3b9,05/16/2014,07:32:27,Power Supply #0x51,Power Supply AC lost,Deasserted
+3ba,05/16/2014,07:32:27,Power Supply #0x51,Power Supply AC lost,Asserted
+3bb,05/16/2014,07:32:28,Power Unit #0x02,Redundancy Lost
+3bc,05/16/2014,07:32:28,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+3bd,05/16/2014,07:32:41,System Event #0x83,Timestamp Clock Sync,Asserted
+3be,05/16/2014,07:32:41,System Event #0x83,Timestamp Clock Sync,Asserted
+3bf,05/16/2014,07:36:51,System Event #0x83,Timestamp Clock Sync,Asserted
+3c0,05/16/2014,07:36:51,System Event #0x83,Timestamp Clock Sync,Asserted
+3c1,05/16/2014,07:36:52,Power Unit #0x01,Power off/down,Asserted
+3c2,05/16/2014,07:36:52,Button #0x09,Power Button pressed,Asserted
+3c3,05/16/2014,07:37:02,Power Supply #0x50,Power Supply AC lost,Asserted
+3c4,05/16/2014,07:37:03,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+3c5,05/16/2014,07:37:03,Power Unit #0x02,Non-Redundant: Insufficient Resources
+3c6,05/16/2014,07:40:17,System Event #0x83,Timestamp Clock Sync,Asserted
+3c7,05/16/2014,07:40:17,System Event #0x83,Timestamp Clock Sync,Asserted
+3c8,05/16/2014,07:40:21,Power Supply #0x50,Power Supply AC lost,Asserted
+3c9,05/16/2014,07:40:21,Power Unit #0x02,Fully Redundant
+3ca,05/16/2014,07:40:21,Power Unit #0x02,Redundancy Lost
+3cb,05/16/2014,07:40:21,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+3cc,05/16/2014,07:41:27,System Event #0x83,OEM System boot event,Asserted
+3cd,05/16/2014,08:12:14,Power Unit #0x01,Failure detected,Asserted
+3ce,05/16/2014,08:12:15,Power Unit #0x01,Power off/down,Asserted
+3cf,05/16/2014,08:12:15,Power Supply #0x51,Power Supply AC lost,Asserted
+3d0,05/16/2014,08:12:16,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+3d1,05/16/2014,08:12:16,Power Unit #0x02,Non-Redundant: Insufficient Resources
+3d2,05/19/2014,04:39:12,Power Unit #0x01,AC lost,Asserted
+3d3,05/19/2014,04:39:12,Button #0x09,Power Button pressed,Asserted
+3d4,05/19/2014,04:39:13,Power Unit #0x01,AC lost,Deasserted
+3d5,05/19/2014,04:39:17,Power Supply #0x51,Power Supply AC lost,Asserted
+3d6,05/19/2014,04:39:18,Power Unit #0x02,Fully Redundant
+3d7,05/19/2014,04:39:18,Power Unit #0x02,Redundancy Lost
+3d8,05/19/2014,04:39:18,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+3d9,05/19/2014,04:39:30,System Event #0x83,Timestamp Clock Sync,Asserted
+3da,05/19/2014,04:39:30,System Event #0x83,Timestamp Clock Sync,Asserted
+3db,05/19/2014,04:52:26,System Event #0x83,OEM System boot event,Asserted
+3dc,05/19/2014,07:15:03,Power Unit #0x02,Redundancy Lost
+3dd,05/19/2014,07:15:03,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+3de,05/19/2014,07:15:03,Power Supply #0x51,Power Supply AC lost,Deasserted
+3df,05/19/2014,07:15:03,Power Supply #0x51,Power Supply AC lost,Asserted
+3e0,05/19/2014,07:15:05,Power Unit #0x02,Redundancy Lost
+3e1,05/19/2014,07:15:05,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+3e2,05/19/2014,07:15:18,System Event #0x83,Timestamp Clock Sync,Asserted
+3e3,05/19/2014,07:15:15,System Event #0x83,Timestamp Clock Sync,Asserted
+3e4,05/19/2014,07:16:36,System Event #0x83,OEM System boot event,Asserted
+3e5,05/19/2014,09:09:05,Button #0x09,Power Button pressed,Asserted
+3e6,05/19/2014,09:09:25,Button #0x09,Power Button pressed,Asserted
+3e7,05/19/2014,09:09:53,System Event #0x83,Timestamp Clock Sync,Asserted
+3e8,05/19/2014,09:09:53,System Event #0x83,Timestamp Clock Sync,Asserted
+3e9,05/19/2014,09:09:53,Power Unit #0x01,Power off/down,Asserted
+3ea,05/19/2014,09:10:03,Power Unit #0x01,Power off/down,Deasserted
+3eb,05/19/2014,09:10:03,Button #0x09,Power Button pressed,Asserted
+3ec,05/19/2014,09:10:07,Power Unit #0x02,Redundancy Lost
+3ed,05/19/2014,09:10:07,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+3ee,05/19/2014,09:10:07,Power Supply #0x51,Power Supply AC lost,Deasserted
+3ef,05/19/2014,09:10:07,Power Supply #0x51,Power Supply AC lost,Asserted
+3f0,05/19/2014,09:10:08,Power Unit #0x02,Redundancy Lost
+3f1,05/19/2014,09:10:08,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+3f2,05/19/2014,09:10:21,System Event #0x83,Timestamp Clock Sync,Asserted
+3f3,05/19/2014,09:10:22,System Event #0x83,Timestamp Clock Sync,Asserted
+3f4,05/19/2014,09:28:27,Power Unit #0x01,Power off/down,Asserted
+3f5,05/19/2014,09:28:34,Power Unit #0x01,Power off/down,Deasserted
+3f6,05/19/2014,09:28:37,Power Unit #0x02,Redundancy Lost
+3f7,05/19/2014,09:28:37,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+3f8,05/19/2014,09:28:37,Power Supply #0x51,Power Supply AC lost,Deasserted
+3f9,05/19/2014,09:28:38,Power Supply #0x51,Power Supply AC lost,Asserted
+3fa,05/19/2014,09:28:39,Power Unit #0x02,Redundancy Lost
+3fb,05/19/2014,09:28:39,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+3fc,05/19/2014,09:28:51,System Event #0x83,Timestamp Clock Sync,Asserted
+3fd,05/19/2014,09:28:51,System Event #0x83,Timestamp Clock Sync,Asserted
+3fe,05/19/2014,10:26:48,System Event #0x83,Timestamp Clock Sync,Asserted
+3ff,05/19/2014,10:26:49,System Event #0x83,Timestamp Clock Sync,Asserted
+400,05/19/2014,10:26:49,Power Unit #0x01,Power off/down,Asserted
+401,05/19/2014,10:26:49,Button #0x09,Power Button pressed,Asserted
+402,05/19/2014,10:27:04,Power Unit #0x01,Power off/down,Deasserted
+403,05/19/2014,10:27:04,Button #0x09,Power Button pressed,Asserted
+404,05/19/2014,10:27:08,Power Unit #0x02,Redundancy Lost
+405,05/19/2014,10:27:08,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+406,05/19/2014,10:27:08,Power Supply #0x51,Power Supply AC lost,Deasserted
+407,05/19/2014,10:27:08,Power Supply #0x51,Power Supply AC lost,Asserted
+408,05/19/2014,10:27:09,Power Unit #0x02,Redundancy Lost
+409,05/19/2014,10:27:09,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+40a,05/19/2014,10:27:23,System Event #0x83,Timestamp Clock Sync,Asserted
+40b,05/19/2014,10:27:23,System Event #0x83,Timestamp Clock Sync,Asserted
+40c,05/19/2014,10:28:36,System Event #0x83,OEM System boot event,Asserted
+40d,05/19/2014,10:32:55,Power Unit #0x02,Redundancy Lost
+40e,05/19/2014,10:32:55,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+40f,05/19/2014,10:32:55,Power Supply #0x51,Power Supply AC lost,Deasserted
+410,05/19/2014,10:32:56,Power Supply #0x51,Power Supply AC lost,Asserted
+411,05/19/2014,10:32:58,Power Unit #0x02,Redundancy Lost
+412,05/19/2014,10:32:58,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+413,05/19/2014,10:33:10,System Event #0x83,Timestamp Clock Sync,Asserted
+414,05/19/2014,10:33:10,System Event #0x83,Timestamp Clock Sync,Asserted
+415,05/19/2014,10:35:56,System Event #0x83,Timestamp Clock Sync,Asserted
+416,05/19/2014,10:35:56,System Event #0x83,Timestamp Clock Sync,Asserted
+417,05/19/2014,10:35:56,Power Unit #0x01,Power off/down,Asserted
+418,05/19/2014,10:35:56,Button #0x09,Power Button pressed,Asserted
+419,05/19/2014,10:38:39,Power Unit #0x01,Power off/down,Deasserted
+41a,05/19/2014,10:38:39,Button #0x09,Power Button pressed,Asserted
+41b,05/19/2014,10:38:41,Power Unit #0x02,Redundancy Lost
+41c,05/19/2014,10:38:41,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+41d,05/19/2014,10:38:41,Power Supply #0x51,Power Supply AC lost,Deasserted
+41e,05/19/2014,10:38:42,Power Supply #0x51,Power Supply AC lost,Asserted
+41f,05/19/2014,10:38:43,Power Unit #0x02,Redundancy Lost
+420,05/19/2014,10:38:43,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+421,05/19/2014,10:38:57,System Event #0x83,Timestamp Clock Sync,Asserted
+422,05/19/2014,10:38:57,System Event #0x83,Timestamp Clock Sync,Asserted
+423,05/19/2014,10:40:47,System Event #0x83,OEM System boot event,Asserted
+424,05/19/2014,10:46:25,Power Unit #0x01,Failure detected,Asserted
+425,05/19/2014,10:46:25,Power Unit #0x01,Power off/down,Asserted
+426,05/19/2014,10:46:25,Power Supply #0x50,Power Supply AC lost,Asserted
+427,05/19/2014,10:46:26,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+428,05/19/2014,10:46:26,Power Unit #0x02,Non-Redundant: Insufficient Resources
+429,05/19/2014,10:46:30,Power Unit #0x01,Power off/down,Deasserted
+42a,05/19/2014,10:47:06,Power Unit #0x01,AC lost,Asserted
+42b,05/19/2014,10:47:07,Power Unit #0x01,AC lost,Deasserted
+42c,05/19/2014,10:47:10,Power Supply #0x51,Power Supply AC lost,Asserted
+42d,05/19/2014,10:47:11,Power Unit #0x02,Fully Redundant
+42e,05/19/2014,10:47:11,Power Unit #0x02,Redundancy Lost
+42f,05/19/2014,10:47:11,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+430,05/19/2014,10:47:24,System Event #0x83,Timestamp Clock Sync,Asserted
+431,05/19/2014,10:47:25,System Event #0x83,Timestamp Clock Sync,Asserted
+432,05/19/2014,10:50:10,Power Unit #0x02,Redundancy Lost
+433,05/19/2014,10:50:10,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+434,05/19/2014,10:50:10,Power Supply #0x51,Power Supply AC lost,Deasserted
+435,05/19/2014,10:50:11,Power Supply #0x51,Power Supply AC lost,Asserted
+436,05/19/2014,10:50:13,Power Unit #0x02,Redundancy Lost
+437,05/19/2014,10:50:13,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+438,05/19/2014,10:50:26,System Event #0x83,Timestamp Clock Sync,Asserted
+439,05/19/2014,10:50:26,System Event #0x83,Timestamp Clock Sync,Asserted
+43a,05/19/2014,10:51:37,System Event #0x83,OEM System boot event,Asserted
+43b,05/19/2014,10:54:04,System Event #0x83,Timestamp Clock Sync,Asserted
+43c,05/19/2014,10:54:04,System Event #0x83,Timestamp Clock Sync,Asserted
+43d,05/19/2014,10:54:05,Power Unit #0x01,Power off/down,Asserted
+43e,05/19/2014,10:54:05,Button #0x09,Power Button pressed,Asserted
+43f,05/19/2014,10:54:08,Button #0x09,Power Button pressed,Asserted
+440,05/19/2014,10:54:10,Power Unit #0x01,Power off/down,Deasserted
+441,05/19/2014,10:54:14,Power Unit #0x02,Redundancy Lost
+442,05/19/2014,10:54:14,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+443,05/19/2014,10:54:14,Power Supply #0x51,Power Supply AC lost,Deasserted
+444,05/19/2014,10:54:14,Power Supply #0x51,Power Supply AC lost,Asserted
+445,05/19/2014,10:54:15,Power Unit #0x02,Redundancy Lost
+446,05/19/2014,10:54:15,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+447,05/19/2014,10:54:28,System Event #0x83,Timestamp Clock Sync,Asserted
+448,05/19/2014,10:54:28,System Event #0x83,Timestamp Clock Sync,Asserted
+449,05/19/2014,10:55:34,System Event #0x83,OEM System boot event,Asserted
+44a,05/19/2014,10:55:58,Power Unit #0x02,Redundancy Lost
+44b,05/19/2014,10:55:58,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+44c,05/19/2014,10:55:58,Power Supply #0x51,Power Supply AC lost,Deasserted
+44d,05/19/2014,10:55:59,Power Supply #0x51,Power Supply AC lost,Asserted
+44e,05/19/2014,10:56:01,Power Unit #0x02,Redundancy Lost
+44f,05/19/2014,10:56:01,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+450,05/19/2014,10:56:14,System Event #0x83,Timestamp Clock Sync,Asserted
+451,05/19/2014,10:56:14,System Event #0x83,Timestamp Clock Sync,Asserted
+452,05/19/2014,11:01:11,System Event #0x83,OEM System boot event,Asserted
+453,05/19/2014,11:02:01,Power Unit #0x02,Redundancy Lost
+454,05/19/2014,11:02:01,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+455,05/19/2014,11:02:01,Power Supply #0x51,Power Supply AC lost,Deasserted
+456,05/19/2014,11:02:01,Power Supply #0x51,Power Supply AC lost,Asserted
+457,05/19/2014,11:02:03,Power Unit #0x02,Redundancy Lost
+458,05/19/2014,11:02:03,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+459,05/19/2014,11:02:16,System Event #0x83,Timestamp Clock Sync,Asserted
+45a,05/19/2014,11:02:17,System Event #0x83,Timestamp Clock Sync,Asserted
+45b,05/19/2014,11:03:36,System Event #0x83,OEM System boot event,Asserted
+45c,05/19/2014,11:06:41,System Event #0x83,Timestamp Clock Sync,Asserted
+45d,05/19/2014,11:06:41,System Event #0x83,Timestamp Clock Sync,Asserted
+45e,05/19/2014,11:06:42,Power Unit #0x01,Power off/down,Asserted
+45f,05/19/2014,11:06:42,Button #0x09,Power Button pressed,Asserted
+460,05/20/2014,03:16:35,Power Supply #0x51,Power Supply AC lost,Deasserted
+461,05/20/2014,03:16:36,Power Unit #0x02,Fully Redundant
+462,05/20/2014,03:16:36,Power Unit #0x02,Redundancy Lost
+463,05/20/2014,03:16:36,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+464,05/20/2014,03:16:36,Power Unit #0x02,Fully Redundant
+465,05/20/2014,03:16:37,Power Unit #0x02,Fully Redundant
+466,05/20/2014,03:16:39,Power Unit #0x01,Power off/down,Deasserted
+467,05/20/2014,03:16:39,Button #0x09,Power Button pressed,Asserted
+468,05/20/2014,03:16:58,System Event #0x83,Timestamp Clock Sync,Asserted
+469,05/20/2014,03:17:00,System Event #0x83,Timestamp Clock Sync,Asserted
+46a,05/20/2014,03:18:42,System Event #0x83,OEM System boot event,Asserted
+46b,05/20/2014,03:32:19,System Event #0x83,Timestamp Clock Sync,Asserted
+46c,05/20/2014,03:32:16,System Event #0x83,Timestamp Clock Sync,Asserted
+46d,05/20/2014,03:33:37,System Event #0x83,OEM System boot event,Asserted
+46e,05/20/2014,03:39:09,System Event #0x83,Timestamp Clock Sync,Asserted
+46f,05/20/2014,03:39:07,System Event #0x83,Timestamp Clock Sync,Asserted
+470,05/20/2014,03:40:16,System Event #0x83,OEM System boot event,Asserted
+471,05/20/2014,03:42:11,Power Supply #0x50,Power Supply AC lost,Asserted
+472,05/20/2014,03:42:12,Power Unit #0x01,Failure detected,Asserted
+473,05/20/2014,03:42:12,Power Unit #0x01,Power off/down,Asserted
+474,05/20/2014,03:42:12,Power Unit #0x02,Fully Redundant
+475,05/20/2014,03:42:12,Power Unit #0x02,Redundancy Lost
+476,05/20/2014,03:42:12,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+477,05/20/2014,03:42:12,Power Supply #0x51,Power Supply AC lost,Asserted
+478,05/20/2014,03:42:13,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+479,05/20/2014,03:42:13,Power Unit #0x02,Non-Redundant: Insufficient Resources
+47a,05/20/2014,03:42:17,Power Unit #0x01,Power off/down,Deasserted
+47b,05/22/2014,11:42:41,Power Unit #0x01,Power off/down,Asserted
+47c,05/22/2014,11:42:41,Power Unit #0x01,AC lost,Asserted
+47d,05/22/2014,11:42:42,Power Unit #0x01,AC lost,Deasserted
+47e,05/22/2014,11:42:45,Power Supply #0x51,Power Supply AC lost,Asserted
+47f,05/22/2014,11:42:46,Power Unit #0x02,Fully Redundant
+480,05/22/2014,11:42:46,Power Unit #0x02,Redundancy Lost
+481,05/22/2014,11:42:46,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+482,05/22/2014,11:42:46,Power Supply #0x51,Power Supply AC lost,Deasserted
+483,05/22/2014,11:42:47,Power Unit #0x02,Redundancy Lost
+484,05/22/2014,11:42:47,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+485,05/22/2014,11:42:48,Power Unit #0x02,Fully Redundant
+486,05/22/2014,11:42:49,Power Supply #0x50,Power Supply AC lost,Asserted
+487,05/22/2014,11:42:50,Power Unit #0x02,Fully Redundant
+488,05/22/2014,11:42:50,Power Unit #0x02,Redundancy Lost
+489,05/22/2014,11:42:50,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+48a,05/22/2014,11:42:59,Power Supply #0x50,Power Supply AC lost,Deasserted
+48b,05/22/2014,11:43:00,Power Unit #0x02,Redundancy Lost
+48c,05/22/2014,11:43:00,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+48d,05/22/2014,11:43:01,Power Unit #0x02,Fully Redundant
+48e,05/22/2014,11:44:59,Power Supply #0x50,Power Supply AC lost,Asserted
+48f,05/22/2014,11:45:00,Power Unit #0x02,Fully Redundant
+490,05/22/2014,11:45:00,Power Unit #0x02,Redundancy Lost
+491,05/22/2014,11:45:00,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+492,05/22/2014,11:45:03,Power Supply #0x50,Power Supply AC lost,Deasserted
+493,05/22/2014,11:45:04,Power Unit #0x02,Redundancy Lost
+494,05/22/2014,11:45:04,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+495,05/22/2014,11:45:05,Power Unit #0x02,Fully Redundant
+496,05/22/2014,11:45:09,Power Supply #0x51,Power Supply AC lost,Asserted
+497,05/22/2014,11:45:10,Power Unit #0x02,Fully Redundant
+498,05/22/2014,11:45:10,Power Unit #0x02,Redundancy Lost
+499,05/22/2014,11:45:10,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+49a,05/22/2014,11:45:45,Power Supply #0x51,Power Supply AC lost,Deasserted
+49b,05/22/2014,11:45:46,Power Unit #0x02,Redundancy Lost
+49c,05/22/2014,11:45:46,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+49d,05/22/2014,11:45:47,Power Unit #0x02,Fully Redundant
+49e,05/22/2014,11:50:25,Power Unit #0x01,Power off/down,Deasserted
+49f,05/22/2014,11:50:25,Button #0x09,Power Button pressed,Asserted
+4a0,05/22/2014,11:50:42,System Event #0x83,Timestamp Clock Sync,Asserted
+4a1,05/22/2014,11:50:42,System Event #0x83,Timestamp Clock Sync,Asserted
+4a2,05/22/2014,11:51:45,System Event #0x83,OEM System boot event,Asserted
+4a3,05/23/2014,01:26:35,Power Supply #0x51,Power Supply AC lost,Asserted
+4a4,05/23/2014,01:26:36,Power Unit #0x02,Fully Redundant
+4a5,05/23/2014,01:26:36,Power Unit #0x02,Redundancy Lost
+4a6,05/23/2014,01:26:36,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+4a7,05/23/2014,01:26:37,Power Supply #0x51,Power Supply AC lost,Deasserted
+4a8,05/23/2014,01:26:38,Power Unit #0x02,Redundancy Lost
+4a9,05/23/2014,01:26:38,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+4aa,05/23/2014,01:26:39,Power Unit #0x02,Fully Redundant
+4ab,05/23/2014,01:26:39,Power Supply #0x50,Power Supply AC lost,Asserted
+4ac,05/23/2014,01:26:40,Power Unit #0x02,Fully Redundant
+4ad,05/23/2014,01:26:40,Power Unit #0x02,Redundancy Lost
+4ae,05/23/2014,01:26:40,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+4af,05/23/2014,01:26:44,Power Supply #0x50,Power Supply AC lost,Deasserted
+4b0,05/23/2014,01:26:45,Power Unit #0x02,Redundancy Lost
+4b1,05/23/2014,01:26:45,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+4b2,05/23/2014,01:26:46,Power Unit #0x02,Fully Redundant
+4b3,05/23/2014,02:05:53,Physical Security #0x04,System unplugged from LAN,Asserted
+4b4,05/23/2014,02:12:07,Physical Security #0x04,System unplugged from LAN,Deasserted
+4b5,05/23/2014,02:12:20,Physical Security #0x04,System unplugged from LAN,Asserted
+4b6,05/23/2014,02:12:55,Physical Security #0x04,System unplugged from LAN,Deasserted
+4b7,05/23/2014,02:13:07,Physical Security #0x04,System unplugged from LAN,Asserted
+4b8,05/23/2014,02:13:41,Physical Security #0x04,System unplugged from LAN,Deasserted
+4b9,05/23/2014,02:13:54,Physical Security #0x04,System unplugged from LAN,Asserted
+4ba,05/23/2014,02:13:55,Physical Security #0x04,System unplugged from LAN,Deasserted
+4bb,05/23/2014,02:14:19,Physical Security #0x04,System unplugged from LAN,Asserted
+4bc,05/23/2014,02:14:29,Physical Security #0x04,System unplugged from LAN,Deasserted
+4bd,05/23/2014,02:14:41,Physical Security #0x04,System unplugged from LAN,Asserted
+4be,05/23/2014,02:33:28,Physical Security #0x04,System unplugged from LAN,Deasserted
+4bf,05/23/2014,02:33:40,Physical Security #0x04,System unplugged from LAN,Asserted
+4c0,05/23/2014,02:37:10,Physical Security #0x04,System unplugged from LAN,Deasserted
+4c1,05/23/2014,02:37:21,Physical Security #0x04,System unplugged from LAN,Asserted
+4c2,05/23/2014,02:37:22,Physical Security #0x04,System unplugged from LAN,Deasserted
+4c3,05/23/2014,02:37:46,Physical Security #0x04,System unplugged from LAN,Asserted
+4c4,05/23/2014,02:37:56,Physical Security #0x04,System unplugged from LAN,Deasserted
+4c5,05/23/2014,02:38:09,Physical Security #0x04,System unplugged from LAN,Asserted
+4c6,05/23/2014,02:40:09,Physical Security #0x04,System unplugged from LAN,Deasserted
+4c7,05/23/2014,02:40:21,Physical Security #0x04,System unplugged from LAN,Asserted
+4c8,05/23/2014,02:40:46,Physical Security #0x04,System unplugged from LAN,Deasserted
+4c9,05/23/2014,02:40:58,Physical Security #0x04,System unplugged from LAN,Asserted
+4ca,05/23/2014,02:50:57,Physical Security #0x04,System unplugged from LAN,Deasserted
+4cb,05/23/2014,02:51:08,Physical Security #0x04,System unplugged from LAN,Asserted
+4cc,05/23/2014,02:51:09,Physical Security #0x04,System unplugged from LAN,Deasserted
+4cd,05/23/2014,02:51:32,Physical Security #0x04,System unplugged from LAN,Asserted
+4ce,05/23/2014,02:51:33,Physical Security #0x04,System unplugged from LAN,Deasserted
+4cf,05/23/2014,02:52:09,Physical Security #0x04,System unplugged from LAN,Asserted
+4d0,05/23/2014,02:56:22,Physical Security #0x04,System unplugged from LAN,Deasserted
+4d1,05/23/2014,02:56:34,Physical Security #0x04,System unplugged from LAN,Asserted
+4d2,05/23/2014,03:05:47,Physical Security #0x04,System unplugged from LAN,Deasserted
+4d3,05/23/2014,03:05:59,Physical Security #0x04,System unplugged from LAN,Asserted
+4d4,05/23/2014,03:09:12,Physical Security #0x04,System unplugged from LAN,Deasserted
+4d5,05/23/2014,03:09:23,Physical Security #0x04,System unplugged from LAN,Asserted
+4d6,05/23/2014,03:09:24,Physical Security #0x04,System unplugged from LAN,Deasserted
+4d7,05/23/2014,03:09:36,Physical Security #0x04,System unplugged from LAN,Asserted
+4d8,05/23/2014,03:11:10,Physical Security #0x04,System unplugged from LAN,Deasserted
+4d9,05/23/2014,03:11:22,Physical Security #0x04,System unplugged from LAN,Asserted
+4da,05/23/2014,03:13:05,Physical Security #0x04,System unplugged from LAN,Deasserted
+4db,05/23/2014,03:13:17,Physical Security #0x04,System unplugged from LAN,Asserted
+4dc,05/23/2014,03:13:28,Physical Security #0x04,System unplugged from LAN,Deasserted
+4dd,05/23/2014,03:13:40,Physical Security #0x04,System unplugged from LAN,Asserted
+4de,05/23/2014,03:13:47,System Event #0x83,Timestamp Clock Sync,Asserted
+4df,05/23/2014,03:13:50,System Event #0x83,Timestamp Clock Sync,Asserted
+4e0,05/23/2014,03:13:50,Power Unit #0x01,Power off/down,Asserted
+4e1,05/23/2014,03:13:50,Button #0x09,Power Button pressed,Asserted
+4e2,05/23/2014,03:13:52,Button #0x09,Power Button pressed,Asserted
+4e3,05/23/2014,03:13:55,Power Unit #0x01,Power off/down,Deasserted
+4e4,05/23/2014,03:13:58,Physical Security #0x04,System unplugged from LAN,Deasserted
+4e5,05/23/2014,03:13:59,Physical Security #0x04,System unplugged from LAN,Asserted
+4e6,05/23/2014,03:14:06,Physical Security #0x04,System unplugged from LAN,Deasserted
+4e7,05/23/2014,03:14:13,System Event #0x83,Timestamp Clock Sync,Asserted
+4e8,05/23/2014,03:14:13,System Event #0x83,Timestamp Clock Sync,Asserted
+4e9,05/23/2014,03:14:18,Physical Security #0x04,System unplugged from LAN,Asserted
+4ea,05/23/2014,03:14:41,Physical Security #0x04,System unplugged from LAN,Deasserted
+4eb,05/23/2014,03:14:53,Physical Security #0x04,System unplugged from LAN,Asserted
+4ec,05/23/2014,03:15:05,Physical Security #0x04,System unplugged from LAN,Deasserted
+4ed,05/23/2014,03:15:17,Physical Security #0x04,System unplugged from LAN,Asserted
+4ee,05/23/2014,03:15:40,Physical Security #0x04,System unplugged from LAN,Deasserted
+4ef,05/23/2014,03:15:52,Physical Security #0x04,System unplugged from LAN,Asserted
+4f0,05/23/2014,03:20:04,System Event #0x83,OEM System boot event,Asserted
+4f1,05/23/2014,03:27:46,Physical Security #0x04,System unplugged from LAN,Deasserted
+4f2,05/23/2014,03:27:57,Physical Security #0x04,System unplugged from LAN,Asserted
+4f3,05/23/2014,03:34:50,Physical Security #0x04,System unplugged from LAN,Deasserted
+4f4,05/23/2014,03:35:02,Physical Security #0x04,System unplugged from LAN,Asserted
+4f5,05/23/2014,03:35:13,Physical Security #0x04,System unplugged from LAN,Deasserted
+4f6,05/23/2014,03:35:25,Physical Security #0x04,System unplugged from LAN,Asserted
+4f7,05/23/2014,03:36:49,Physical Security #0x04,System unplugged from LAN,Deasserted
+4f8,05/23/2014,03:37:00,Physical Security #0x04,System unplugged from LAN,Asserted
+4f9,05/23/2014,03:50:25,Physical Security #0x04,System unplugged from LAN,Deasserted
+4fa,05/23/2014,03:50:37,Physical Security #0x04,System unplugged from LAN,Asserted
+4fb,05/23/2014,03:51:49,Physical Security #0x04,System unplugged from LAN,Deasserted
+4fc,05/23/2014,03:52:00,Physical Security #0x04,System unplugged from LAN,Asserted
+4fd,05/23/2014,03:59:42,Physical Security #0x04,System unplugged from LAN,Deasserted
+4fe,05/23/2014,03:59:54,Physical Security #0x04,System unplugged from LAN,Asserted
+4ff,05/23/2014,04:50:35,Physical Security #0x04,System unplugged from LAN,Deasserted
+500,05/23/2014,04:50:46,Physical Security #0x04,System unplugged from LAN,Asserted
+501,05/23/2014,04:50:47,Physical Security #0x04,System unplugged from LAN,Deasserted
+502,05/23/2014,04:51:23,Physical Security #0x04,System unplugged from LAN,Asserted
+503,05/23/2014,05:02:26,Physical Security #0x04,System unplugged from LAN,Deasserted
+504,05/23/2014,05:02:38,Physical Security #0x04,System unplugged from LAN,Asserted
+505,05/23/2014,05:25:56,Physical Security #0x04,System unplugged from LAN,Deasserted
+506,05/23/2014,05:26:07,Physical Security #0x04,System unplugged from LAN,Asserted
+507,05/23/2014,05:26:08,Physical Security #0x04,System unplugged from LAN,Deasserted
+508,05/23/2014,05:26:32,Physical Security #0x04,System unplugged from LAN,Asserted
+509,05/23/2014,05:27:19,Physical Security #0x04,System unplugged from LAN,Deasserted
+50a,05/23/2014,05:27:31,Physical Security #0x04,System unplugged from LAN,Asserted
+50b,05/23/2014,05:27:54,Physical Security #0x04,System unplugged from LAN,Deasserted
+50c,05/23/2014,05:28:06,Physical Security #0x04,System unplugged from LAN,Asserted
+50d,05/23/2014,05:28:06,Physical Security #0x04,System unplugged from LAN,Deasserted
+50e,05/23/2014,05:28:54,Physical Security #0x04,System unplugged from LAN,Asserted
+50f,05/23/2014,05:29:29,Physical Security #0x04,System unplugged from LAN,Deasserted
+510,05/23/2014,05:29:41,Physical Security #0x04,System unplugged from LAN,Asserted
+511,05/23/2014,05:31:16,Physical Security #0x04,System unplugged from LAN,Deasserted
+512,05/23/2014,05:31:28,Physical Security #0x04,System unplugged from LAN,Asserted
+513,05/23/2014,05:32:05,Physical Security #0x04,System unplugged from LAN,Deasserted
+514,05/23/2014,05:32:16,Physical Security #0x04,System unplugged from LAN,Asserted
+515,05/23/2014,05:32:17,Physical Security #0x04,System unplugged from LAN,Deasserted
+516,05/23/2014,05:32:29,Physical Security #0x04,System unplugged from LAN,Asserted
+517,05/23/2014,06:21:15,Physical Security #0x04,System unplugged from LAN,Deasserted
+518,05/23/2014,06:21:51,Physical Security #0x04,System unplugged from LAN,Asserted
+519,05/23/2014,06:26:02,Physical Security #0x04,System unplugged from LAN,Deasserted
+51a,05/23/2014,06:26:13,Physical Security #0x04,System unplugged from LAN,Asserted
+51b,05/23/2014,06:26:14,Physical Security #0x04,System unplugged from LAN,Deasserted
+51c,05/23/2014,06:26:26,Physical Security #0x04,System unplugged from LAN,Asserted
+51d,05/23/2014,06:34:07,Physical Security #0x04,System unplugged from LAN,Deasserted
+51e,05/23/2014,06:34:42,Physical Security #0x04,System unplugged from LAN,Asserted
+51f,05/23/2014,07:07:27,Physical Security #0x04,System unplugged from LAN,Deasserted
+520,05/23/2014,07:07:39,Physical Security #0x04,System unplugged from LAN,Asserted
+521,05/23/2014,07:08:51,Physical Security #0x04,System unplugged from LAN,Deasserted
+522,05/23/2014,07:09:03,Physical Security #0x04,System unplugged from LAN,Asserted
+523,05/23/2014,07:48:12,Physical Security #0x04,System unplugged from LAN,Deasserted
+524,05/23/2014,07:48:23,Physical Security #0x04,System unplugged from LAN,Asserted
+525,05/23/2014,07:48:59,Physical Security #0x04,System unplugged from LAN,Deasserted
+526,05/23/2014,07:49:11,Physical Security #0x04,System unplugged from LAN,Asserted
+527,05/23/2014,07:49:34,Physical Security #0x04,System unplugged from LAN,Deasserted
+528,05/23/2014,07:49:46,Physical Security #0x04,System unplugged from LAN,Asserted
+529,05/23/2014,07:49:57,Physical Security #0x04,System unplugged from LAN,Deasserted
+52a,05/23/2014,07:50:08,Physical Security #0x04,System unplugged from LAN,Asserted
+52b,05/23/2014,07:50:09,Physical Security #0x04,System unplugged from LAN,Deasserted
+52c,05/23/2014,07:50:57,Physical Security #0x04,System unplugged from LAN,Asserted
+52d,05/23/2014,08:01:58,Physical Security #0x04,System unplugged from LAN,Deasserted
+52e,05/23/2014,08:02:09,Physical Security #0x04,System unplugged from LAN,Asserted
+52f,05/23/2014,08:03:55,Physical Security #0x04,System unplugged from LAN,Deasserted
+530,05/23/2014,08:04:07,Physical Security #0x04,System unplugged from LAN,Asserted
+531,05/23/2014,08:12:51,Physical Security #0x04,System unplugged from LAN,Deasserted
+532,05/23/2014,08:13:14,Physical Security #0x04,System unplugged from LAN,Asserted
+533,05/23/2014,08:13:51,Physical Security #0x04,System unplugged from LAN,Deasserted
+534,05/23/2014,08:14:03,Physical Security #0x04,System unplugged from LAN,Asserted
+535,05/23/2014,08:14:50,Physical Security #0x04,System unplugged from LAN,Deasserted
+536,05/23/2014,08:15:25,Physical Security #0x04,System unplugged from LAN,Asserted
+537,05/23/2014,08:30:24,Physical Security #0x04,System unplugged from LAN,Deasserted
+538,05/23/2014,08:31:00,Physical Security #0x04,System unplugged from LAN,Asserted
+539,05/23/2014,08:32:23,Physical Security #0x04,System unplugged from LAN,Deasserted
+53a,05/23/2014,08:32:35,Physical Security #0x04,System unplugged from LAN,Asserted
+53b,05/23/2014,08:54:46,Physical Security #0x04,System unplugged from LAN,Deasserted
+53c,05/23/2014,08:55:22,Physical Security #0x04,System unplugged from LAN,Asserted
+53d,05/23/2014,08:55:34,Physical Security #0x04,System unplugged from LAN,Deasserted
+53e,05/23/2014,08:55:45,Physical Security #0x04,System unplugged from LAN,Asserted
+53f,05/23/2014,08:55:46,Physical Security #0x04,System unplugged from LAN,Deasserted
+540,05/23/2014,08:56:10,Physical Security #0x04,System unplugged from LAN,Asserted
+541,05/23/2014,08:56:21,Physical Security #0x04,System unplugged from LAN,Deasserted
+542,05/23/2014,08:56:33,Physical Security #0x04,System unplugged from LAN,Asserted
+543,05/23/2014,08:57:09,Physical Security #0x04,System unplugged from LAN,Deasserted
+544,05/23/2014,08:57:21,Physical Security #0x04,System unplugged from LAN,Asserted
+545,05/23/2014,09:04:45,Physical Security #0x04,System unplugged from LAN,Deasserted
+546,05/23/2014,09:04:57,Physical Security #0x04,System unplugged from LAN,Asserted
+547,05/23/2014,09:06:08,Physical Security #0x04,System unplugged from LAN,Deasserted
+548,05/23/2014,09:06:20,Physical Security #0x04,System unplugged from LAN,Asserted
+549,05/23/2014,09:07:20,Physical Security #0x04,System unplugged from LAN,Deasserted
+54a,05/23/2014,09:07:32,Physical Security #0x04,System unplugged from LAN,Asserted
+54b,05/23/2014,09:07:43,Physical Security #0x04,System unplugged from LAN,Deasserted
+54c,05/23/2014,09:07:56,Physical Security #0x04,System unplugged from LAN,Asserted
+54d,05/23/2014,09:08:55,Physical Security #0x04,System unplugged from LAN,Deasserted
+54e,05/23/2014,09:09:06,Physical Security #0x04,System unplugged from LAN,Asserted
+54f,05/23/2014,09:10:05,Physical Security #0x04,System unplugged from LAN,Deasserted
+550,05/23/2014,09:10:17,Physical Security #0x04,System unplugged from LAN,Asserted
+551,05/23/2014,09:25:55,Physical Security #0x04,System unplugged from LAN,Deasserted
+552,05/23/2014,09:26:07,Physical Security #0x04,System unplugged from LAN,Asserted
+553,05/23/2014,09:33:23,Physical Security #0x04,System unplugged from LAN,Deasserted
+554,05/23/2014,09:33:35,Physical Security #0x04,System unplugged from LAN,Asserted
+555,05/23/2014,09:47:16,Physical Security #0x04,System unplugged from LAN,Deasserted
+556,05/23/2014,09:47:28,Physical Security #0x04,System unplugged from LAN,Asserted
+557,05/23/2014,10:16:29,Physical Security #0x04,System unplugged from LAN,Deasserted
+558,05/23/2014,10:16:40,Physical Security #0x04,System unplugged from LAN,Asserted
+559,05/23/2014,10:18:13,Physical Security #0x04,System unplugged from LAN,Deasserted
+55a,05/23/2014,10:18:36,Physical Security #0x04,System unplugged from LAN,Asserted
+55b,05/23/2014,10:50:16,Physical Security #0x04,System unplugged from LAN,Deasserted
+55c,05/23/2014,10:50:28,Physical Security #0x04,System unplugged from LAN,Asserted
+55d,05/23/2014,10:51:16,Physical Security #0x04,System unplugged from LAN,Deasserted
+55e,05/23/2014,10:51:28,Physical Security #0x04,System unplugged from LAN,Asserted
+55f,05/23/2014,10:52:40,Physical Security #0x04,System unplugged from LAN,Deasserted
+560,05/23/2014,10:52:52,Physical Security #0x04,System unplugged from LAN,Asserted
+561,05/23/2014,10:53:03,Physical Security #0x04,System unplugged from LAN,Deasserted
+562,05/23/2014,10:53:15,Physical Security #0x04,System unplugged from LAN,Asserted
+563,05/23/2014,10:53:50,Physical Security #0x04,System unplugged from LAN,Deasserted
+564,05/23/2014,10:54:02,Physical Security #0x04,System unplugged from LAN,Asserted
+565,05/23/2014,10:54:03,Physical Security #0x04,System unplugged from LAN,Deasserted
+566,05/23/2014,10:54:27,Physical Security #0x04,System unplugged from LAN,Asserted
+567,05/23/2014,10:59:34,Physical Security #0x04,System unplugged from LAN,Deasserted
+568,05/23/2014,10:59:46,Physical Security #0x04,System unplugged from LAN,Asserted
+569,05/23/2014,11:09:05,Physical Security #0x04,System unplugged from LAN,Deasserted
+56a,05/23/2014,11:09:16,Physical Security #0x04,System unplugged from LAN,Asserted
+56b,05/23/2014,11:09:17,Physical Security #0x04,System unplugged from LAN,Deasserted
+56c,05/23/2014,11:09:29,Physical Security #0x04,System unplugged from LAN,Asserted
+56d,05/23/2014,11:10:40,Physical Security #0x04,System unplugged from LAN,Deasserted
+56e,05/23/2014,11:10:52,Physical Security #0x04,System unplugged from LAN,Asserted
+56f,05/23/2014,11:11:03,Physical Security #0x04,System unplugged from LAN,Deasserted
+570,05/23/2014,11:11:15,Physical Security #0x04,System unplugged from LAN,Asserted
+571,05/23/2014,11:29:56,Physical Security #0x04,System unplugged from LAN,Deasserted
+572,05/23/2014,11:30:08,Physical Security #0x04,System unplugged from LAN,Asserted
+573,05/23/2014,11:31:31,Physical Security #0x04,System unplugged from LAN,Deasserted
+574,05/23/2014,11:31:43,Physical Security #0x04,System unplugged from LAN,Asserted
+575,05/23/2014,11:32:31,Physical Security #0x04,System unplugged from LAN,Deasserted
+576,05/23/2014,11:32:42,Physical Security #0x04,System unplugged from LAN,Asserted
+577,05/23/2014,11:32:43,Physical Security #0x04,System unplugged from LAN,Deasserted
+578,05/23/2014,11:32:55,Physical Security #0x04,System unplugged from LAN,Asserted
+579,05/23/2014,11:34:41,Physical Security #0x04,System unplugged from LAN,Deasserted
+57a,05/23/2014,11:35:17,Physical Security #0x04,System unplugged from LAN,Asserted
+57b,05/23/2014,11:35:39,Physical Security #0x04,System unplugged from LAN,Deasserted
+57c,05/23/2014,11:35:53,Physical Security #0x04,System unplugged from LAN,Asserted
+57d,05/23/2014,11:56:49,Physical Security #0x04,System unplugged from LAN,Deasserted
+57e,05/23/2014,11:57:12,Physical Security #0x04,System unplugged from LAN,Asserted
+57f,05/23/2014,12:03:48,Physical Security #0x04,System unplugged from LAN,Deasserted
+580,05/23/2014,12:03:59,Physical Security #0x04,System unplugged from LAN,Asserted
+581,05/23/2014,12:04:00,Physical Security #0x04,System unplugged from LAN,Deasserted
+582,05/23/2014,12:04:13,Physical Security #0x04,System unplugged from LAN,Asserted
+583,05/23/2014,12:05:11,Physical Security #0x04,System unplugged from LAN,Deasserted
+584,05/23/2014,12:05:23,Physical Security #0x04,System unplugged from LAN,Asserted
+585,05/23/2014,12:14:49,Physical Security #0x04,System unplugged from LAN,Deasserted
+586,05/23/2014,12:15:01,Physical Security #0x04,System unplugged from LAN,Asserted
+587,05/23/2014,12:29:01,Physical Security #0x04,System unplugged from LAN,Deasserted
+588,05/23/2014,12:29:13,Physical Security #0x04,System unplugged from LAN,Asserted
+589,05/23/2014,12:29:14,Physical Security #0x04,System unplugged from LAN,Deasserted
+58a,05/23/2014,12:29:27,Physical Security #0x04,System unplugged from LAN,Asserted
+58b,05/23/2014,12:47:30,Physical Security #0x04,System unplugged from LAN,Deasserted
+58c,05/23/2014,12:47:43,Physical Security #0x04,System unplugged from LAN,Asserted
+58d,05/23/2014,12:49:17,Physical Security #0x04,System unplugged from LAN,Deasserted
+58e,05/23/2014,12:49:30,Physical Security #0x04,System unplugged from LAN,Asserted
+58f,05/23/2014,12:49:41,Physical Security #0x04,System unplugged from LAN,Deasserted
+590,05/23/2014,12:49:53,Physical Security #0x04,System unplugged from LAN,Asserted
+591,05/23/2014,12:52:20,Physical Security #0x04,System unplugged from LAN,Deasserted
+592,05/23/2014,12:52:31,Physical Security #0x04,System unplugged from LAN,Asserted
+593,05/23/2014,12:52:32,Physical Security #0x04,System unplugged from LAN,Deasserted
+594,05/23/2014,12:53:08,Physical Security #0x04,System unplugged from LAN,Asserted
+595,05/23/2014,12:53:20,Physical Security #0x04,System unplugged from LAN,Deasserted
+596,05/23/2014,12:53:32,Physical Security #0x04,System unplugged from LAN,Asserted
+597,05/23/2014,12:53:43,Physical Security #0x04,System unplugged from LAN,Deasserted
+598,05/23/2014,12:53:54,Physical Security #0x04,System unplugged from LAN,Asserted
+599,05/23/2014,12:53:55,Physical Security #0x04,System unplugged from LAN,Deasserted
+59a,05/23/2014,12:54:19,Physical Security #0x04,System unplugged from LAN,Asserted
+59b,05/23/2014,12:56:18,Physical Security #0x04,System unplugged from LAN,Deasserted
+59c,05/23/2014,12:56:29,Physical Security #0x04,System unplugged from LAN,Asserted
+59d,05/23/2014,12:56:30,Physical Security #0x04,System unplugged from LAN,Deasserted
+59e,05/23/2014,12:57:05,Physical Security #0x04,System unplugged from LAN,Asserted
+59f,05/23/2014,13:00:08,Physical Security #0x04,System unplugged from LAN,Deasserted
+5a0,05/23/2014,13:00:20,Physical Security #0x04,System unplugged from LAN,Asserted
+5a1,05/23/2014,13:19:55,Physical Security #0x04,System unplugged from LAN,Deasserted
+5a2,05/23/2014,13:20:07,Physical Security #0x04,System unplugged from LAN,Asserted
+5a3,05/23/2014,13:20:41,Physical Security #0x04,System unplugged from LAN,Deasserted
+5a4,05/23/2014,13:20:53,Physical Security #0x04,System unplugged from LAN,Asserted
+5a5,05/23/2014,13:21:29,Physical Security #0x04,System unplugged from LAN,Deasserted
+5a6,05/23/2014,13:21:41,Physical Security #0x04,System unplugged from LAN,Asserted
+5a7,05/23/2014,13:26:31,Physical Security #0x04,System unplugged from LAN,Deasserted
+5a8,05/23/2014,13:26:43,Physical Security #0x04,System unplugged from LAN,Asserted
+5a9,05/23/2014,13:27:29,Physical Security #0x04,System unplugged from LAN,Deasserted
+5aa,05/23/2014,13:27:41,Physical Security #0x04,System unplugged from LAN,Asserted
+5ab,05/23/2014,13:27:53,Physical Security #0x04,System unplugged from LAN,Deasserted
+5ac,05/23/2014,13:28:05,Physical Security #0x04,System unplugged from LAN,Asserted
+5ad,05/23/2014,13:29:16,Physical Security #0x04,System unplugged from LAN,Deasserted
+5ae,05/23/2014,13:29:28,Physical Security #0x04,System unplugged from LAN,Asserted
+5af,05/23/2014,13:37:51,Physical Security #0x04,System unplugged from LAN,Deasserted
+5b0,05/23/2014,13:38:15,Physical Security #0x04,System unplugged from LAN,Asserted
+5b1,05/23/2014,13:47:38,Physical Security #0x04,System unplugged from LAN,Deasserted
+5b2,05/23/2014,13:47:49,Physical Security #0x04,System unplugged from LAN,Asserted
+5b3,05/23/2014,13:47:50,Physical Security #0x04,System unplugged from LAN,Deasserted
+5b4,05/23/2014,13:48:15,Physical Security #0x04,System unplugged from LAN,Asserted
+5b5,05/23/2014,13:51:34,Physical Security #0x04,System unplugged from LAN,Deasserted
+5b6,05/23/2014,13:51:45,Physical Security #0x04,System unplugged from LAN,Asserted
+5b7,05/23/2014,13:51:46,Physical Security #0x04,System unplugged from LAN,Deasserted
+5b8,05/23/2014,13:52:10,Physical Security #0x04,System unplugged from LAN,Asserted
+5b9,05/23/2014,14:00:16,Physical Security #0x04,System unplugged from LAN,Deasserted
+5ba,05/23/2014,14:00:27,Physical Security #0x04,System unplugged from LAN,Asserted
+5bb,05/23/2014,14:02:50,Physical Security #0x04,System unplugged from LAN,Deasserted
+5bc,05/23/2014,14:03:01,Physical Security #0x04,System unplugged from LAN,Asserted
+5bd,05/23/2014,14:07:44,Physical Security #0x04,System unplugged from LAN,Deasserted
+5be,05/23/2014,14:07:55,Physical Security #0x04,System unplugged from LAN,Asserted
+5bf,05/23/2014,14:09:19,Physical Security #0x04,System unplugged from LAN,Deasserted
+5c0,05/23/2014,14:09:55,Physical Security #0x04,System unplugged from LAN,Asserted
+5c1,05/23/2014,14:20:04,Physical Security #0x04,System unplugged from LAN,Deasserted
+5c2,05/23/2014,14:20:15,Physical Security #0x04,System unplugged from LAN,Asserted
+5c3,05/23/2014,14:20:16,Physical Security #0x04,System unplugged from LAN,Deasserted
+5c4,05/23/2014,14:20:40,Physical Security #0x04,System unplugged from LAN,Asserted
+5c5,05/23/2014,14:21:15,Physical Security #0x04,System unplugged from LAN,Deasserted
+5c6,05/23/2014,14:21:27,Physical Security #0x04,System unplugged from LAN,Asserted
+5c7,05/23/2014,14:30:09,Physical Security #0x04,System unplugged from LAN,Deasserted
+5c8,05/23/2014,14:30:45,Physical Security #0x04,System unplugged from LAN,Asserted
+5c9,05/23/2014,14:31:08,Physical Security #0x04,System unplugged from LAN,Deasserted
+5ca,05/23/2014,14:31:20,Physical Security #0x04,System unplugged from LAN,Asserted
+5cb,05/23/2014,14:33:56,Physical Security #0x04,System unplugged from LAN,Deasserted
+5cc,05/23/2014,14:34:44,Physical Security #0x04,System unplugged from LAN,Asserted
+5cd,05/23/2014,14:40:50,Physical Security #0x04,System unplugged from LAN,Deasserted
+5ce,05/23/2014,14:41:02,Physical Security #0x04,System unplugged from LAN,Asserted
+5cf,05/23/2014,14:41:37,Physical Security #0x04,System unplugged from LAN,Deasserted
+5d0,05/23/2014,14:41:49,Physical Security #0x04,System unplugged from LAN,Asserted
+5d1,05/23/2014,15:21:35,Physical Security #0x04,System unplugged from LAN,Deasserted
+5d2,05/23/2014,15:21:47,Physical Security #0x04,System unplugged from LAN,Asserted
+5d3,05/23/2014,15:22:22,Physical Security #0x04,System unplugged from LAN,Deasserted
+5d4,05/23/2014,15:22:34,Physical Security #0x04,System unplugged from LAN,Asserted
+5d5,05/23/2014,15:23:44,Physical Security #0x04,System unplugged from LAN,Deasserted
+5d6,05/23/2014,15:23:56,Physical Security #0x04,System unplugged from LAN,Asserted
+5d7,05/23/2014,15:24:07,Physical Security #0x04,System unplugged from LAN,Deasserted
+5d8,05/23/2014,15:24:18,Physical Security #0x04,System unplugged from LAN,Asserted
+5d9,05/23/2014,15:24:19,Physical Security #0x04,System unplugged from LAN,Deasserted
+5da,05/23/2014,15:25:31,Physical Security #0x04,System unplugged from LAN,Asserted
+5db,05/23/2014,15:32:15,Physical Security #0x04,System unplugged from LAN,Deasserted
+5dc,05/23/2014,15:32:27,Physical Security #0x04,System unplugged from LAN,Asserted
+5dd,05/23/2014,15:32:28,Physical Security #0x04,System unplugged from LAN,Deasserted
+5de,05/23/2014,15:32:53,Physical Security #0x04,System unplugged from LAN,Asserted
+5df,05/23/2014,15:33:03,Physical Security #0x04,System unplugged from LAN,Deasserted
+5e0,05/23/2014,15:33:16,Physical Security #0x04,System unplugged from LAN,Asserted
+5e1,05/23/2014,15:54:00,Physical Security #0x04,System unplugged from LAN,Deasserted
+5e2,05/23/2014,15:54:12,Physical Security #0x04,System unplugged from LAN,Asserted
+5e3,05/23/2014,15:56:37,Physical Security #0x04,System unplugged from LAN,Deasserted
+5e4,05/23/2014,15:56:48,Physical Security #0x04,System unplugged from LAN,Asserted
+5e5,05/23/2014,15:56:49,Physical Security #0x04,System unplugged from LAN,Deasserted
+5e6,05/23/2014,15:57:01,Physical Security #0x04,System unplugged from LAN,Asserted
+5e7,05/23/2014,16:06:13,Physical Security #0x04,System unplugged from LAN,Deasserted
+5e8,05/23/2014,16:06:25,Physical Security #0x04,System unplugged from LAN,Asserted
+5e9,05/23/2014,16:08:24,Physical Security #0x04,System unplugged from LAN,Deasserted
+5ea,05/23/2014,16:08:36,Physical Security #0x04,System unplugged from LAN,Asserted
+5eb,05/23/2014,16:08:59,Physical Security #0x04,System unplugged from LAN,Deasserted
+5ec,05/23/2014,16:09:11,Physical Security #0x04,System unplugged from LAN,Asserted
+5ed,05/23/2014,16:16:54,Physical Security #0x04,System unplugged from LAN,Deasserted
+5ee,05/23/2014,16:17:17,Physical Security #0x04,System unplugged from LAN,Asserted
+5ef,05/23/2014,16:19:37,Physical Security #0x04,System unplugged from LAN,Deasserted
+5f0,05/23/2014,16:19:49,Physical Security #0x04,System unplugged from LAN,Asserted
+5f1,05/23/2014,16:19:50,Physical Security #0x04,System unplugged from LAN,Deasserted
+5f2,05/23/2014,16:20:02,Physical Security #0x04,System unplugged from LAN,Asserted
+5f3,05/23/2014,16:29:31,Physical Security #0x04,System unplugged from LAN,Deasserted
+5f4,05/23/2014,16:29:43,Physical Security #0x04,System unplugged from LAN,Asserted
+5f5,05/23/2014,16:30:19,Physical Security #0x04,System unplugged from LAN,Deasserted
+5f6,05/23/2014,16:30:30,Physical Security #0x04,System unplugged from LAN,Asserted
+5f7,05/23/2014,16:30:31,Physical Security #0x04,System unplugged from LAN,Deasserted
+5f8,05/23/2014,16:31:18,Physical Security #0x04,System unplugged from LAN,Asserted
+5f9,05/23/2014,16:31:54,Physical Security #0x04,System unplugged from LAN,Deasserted
+5fa,05/23/2014,16:32:05,Physical Security #0x04,System unplugged from LAN,Asserted
+5fb,05/23/2014,16:39:51,Physical Security #0x04,System unplugged from LAN,Deasserted
+5fc,05/23/2014,16:40:02,Physical Security #0x04,System unplugged from LAN,Asserted
+5fd,05/23/2014,16:40:03,Physical Security #0x04,System unplugged from LAN,Deasserted
+5fe,05/23/2014,16:40:15,Physical Security #0x04,System unplugged from LAN,Asserted
+5ff,05/23/2014,16:55:56,Physical Security #0x04,System unplugged from LAN,Deasserted
+600,05/23/2014,16:56:07,Physical Security #0x04,System unplugged from LAN,Asserted
+601,05/23/2014,16:56:08,Physical Security #0x04,System unplugged from LAN,Deasserted
+602,05/23/2014,16:56:32,Physical Security #0x04,System unplugged from LAN,Asserted
+603,05/23/2014,16:57:31,Physical Security #0x04,System unplugged from LAN,Deasserted
+604,05/23/2014,16:57:43,Physical Security #0x04,System unplugged from LAN,Asserted
+605,05/23/2014,16:59:36,Physical Security #0x04,System unplugged from LAN,Deasserted
+606,05/23/2014,16:59:49,Physical Security #0x04,System unplugged from LAN,Asserted
+607,05/23/2014,17:00:12,Physical Security #0x04,System unplugged from LAN,Deasserted
+608,05/23/2014,17:00:24,Physical Security #0x04,System unplugged from LAN,Asserted
+609,05/23/2014,17:08:10,Physical Security #0x04,System unplugged from LAN,Deasserted
+60a,05/23/2014,17:09:09,Physical Security #0x04,System unplugged from LAN,Asserted
+60b,05/23/2014,17:36:42,Physical Security #0x04,System unplugged from LAN,Deasserted
+60c,05/23/2014,17:37:06,Physical Security #0x04,System unplugged from LAN,Asserted
+60d,05/23/2014,17:40:18,Physical Security #0x04,System unplugged from LAN,Deasserted
+60e,05/23/2014,17:40:30,Physical Security #0x04,System unplugged from LAN,Asserted
+60f,05/23/2014,17:59:34,Physical Security #0x04,System unplugged from LAN,Deasserted
+610,05/23/2014,17:59:46,Physical Security #0x04,System unplugged from LAN,Asserted
+611,05/23/2014,18:42:06,Physical Security #0x04,System unplugged from LAN,Deasserted
+612,05/23/2014,18:42:18,Physical Security #0x04,System unplugged from LAN,Asserted
+613,05/23/2014,18:43:04,Physical Security #0x04,System unplugged from LAN,Deasserted
+614,05/23/2014,18:43:16,Physical Security #0x04,System unplugged from LAN,Asserted
+615,05/23/2014,18:43:41,Physical Security #0x04,System unplugged from LAN,Deasserted
+616,05/23/2014,18:43:53,Physical Security #0x04,System unplugged from LAN,Asserted
+617,05/23/2014,18:44:28,Physical Security #0x04,System unplugged from LAN,Deasserted
+618,05/23/2014,18:44:40,Physical Security #0x04,System unplugged from LAN,Asserted
+619,05/23/2014,18:45:28,Physical Security #0x04,System unplugged from LAN,Deasserted
+61a,05/23/2014,18:45:51,Physical Security #0x04,System unplugged from LAN,Asserted
+61b,05/23/2014,18:54:13,Physical Security #0x04,System unplugged from LAN,Deasserted
+61c,05/23/2014,18:54:24,Physical Security #0x04,System unplugged from LAN,Asserted
+61d,05/23/2014,18:55:41,Physical Security #0x04,System unplugged from LAN,Deasserted
+61e,05/23/2014,18:55:53,Physical Security #0x04,System unplugged from LAN,Asserted
+61f,05/23/2014,19:02:52,Physical Security #0x04,System unplugged from LAN,Deasserted
+620,05/23/2014,19:03:04,Physical Security #0x04,System unplugged from LAN,Asserted
+621,05/23/2014,19:15:05,Physical Security #0x04,System unplugged from LAN,Deasserted
+622,05/23/2014,19:15:31,Physical Security #0x04,System unplugged from LAN,Asserted
+623,05/23/2014,19:16:52,Physical Security #0x04,System unplugged from LAN,Deasserted
+624,05/23/2014,19:17:05,Physical Security #0x04,System unplugged from LAN,Asserted
+625,05/23/2014,19:17:28,Physical Security #0x04,System unplugged from LAN,Deasserted
+626,05/23/2014,19:17:40,Physical Security #0x04,System unplugged from LAN,Asserted
+627,05/23/2014,19:19:03,Physical Security #0x04,System unplugged from LAN,Deasserted
+628,05/23/2014,19:19:14,Physical Security #0x04,System unplugged from LAN,Asserted
+629,05/23/2014,19:19:15,Physical Security #0x04,System unplugged from LAN,Deasserted
+62a,05/23/2014,19:20:02,Physical Security #0x04,System unplugged from LAN,Asserted
+62b,05/23/2014,19:20:27,Physical Security #0x04,System unplugged from LAN,Deasserted
+62c,05/23/2014,19:20:38,Physical Security #0x04,System unplugged from LAN,Asserted
+62d,05/23/2014,19:22:49,Physical Security #0x04,System unplugged from LAN,Deasserted
+62e,05/23/2014,19:23:00,Physical Security #0x04,System unplugged from LAN,Asserted
+62f,05/23/2014,19:23:24,Physical Security #0x04,System unplugged from LAN,Deasserted
+630,05/23/2014,19:23:38,Physical Security #0x04,System unplugged from LAN,Asserted
+631,05/23/2014,19:24:01,Physical Security #0x04,System unplugged from LAN,Deasserted
+632,05/23/2014,19:24:59,Physical Security #0x04,System unplugged from LAN,Asserted
+633,05/23/2014,19:34:36,Physical Security #0x04,System unplugged from LAN,Deasserted
+634,05/23/2014,19:34:47,Physical Security #0x04,System unplugged from LAN,Asserted
+635,05/23/2014,19:34:48,Physical Security #0x04,System unplugged from LAN,Deasserted
+636,05/23/2014,19:35:01,Physical Security #0x04,System unplugged from LAN,Asserted
+637,05/23/2014,19:37:37,Physical Security #0x04,System unplugged from LAN,Deasserted
+638,05/23/2014,19:37:48,Physical Security #0x04,System unplugged from LAN,Asserted
+639,05/23/2014,19:39:45,Physical Security #0x04,System unplugged from LAN,Deasserted
+63a,05/23/2014,19:40:21,Physical Security #0x04,System unplugged from LAN,Asserted
+63b,05/23/2014,19:41:31,Physical Security #0x04,System unplugged from LAN,Deasserted
+63c,05/23/2014,19:42:07,Physical Security #0x04,System unplugged from LAN,Asserted
+63d,05/23/2014,19:42:18,Physical Security #0x04,System unplugged from LAN,Deasserted
+63e,05/23/2014,19:42:29,Physical Security #0x04,System unplugged from LAN,Asserted
+63f,05/23/2014,19:42:30,Physical Security #0x04,System unplugged from LAN,Deasserted
+640,05/23/2014,19:42:54,Physical Security #0x04,System unplugged from LAN,Asserted
+641,05/23/2014,19:43:18,Physical Security #0x04,System unplugged from LAN,Deasserted
+642,05/23/2014,19:43:29,Physical Security #0x04,System unplugged from LAN,Asserted
+643,05/23/2014,19:43:30,Physical Security #0x04,System unplugged from LAN,Deasserted
+644,05/23/2014,19:43:42,Physical Security #0x04,System unplugged from LAN,Asserted
+645,05/23/2014,20:18:11,Physical Security #0x04,System unplugged from LAN,Deasserted
+646,05/23/2014,20:18:22,Physical Security #0x04,System unplugged from LAN,Asserted
+647,05/23/2014,20:19:45,Physical Security #0x04,System unplugged from LAN,Deasserted
+648,05/23/2014,20:19:57,Physical Security #0x04,System unplugged from LAN,Asserted
+649,05/23/2014,20:20:08,Physical Security #0x04,System unplugged from LAN,Deasserted
+64a,05/23/2014,20:20:20,Physical Security #0x04,System unplugged from LAN,Asserted
+64b,05/23/2014,20:38:27,Physical Security #0x04,System unplugged from LAN,Deasserted
+64c,05/23/2014,20:38:39,Physical Security #0x04,System unplugged from LAN,Asserted
+64d,05/23/2014,20:43:13,Physical Security #0x04,System unplugged from LAN,Deasserted
+64e,05/23/2014,20:43:24,Physical Security #0x04,System unplugged from LAN,Asserted
+64f,05/23/2014,20:44:23,Physical Security #0x04,System unplugged from LAN,Deasserted
+650,05/23/2014,20:45:22,Physical Security #0x04,System unplugged from LAN,Asserted
+651,05/23/2014,20:48:03,Physical Security #0x04,System unplugged from LAN,Deasserted
+652,05/23/2014,20:48:14,Physical Security #0x04,System unplugged from LAN,Asserted
+653,05/23/2014,20:48:15,Physical Security #0x04,System unplugged from LAN,Deasserted
+654,05/23/2014,20:48:39,Physical Security #0x04,System unplugged from LAN,Asserted
+655,05/23/2014,21:10:00,Physical Security #0x04,System unplugged from LAN,Deasserted
+656,05/23/2014,21:11:01,Physical Security #0x04,System unplugged from LAN,Asserted
+657,05/23/2014,21:12:58,Physical Security #0x04,System unplugged from LAN,Deasserted
+658,05/23/2014,21:13:09,Physical Security #0x04,System unplugged from LAN,Asserted
+659,05/23/2014,21:13:10,Physical Security #0x04,System unplugged from LAN,Deasserted
+65a,05/23/2014,21:13:33,Physical Security #0x04,System unplugged from LAN,Asserted
+65b,05/23/2014,21:13:34,Physical Security #0x04,System unplugged from LAN,Deasserted
+65c,05/23/2014,21:14:10,Physical Security #0x04,System unplugged from LAN,Asserted
+65d,05/23/2014,21:32:46,Physical Security #0x04,System unplugged from LAN,Deasserted
+65e,05/23/2014,21:33:21,Physical Security #0x04,System unplugged from LAN,Asserted
+65f,05/23/2014,21:34:20,Physical Security #0x04,System unplugged from LAN,Deasserted
+660,05/23/2014,21:34:32,Physical Security #0x04,System unplugged from LAN,Asserted
+661,05/23/2014,21:35:20,Physical Security #0x04,System unplugged from LAN,Deasserted
+662,05/23/2014,21:36:43,Physical Security #0x04,System unplugged from LAN,Asserted
+663,05/23/2014,21:41:18,Physical Security #0x04,System unplugged from LAN,Deasserted
+664,05/23/2014,21:41:29,Physical Security #0x04,System unplugged from LAN,Asserted
+665,05/23/2014,21:45:43,Physical Security #0x04,System unplugged from LAN,Deasserted
+666,05/23/2014,21:45:55,Physical Security #0x04,System unplugged from LAN,Asserted
+667,05/23/2014,21:46:54,Physical Security #0x04,System unplugged from LAN,Deasserted
+668,05/23/2014,21:47:06,Physical Security #0x04,System unplugged from LAN,Asserted
+669,05/23/2014,21:47:40,Physical Security #0x04,System unplugged from LAN,Deasserted
+66a,05/23/2014,21:47:52,Physical Security #0x04,System unplugged from LAN,Asserted
+66b,05/23/2014,22:22:51,Physical Security #0x04,System unplugged from LAN,Deasserted
+66c,05/23/2014,22:23:03,Physical Security #0x04,System unplugged from LAN,Asserted
+66d,05/23/2014,22:31:47,Physical Security #0x04,System unplugged from LAN,Deasserted
+66e,05/23/2014,22:31:59,Physical Security #0x04,System unplugged from LAN,Asserted
+66f,05/23/2014,22:32:22,Physical Security #0x04,System unplugged from LAN,Deasserted
+670,05/23/2014,22:32:34,Physical Security #0x04,System unplugged from LAN,Asserted
+671,05/23/2014,22:33:22,Physical Security #0x04,System unplugged from LAN,Deasserted
+672,05/23/2014,22:33:33,Physical Security #0x04,System unplugged from LAN,Asserted
+673,05/23/2014,22:33:34,Physical Security #0x04,System unplugged from LAN,Deasserted
+674,05/23/2014,22:33:58,Physical Security #0x04,System unplugged from LAN,Asserted
+675,05/23/2014,22:34:21,Physical Security #0x04,System unplugged from LAN,Deasserted
+676,05/23/2014,22:34:32,Physical Security #0x04,System unplugged from LAN,Asserted
+677,05/23/2014,22:34:33,Physical Security #0x04,System unplugged from LAN,Deasserted
+678,05/23/2014,22:34:57,Physical Security #0x04,System unplugged from LAN,Asserted
+679,05/23/2014,22:44:35,Physical Security #0x04,System unplugged from LAN,Deasserted
+67a,05/23/2014,22:44:48,Physical Security #0x04,System unplugged from LAN,Asserted
+67b,05/23/2014,22:47:25,Physical Security #0x04,System unplugged from LAN,Deasserted
+67c,05/23/2014,22:47:38,Physical Security #0x04,System unplugged from LAN,Asserted
+67d,05/23/2014,22:48:12,Physical Security #0x04,System unplugged from LAN,Deasserted
+67e,05/23/2014,22:48:36,Physical Security #0x04,System unplugged from LAN,Asserted
+67f,05/23/2014,23:16:15,Physical Security #0x04,System unplugged from LAN,Deasserted
+680,05/23/2014,23:16:27,Physical Security #0x04,System unplugged from LAN,Asserted
+681,05/23/2014,23:17:02,Physical Security #0x04,System unplugged from LAN,Deasserted
+682,05/23/2014,23:17:13,Physical Security #0x04,System unplugged from LAN,Asserted
+683,05/23/2014,23:29:03,Physical Security #0x04,System unplugged from LAN,Deasserted
+684,05/23/2014,23:29:15,Physical Security #0x04,System unplugged from LAN,Asserted
+685,05/23/2014,23:30:07,Physical Security #0x04,System unplugged from LAN,Deasserted
+686,05/23/2014,23:30:18,Physical Security #0x04,System unplugged from LAN,Asserted
+687,05/23/2014,23:46:08,Physical Security #0x04,System unplugged from LAN,Deasserted
+688,05/23/2014,23:46:57,Physical Security #0x04,System unplugged from LAN,Asserted
+689,05/23/2014,23:58:04,Physical Security #0x04,System unplugged from LAN,Deasserted
+68a,05/23/2014,23:58:16,Physical Security #0x04,System unplugged from LAN,Asserted
+68b,05/23/2014,23:58:22,Physical Security #0x04,System unplugged from LAN,Deasserted
+68c,05/23/2014,23:58:34,Physical Security #0x04,System unplugged from LAN,Asserted
+68d,05/23/2014,23:59:56,Physical Security #0x04,System unplugged from LAN,Deasserted
+68e,05/24/2014,00:00:07,Physical Security #0x04,System unplugged from LAN,Asserted
+68f,05/24/2014,00:00:08,Physical Security #0x04,System unplugged from LAN,Deasserted
+690,05/24/2014,00:00:32,Physical Security #0x04,System unplugged from LAN,Asserted
+691,05/24/2014,00:18:09,Physical Security #0x04,System unplugged from LAN,Deasserted
+692,05/24/2014,00:18:20,Physical Security #0x04,System unplugged from LAN,Asserted
+693,05/24/2014,00:20:18,Physical Security #0x04,System unplugged from LAN,Deasserted
+694,05/24/2014,00:20:41,Physical Security #0x04,System unplugged from LAN,Asserted
+695,05/24/2014,00:22:20,Physical Security #0x04,System unplugged from LAN,Deasserted
+696,05/24/2014,00:22:32,Physical Security #0x04,System unplugged from LAN,Asserted
+697,05/24/2014,00:35:14,Physical Security #0x04,System unplugged from LAN,Deasserted
+698,05/24/2014,00:35:26,Physical Security #0x04,System unplugged from LAN,Asserted
+699,05/24/2014,00:36:02,Physical Security #0x04,System unplugged from LAN,Deasserted
+69a,05/24/2014,00:36:14,Physical Security #0x04,System unplugged from LAN,Asserted
+69b,05/24/2014,00:37:12,Physical Security #0x04,System unplugged from LAN,Deasserted
+69c,05/24/2014,00:37:49,Physical Security #0x04,System unplugged from LAN,Asserted
+69d,05/24/2014,00:38:10,Physical Security #0x04,System unplugged from LAN,Deasserted
+69e,05/24/2014,00:38:22,Physical Security #0x04,System unplugged from LAN,Asserted
+69f,05/24/2014,00:38:24,Physical Security #0x04,System unplugged from LAN,Deasserted
+6a0,05/24/2014,00:39:12,Physical Security #0x04,System unplugged from LAN,Asserted
+6a1,05/24/2014,00:41:37,Physical Security #0x04,System unplugged from LAN,Deasserted
+6a2,05/24/2014,00:41:50,Physical Security #0x04,System unplugged from LAN,Asserted
+6a3,05/24/2014,00:44:00,Physical Security #0x04,System unplugged from LAN,Deasserted
+6a4,05/24/2014,00:44:12,Physical Security #0x04,System unplugged from LAN,Asserted
+6a5,05/24/2014,00:45:00,Physical Security #0x04,System unplugged from LAN,Deasserted
+6a6,05/24/2014,00:45:13,Physical Security #0x04,System unplugged from LAN,Asserted
+6a7,05/24/2014,00:45:59,Physical Security #0x04,System unplugged from LAN,Deasserted
+6a8,05/24/2014,00:46:12,Physical Security #0x04,System unplugged from LAN,Asserted
+6a9,05/24/2014,01:05:08,Physical Security #0x04,System unplugged from LAN,Deasserted
+6aa,05/24/2014,01:05:20,Physical Security #0x04,System unplugged from LAN,Asserted
+6ab,05/24/2014,01:06:20,Physical Security #0x04,System unplugged from LAN,Deasserted
+6ac,05/24/2014,01:06:33,Physical Security #0x04,System unplugged from LAN,Asserted
+6ad,05/24/2014,01:11:32,Physical Security #0x04,System unplugged from LAN,Deasserted
+6ae,05/24/2014,01:11:46,Physical Security #0x04,System unplugged from LAN,Asserted
+6af,05/24/2014,01:12:07,Physical Security #0x04,System unplugged from LAN,Deasserted
+6b0,05/24/2014,01:12:21,Physical Security #0x04,System unplugged from LAN,Asserted
+6b1,05/24/2014,01:12:31,Physical Security #0x04,System unplugged from LAN,Deasserted
+6b2,05/24/2014,01:12:44,Physical Security #0x04,System unplugged from LAN,Asserted
+6b3,05/24/2014,01:13:42,Physical Security #0x04,System unplugged from LAN,Deasserted
+6b4,05/24/2014,01:14:43,Physical Security #0x04,System unplugged from LAN,Asserted
+6b5,05/24/2014,01:15:05,Physical Security #0x04,System unplugged from LAN,Deasserted
+6b6,05/24/2014,01:15:17,Physical Security #0x04,System unplugged from LAN,Asserted
+6b7,05/24/2014,01:22:48,Physical Security #0x04,System unplugged from LAN,Deasserted
+6b8,05/24/2014,01:23:01,Physical Security #0x04,System unplugged from LAN,Asserted
+6b9,05/24/2014,01:24:35,Physical Security #0x04,System unplugged from LAN,Deasserted
+6ba,05/24/2014,01:24:48,Physical Security #0x04,System unplugged from LAN,Asserted
+6bb,05/24/2014,01:25:11,Physical Security #0x04,System unplugged from LAN,Deasserted
+6bc,05/24/2014,01:25:23,Physical Security #0x04,System unplugged from LAN,Asserted
+6bd,05/24/2014,01:44:38,Physical Security #0x04,System unplugged from LAN,Deasserted
+6be,05/24/2014,01:45:02,Physical Security #0x04,System unplugged from LAN,Asserted
+6bf,05/24/2014,01:45:07,Physical Security #0x04,System unplugged from LAN,Deasserted
+6c0,05/24/2014,01:45:43,Physical Security #0x04,System unplugged from LAN,Asserted
+6c1,05/24/2014,01:47:15,Physical Security #0x04,System unplugged from LAN,Deasserted
+6c2,05/24/2014,01:48:28,Physical Security #0x04,System unplugged from LAN,Asserted
+6c3,05/24/2014,01:49:37,Physical Security #0x04,System unplugged from LAN,Deasserted
+6c4,05/24/2014,01:50:01,Physical Security #0x04,System unplugged from LAN,Asserted
+6c5,05/24/2014,01:54:45,Physical Security #0x04,System unplugged from LAN,Deasserted
+6c6,05/24/2014,01:55:00,Physical Security #0x04,System unplugged from LAN,Asserted
+6c7,05/24/2014,01:55:32,Physical Security #0x04,System unplugged from LAN,Deasserted
+6c8,05/24/2014,01:55:45,Physical Security #0x04,System unplugged from LAN,Asserted
+6c9,05/24/2014,01:55:57,Physical Security #0x04,System unplugged from LAN,Deasserted
+6ca,05/24/2014,01:56:09,Physical Security #0x04,System unplugged from LAN,Asserted
+6cb,05/24/2014,01:57:08,Physical Security #0x04,System unplugged from LAN,Deasserted
+6cc,05/24/2014,01:57:20,Physical Security #0x04,System unplugged from LAN,Asserted
+6cd,05/24/2014,01:58:31,Physical Security #0x04,System unplugged from LAN,Deasserted
+6ce,05/24/2014,01:58:43,Physical Security #0x04,System unplugged from LAN,Asserted
+6cf,05/24/2014,02:15:35,Physical Security #0x04,System unplugged from LAN,Deasserted
+6d0,05/24/2014,02:16:35,Physical Security #0x04,System unplugged from LAN,Asserted
+6d1,05/24/2014,02:17:46,Physical Security #0x04,System unplugged from LAN,Deasserted
+6d2,05/24/2014,02:18:00,Physical Security #0x04,System unplugged from LAN,Asserted
+6d3,05/24/2014,02:28:01,Physical Security #0x04,System unplugged from LAN,Deasserted
+6d4,05/24/2014,02:28:15,Physical Security #0x04,System unplugged from LAN,Asserted
+6d5,05/24/2014,02:29:12,Physical Security #0x04,System unplugged from LAN,Deasserted
+6d6,05/24/2014,02:29:24,Physical Security #0x04,System unplugged from LAN,Asserted
+6d7,05/24/2014,02:39:05,Physical Security #0x04,System unplugged from LAN,Deasserted
+6d8,05/24/2014,02:39:19,Physical Security #0x04,System unplugged from LAN,Asserted
+6d9,05/24/2014,02:58:18,Physical Security #0x04,System unplugged from LAN,Deasserted
+6da,05/24/2014,02:58:31,Physical Security #0x04,System unplugged from LAN,Asserted
+6db,05/24/2014,03:08:58,Physical Security #0x04,System unplugged from LAN,Deasserted
+6dc,05/24/2014,03:09:11,Physical Security #0x04,System unplugged from LAN,Asserted
+6dd,05/24/2014,03:22:17,Physical Security #0x04,System unplugged from LAN,Deasserted
+6de,05/24/2014,03:22:54,Physical Security #0x04,System unplugged from LAN,Asserted
+6df,05/24/2014,03:27:49,Physical Security #0x04,System unplugged from LAN,Deasserted
+6e0,05/24/2014,03:28:03,Physical Security #0x04,System unplugged from LAN,Asserted
+6e1,05/24/2014,03:58:03,Physical Security #0x04,System unplugged from LAN,Deasserted
+6e2,05/24/2014,03:58:20,Physical Security #0x04,System unplugged from LAN,Asserted
+6e3,05/24/2014,03:58:39,Physical Security #0x04,System unplugged from LAN,Deasserted
+6e4,05/24/2014,03:59:30,Physical Security #0x04,System unplugged from LAN,Asserted
+6e5,05/24/2014,03:59:41,Physical Security #0x04,System unplugged from LAN,Deasserted
+6e6,05/24/2014,03:59:54,Physical Security #0x04,System unplugged from LAN,Asserted
+6e7,05/24/2014,04:10:30,Physical Security #0x04,System unplugged from LAN,Deasserted
+6e8,05/24/2014,04:11:56,Physical Security #0x04,System unplugged from LAN,Asserted
+6e9,05/24/2014,04:12:05,Physical Security #0x04,System unplugged from LAN,Deasserted
+6ea,05/24/2014,04:12:24,Physical Security #0x04,System unplugged from LAN,Asserted
+6eb,05/24/2014,04:14:05,Physical Security #0x04,System unplugged from LAN,Deasserted
+6ec,05/24/2014,04:14:38,Physical Security #0x04,System unplugged from LAN,Asserted
+6ed,05/24/2014,04:15:05,Physical Security #0x04,System unplugged from LAN,Deasserted
+6ee,05/24/2014,04:15:48,Physical Security #0x04,System unplugged from LAN,Asserted
+6ef,05/24/2014,04:20:26,Physical Security #0x04,System unplugged from LAN,Deasserted
+6f0,05/24/2014,04:21:22,Physical Security #0x04,System unplugged from LAN,Asserted
+6f1,05/24/2014,04:45:37,Physical Security #0x04,System unplugged from LAN,Deasserted
+6f2,05/24/2014,04:46:41,Physical Security #0x04,System unplugged from LAN,Asserted
+6f3,05/24/2014,04:47:36,Physical Security #0x04,System unplugged from LAN,Deasserted
+6f4,05/24/2014,04:48:14,Physical Security #0x04,System unplugged from LAN,Asserted
+6f5,05/24/2014,04:49:24,Physical Security #0x04,System unplugged from LAN,Deasserted
+6f6,05/24/2014,04:50:12,Physical Security #0x04,System unplugged from LAN,Asserted
+6f7,05/24/2014,05:06:19,Physical Security #0x04,System unplugged from LAN,Deasserted
+6f8,05/24/2014,05:07:41,Management Subsystem Health #0x0a,State Asserted
+6f9,05/24/2014,05:08:32,Physical Security #0x04,System unplugged from LAN,Asserted
+6fa,05/24/2014,05:16:11,Physical Security #0x04,System unplugged from LAN,Deasserted
+6fb,05/24/2014,05:16:59,Physical Security #0x04,System unplugged from LAN,Asserted
+6fc,05/24/2014,05:17:11,Physical Security #0x04,System unplugged from LAN,Deasserted
+6fd,05/24/2014,05:18:11,Physical Security #0x04,System unplugged from LAN,Asserted
+6fe,05/24/2014,05:19:45,Physical Security #0x04,System unplugged from LAN,Deasserted
+6ff,05/24/2014,05:20:34,Physical Security #0x04,System unplugged from LAN,Asserted
+700,05/24/2014,05:21:43,Physical Security #0x04,System unplugged from LAN,Deasserted
+701,05/24/2014,05:22:32,Physical Security #0x04,System unplugged from LAN,Asserted
+702,05/24/2014,05:45:01,Physical Security #0x04,System unplugged from LAN,Deasserted
+703,05/24/2014,05:45:14,Physical Security #0x04,System unplugged from LAN,Asserted
+704,05/24/2014,05:47:10,Physical Security #0x04,System unplugged from LAN,Deasserted
+705,05/24/2014,05:47:22,Physical Security #0x04,System unplugged from LAN,Asserted
+706,05/24/2014,05:47:33,Physical Security #0x04,System unplugged from LAN,Deasserted
+707,05/24/2014,05:47:45,Physical Security #0x04,System unplugged from LAN,Asserted
+708,05/24/2014,05:52:29,Physical Security #0x04,System unplugged from LAN,Deasserted
+709,05/24/2014,05:52:41,Physical Security #0x04,System unplugged from LAN,Asserted
+70a,05/24/2014,05:56:45,Physical Security #0x04,System unplugged from LAN,Deasserted
+70b,05/24/2014,05:57:10,Physical Security #0x04,System unplugged from LAN,Asserted
+70c,05/24/2014,06:05:30,Physical Security #0x04,System unplugged from LAN,Deasserted
+70d,05/24/2014,06:07:06,Physical Security #0x04,System unplugged from LAN,Asserted
+70e,05/24/2014,06:09:45,Physical Security #0x04,System unplugged from LAN,Deasserted
+70f,05/24/2014,06:10:34,Physical Security #0x04,System unplugged from LAN,Asserted
+710,05/24/2014,06:18:54,Physical Security #0x04,System unplugged from LAN,Deasserted
+711,05/24/2014,06:19:54,Physical Security #0x04,System unplugged from LAN,Asserted
+712,05/24/2014,06:48:00,Physical Security #0x04,System unplugged from LAN,Deasserted
+713,05/24/2014,06:48:48,Physical Security #0x04,System unplugged from LAN,Asserted
+714,05/24/2014,06:49:00,Physical Security #0x04,System unplugged from LAN,Deasserted
+715,05/24/2014,06:49:12,Physical Security #0x04,System unplugged from LAN,Asserted
+716,05/24/2014,07:12:34,Physical Security #0x04,System unplugged from LAN,Deasserted
+717,05/24/2014,07:12:46,Physical Security #0x04,System unplugged from LAN,Asserted
+718,05/24/2014,07:14:56,Physical Security #0x04,System unplugged from LAN,Deasserted
+719,05/24/2014,07:15:21,Physical Security #0x04,System unplugged from LAN,Asserted
+71a,05/24/2014,07:22:11,Physical Security #0x04,System unplugged from LAN,Deasserted
+71b,05/24/2014,07:22:23,Physical Security #0x04,System unplugged from LAN,Asserted
+71c,05/24/2014,07:23:14,Physical Security #0x04,System unplugged from LAN,Deasserted
+71d,05/24/2014,07:24:26,Physical Security #0x04,System unplugged from LAN,Asserted
+71e,05/24/2014,07:31:18,Physical Security #0x04,System unplugged from LAN,Deasserted
+71f,05/24/2014,07:31:55,Physical Security #0x04,System unplugged from LAN,Asserted
+720,05/24/2014,07:33:53,Physical Security #0x04,System unplugged from LAN,Deasserted
+721,05/24/2014,07:35:05,Physical Security #0x04,System unplugged from LAN,Asserted
+722,05/24/2014,07:36:27,Physical Security #0x04,System unplugged from LAN,Deasserted
+723,05/24/2014,07:37:03,Physical Security #0x04,System unplugged from LAN,Asserted
+724,05/24/2014,07:39:15,Physical Security #0x04,System unplugged from LAN,Deasserted
+725,05/24/2014,07:39:39,Physical Security #0x04,System unplugged from LAN,Asserted
+726,05/24/2014,07:40:55,Physical Security #0x04,System unplugged from LAN,Deasserted
+727,05/24/2014,07:41:07,Physical Security #0x04,System unplugged from LAN,Asserted
+728,05/24/2014,08:35:09,Physical Security #0x04,System unplugged from LAN,Deasserted
+729,05/24/2014,08:35:46,Physical Security #0x04,System unplugged from LAN,Asserted
+72a,05/24/2014,08:55:32,Physical Security #0x04,System unplugged from LAN,Deasserted
+72b,05/24/2014,08:56:19,Physical Security #0x04,System unplugged from LAN,Asserted
+72c,05/24/2014,08:57:53,Physical Security #0x04,System unplugged from LAN,Deasserted
+72d,05/24/2014,08:58:05,Physical Security #0x04,System unplugged from LAN,Asserted
+72e,05/24/2014,09:27:04,Physical Security #0x04,System unplugged from LAN,Deasserted
+72f,05/24/2014,09:27:52,Physical Security #0x04,System unplugged from LAN,Asserted
+730,05/24/2014,09:37:16,Physical Security #0x04,System unplugged from LAN,Deasserted
+731,05/24/2014,09:38:27,Physical Security #0x04,System unplugged from LAN,Asserted
+732,05/24/2014,09:49:40,Physical Security #0x04,System unplugged from LAN,Deasserted
+733,05/24/2014,09:50:28,Physical Security #0x04,System unplugged from LAN,Asserted
+734,05/24/2014,10:18:18,Physical Security #0x04,System unplugged from LAN,Deasserted
+735,05/24/2014,10:19:18,Physical Security #0x04,System unplugged from LAN,Asserted
+736,05/24/2014,10:30:02,Physical Security #0x04,System unplugged from LAN,Deasserted
+737,05/24/2014,10:30:38,Physical Security #0x04,System unplugged from LAN,Asserted
+738,05/24/2014,11:21:16,Physical Security #0x04,System unplugged from LAN,Deasserted
+739,05/24/2014,11:22:52,Physical Security #0x04,System unplugged from LAN,Asserted
+73a,05/24/2014,11:23:51,Physical Security #0x04,System unplugged from LAN,Deasserted
+73b,05/24/2014,11:24:50,Physical Security #0x04,System unplugged from LAN,Asserted
+73c,05/24/2014,11:50:00,Physical Security #0x04,System unplugged from LAN,Deasserted
+73d,05/24/2014,11:50:49,Physical Security #0x04,System unplugged from LAN,Asserted
+73e,05/24/2014,11:52:15,Physical Security #0x04,System unplugged from LAN,Deasserted
+73f,05/24/2014,11:52:27,Physical Security #0x04,System unplugged from LAN,Asserted
+740,05/24/2014,11:53:49,Physical Security #0x04,System unplugged from LAN,Deasserted
+741,05/24/2014,11:55:13,Physical Security #0x04,System unplugged from LAN,Asserted
+742,05/24/2014,11:56:47,Physical Security #0x04,System unplugged from LAN,Deasserted
+743,05/24/2014,11:57:35,Physical Security #0x04,System unplugged from LAN,Asserted
+744,05/24/2014,12:05:03,Physical Security #0x04,System unplugged from LAN,Deasserted
+745,05/24/2014,12:05:28,Physical Security #0x04,System unplugged from LAN,Asserted
+746,05/24/2014,12:06:31,Physical Security #0x04,System unplugged from LAN,Deasserted
+747,05/24/2014,12:06:43,Physical Security #0x04,System unplugged from LAN,Asserted
+748,05/24/2014,12:38:43,Physical Security #0x04,System unplugged from LAN,Deasserted
+749,05/24/2014,12:39:32,Physical Security #0x04,System unplugged from LAN,Asserted
+74a,05/24/2014,12:45:19,Physical Security #0x04,System unplugged from LAN,Deasserted
+74b,05/24/2014,12:45:31,Physical Security #0x04,System unplugged from LAN,Asserted
+74c,05/24/2014,12:51:00,Physical Security #0x04,System unplugged from LAN,Deasserted
+74d,05/24/2014,12:51:59,Physical Security #0x04,System unplugged from LAN,Asserted
+74e,05/24/2014,13:00:34,Physical Security #0x04,System unplugged from LAN,Deasserted
+74f,05/24/2014,13:01:34,Physical Security #0x04,System unplugged from LAN,Asserted
+750,05/24/2014,13:08:02,Physical Security #0x04,System unplugged from LAN,Deasserted
+751,05/24/2014,13:08:38,Physical Security #0x04,System unplugged from LAN,Asserted
+752,05/24/2014,13:10:24,Physical Security #0x04,System unplugged from LAN,Deasserted
+753,05/24/2014,13:11:00,Physical Security #0x04,System unplugged from LAN,Asserted
+754,05/24/2014,13:12:54,Physical Security #0x04,System unplugged from LAN,Deasserted
+755,05/24/2014,13:13:06,Physical Security #0x04,System unplugged from LAN,Asserted
+756,05/24/2014,13:13:18,Physical Security #0x04,System unplugged from LAN,Deasserted
+757,05/24/2014,13:13:42,Physical Security #0x04,System unplugged from LAN,Asserted
+758,05/24/2014,13:18:08,Physical Security #0x04,System unplugged from LAN,Deasserted
+759,05/24/2014,13:18:32,Physical Security #0x04,System unplugged from LAN,Asserted
+75a,05/24/2014,13:19:54,Physical Security #0x04,System unplugged from LAN,Deasserted
+75b,05/24/2014,13:20:18,Physical Security #0x04,System unplugged from LAN,Asserted
+75c,05/24/2014,13:21:52,Physical Security #0x04,System unplugged from LAN,Deasserted
+75d,05/24/2014,13:22:29,Physical Security #0x04,System unplugged from LAN,Asserted
+75e,05/24/2014,13:32:02,Physical Security #0x04,System unplugged from LAN,Deasserted
+75f,05/24/2014,13:32:39,Physical Security #0x04,System unplugged from LAN,Asserted
+760,05/24/2014,13:45:31,Physical Security #0x04,System unplugged from LAN,Deasserted
+761,05/24/2014,13:45:43,Physical Security #0x04,System unplugged from LAN,Asserted
+762,05/24/2014,13:52:06,Physical Security #0x04,System unplugged from LAN,Deasserted
+763,05/24/2014,13:52:19,Physical Security #0x04,System unplugged from LAN,Asserted
+764,05/24/2014,13:59:17,Physical Security #0x04,System unplugged from LAN,Deasserted
+765,05/24/2014,14:00:17,Physical Security #0x04,System unplugged from LAN,Asserted
+766,05/24/2014,14:09:33,Physical Security #0x04,System unplugged from LAN,Deasserted
+767,05/24/2014,14:09:57,Physical Security #0x04,System unplugged from LAN,Asserted
+768,05/24/2014,14:10:09,Physical Security #0x04,System unplugged from LAN,Deasserted
+769,05/24/2014,14:10:45,Physical Security #0x04,System unplugged from LAN,Asserted
+76a,05/24/2014,14:39:53,Physical Security #0x04,System unplugged from LAN,Deasserted
+76b,05/24/2014,14:40:54,Physical Security #0x04,System unplugged from LAN,Asserted
+76c,05/24/2014,14:42:16,Physical Security #0x04,System unplugged from LAN,Deasserted
+76d,05/24/2014,14:42:28,Physical Security #0x04,System unplugged from LAN,Asserted
+76e,05/24/2014,14:51:47,Physical Security #0x04,System unplugged from LAN,Deasserted
+76f,05/24/2014,14:52:12,Physical Security #0x04,System unplugged from LAN,Asserted
+770,05/24/2014,14:52:40,Physical Security #0x04,System unplugged from LAN,Deasserted
+771,05/24/2014,14:53:15,Physical Security #0x04,System unplugged from LAN,Asserted
+772,05/24/2014,14:54:14,Physical Security #0x04,System unplugged from LAN,Deasserted
+773,05/24/2014,14:54:50,Physical Security #0x04,System unplugged from LAN,Asserted
+774,05/24/2014,15:02:52,Physical Security #0x04,System unplugged from LAN,Deasserted
+775,05/24/2014,15:03:04,Physical Security #0x04,System unplugged from LAN,Asserted
+776,05/24/2014,15:03:52,Physical Security #0x04,System unplugged from LAN,Deasserted
+777,05/24/2014,15:04:40,Physical Security #0x04,System unplugged from LAN,Asserted
+778,05/24/2014,15:05:38,Physical Security #0x04,System unplugged from LAN,Deasserted
+779,05/24/2014,15:06:38,Physical Security #0x04,System unplugged from LAN,Asserted
+77a,05/24/2014,15:07:48,Physical Security #0x04,System unplugged from LAN,Deasserted
+77b,05/24/2014,15:08:49,Physical Security #0x04,System unplugged from LAN,Asserted
+77c,05/24/2014,15:21:12,Physical Security #0x04,System unplugged from LAN,Deasserted
+77d,05/24/2014,15:21:48,Physical Security #0x04,System unplugged from LAN,Asserted
+77e,05/24/2014,15:22:13,Physical Security #0x04,System unplugged from LAN,Deasserted
+77f,05/24/2014,15:22:25,Physical Security #0x04,System unplugged from LAN,Asserted
+780,05/24/2014,15:35:24,Physical Security #0x04,System unplugged from LAN,Deasserted
+781,05/24/2014,15:36:13,Physical Security #0x04,System unplugged from LAN,Asserted
+782,05/24/2014,15:38:34,Physical Security #0x04,System unplugged from LAN,Deasserted
+783,05/24/2014,15:39:11,Physical Security #0x04,System unplugged from LAN,Asserted
+784,05/24/2014,15:54:35,Physical Security #0x04,System unplugged from LAN,Deasserted
+785,05/24/2014,15:55:22,Physical Security #0x04,System unplugged from LAN,Asserted
+786,05/24/2014,15:56:56,Physical Security #0x04,System unplugged from LAN,Deasserted
+787,05/24/2014,15:57:57,Physical Security #0x04,System unplugged from LAN,Asserted
+788,05/24/2014,16:49:02,Physical Security #0x04,System unplugged from LAN,Deasserted
+789,05/24/2014,16:49:25,Physical Security #0x04,System unplugged from LAN,Asserted
+78a,05/24/2014,17:00:57,Physical Security #0x04,System unplugged from LAN,Deasserted
+78b,05/24/2014,17:02:46,Physical Security #0x04,System unplugged from LAN,Asserted
+78c,05/24/2014,17:04:20,Physical Security #0x04,System unplugged from LAN,Deasserted
+78d,05/24/2014,17:04:56,Physical Security #0x04,System unplugged from LAN,Asserted
+78e,05/24/2014,17:11:33,Physical Security #0x04,System unplugged from LAN,Deasserted
+78f,05/24/2014,17:12:22,Physical Security #0x04,System unplugged from LAN,Asserted
+790,05/24/2014,17:12:34,Physical Security #0x04,System unplugged from LAN,Deasserted
+791,05/24/2014,17:12:58,Physical Security #0x04,System unplugged from LAN,Asserted
+792,05/24/2014,18:01:59,Physical Security #0x04,System unplugged from LAN,Deasserted
+793,05/24/2014,18:02:23,Physical Security #0x04,System unplugged from LAN,Asserted
+794,05/24/2014,18:32:21,Physical Security #0x04,System unplugged from LAN,Deasserted
+795,05/24/2014,18:33:10,Physical Security #0x04,System unplugged from LAN,Asserted
+796,05/24/2014,18:34:20,Physical Security #0x04,System unplugged from LAN,Deasserted
+797,05/24/2014,18:35:20,Physical Security #0x04,System unplugged from LAN,Asserted
+798,05/24/2014,18:37:54,Physical Security #0x04,System unplugged from LAN,Deasserted
+799,05/24/2014,18:38:06,Physical Security #0x04,System unplugged from LAN,Asserted
+79a,05/24/2014,18:39:23,Physical Security #0x04,System unplugged from LAN,Deasserted
+79b,05/24/2014,18:40:22,Physical Security #0x04,System unplugged from LAN,Asserted
+79c,05/24/2014,18:45:22,Physical Security #0x04,System unplugged from LAN,Deasserted
+79d,05/24/2014,18:46:11,Physical Security #0x04,System unplugged from LAN,Asserted
+79e,05/24/2014,18:56:03,Physical Security #0x04,System unplugged from LAN,Deasserted
+79f,05/24/2014,18:56:50,Physical Security #0x04,System unplugged from LAN,Asserted
+7a0,05/24/2014,18:57:02,Physical Security #0x04,System unplugged from LAN,Deasserted
+7a1,05/24/2014,18:57:39,Physical Security #0x04,System unplugged from LAN,Asserted
+7a2,05/24/2014,18:58:58,Physical Security #0x04,System unplugged from LAN,Deasserted
+7a3,05/29/2014,00:34:00,Physical Security #0x04,System unplugged from LAN,Asserted
+7a4,05/29/2014,00:34:38,Power Supply #0x51,Power Supply AC lost,Asserted
+7a5,05/29/2014,00:34:39,Power Unit #0x02,Fully Redundant
+7a6,05/29/2014,00:34:39,Power Unit #0x02,Redundancy Lost
+7a7,05/29/2014,00:34:39,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+7a8,05/29/2014,00:34:43,Power Unit #0x01,Failure detected,Asserted
+7a9,05/29/2014,00:34:43,Power Unit #0x01,Power off/down,Asserted
+7aa,05/29/2014,00:34:43,Power Supply #0x50,Power Supply AC lost,Asserted
+7ab,05/29/2014,00:34:44,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+7ac,05/29/2014,00:34:44,Power Unit #0x02,Non-Redundant: Insufficient Resources
+7ad,05/29/2014,00:34:48,Power Unit #0x01,Power off/down,Deasserted
+7ae,05/29/2014,00:50:05,Power Unit #0x01,Power off/down,Asserted
+7af,05/29/2014,00:50:05,Power Unit #0x01,AC lost,Asserted
+7b0,05/29/2014,00:50:06,Power Unit #0x01,AC lost,Deasserted
+7b1,05/29/2014,00:50:09,Power Supply #0x50,Power Supply AC lost,Asserted
+7b2,05/29/2014,00:50:09,Power Supply #0x51,Power Supply AC lost,Asserted
+7b3,05/29/2014,00:50:10,Power Unit #0x02,Fully Redundant
+7b4,05/29/2014,00:50:10,Power Unit #0x02,Redundancy Lost
+7b5,05/29/2014,00:50:10,Power Unit #0x02,Non-Redundant: Insufficient Resources
+7b6,05/29/2014,00:50:10,Power Supply #0x51,Power Supply AC lost,Deasserted
+7b7,05/29/2014,00:50:11,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+7b8,05/29/2014,00:50:11,Power Unit #0x02,Non-Redundant: Insufficient Resources
+7b9,05/29/2014,00:50:34,Power Supply #0x50,Power Supply AC lost,Deasserted
+7ba,05/29/2014,00:50:35,Power Unit #0x02,Redundancy Lost
+7bb,05/29/2014,00:50:35,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+7bc,05/29/2014,00:50:36,Power Unit #0x02,Fully Redundant
+7bd,05/29/2014,00:50:56,Physical Security #0x04,System unplugged from LAN,Asserted
+7be,05/29/2014,00:53:04,Physical Security #0x04,System unplugged from LAN,Deasserted
+7bf,05/29/2014,00:53:15,Physical Security #0x04,System unplugged from LAN,Asserted
+7c0,05/29/2014,00:55:08,Physical Security #0x04,System unplugged from LAN,Deasserted
+7c1,05/29/2014,00:55:43,Physical Security #0x04,System unplugged from LAN,Asserted
+7c2,05/29/2014,00:56:45,Power Unit #0x01,Power off/down,Deasserted
+7c3,05/29/2014,00:56:45,Button #0x09,Power Button pressed,Asserted
+7c4,05/29/2014,00:56:48,Physical Security #0x04,System unplugged from LAN,Deasserted
+7c5,05/29/2014,00:56:49,Physical Security #0x04,System unplugged from LAN,Asserted
+7c6,05/29/2014,00:57:04,System Event #0x83,Timestamp Clock Sync,Asserted
+7c7,05/29/2014,00:57:04,System Event #0x83,Timestamp Clock Sync,Asserted
+7c8,05/29/2014,00:57:11,Physical Security #0x04,System unplugged from LAN,Deasserted
+7c9,05/29/2014,00:57:48,Physical Security #0x04,System unplugged from LAN,Asserted
+7ca,05/29/2014,00:58:07,System Event #0x83,OEM System boot event,Asserted
+7cb,05/29/2014,01:09:13,Physical Security #0x04,System unplugged from LAN,Deasserted
+7cc,05/29/2014,01:09:26,Physical Security #0x04,System unplugged from LAN,Asserted
+7cd,05/29/2014,01:19:54,Physical Security #0x04,System unplugged from LAN,Deasserted
+7ce,05/29/2014,01:20:05,Physical Security #0x04,System unplugged from LAN,Asserted
+7cf,05/29/2014,02:04:28,Physical Security #0x04,System unplugged from LAN,Deasserted
+7d0,05/29/2014,02:05:04,Physical Security #0x04,System unplugged from LAN,Asserted
+7d1,05/29/2014,02:32:17,Physical Security #0x04,System unplugged from LAN,Deasserted
+7d2,05/31/2014,07:38:35,Management Subsystem Health #0x0a,State Asserted
+7d3,06/03/2014,03:23:32,System Event #0x83,Timestamp Clock Sync,Asserted
+7d4,06/03/2014,03:23:32,System Event #0x83,Timestamp Clock Sync,Asserted
+7d5,06/03/2014,03:26:06,System Event #0x83,Timestamp Clock Sync,Asserted
+7d6,06/03/2014,03:26:06,System Event #0x83,Timestamp Clock Sync,Asserted
+7d7,06/03/2014,03:27:12,System Event #0x83,OEM System boot event,Asserted
+7d8,06/04/2014,09:32:55,Button #0x09,Power Button pressed,Asserted
+7d9,06/04/2014,09:32:59,Power Unit #0x01,Power off/down,Asserted
+7da,06/04/2014,09:33:20,Power Supply #0x51,Power Supply AC lost,Asserted
+7db,06/04/2014,09:33:21,Power Unit #0x02,Fully Redundant
+7dc,06/04/2014,09:33:21,Power Unit #0x02,Redundancy Lost
+7dd,06/04/2014,09:33:21,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+7de,06/04/2014,09:33:21,Power Supply #0x50,Power Supply AC lost,Asserted
+7df,06/04/2014,09:33:22,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+7e0,06/04/2014,09:33:22,Power Unit #0x02,Non-Redundant: Insufficient Resources
+7e1,06/04/2014,09:38:46,Power Unit #0x01,Power off/down,Asserted
+7e2,06/04/2014,09:38:51,Power Supply #0x51,Power Supply AC lost,Asserted
+7e3,06/04/2014,09:38:51,Power Unit #0x02,Fully Redundant
+7e4,06/04/2014,09:38:51,Power Unit #0x02,Redundancy Lost
+7e5,06/04/2014,09:38:51,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+7e6,06/04/2014,09:38:51,Power Supply #0x51,Power Supply AC lost,Deasserted
+7e7,06/04/2014,09:38:52,Power Unit #0x02,Redundancy Lost
+7e8,06/04/2014,09:38:52,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+7e9,06/04/2014,09:38:53,Power Unit #0x02,Fully Redundant
+7ea,06/04/2014,09:46:36,Power Unit #0x01,Power off/down,Deasserted
+7eb,06/04/2014,09:46:36,Button #0x09,Power Button pressed,Asserted
+7ec,06/04/2014,09:46:53,System Event #0x83,Timestamp Clock Sync,Asserted
+7ed,06/04/2014,09:46:53,System Event #0x83,Timestamp Clock Sync,Asserted
+7ee,06/04/2014,09:47:57,System Event #0x83,OEM System boot event,Asserted
+7ef,06/06/2014,02:14:53,Physical Security #0x04,System unplugged from LAN,Asserted
+7f0,06/06/2014,02:15:46,Physical Security #0x04,System unplugged from LAN,Deasserted
+7f1,06/06/2014,02:18:06,Management Subsystem Health #0x0a,State Asserted
+7f2,06/06/2014,07:10:01,System Event #0x83,Timestamp Clock Sync,Asserted
+7f3,06/06/2014,07:10:02,System Event #0x83,Timestamp Clock Sync,Asserted
+7f4,06/08/2014,18:54:19,System Event #0x83,OEM System boot event,Asserted
+7f5,06/08/2014,18:56:02,System Event #0x83,Timestamp Clock Sync,Asserted
+7f6,06/08/2014,18:56:08,System Event #0x83,Timestamp Clock Sync,Asserted
+7f7,06/08/2014,18:57:11,System Event #0x83,OEM System boot event,Asserted
+7f8,06/08/2014,19:16:42,System Event #0x83,Timestamp Clock Sync,Asserted
+7f9,06/08/2014,19:16:42,System Event #0x83,Timestamp Clock Sync,Asserted
+7fa,06/08/2014,19:17:46,System Event #0x83,OEM System boot event,Asserted
+7fb,06/08/2014,21:31:37,System Event #0x83,Timestamp Clock Sync,Asserted
+7fc,06/08/2014,21:31:38,System Event #0x83,Timestamp Clock Sync,Asserted
+7fd,06/08/2014,21:32:41,System Event #0x83,OEM System boot event,Asserted
+7fe,06/08/2014,22:00:20,System Event #0x83,Timestamp Clock Sync,Asserted
+7ff,06/08/2014,22:00:20,System Event #0x83,Timestamp Clock Sync,Asserted
+800,06/08/2014,22:01:23,System Event #0x83,OEM System boot event,Asserted
+801,06/08/2014,22:08:05,System Event #0x83,Timestamp Clock Sync,Asserted
+802,06/08/2014,22:08:05,System Event #0x83,Timestamp Clock Sync,Asserted
+803,06/08/2014,22:09:12,System Event #0x83,OEM System boot event,Asserted
+804,06/08/2014,22:53:38,System Event #0x83,Timestamp Clock Sync,Asserted
+805,06/08/2014,22:53:38,System Event #0x83,Timestamp Clock Sync,Asserted
+806,06/08/2014,23:06:54,System Event #0x83,Timestamp Clock Sync,Asserted
+807,06/08/2014,23:06:54,System Event #0x83,Timestamp Clock Sync,Asserted
+808,06/08/2014,23:07:57,System Event #0x83,OEM System boot event,Asserted
+809,06/08/2014,23:08:53,System Event #0x83,Timestamp Clock Sync,Asserted
+80a,06/08/2014,23:08:54,System Event #0x83,Timestamp Clock Sync,Asserted
+80b,06/08/2014,23:10:01,System Event #0x83,OEM System boot event,Asserted
+80c,06/11/2014,02:28:09,System Event #0x83,Timestamp Clock Sync,Asserted
+80d,06/11/2014,02:28:09,System Event #0x83,Timestamp Clock Sync,Asserted
+80e,06/11/2014,02:49:27,System Event #0x83,Timestamp Clock Sync,Asserted
+80f,06/11/2014,02:49:27,System Event #0x83,Timestamp Clock Sync,Asserted
+810,06/11/2014,02:50:31,System Event #0x83,OEM System boot event,Asserted
+811,06/11/2014,02:51:34,System Event #0x83,Timestamp Clock Sync,Asserted
+812,06/11/2014,02:51:34,System Event #0x83,Timestamp Clock Sync,Asserted
+813,06/11/2014,02:52:38,System Event #0x83,OEM System boot event,Asserted
+814,06/16/2014,01:07:09,System Event #0x83,Timestamp Clock Sync,Asserted
+815,06/16/2014,01:07:21,System Event #0x83,Timestamp Clock Sync,Asserted
+816,06/16/2014,01:08:24,System Event #0x83,OEM System boot event,Asserted
+817,06/18/2014,23:48:22,System Event #0x83,Timestamp Clock Sync,Asserted
+818,06/18/2014,23:48:22,System Event #0x83,Timestamp Clock Sync,Asserted
+819,06/18/2014,23:49:33,System Event #0x83,OEM System boot event,Asserted
+81a,06/18/2014,23:50:42,System Event #0x83,Timestamp Clock Sync,Asserted
+81b,06/18/2014,23:50:42,System Event #0x83,Timestamp Clock Sync,Asserted
+81c,06/18/2014,23:53:16,System Event #0x83,OEM System boot event,Asserted
+81d,06/19/2014,00:04:34,Version Change #0x12,
+81e,06/19/2014,00:14:56,Version Change #0x12,
+81f,06/19/2014,00:16:07,Version Change #0x12,
+820,06/19/2014,00:17:34,Version Change #0x12,
+821,06/19/2014,00:17:35,Version Change #0x12,
+822,06/19/2014,00:17:39,Unknown #0x17,
+823,06/19/2014,00:17:39,Unknown #0x17,
+824,06/19/2014,00:17:42,Unknown #0x17,
+825,06/19/2014,00:18:16,Version Change #0x12,
+826,06/19/2014,00:51:47,Version Change #0x12,
+827,06/19/2014,00:53:14,Version Change #0x12,
+828,06/19/2014,00:53:15,Version Change #0x12,
+829,06/19/2014,00:53:18,Unknown #0x17,
+82a,06/19/2014,00:53:18,Unknown #0x17,
+82b,06/19/2014,00:53:20,Unknown #0x17,
+82c,06/19/2014,00:53:54,Version Change #0x12,
+82d,06/19/2014,00:54:09,Version Change #0x12,
+82e,06/19/2014,01:03:50,Version Change #0x12,
+82f,06/19/2014,01:08:10,Version Change #0x12,
+830,06/19/2014,01:09:37,Version Change #0x12,
+831,06/19/2014,01:09:38,Version Change #0x12,
+832,06/19/2014,01:09:42,Unknown #0x17,
+833,06/19/2014,01:09:42,Unknown #0x17,
+834,06/19/2014,01:09:44,Unknown #0x17,
+835,06/19/2014,01:10:18,Version Change #0x12,
+836,06/19/2014,01:10:38,Version Change #0x12,
+837,06/19/2014,01:20:13,Version Change #0x12,
+838,06/19/2014,01:21:29,Power Unit #0x02,Redundancy Lost
+839,06/19/2014,01:21:29,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+83a,06/19/2014,01:21:30,Power Unit #0x02,Fully Redundant
+83b,06/19/2014,01:21:30,Power Unit #0x02,Redundancy Lost
+83c,06/19/2014,01:21:30,Power Unit #0x02,Non-Redundant: Sufficient from Redundant
+83d,06/19/2014,01:32:09,Power Unit #0x01,Power off/down,Asserted
+83e,06/19/2014,01:32:15,Power Unit #0x01,Power off/down,Deasserted
+83f,06/19/2014,01:32:35,System Event #0x83,Timestamp Clock Sync,Asserted
+840,06/19/2014,01:32:35,System Event #0x83,Timestamp Clock Sync,Asserted
+841,06/19/2014,01:33:51,System Event #0x83,OEM System boot event,Asserted
+842,06/19/2014,01:38:47,System Event #0x83,Timestamp Clock Sync,Asserted
+843,06/19/2014,01:38:47,System Event #0x83,Timestamp Clock Sync,Asserted
+844,06/19/2014,01:39:29,System Event #0x83,Timestamp Clock Sync,Asserted
+845,06/19/2014,01:39:30,System Event #0x83,Timestamp Clock Sync,Asserted
+846,06/19/2014,01:40:33,System Event #0x83,OEM System boot event,Asserted
+847,06/19/2014,02:00:16,System Event #0x83,Timestamp Clock Sync,Asserted
+848,06/19/2014,02:00:16,System Event #0x83,Timestamp Clock Sync,Asserted
+849,06/19/2014,02:01:19,System Event #0x83,OEM System boot event,Asserted
+84a,06/19/2014,02:05:16,System Event #0x83,Timestamp Clock Sync,Asserted
+84b,06/19/2014,02:05:17,System Event #0x83,Timestamp Clock Sync,Asserted
+84c,06/19/2014,02:07:18,System Event #0x83,OEM System boot event,Asserted
+84d,06/19/2014,02:08:22,System Event #0x83,Timestamp Clock Sync,Asserted
+84e,06/19/2014,02:08:23,System Event #0x83,Timestamp Clock Sync,Asserted
+84f,06/19/2014,02:09:26,System Event #0x83,OEM System boot event,Asserted
+850,06/19/2014,02:10:22,System Event #0x83,Timestamp Clock Sync,Asserted
+851,06/19/2014,02:10:23,System Event #0x83,Timestamp Clock Sync,Asserted
+852,06/19/2014,02:11:25,System Event #0x83,OEM System boot event,Asserted
+853,06/19/2014,02:12:24,System Event #0x83,Timestamp Clock Sync,Asserted
+854,06/19/2014,02:12:24,System Event #0x83,Timestamp Clock Sync,Asserted
+855,06/19/2014,02:13:28,System Event #0x83,OEM System boot event,Asserted
+856,06/19/2014,02:16:34,System Event #0x83,Timestamp Clock Sync,Asserted
+857,06/19/2014,02:16:34,System Event #0x83,Timestamp Clock Sync,Asserted
+858,06/19/2014,02:17:37,System Event #0x83,OEM System boot event,Asserted
+859,06/19/2014,02:26:56,Version Change #0x12,
+85a,06/19/2014,02:37:26,Version Change #0x12,
+85b,06/19/2014,02:38:39,Version Change #0x12,
+85c,06/19/2014,02:40:06,Version Change #0x12,
+85d,06/19/2014,02:40:07,Version Change #0x12,
+85e,06/19/2014,02:40:11,Unknown #0x17,
+85f,06/19/2014,02:40:11,Unknown #0x17,
+860,06/19/2014,02:40:13,Unknown #0x17,
+861,06/19/2014,02:40:47,Version Change #0x12,
+862,06/20/2014,01:35:49,Power Unit #0x01,Power off/down,Asserted
+863,06/20/2014,01:35:54,Power Unit #0x01,Power off/down,Deasserted
+864,06/20/2014,01:36:15,System Event #0x83,Timestamp Clock Sync,Asserted
+865,06/20/2014,01:36:17,System Event #0x83,Timestamp Clock Sync,Asserted
+866,06/20/2014,01:36:46,System Event #0x83,Timestamp Clock Sync,Asserted
+867,06/20/2014,01:36:47,System Event #0x83,Timestamp Clock Sync,Asserted
+868,06/20/2014,01:40:53,System Event #0x83,Timestamp Clock Sync,Asserted
+869,06/20/2014,01:40:53,System Event #0x83,Timestamp Clock Sync,Asserted
+86a,06/20/2014,01:41:57,System Event #0x83,OEM System boot event,Asserted
+86b,06/22/2014,21:14:32,System Event #0x83,Timestamp Clock Sync,Asserted
+86c,06/22/2014,21:14:32,System Event #0x83,Timestamp Clock Sync,Asserted
+86d,06/22/2014,21:16:28,Power Unit #0x01,Power off/down,Asserted
+86e,06/22/2014,21:16:34,Power Unit #0x01,Power off/down,Deasserted
+86f,06/22/2014,21:16:52,System Event #0x83,Timestamp Clock Sync,Asserted
+870,06/22/2014,21:16:52,System Event #0x83,Timestamp Clock Sync,Asserted
+871,06/22/2014,21:17:55,System Event #0x83,OEM System boot event,Asserted
+872,06/22/2014,21:24:47,System Event #0x83,Timestamp Clock Sync,Asserted
+873,06/22/2014,21:24:47,System Event #0x83,Timestamp Clock Sync,Asserted
+874,06/22/2014,21:27:41,System Event #0x83,OEM System boot event,Asserted
+875,06/24/2014,00:56:16,System Event #0x83,Timestamp Clock Sync,Asserted
+876,06/24/2014,00:56:16,System Event #0x83,Timestamp Clock Sync,Asserted
+877,06/24/2014,00:56:39,System Event #0x83,Timestamp Clock Sync,Asserted
+878,06/24/2014,00:56:39,System Event #0x83,Timestamp Clock Sync,Asserted
+879,06/24/2014,00:59:12,System Event #0x83,OEM System boot event,Asserted
+87a,06/24/2014,01:07:28,System Event #0x83,Timestamp Clock Sync,Asserted
+87b,06/24/2014,01:07:28,System Event #0x83,Timestamp Clock Sync,Asserted
+87c,06/24/2014,01:08:31,System Event #0x83,OEM System boot event,Asserted
+87d,06/24/2014,01:11:04,System Event #0x83,Timestamp Clock Sync,Asserted
+87e,06/24/2014,01:11:05,System Event #0x83,Timestamp Clock Sync,Asserted
+87f,06/24/2014,01:12:08,System Event #0x83,OEM System boot event,Asserted
+880,06/24/2014,01:15:26,System Event #0x83,Timestamp Clock Sync,Asserted
+881,06/24/2014,01:15:27,System Event #0x83,Timestamp Clock Sync,Asserted
+882,06/24/2014,01:16:30,System Event #0x83,OEM System boot event,Asserted
+883,06/24/2014,01:25:02,System Event #0x83,Timestamp Clock Sync,Asserted
+884,06/24/2014,01:25:02,System Event #0x83,Timestamp Clock Sync,Asserted
+885,06/24/2014,09:25:11,System Event #0x83,OEM System boot event,Asserted
+886,06/24/2014,09:29:09,System Event #0x83,Timestamp Clock Sync,Asserted
+887,06/24/2014,09:29:09,System Event #0x83,Timestamp Clock Sync,Asserted
+888,06/24/2014,09:30:17,System Event #0x83,OEM System boot event,Asserted
+889,06/24/2014,09:42:43,Version Change #0x12,
+88a,06/24/2014,09:52:48,Version Change #0x12,
+88b,06/24/2014,09:53:58,Version Change #0x12,
+88c,06/24/2014,09:55:26,Version Change #0x12,
+88d,06/24/2014,09:55:27,Version Change #0x12,
+88e,06/24/2014,09:55:30,Unknown #0x17,
+88f,06/24/2014,09:55:30,Unknown #0x17,
+890,06/24/2014,09:55:33,Unknown #0x17,
+891,06/24/2014,09:56:07,Version Change #0x12,
+892,06/25/2014,09:38:48,Version Change #0x12,
+893,06/25/2014,09:49:40,Version Change #0x12,
+894,06/25/2014,09:51:38,Version Change #0x12,
+895,06/25/2014,09:53:05,Version Change #0x12,
+896,06/25/2014,09:53:11,Version Change #0x12,
+897,06/25/2014,09:53:15,Unknown #0x17,
+898,06/25/2014,09:53:15,Unknown #0x17,
+899,06/25/2014,09:53:18,Unknown #0x17,
+89a,06/25/2014,09:54:04,Version Change #0x12,
+89b,06/25/2014,09:57:36,Version Change #0x12,
+89c,06/25/2014,10:07:20,Version Change #0x12,
+89d,06/25/2014,10:08:34,Version Change #0x12,
+89e,06/25/2014,10:10:01,Version Change #0x12,
+89f,06/25/2014,10:10:03,Version Change #0x12,
+8a0,06/25/2014,10:10:06,Unknown #0x17,
+8a1,06/25/2014,10:10:06,Unknown #0x17,
+8a2,06/25/2014,10:10:09,Unknown #0x17,
+8a3,06/25/2014,10:10:44,Version Change #0x12,

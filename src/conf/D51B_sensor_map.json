@@ -1,0 +1,785 @@
+{
+  "Board-set Specific #0xb7": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "CPU_DIMM_VRHOT", 
+    "sensor_id_num": "0xb7", 
+    "sensor_type": "Board-set Specific", 
+    "sensor_type_num": "0xc5"
+  }, 
+  "Board-set Specific #0xb8": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "DIMM_HOT", 
+    "sensor_id_num": "0xb8", 
+    "sensor_type": "Board-set Specific", 
+    "sensor_type_num": "0xc7"
+  }, 
+  "Board-set Specific #0xe5": {
+    "entity_id": "Chassis Specific", 
+    "entity_id_num": "144.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "BMC FW info", 
+    "sensor_id_num": "0xe5", 
+    "sensor_type": "Board-set Specific", 
+    "sensor_type_num": "0xc9"
+  }, 
+  "Button #0xf1": {
+    "entity_id": "OEM Reserved", 
+    "entity_id_num": "209.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "Button", 
+    "sensor_id_num": "0xf1", 
+    "sensor_type": "Button", 
+    "sensor_type_num": "0x14"
+  }, 
+  "Critical Interrupt #0x90": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "Critical IRQ", 
+    "sensor_id_num": "0x90", 
+    "sensor_type": "Critical Interrupt", 
+    "sensor_type_num": "0x13"
+  }, 
+  "Critical Interrupt #0xa1": {
+    "entity_id": "Memory Device", 
+    "entity_id_num": "43.4", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "PCIE Error", 
+    "sensor_id_num": "0xa1", 
+    "sensor_type": "Critical Interrupt", 
+    "sensor_type_num": "0x13"
+  }, 
+  "Critical Interrupt #0xa7": {
+    "entity_id": "I/O Module", 
+    "entity_id_num": "44.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "Other IIO Error", 
+    "sensor_id_num": "0xa7", 
+    "sensor_type": "Critical Interrupt", 
+    "sensor_type_num": "0x13"
+  }, 
+  "Drive Slot #0x45": {
+    "entity_id": "Disk Drive Bay", 
+    "entity_id_num": "26.0", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "HDD0", 
+    "sensor_id_num": "0x45", 
+    "sensor_type": "Drive Slot", 
+    "sensor_type_num": "0x0d"
+  }, 
+  "Drive Slot #0x46": {
+    "entity_id": "Disk Drive Bay", 
+    "entity_id_num": "26.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "HDD1", 
+    "sensor_id_num": "0x46", 
+    "sensor_type": "Drive Slot", 
+    "sensor_type_num": "0x0d"
+  }, 
+  "Drive Slot #0x47": {
+    "entity_id": "Disk Drive Bay", 
+    "entity_id_num": "26.2", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "HDD2", 
+    "sensor_id_num": "0x47", 
+    "sensor_type": "Drive Slot", 
+    "sensor_type_num": "0x0d"
+  }, 
+  "Drive Slot #0x49": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "HDD3", 
+    "sensor_id_num": "0x49", 
+    "sensor_type": "Drive Slot", 
+    "sensor_type_num": "0x0d"
+  }, 
+  "Event Logging Disabled #0xe6": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.2", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "Event Log", 
+    "sensor_id_num": "0xe6", 
+    "sensor_type": "Event Logging Disabled", 
+    "sensor_type_num": "0x10"
+  }, 
+  "Fan #0xc0": {
+    "entity_id": "Fan Device", 
+    "entity_id_num": "29.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Fan_SYS0_1", 
+    "sensor_id_num": "0xc0", 
+    "sensor_type": "Fan", 
+    "sensor_type_num": "0x04"
+  }, 
+  "Fan #0xc1": {
+    "entity_id": "Fan Device", 
+    "entity_id_num": "29.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Fan_SYS0_2", 
+    "sensor_id_num": "0xc1", 
+    "sensor_type": "Fan", 
+    "sensor_type_num": "0x04"
+  }, 
+  "Fan #0xc2": {
+    "entity_id": "Fan Device", 
+    "entity_id_num": "29.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Fan_SYS1_1", 
+    "sensor_id_num": "0xc2", 
+    "sensor_type": "Fan", 
+    "sensor_type_num": "0x04"
+  }, 
+  "Fan #0xc3": {
+    "entity_id": "Fan Device", 
+    "entity_id_num": "29.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Fan_SYS1_2", 
+    "sensor_id_num": "0xc3", 
+    "sensor_type": "Fan", 
+    "sensor_type_num": "0x04"
+  }, 
+  "Fan #0xc4": {
+    "entity_id": "Fan Device", 
+    "entity_id_num": "29.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Fan_SYS2_1", 
+    "sensor_id_num": "0xc4", 
+    "sensor_type": "Fan", 
+    "sensor_type_num": "0x04"
+  }, 
+  "Fan #0xc5": {
+    "entity_id": "Fan Device", 
+    "entity_id_num": "29.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Fan_SYS2_2", 
+    "sensor_id_num": "0xc5", 
+    "sensor_type": "Fan", 
+    "sensor_type_num": "0x04"
+  }, 
+  "Fan #0xc6": {
+    "entity_id": "Fan Device", 
+    "entity_id_num": "29.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Fan_SYS3_1", 
+    "sensor_id_num": "0xc6", 
+    "sensor_type": "Fan", 
+    "sensor_type_num": "0x04"
+  }, 
+  "Fan #0xc7": {
+    "entity_id": "Fan Device", 
+    "entity_id_num": "29.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Fan_SYS3_2", 
+    "sensor_id_num": "0xc7", 
+    "sensor_type": "Fan", 
+    "sensor_type_num": "0x04"
+  }, 
+  "Fan #0xc8": {
+    "entity_id": "Fan Device", 
+    "entity_id_num": "29.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Fan_SYS4_1", 
+    "sensor_id_num": "0xc8", 
+    "sensor_type": "Fan", 
+    "sensor_type_num": "0x04"
+  }, 
+  "Fan #0xc9": {
+    "entity_id": "Fan Device", 
+    "entity_id_num": "29.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Fan_SYS4_2", 
+    "sensor_id_num": "0xc9", 
+    "sensor_type": "Fan", 
+    "sensor_type_num": "0x04"
+  }, 
+  "Fan #0xca": {
+    "entity_id": "Fan Device", 
+    "entity_id_num": "29.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Fan_SYS5_1", 
+    "sensor_id_num": "0xca", 
+    "sensor_type": "Fan", 
+    "sensor_type_num": "0x04"
+  }, 
+  "Fan #0xcb": {
+    "entity_id": "Fan Device", 
+    "entity_id_num": "29.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Fan_SYS5_2", 
+    "sensor_id_num": "0xcb", 
+    "sensor_type": "Fan", 
+    "sensor_type_num": "0x04"
+  }, 
+  "LAN #0xd8": {
+    "entity_id": "System Management Module", 
+    "entity_id_num": "6.4", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "SYS_NIC1_LinkUp", 
+    "sensor_id_num": "0xd8", 
+    "sensor_type": "LAN", 
+    "sensor_type_num": "0x27"
+  }, 
+  "LAN #0xd9": {
+    "entity_id": "System Management Module", 
+    "entity_id_num": "6.5", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "SYS_NIC2_LinkUp", 
+    "sensor_id_num": "0xd9", 
+    "sensor_type": "LAN", 
+    "sensor_type_num": "0x27"
+  }, 
+  "Management Subsystem Health #0xf0": {
+    "entity_id": "Chassis Specific", 
+    "entity_id_num": "144.2", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "BMC FW HEALTH", 
+    "sensor_id_num": "0xf0", 
+    "sensor_type": "Management Subsystem Health", 
+    "sensor_type_num": "0x28"
+  }, 
+  "Memory #0x87": {
+    "entity_id": "Memory Device", 
+    "entity_id_num": "43.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "Memory Error", 
+    "sensor_id_num": "0x87", 
+    "sensor_type": "Memory", 
+    "sensor_type_num": "0x0c"
+  }, 
+  "Memory #0xa6": {
+    "entity_id": "Memory Device", 
+    "entity_id_num": "43.5", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "Memory Event", 
+    "sensor_id_num": "0xa6", 
+    "sensor_type": "Memory", 
+    "sensor_type_num": "0x0c"
+  }, 
+  "OEM Reserved #0x17": {
+    "entity_id": "Management Controller Firmware", 
+    "entity_id_num": "46.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "SPS FW Health", 
+    "sensor_id_num": "0x17", 
+    "sensor_type": "OEM Reserved", 
+    "sensor_type_num": "0xdc"
+  }, 
+  "OEM Reserved #0x18": {
+    "entity_id": "Management Controller Firmware", 
+    "entity_id_num": "46.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "NM Exception", 
+    "sensor_id_num": "0x18", 
+    "sensor_type": "OEM Reserved", 
+    "sensor_type_num": "0xdc"
+  }, 
+  "OEM Reserved #0x19": {
+    "entity_id": "Management Controller Firmware", 
+    "entity_id_num": "46.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "NM Health", 
+    "sensor_id_num": "0x19", 
+    "sensor_type": "OEM Reserved", 
+    "sensor_type_num": "0xdc"
+  }, 
+  "OEM Reserved #0x1a": {
+    "entity_id": "Management Controller Firmware", 
+    "entity_id_num": "46.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "NM Capabilities", 
+    "sensor_id_num": "0x1a", 
+    "sensor_type": "OEM Reserved", 
+    "sensor_type_num": "0xdc"
+  }, 
+  "OEM Reserved #0x1b": {
+    "entity_id": "Management Controller Firmware", 
+    "entity_id_num": "46.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "NM Threshold", 
+    "sensor_id_num": "0x1b", 
+    "sensor_type": "OEM Reserved", 
+    "sensor_type_num": "0xdc"
+  }, 
+  "Other Units-based Sensor #0xe2": {
+    "entity_id": "Power Supply", 
+    "entity_id_num": "10.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "PSU1 Input", 
+    "sensor_id_num": "0xe2", 
+    "sensor_type": "Other Units-based Sensor", 
+    "sensor_type_num": "0x0b"
+  }, 
+  "Other Units-based Sensor #0xe3": {
+    "entity_id": "Power Supply", 
+    "entity_id_num": "10.2", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "PSU2 Input", 
+    "sensor_id_num": "0xe3", 
+    "sensor_type": "Other Units-based Sensor", 
+    "sensor_type_num": "0x0b"
+  }, 
+  "Other Units-based Sensor #0xf2": {
+    "entity_id": "System Chassis", 
+    "entity_id_num": "23.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Airflow", 
+    "sensor_id_num": "0xf2", 
+    "sensor_type": "Other Units-based Sensor", 
+    "sensor_type_num": "0x0b"
+  }, 
+  "Power Supply #0x6d": {
+    "entity_id": "OEM Reserved", 
+    "entity_id_num": "208.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "PSU Alert", 
+    "sensor_id_num": "0x6d", 
+    "sensor_type": "Power Supply", 
+    "sensor_type_num": "0x08"
+  }, 
+  "Power Supply #0xe0": {
+    "entity_id": "Power Supply", 
+    "entity_id_num": "10.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "PSU1 Status", 
+    "sensor_id_num": "0xe0", 
+    "sensor_type": "Power Supply", 
+    "sensor_type_num": "0x08"
+  }, 
+  "Power Supply #0xe1": {
+    "entity_id": "Power Supply", 
+    "entity_id_num": "10.2", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "PSU2 Status", 
+    "sensor_id_num": "0xe1", 
+    "sensor_type": "Power Supply", 
+    "sensor_type_num": "0x08"
+  }, 
+  "Power Supply #0xe4": {
+    "entity_id": "Power Management", 
+    "entity_id_num": "21.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "PSU Redundancy", 
+    "sensor_id_num": "0xe4", 
+    "sensor_type": "Power Supply", 
+    "sensor_type_num": "0x08"
+  }, 
+  "Power Unit #0xe8": {
+    "entity_id": "Power Unit", 
+    "entity_id_num": "19.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "Power Unit", 
+    "sensor_id_num": "0xe8", 
+    "sensor_type": "Power Unit", 
+    "sensor_type_num": "0x09"
+  }, 
+  "Processor #0x1c": {
+    "entity_id": "Processor", 
+    "entity_id_num": "3.3", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "CPU0 Thermal Sta", 
+    "sensor_id_num": "0x1c", 
+    "sensor_type": "Processor", 
+    "sensor_type_num": "0x07"
+  }, 
+  "Processor #0x1d": {
+    "entity_id": "Processor", 
+    "entity_id_num": "3.4", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "CPU1 Thermal Sta", 
+    "sensor_id_num": "0x1d", 
+    "sensor_type": "Processor", 
+    "sensor_type_num": "0x07"
+  }, 
+  "Processor #0x9d": {
+    "entity_id": "Memory Device", 
+    "entity_id_num": "43.2", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "QPI Error", 
+    "sensor_id_num": "0x9d", 
+    "sensor_type": "Processor", 
+    "sensor_type_num": "0x07"
+  }, 
+  "Processor #0xa8": {
+    "entity_id": "Processor", 
+    "entity_id_num": "3.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "CPU_0", 
+    "sensor_id_num": "0xa8", 
+    "sensor_type": "Processor", 
+    "sensor_type_num": "0x07"
+  }, 
+  "Processor #0xa9": {
+    "entity_id": "Processor", 
+    "entity_id_num": "3.2", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "CPU_1", 
+    "sensor_id_num": "0xa9", 
+    "sensor_type": "Processor", 
+    "sensor_type_num": "0x07"
+  }, 
+  "Processor #0xeb": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "CATERR", 
+    "sensor_id_num": "0xeb", 
+    "sensor_type": "Processor", 
+    "sensor_type_num": "0x07"
+  }, 
+  "System Event #0xe9": {
+    "entity_id": "System Management Module", 
+    "entity_id_num": "6.3", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "System Event", 
+    "sensor_id_num": "0xe9", 
+    "sensor_type": "System Event", 
+    "sensor_type_num": "0x12"
+  }, 
+  "System Firmware Error #0x9e": {
+    "entity_id": "Memory Device", 
+    "entity_id_num": "43.3", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "POST Error", 
+    "sensor_id_num": "0x9e", 
+    "sensor_type": "System Firmware Error", 
+    "sensor_type_num": "0x0f"
+  }, 
+  "Temperature #0x68": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_Outlet", 
+    "sensor_id_num": "0x68", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xa2": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "DCMI Therm Limit", 
+    "sensor_id_num": "0xa2", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xaa": {
+    "entity_id": "Processor", 
+    "entity_id_num": "65.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_CPU0", 
+    "sensor_id_num": "0xaa", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xab": {
+    "entity_id": "Processor", 
+    "entity_id_num": "65.2", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_CPU1", 
+    "sensor_id_num": "0xab", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xac": {
+    "entity_id": "System Board", 
+    "entity_id_num": "66.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_DIMM_AB", 
+    "sensor_id_num": "0xac", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xad": {
+    "entity_id": "System Board", 
+    "entity_id_num": "66.2", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_DIMM_CD", 
+    "sensor_id_num": "0xad", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xae": {
+    "entity_id": "System Board", 
+    "entity_id_num": "66.3", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_DIMM_EF", 
+    "sensor_id_num": "0xae", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xaf": {
+    "entity_id": "System Board", 
+    "entity_id_num": "66.4", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_DIMM_GH", 
+    "sensor_id_num": "0xaf", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xb0": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.18", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_OCP", 
+    "sensor_id_num": "0xb0", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xb1": {
+    "entity_id": "System Board", 
+    "entity_id_num": "66.5", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_VR_CPU0", 
+    "sensor_id_num": "0xb1", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xb2": {
+    "entity_id": "System Board", 
+    "entity_id_num": "66.6", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_VR_CPU1", 
+    "sensor_id_num": "0xb2", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xb3": {
+    "entity_id": "System Board", 
+    "entity_id_num": "66.7", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_VR_DIMM_AB", 
+    "sensor_id_num": "0xb3", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xb4": {
+    "entity_id": "System Board", 
+    "entity_id_num": "66.8", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_VR_DIMM_CD", 
+    "sensor_id_num": "0xb4", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xb5": {
+    "entity_id": "System Board", 
+    "entity_id_num": "66.9", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_VR_DIMM_EF", 
+    "sensor_id_num": "0xb5", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xb6": {
+    "entity_id": "System Board", 
+    "entity_id_num": "66.10", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_VR_DIMM_GH", 
+    "sensor_id_num": "0xb6", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xb9": {
+    "entity_id": "Management Controller Firmware", 
+    "entity_id_num": "46.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "MB Thermal Trip", 
+    "sensor_id_num": "0xb9", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xba": {
+    "entity_id": "System Board", 
+    "entity_id_num": "66.11", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_PCI_Area", 
+    "sensor_id_num": "0xba", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xbe": {
+    "entity_id": "System Board", 
+    "entity_id_num": "66.14", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_PCH", 
+    "sensor_id_num": "0xbe", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xbf": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "PCH Thermal Trip", 
+    "sensor_id_num": "0xbf", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xec": {
+    "entity_id": "System Board", 
+    "entity_id_num": "66.12", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_PCI_Inlet1", 
+    "sensor_id_num": "0xec", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xed": {
+    "entity_id": "System Board", 
+    "entity_id_num": "66.13", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_PCI_Inlet2", 
+    "sensor_id_num": "0xed", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Temperature #0xee": {
+    "entity_id": "Air Inlet", 
+    "entity_id_num": "64.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Temp_Ambient_FP", 
+    "sensor_id_num": "0xee", 
+    "sensor_type": "Temperature", 
+    "sensor_type_num": "0x01"
+  }, 
+  "Voltage #0xd0": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Volt_P3V3", 
+    "sensor_id_num": "0xd0", 
+    "sensor_type": "Voltage", 
+    "sensor_type_num": "0x02"
+  }, 
+  "Voltage #0xd1": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Volt_P5V", 
+    "sensor_id_num": "0xd1", 
+    "sensor_type": "Voltage", 
+    "sensor_type_num": "0x02"
+  }, 
+  "Voltage #0xd2": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Volt_P12V", 
+    "sensor_id_num": "0xd2", 
+    "sensor_type": "Voltage", 
+    "sensor_type_num": "0x02"
+  }, 
+  "Voltage #0xd3": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Volt_P1V05", 
+    "sensor_id_num": "0xd3", 
+    "sensor_type": "Voltage", 
+    "sensor_type_num": "0x02"
+  }, 
+  "Voltage #0xd4": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Volt_P1V8_AUX", 
+    "sensor_id_num": "0xd4", 
+    "sensor_type": "Voltage", 
+    "sensor_type_num": "0x02"
+  }, 
+  "Voltage #0xd5": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Volt_P3V3_AUX", 
+    "sensor_id_num": "0xd5", 
+    "sensor_type": "Voltage", 
+    "sensor_type_num": "0x02"
+  }, 
+  "Voltage #0xd6": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Volt_P5V_AUX", 
+    "sensor_id_num": "0xd6", 
+    "sensor_type": "Voltage", 
+    "sensor_type_num": "0x02"
+  }, 
+  "Voltage #0xd7": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Volt_P3V_BAT", 
+    "sensor_id_num": "0xd7", 
+    "sensor_type": "Voltage", 
+    "sensor_type_num": "0x02"
+  }, 
+  "Voltage #0xda": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Volt_VR_CPU0", 
+    "sensor_id_num": "0xda", 
+    "sensor_type": "Voltage", 
+    "sensor_type_num": "0x02"
+  }, 
+  "Voltage #0xdb": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Volt_VR_CPU1", 
+    "sensor_id_num": "0xdb", 
+    "sensor_type": "Voltage", 
+    "sensor_type_num": "0x02"
+  }, 
+  "Voltage #0xdc": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Volt_VR_DIMM_AB", 
+    "sensor_id_num": "0xdc", 
+    "sensor_type": "Voltage", 
+    "sensor_type_num": "0x02"
+  }, 
+  "Voltage #0xdd": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Volt_VR_DIMM_CD", 
+    "sensor_id_num": "0xdd", 
+    "sensor_type": "Voltage", 
+    "sensor_type_num": "0x02"
+  }, 
+  "Voltage #0xde": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Volt_VR_DIMM_EF", 
+    "sensor_id_num": "0xde", 
+    "sensor_type": "Voltage", 
+    "sensor_type_num": "0x02"
+  }, 
+  "Voltage #0xdf": {
+    "entity_id": "System Board", 
+    "entity_id_num": "7.1", 
+    "sensor_class": "Threshold", 
+    "sensor_id": "Volt_VR_DIMM_GH", 
+    "sensor_id_num": "0xdf", 
+    "sensor_type": "Voltage", 
+    "sensor_type_num": "0x02"
+  }, 
+  "Watchdog 2 #0xe7": {
+    "entity_id": "System Management Module", 
+    "entity_id_num": "6.2", 
+    "sensor_class": "Discrete", 
+    "sensor_id": "Watchdog", 
+    "sensor_id_num": "0xe7", 
+    "sensor_type": "Watchdog 2", 
+    "sensor_type_num": "0x23"
+  }
+}

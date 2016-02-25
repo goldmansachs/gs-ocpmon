@@ -1,0 +1,969 @@
+gs-heat-ocpmon::ipmi::unknownSensor Event Logging Disabled #0x07 Log area reset/cleared Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 240VA power down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 240VA power down Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 AC lost Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 AC lost Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Soft-power control failure Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Soft-power control failure Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Failure detected Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Failure detected Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Watchdog 2 #0x03 Timer expired Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Watchdog 2 #0x03 Timer expired Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Watchdog 2 #0x03 Hard reset Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Watchdog 2 #0x03 Hard reset Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Watchdog 2 #0x03 Power down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Watchdog 2 #0x03 Power down Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Watchdog 2 #0x03 Power cycle Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Watchdog 2 #0x03 Power cycle Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Watchdog 2 #0x03 Timer interrupt Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Watchdog 2 #0x03 Timer interrupt Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Critical Interrupt #0x05 NMI/Diag Interrupt Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Critical Interrupt #0x05 NMI/Diag Interrupt Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Unknown #0x06 State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Unknown #0x06 State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Event Logging Disabled #0x07 Log area reset/cleared Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Event Logging Disabled #0x07 Log area reset/cleared Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x08 PEF Action Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x08 PEF Action Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Button #0x09 Power Button pressed Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Button #0x09 Power Button pressed Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Button #0x09 Reset Button pressed Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Button #0x09 Reset Button pressed Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0x0b State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0x0b State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x0c Fully Redundant Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x0c Fully Redundant Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x0c Redundancy Lost Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x0c Redundancy Lost Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x0c Redundancy Degraded Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x0c Redundancy Degraded Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x0d State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x0d State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Module/Board #0x0e Device Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Module/Board #0x0e Device Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Module/Board #0x0f Device Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Module/Board #0x0f Device Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Management Subsystem Health #0x10 Sensor failure Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Management Subsystem Health #0x10 Sensor failure Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x20 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x20 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x20 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x20 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x20 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x20 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x20 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x20 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x21 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x21 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x21 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x21 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x21 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x21 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x21 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x21 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x22 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x22 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x22 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x22 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x22 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x22 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x22 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x22 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x23 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x23 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x23 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x23 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x23 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x23 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x23 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x23 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x24 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x24 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x24 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x24 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x24 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x24 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x24 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x24 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x25 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x25 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x25 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x25 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x25 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x25 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x25 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x25 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x29 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x29 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x29 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x29 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x29 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x29 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x29 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x29 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x2f Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x2f Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x2f Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x2f Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x2f Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x2f Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x2f Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x2f Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x30 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x30 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x30 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x30 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x31 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x31 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x31 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x31 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x32 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x32 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x32 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x32 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x33 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x33 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x33 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x33 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x34 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x34 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x34 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x34 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x35 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x35 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x35 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x35 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x36 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x36 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x36 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x36 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x37 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x37 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x37 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x37 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x38 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x38 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x38 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x38 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x39 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x39 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x39 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x39 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x3a Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x3a Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x3a Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x3a Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x3b Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x3b Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x3b Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x3b Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x50 Presence detected Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x50 Presence detected Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x50 Failure detected Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x50 Failure detected Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x50 Predictive failure Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x50 Predictive failure Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x50 Power Supply AC lost Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x50 Power Supply AC lost Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x50 Config Error Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x50 Config Error Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Other Units-based Sensor #0x54 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Other Units-based Sensor #0x54 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Other Units-based Sensor #0x54 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Other Units-based Sensor #0x54 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Current #0x58 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Current #0x58 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Current #0x58 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Current #0x58 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x5c Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x5c Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x5c Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x5c Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x70 Thermal Trip Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x70 Thermal Trip Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x70 Presence detected Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x70 Presence detected Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x71 Thermal Trip Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x71 Thermal Trip Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x71 Presence detected Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x71 Presence detected Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x78 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x78 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x78 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x78 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x79 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x79 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x79 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x79 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x7c State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x7c State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x7d State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x7d State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x80 State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x80 State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x81 State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x81 State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x82 State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x82 State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x87 State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Processor #0x87 State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x90 Limit Exceeded Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x90 Limit Exceeded Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x91 Limit Exceeded Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x91 Limit Exceeded Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x94 Limit Exceeded Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x94 Limit Exceeded Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x95 Limit Exceeded Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x95 Limit Exceeded Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x96 Limit Exceeded Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x96 Limit Exceeded Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x97 Limit Exceeded Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x97 Limit Exceeded Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0xa0 State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0xa0 State Asserted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0xb0 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0xb0 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0xb0 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0xb0 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::tempUpperNonCritical Temp_VR_CPU0 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Temperature #0xb1 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::tempUpperCritical Temp_VR_CPU0 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Temperature #0xb1 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::tempUpperNonCritical Temp_VR_CPU1 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Temperature #0xb2 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::tempUpperCritical Temp_VR_CPU1 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Temperature #0xb2 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::tempUpperNonCritical Temp_VR_DIMM_AB Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Temperature #0xb3 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::tempUpperCritical Temp_VR_DIMM_AB Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Temperature #0xb3 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageLowerNonCritical Volt_P3V3 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd0 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageLowerCritical Volt_P3V3 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd0 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageUpperNonCritical Volt_P3V3 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd0 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageUpperCritical Volt_P3V3 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd0 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageLowerNonCritical Volt_P5V Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd1 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageLowerCritical Volt_P5V Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd1 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageUpperNonCritical Volt_P5V Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd1 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageUpperCritical Volt_P5V Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd1 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageLowerNonCritical Volt_P12V Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd2 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageLowerCritical Volt_P12V Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd2 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageUpperNonCritical Volt_P12V Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd2 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageUpperCritical Volt_P12V Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd2 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageLowerNonCritical Volt_P1V05 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd3 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageLowerCritical Volt_P1V05 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd3 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageUpperNonCritical Volt_P1V05 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd3 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageUpperCritical Volt_P1V05 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd3 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageLowerNonCritical Volt_P1V8_AUX Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd4 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageLowerCritical Volt_P1V8_AUX Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd4 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageUpperNonCritical Volt_P1V8_AUX Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd4 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageUpperCritical Volt_P1V8_AUX Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd4 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageLowerNonCritical Volt_P5V_AUX Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd6 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageLowerCritical Volt_P5V_AUX Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd6 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageUpperNonCritical Volt_P5V_AUX Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd6 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageUpperCritical Volt_P5V_AUX Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd6 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageLowerNonCritical Volt_P3V_BAT Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd7 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageLowerCritical Volt_P3V_BAT Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd7 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageUpperNonCritical Volt_P3V_BAT Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd7 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageUpperCritical Volt_P3V_BAT Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xd7 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xd8 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xd8 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xd8 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xd8 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xd8 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xd8 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xd8 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xd8 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xd9 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xd9 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xd9 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xd9 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xd9 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xd9 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xd9 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xd9 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageLowerNonCritical Volt_VR_CPU0 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xda Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageLowerCritical Volt_VR_CPU0 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xda Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageUpperNonCritical Volt_VR_CPU0 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xda Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageUpperCritical Volt_VR_CPU0 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xda Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageLowerNonCritical Volt_VR_CPU1 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xdb Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageLowerCritical Volt_VR_CPU1 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xdb Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageUpperNonCritical Volt_VR_CPU1 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xdb Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageUpperCritical Volt_VR_CPU1 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xdb Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageLowerNonCritical Volt_VR_DIMM_AB Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xdc Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageLowerCritical Volt_VR_DIMM_AB Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xdc Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageUpperNonCritical Volt_VR_DIMM_AB Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xdc Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageUpperCritical Volt_VR_DIMM_AB Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xdc Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageLowerNonCritical Volt_VR_DIMM_CD Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xdd Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageLowerCritical Volt_VR_DIMM_CD Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xdd Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageUpperNonCritical Volt_VR_DIMM_CD Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xdd Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageUpperCritical Volt_VR_DIMM_CD Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xdd Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::voltageLowerNonCritical Volt_VR_DIMM_EF Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xde Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::voltageLowerCritical Volt_VR_DIMM_EF Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownEvent Voltage #0xde Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe4 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe4 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe4 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe4 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe4 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe4 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe4 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe4 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe5 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe5 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe5 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe5 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe5 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe5 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe5 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe5 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe6 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe6 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe6 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe6 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe6 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe6 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe6 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe6 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe7 Lower Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe7 Lower Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe7 Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe7 Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe7 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe7 Upper Non-critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe7 Upper Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xe7 Upper Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xea Lower Critical going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Voltage #0xea Lower Critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf0 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf0 Drive Present Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf0 Drive Fault Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf0 Drive Fault Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf0 Predictive Failure Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf0 Predictive Failure Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf0 Hot Spare Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf0 Hot Spare Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf0 In Critical Array Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf0 In Critical Array Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf0 Rebuild In Progress Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf0 Rebuild In Progress Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf0 Rebuild Aborted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf0 Rebuild Aborted Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf1 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf1 Drive Present Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf1 Drive Fault Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf1 Drive Fault Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf1 Predictive Failure Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf1 Predictive Failure Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf1 Hot Spare Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf1 Hot Spare Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf1 In Critical Array Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf1 In Critical Array Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf1 Rebuild In Progress Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf1 Rebuild In Progress Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf1 Rebuild Aborted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf1 Rebuild Aborted Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf2 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf2 Drive Present Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf2 Drive Fault Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf2 Drive Fault Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf2 Predictive Failure Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf2 Predictive Failure Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf2 Hot Spare Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf2 Hot Spare Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf2 In Critical Array Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf2 In Critical Array Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf2 Rebuild In Progress Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf2 Rebuild In Progress Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf2 Rebuild Aborted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf2 Rebuild Aborted Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf3 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf3 Drive Present Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf3 Drive Fault Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf3 Drive Fault Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf3 Predictive Failure Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf3 Predictive Failure Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf3 Hot Spare Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf3 Hot Spare Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf3 In Critical Array Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf3 In Critical Array Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf3 Rebuild In Progress Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf3 Rebuild In Progress Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf3 Rebuild Aborted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf3 Rebuild Aborted Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf4 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf4 Drive Present Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf4 Drive Fault Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf4 Drive Fault Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf4 Predictive Failure Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf4 Predictive Failure Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf4 Hot Spare Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf4 Hot Spare Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf4 In Critical Array Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf4 In Critical Array Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf4 Rebuild In Progress Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf4 Rebuild In Progress Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf4 Rebuild Aborted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf4 Rebuild Aborted Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf5 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf5 Drive Present Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf5 Drive Fault Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf5 Drive Fault Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf5 Predictive Failure Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf5 Predictive Failure Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf5 Hot Spare Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf5 Hot Spare Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf5 In Critical Array Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf5 In Critical Array Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf5 Rebuild In Progress Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf5 Rebuild In Progress Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf5 Rebuild Aborted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf5 Rebuild Aborted Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf6 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf6 Drive Present Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf6 Drive Fault Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf6 Drive Fault Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf6 Predictive Failure Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf6 Predictive Failure Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf6 Hot Spare Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf6 Hot Spare Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf6 In Critical Array Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf6 In Critical Array Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf6 Rebuild In Progress Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf6 Rebuild In Progress Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf6 Rebuild Aborted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf6 Rebuild Aborted Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf7 Drive Present Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf7 Drive Present Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf7 Drive Fault Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf7 Drive Fault Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf7 Predictive Failure Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf7 Predictive Failure Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf7 Hot Spare Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf7 Hot Spare Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf7 In Critical Array Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf7 In Critical Array Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf7 Rebuild In Progress Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf7 Rebuild In Progress Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf7 Rebuild Aborted Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Drive Slot #0xf7 Rebuild Aborted Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Button #0x09 Power Button pressed Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x50 Power Supply AC lost Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Failure detected Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 AC lost Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 AC lost Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Button #0x09 Power Button pressed Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Button #0x09 Power Button pressed Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x0c Redundancy Lost Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x0c Redundancy Lost Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x0c Redundancy Lost Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Other Units-based Sensor #0x11 Lower Non-recoverable going low  Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x2e Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x2f Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x0c Redundancy Lost Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x0c Redundancy Lost Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Version Change #0x12 No description Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Version Change #0x12 No description Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Version Change #0x12 No description Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Version Change #0x12 No description Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Version Change #0x12 No description Asserted
+gs-heat-ocpmon::ipmi::unknownEvent OEM Reserved #0x17 No description Asserted
+gs-heat-ocpmon::ipmi::unknownEvent OEM Reserved #0x17 No description Asserted
+gs-heat-ocpmon::ipmi::unknownEvent OEM Reserved #0x17 No description Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Version Change #0x12 No description Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Version Change #0x12 No description Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Version Change #0x12 No description Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Version Change #0x12 No description Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Version Change #0x12 No description Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Version Change #0x12 No description Asserted
+gs-heat-ocpmon::ipmi::unknownEvent OEM Reserved #0x17 No description Asserted
+gs-heat-ocpmon::ipmi::unknownEvent OEM Reserved #0x17 No description Asserted
+gs-heat-ocpmon::ipmi::unknownEvent OEM Reserved #0x17 No description Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Version Change #0x12 No description Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Button #0x09 Power Button pressed Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Button #0x09 Power Button pressed Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Button #0x09 Power Button pressed Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Button #0x09 Power Button pressed Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Button #0x09 Power Button pressed Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Button #0x09 Power Button pressed Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power off/down Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Temperature #0x2e Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Other Units-based Sensor #0x11 Upper Non-critical going high Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Memory #0xc0 Parity Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power cycle Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Failure detected Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Predictive failure Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x0c Redundancy Lost Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x0c Redundancy Degraded Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x50 Failure detected Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x50 Predictive failure Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Memory #0xc0 Correctable ECC logging limit reached Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Memory #0xc1 Correctable ECC logging limit reached Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Power cycle Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Failure detected Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Unit #0x01 Predictive failure Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x0c Redundancy Lost Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x0c Redundancy Degraded Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x50 Failure detected Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x50 Predictive failure Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Memory #0xc0 Correctable ECC logging limit reached Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Memory #0xc1 Correctable ECC logging limit reached Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Deasserted
+gs-heat-ocpmon::ipmi::unknownSensor Physical Security #0x04 System unplugged from LAN Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 Timestamp Clock Sync Asserted
+gs-heat-ocpmon::ipmi::unknownSensor System Event #0x83 OEM System boot event Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Fan #0x0c Redundancy Lost Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x50 Power Supply AC lost Asserted
+gs-heat-ocpmon::ipmi::unknownSensor Power Supply #0x50 Power Supply AC lost Deasserted

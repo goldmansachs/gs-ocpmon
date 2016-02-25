@@ -1,0 +1,15 @@
+{
+    "largest_free_blk": "2610", 
+    "last_add_time": "02/14/2014 12:22:42", 
+    "free_space": "46980 bytes", 
+    "entries": "1029", 
+    "overflow": "false", 
+    "alloc_unit_size": "18", 
+    "last_del_time": "Not Available", 
+    "max_record_size": "18", 
+    "supported_cmds": "'Partial Add' 'Reserve' 'Get Alloc Info'", 
+    "version": "1.5 (v1.5, v2 compliant)", 
+    "percent_used": "25%", 
+    "num_free_units": "2610", 
+    "num_of_alloc_units": "3639"
+}

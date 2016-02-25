@@ -1,0 +1,4 @@
+gs-heat-ocpmon::ipmi::eventLoggingDisabledLogAreaResetCleared Event Log Log area reset/cleared Asserted [a00052]
+gs-heat-ocpmon::ipmi::memoryCorrectableEcc Memory Error Correctable ECC Asserted DIMM G2 [a00052]
+gs-heat-ocpmon::ipmi::memoryCorrectableEccLoggingLimitReached Memory Error Correctable ECC logging limit reached Asserted [a00052]
+gs-heat-ocpmon::ipmi::unknownSensor Event Logging Disabled #0x87 Correctable memory error logging disabled Asserted [a00052]

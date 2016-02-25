@@ -1,0 +1,12 @@
+SEL Record ID          : 0005
+ Record Type           : 02
+ Timestamp             : 09/28/2015 07:12:28
+ Generator ID          : 0001
+ EvM Revision          : 04
+ Sensor Type           : Memory
+ Sensor Number         : 87
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data (RAW)      : a00052
+ Description           : Correctable ECC
+

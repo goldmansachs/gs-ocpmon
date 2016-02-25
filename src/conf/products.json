@@ -1,0 +1,76 @@
+{
+
+  "D51B-*" : {
+    "server_model" : "D51B",
+    "last_seen_marker_method" : "sel",
+    "fru_stash_cfg" :{
+      "field": "board_extra_1",
+      "sec" :     "b",
+      "pos":      4
+    },
+    "ecc_dimm_location_map" : {
+      "00": "DIMM A0",
+      "01": "DIMM A1",
+      "02": "DIMM A2",
+      "08": "DIMM B0",
+      "09": "DIMM B1",
+      "0a": "DIMM B2",
+      "10": "DIMM C0",
+      "11": "DIMM C1",
+      "12": "DIMM C2",
+      "18": "DIMM D0",
+      "19": "DIMM D1",
+      "1a": "DIMM D2",
+      "40": "DIMM E0",
+      "41": "DIMM E1",
+      "42": "DIMM E2",
+      "48": "DIMM F0",
+      "49": "DIMM F1",
+      "4a": "DIMM F2",
+      "50": "DIMM G0",
+      "51": "DIMM G1",
+      "52": "DIMM G2",
+      "58": "DIMM H0",
+      "59": "DIMM H1",
+      "5a": "DIMM H2"
+    }
+
+  },
+  "DCS12*" : {
+    "server_model" : "dcs1240",
+    "last_seen_marker_method" : "fru",
+    "fru_stash_cfg" :{
+      "field":    "chassis_extra_1",
+      "sect":     "c",
+      "pos":      3
+    },
+    "ecc_dimm_location_map" : {
+      "00": "DIMM A1",
+      "01": "DIMM A2",
+      "02": "DIMM A3",
+      "08": "DIMM B1",
+      "09": "DIMM B2",
+      "0a": "DIMM B3",
+      "10": "DIMM C1",
+      "11": "DIMM C2",
+      "12": "DIMM C3",
+      "18": "DIMM D1",
+      "19": "DIMM D2",
+      "1a": "DIMM D3",
+      "20": "DIMM E1",
+      "21": "DIMM E2",
+      "22": "DIMM E3",
+      "28": "DIMM F1",
+      "29": "DIMM F2",
+      "2a": "DIMM F3",
+      "30": "DIMM G1",
+      "31": "DIMM G2",
+      "32": "DIMM G3",
+      "38": "DIMM H1",
+      "39": "DIMM H2",
+      "3a": "DIMM H3"
+    }
+  },
+  "R1000*" : "DCS12*"
+
+}

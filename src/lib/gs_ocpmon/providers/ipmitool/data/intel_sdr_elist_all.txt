@@ -1,0 +1,141 @@
+Agg Therm Mgn 1,-32,degrees C,ok
+Basbrd Mgmt Ctlr,00h,ok,7.1
+Baseboard,00h,ns,7.1
+BB +1.05Vccp P1,0.894,Volts,ok
+BB +1.05Vccp P2,0.864,Volts,ok
+BB +1.1V STBY,1.061,Volts,ok
+BB +12.0V,11.831,Volts,ok
+BB +1.35 P1LV AB,1.342,Volts,ok
+BB +1.35 P1LV CD,1.342,Volts,ok
+BB +1.35 P2LV AB,1.342,Volts,ok
+BB +1.35 P2LV CD,1.342,Volts,ok
+BB +1.5 P1MEM AB,,,ns
+BB +1.5 P1MEM CD,,,ns
+BB +1.5 P2MEM AB,,,ns
+BB +1.5 P2MEM CD,,,ns
+BB +1.8V AUX,1.769,Volts,ok
+BB +3.3 RSR1 PGD,3.319,Volts,ok
+BB +3.3V,3.268,Volts,ok
+BB +3.3V AUX,3.268,Volts,ok
+BB +3.3V Vbat,3.094,Volts,ok
+BB +5.0V,4.959,Volts,ok
+BB +5.0V STBY,4.981,Volts,ok
+BB P1 VR Temp,23,degrees C,ok
+BB P2 VR Temp,23,degrees C,ok
+BB Vtt 1 Temp,23,degrees C,ok
+BB Vtt 2 Temp,28,degrees C,ok
+BIOS Evt Sensor,83h,ns,34.1,Event-Only
+BIOS Evt Sensor,83h,ns,34.1,Event-Only
+BIOS Evt Sensor,83h,ns,43.1,Event-Only
+BMC FW Health,10h,ok,7.1,
+BMC Watchdog,0Ah,ns,7.1,Event-Only
+Button,09h,ok,7.1,
+CATERR,80h,ok,3.1,
+Chipset Sensor,08h,ns,49.1,Event-Only
+CPU Missing,82h,ok,3.1,
+DIMM Thrm Mrgn 1,-71,degrees C,ok
+DIMM Thrm Mrgn 2,-66,degrees C,ok
+DIMM Thrm Mrgn 3,-69,degrees C,ok
+DIMM Thrm Mrgn 4,-68,degrees C,ok
+Exit Air Temp,29,degrees C,ok
+Fan Redundancy,0Ch,ok,29.1,Fully Redundant
+FP NMI Diag Int,05h,ok,12.1,
+Front Panel,00h,ns,12.1
+Front Panel Temp,20,degrees C,ok
+FW Update Status,12h,ns,7.1,Event-Only
+HDD 0 Status,F0h,ok,15.1,
+HDD 1 Status,F1h,ok,15.1,
+HDD 2 Status,F2h,ok,15.1,
+HDD 3 Status,F3h,ok,15.1,
+HDD 4 Status,F4h,ok,15.1,
+HDD 5 Status,F5h,ok,15.1,
+HDD 6 Status,F6h,ok,15.1,
+HDD 7 Status,F7h,ok,15.1,
+HS Backplane 1,00h,ns,15.1
+HSBP 1 Temp,21,degrees C,ok
+IO Mod Presence,0Eh,ok,44.1,
+IPMI Watchdog,03h,ok,7.1,
+LAN NIC Temp,40,degrees C,ok
+Mem Conf Sensor,02h,ns,32.1,Event-Only
+Mem err Sensor,10h,ns,32.1,Event-Only
+Mem P1 Thrm Trip,C0h,ok,32.1,
+Mem P2 Thrm Trip,C1h,ok,32.2,
+Mem Rdnc Sensor,01h,ns,34.1,Event-Only
+Mgmt Engine,00h,ok,46.2
+MIC 1 Margin,,,ns
+MIC 1 Status,A2h,ns,208.0,No Reading
+MIC 2 Margin,,,ns
+MIC 2 Status,A3h,ns,208.1,No Reading
+Mmry ECC Sensor,02h,ns,32.1,Event-Only
+Mmry Parity Err,13h,ns,32.1,Event-Only
+MTT CPU1,0,percent,ok
+MTT CPU2,0,percent,ok
+NM Capabilities,1Ah,ok,46.2,
+NM Exception,18h,ns,46.2,Event-Only
+NM Health,19h,ns,46.2,Event-Only
+NM Threshold,1Bh,ns,46.2,Event-Only
+P1 DTS Therm Mgn,-66,degrees C,ok
+P1 ERR2,7Ch,ok,3.1,
+P1 Mem01 VRD Hot,94h,ok,3.1,
+P1 Mem23 VRD Hot,95h,ok,3.1,
+P1 MSID Mismatch,81h,ok,3.1,
+P1 Status,70h,ok,3.1,Presence detected
+P1 Therm Ctrl %,0,percent,ok
+P1 Therm Margin,-67,degrees C,ok
+P1 VRD Hot,90h,ok,3.1,
+P2 DTS Therm Mgn,-67,degrees C,ok
+P2 ERR2,7Dh,ok,3.2,
+P2 Mem01 VRD Hot,96h,ok,3.2,
+P2 Mem23 VRD Hot,97h,ok,3.2,
+P2 MSID Mismatch,87h,ok,3.2,
+P2 Status,71h,ok,3.2,Presence detected
+P2 Therm Ctrl %,0,percent,ok
+P2 Therm Margin,-69,degrees C,ok
+P2 VRD Hot,91h,ok,3.2,
+PCIe Cor Sensor,05h,ns,49.1,Event-Only
+PCIe Fat Sensor,04h,ns,49.1,Event-Only
+PCIe Fat Sensor,14h,ns,49.1,Event-Only
+PCI Lgcy Sensor,03h,ns,48.1,Event-Only
+Physical Scrty,04h,ok,23.1,
+POST Err Sensor,06h,ns,34.1,Event-Only
+PS1 Curr Out %,15,percent,ok
+PS1 Fan Fail,A0h,ok,10.1,
+PS1 Input Power,87,Watts,ok
+PS1 Status,50h,ok,10.1,Presence detected
+PS1 Temperature,23,degrees C,ok
+PS2 Curr Out %,0,percent,ok
+PS2 Fan Fail,A4h,ok,10.2,
+PS2 Input Power,0,Watts,ok
+PS2 Status,51h,ok,10.2,Presence detected, Power Supply AC lost
+PS2 Temperature,23,degrees C,ok
+Pwr Supply 1 FRU,00h,ns,10.1
+Pwr Supply 2 FRU,00h,ns,10.2
+Pwr Unit Redund,02h,ok,21.1,Redundancy Lost, Non-Redundant: Sufficient from Redundant
+Pwr Unit Status,01h,ok,21.1,
+QPI Corr Sensor,06h,ns,43.1,Event-Only
+QPI Fatl Sensor,07h,ns,43.1,Event-Only
+QPI Fatl Sensor,17h,ns,43.1,Event-Only
+QPI Link Width,09h,ns,43.5,Event-Only
+Rdnc Mod Sensor,12h,ns,43.1,Event-Only
+SAS Mod Presence,0Fh,ok,44.1,
+SMI Timeout,06h,ok,7.1,
+Sparing Rdnc,11h,ns,43.1,Event-Only
+SPS FW Health,17h,ns,46.2,Event-Only
+SSB Temp,44,degrees C,ok
+SSB Therm Trip,0Dh,ok,7.1,
+System Airflow,18,CFM,ok
+System Event,08h,ok,7.1,
+System Event Log,07h,ok,7.1,Log full
+System Fan 1A,5332,RPM,ok
+System Fan 1B,5640,RPM,ok
+System Fan 2A,5332,RPM,ok
+System Fan 2B,5640,RPM,ok
+System Fan 3A,5394,RPM,ok
+System Fan 3B,5640,RPM,ok
+System Fan 4A,5394,RPM,ok
+System Fan 4B,5580,RPM,ok
+System Fan 5A,5332,RPM,ok
+System Fan 5B,5640,RPM,ok
+System Fan 6A,5332,RPM,ok
+System Fan 6B,5520,RPM,ok
+VR Watchdog,0Bh,ok,7.1,
