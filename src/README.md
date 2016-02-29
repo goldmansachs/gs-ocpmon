@@ -9,12 +9,9 @@ System Event Log(SEL) being primary source. In addition to SEL log
 handling, includes utilities to monitor Seagate Nytro WarpDrives.
 
 
-
 # Key feature and Goals
-- Define consistent event numbers and associated text payload
-information, this masks differences between different various OCP vendors.
+- Define consistent event numbers and associated text payload information, this masks differences between different various OCP vendors.
 - Multiple reporting mechanisms(SNMP trap, HTTP Post, Shell script Hooks).
-
 
 
 # Supported OCP-Platforms
@@ -29,7 +26,7 @@ Has been tested on below platforms
 - __ddcli__ - Can be downloaded from Seagate.com or Platform Integrator.
 
 
-# How to use it.
+# How to use it
 - If ```src``` present in distribution, it will be the top level directory containing useful code.
 - Schedule execution of  ```bin/ipmi_mon``` to report on SEL events and
 ```bin/storage_mon``` to report on Storage events.
@@ -43,10 +40,16 @@ in [Documentation](Documentation/).
 GS ocpmon is licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE-2.0.txt) for the full license text.
 
 
-# Getting Help (issues ,link,dev-mailing list)
+# Getting Help
+Issues can be reported via issue tracker.
 
 # Contributing to GS ocpmon
 We currently do all development in an internal Subversion repository and are not prepared to take external contributions. However, we watch the issue tracker for bug reports and feature requests.
 
 # Known Issues
 For every platform we have tested, we provide an alert map(in ```conf/${platform}_alert_map.json```) which provides an unique identifier and text description for SEL events. Alert maps provided may not cover entire possible set, in those cases alerts are sent with identifier 9999.
+
+
+
+[license]:LICENSE-2.0.txt
+[license img]:https://img.shields.io/badge/License-Apache%202-blue.svg

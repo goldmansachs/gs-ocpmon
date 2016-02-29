@@ -62,7 +62,7 @@ class Linux(DmiDecode, Base):
 
     def get_system_trapsinks(self, snmpd_conf_file=default_snmpd_conf_file, snmptrap_port=default_snmptrap_port):
 
-        # trapsink traphost.subd.gs.com privateComm 1234
+        # trapsink trapsink.company.com privateComm 1234
         trapsink_re = re.compile(r"""^trapsink\s+(\S+)\s+([\S+]+)(?:\s+(\d+))?""")
 
         for line in open(snmpd_conf_file):
