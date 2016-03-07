@@ -1,6 +1,6 @@
 Notification configuration
 ==========================
-Monitoring utilities such as ```ipmi_mon``` or ```storage_mon``` notifies the endpoint configured in notify.json when there is an reportable event.
+Monitoring utilities such as ```ipmi_mon``` or ```nytro_mon``` notifies the endpoint configured in notify.json when there is an reportable event.
 
 
 # JSON Keys
@@ -18,5 +18,5 @@ Monitoring utilities such as ```ipmi_mon``` or ```storage_mon``` notifies the en
 
 
 # Extending current implementation
-   Each notification mode has  implementation in ```lib/gs_ocpmon```. ```ipmi_mon```, ```storage_mon``` just calls class method "notify" from those implementations.
+   Each notification mode has  implementation in ```lib/gs_ocpmon```. ```ipmi_mon```, ```nytro_mon``` just calls class method "notify" from those implementations.
    You can refer any of the other implementations for method signature..etc.

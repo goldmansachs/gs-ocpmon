@@ -19,7 +19,7 @@ Has been tested on below platforms
 - Intel Decathlete
 - QuantaGrid D51B-1U (2S Intel Grantley Winterfell Motherboard)
 
-# Runtime Requirments
+# Runtime Requirements
 - Red Hat Enterprise Linux 6.x
 - Python : 2.x
 - __ipmitool__ - Was tested on (Version 1.8.15), In RHEL environments available as [ipmitool](http://ipmitool.sourceforge.net/) package.
@@ -27,14 +27,15 @@ Has been tested on below platforms
 
 
 # How to use it
-- If ```src``` present in distribution, it will be the top level directory containing useful code.
-- Schedule execution of  ```bin/ipmi_mon``` to report on SEL events and
-```bin/storage_mon``` to report on Storage events.
-- Modify ```conf/notify.json``` as required to configure notification end
+- ```src``` directory will be the top level directory containing useful code and will be the top-level directory.
+- ```src``` can be renamed to any preferred top level directory name.
+- Schedule execution of  ```${top_level_dir}/bin/ipmi_mon``` to report on SEL events and
+```${top_level_dir}/bin/nytro_mon``` to report on Storage events.
+- Modify ```${top_level_dir}/conf/notify.json``` as required to configure notification end
 points.
-- Modify ```conf/products.json``` as required to configure platform specific details.
-- Additional details on how to customize ```ipmi_mon``` and ```storage_mon```  using above mentioned configs is available
-in [Documentation](Documentation/).
+- Modify ```${top_level_dir}/conf/products.json``` as required to configure platform specific details.
+- Additional details on how to customize ```ipmi_mon``` and ```nytro_mon```  using above mentioned configs is available
+in [Documentation](src/Documentation/).
 
 # Licensing
 GS ocpmon is licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE-2.0.txt) for the full license text.
@@ -47,7 +48,7 @@ Issues can be reported via issue tracker.
 We currently do all development in an internal Subversion repository and are not prepared to take external contributions. However, we watch the issue tracker for bug reports and feature requests.
 
 # Known Issues
-For every platform we have tested, we provide an alert map(in ```conf/${platform}_alert_map.json```) which provides an unique identifier and text description for SEL events. Alert maps provided may not cover entire possible set, in those cases alerts are sent with identifier 9999.
+For every platform we have tested, we provide an alert map(in ```src/conf/${platform}_alert_map.json```) which provides an unique identifier and text description for SEL events. Alert maps provided may not cover entire possible set, in those cases alerts are sent with identifier 9999.
 
 
 
