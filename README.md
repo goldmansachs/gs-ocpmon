@@ -10,7 +10,7 @@ handling, includes utilities to monitor Seagate Nytro WarpDrives.
 
 
 # Key feature and Goals
-- Define consistent event numbers and associated text payload information, this masks differences between  various OCP vendors.
+- Define consistent event numbers and associated text payload information, this masks differences between various OCP vendors.
 - Multiple reporting mechanisms(SNMP trap, HTTP Post, Shell script Hooks).
 
 
