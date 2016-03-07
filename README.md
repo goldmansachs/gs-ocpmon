@@ -27,7 +27,7 @@ Has been tested on below platforms
 
 
 # How to use it
-- ```src``` directory will be the top level directory containing useful code and will be the top-level directory.
+- ```src``` directory will be the top level directory containing useful code.
 - ```src``` can be renamed to any preferred top level directory name.
 - Schedule execution of  ```${top_level_dir}/bin/ipmi_mon``` to report on SEL events and
 ```${top_level_dir}/bin/nytro_mon``` to report on Storage events.
