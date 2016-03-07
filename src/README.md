@@ -22,7 +22,7 @@ Has been tested on below platforms
 # Runtime Requirments
 - Red Hat Enterprise Linux 6.x
 - Python : 2.x
-- __ipmitool__ - Was tested on (Version 1.8.15), In RHEL environments available as ipmitool package(Also available at http://ipmitool.sourceforge.net/).
+- __ipmitool__ - Was tested on (Version 1.8.15), In RHEL environments available as [ipmitool](http://ipmitool.sourceforge.net/) package.
 - __ddcli__ - Can be downloaded from Seagate.com or Platform Integrator.
 
 
