@@ -54,3 +54,5 @@ For every platform we have tested, we provide an alert map(in ```src/conf/${plat
 
 [license]:LICENSE-2.0.txt
 [license img]:https://img.shields.io/badge/License-Apache%202-blue.svg
+
+GSOSS demo
